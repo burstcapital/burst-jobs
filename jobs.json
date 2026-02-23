@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T09:16:41.392334+00:00",
-  "total_jobs": 748,
+  "generated_at": "2026-02-23T10:51:22.985654+00:00",
+  "total_jobs": 749,
   "total_companies": 96,
   "companies_with_jobs": 53,
   "failed_companies": [
@@ -102,6 +102,10 @@
     },
     {
       "name": "Airvet",
+      "reason": "no jobs page found"
+    },
+    {
+      "name": "Setter.com (acquired by Thumbtack)",
       "reason": "no jobs page found"
     }
   ],
@@ -1123,14 +1127,6 @@
       "company_website": "https://lattice.com"
     },
     {
-      "title": "GTM Analytics Manager",
-      "department": "Customer Operations",
-      "location": "Remote - US",
-      "url": "https://lattice.com/job?gh_jid=8184022002",
-      "company": "Lattice",
-      "company_website": "https://lattice.com"
-    },
-    {
       "title": "Manager, Technical Support",
       "department": "Customer Care",
       "location": "San Francisco, CA",
@@ -1141,16 +1137,16 @@
     {
       "title": "Senior Director of Product, Platform AI",
       "department": "Product",
-      "location": "Remote - Ontario, Canada",
-      "url": "https://lattice.com/job?gh_jid=8373336002",
+      "location": "Remote - US",
+      "url": "https://lattice.com/job?gh_jid=8373335002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
     {
       "title": "Senior Director of Product, Platform AI",
       "department": "Product",
-      "location": "Remote - US",
-      "url": "https://lattice.com/job?gh_jid=8373335002",
+      "location": "Remote - Ontario, Canada",
+      "url": "https://lattice.com/job?gh_jid=8373336002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
@@ -3012,7 +3008,7 @@
     },
     {
       "title": "AI Engineer",
-      "department": "Engineering",
+      "department": "2026 Engineering",
       "location": "Shanghai or Remote China",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5156961004",
       "company": "Workstream",
@@ -3044,7 +3040,7 @@
     },
     {
       "title": "Corporate Partnerships Account Executive",
-      "department": "Business Development",
+      "department": "2026 Corporate Partnership (used to be Business Development)",
       "location": "San Francisco, California",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5415814004",
       "company": "Workstream",
@@ -3052,7 +3048,7 @@
     },
     {
       "title": "Customer Success Manager - US Payroll",
-      "department": "Customer Success & Support",
+      "department": "Customer Support",
       "location": "Manila, Philippines",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/4424481004",
       "company": "Workstream",
@@ -3060,7 +3056,7 @@
     },
     {
       "title": "Customer Support Associate",
-      "department": "Customer Success & Support",
+      "department": "Customer Support",
       "location": "Manila, Philippines",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/4087417004",
       "company": "Workstream",
@@ -3068,7 +3064,7 @@
     },
     {
       "title": "Engineering Manager",
-      "department": "Engineering",
+      "department": "2026 Engineering",
       "location": "Shanghai, CN or Chengdu, CN",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5075878004",
       "company": "Workstream",
@@ -3092,15 +3088,15 @@
     },
     {
       "title": "Head of Engineering",
-      "department": "Engineering",
-      "location": "Menlo Park, California",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5782130004",
+      "department": "2026 Engineering",
+      "location": "San Francisco, California",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5798651004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
     {
       "title": "Head of Engineering",
-      "department": "Engineering",
+      "department": "2026 Engineering",
       "location": "Singapore",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5798657004",
       "company": "Workstream",
@@ -3108,7 +3104,7 @@
     },
     {
       "title": "Head of Engineering",
-      "department": "Engineering",
+      "department": "2026 Engineering",
       "location": "Singapore",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5798655004",
       "company": "Workstream",
@@ -3116,23 +3112,23 @@
     },
     {
       "title": "Head of Engineering",
-      "department": "Engineering",
-      "location": "San Francisco, California",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5798651004",
+      "department": "2026 Engineering",
+      "location": "Menlo Park, California",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5782130004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
+      "title": "Home Activities Video Contributor",
+      "department": "People Operations and Talent Acquisition",
+      "location": "San Francisco, California - Remote",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5810316004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
     {
       "title": "Information Security Engineer",
-      "department": "Engineering",
-      "location": "Lehi, Utah",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5747973004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "Information Security Engineer",
-      "department": "Engineering",
+      "department": "2026 Engineering",
       "location": "Vancouver, Canada",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5747991004",
       "company": "Workstream",
@@ -3140,15 +3136,23 @@
     },
     {
       "title": "Information Security Engineer",
-      "department": "Engineering",
+      "department": "2026 Engineering",
       "location": "San Francisco, California",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5747869004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
     {
+      "title": "Information Security Engineer",
+      "department": "2026 Engineering",
+      "location": "Lehi, Utah",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5747973004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
       "title": "Knowledge Management Specialist",
-      "department": "Customer Success & Support",
+      "department": "Customer Support",
       "location": "Manila, Philippines",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5786401004",
       "company": "Workstream",
@@ -3165,16 +3169,24 @@
     {
       "title": "Licensed Benefits Advisor",
       "department": "Sales",
-      "location": "Houston, Texas",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5782586004",
+      "location": "San Francisco, California",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5782560004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
     {
       "title": "Licensed Benefits Advisor",
       "department": "Sales",
+      "location": "Houston, Texas",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5782586004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
+      "title": "Office Activities Video Contributor",
+      "department": "People Operations and Talent Acquisition",
       "location": "San Francisco, California",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5782560004",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5810322004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -3196,7 +3208,7 @@
     },
     {
       "title": "Security Engineer",
-      "department": "Engineering",
+      "department": "2026 Engineering",
       "location": "Shanghai, China",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5462565004",
       "company": "Workstream",
@@ -3204,7 +3216,7 @@
     },
     {
       "title": "Senior Data Engineer",
-      "department": "Engineering",
+      "department": "2026 Engineering",
       "location": "Shanghai, CN",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/4882192004",
       "company": "Workstream",
@@ -3212,7 +3224,7 @@
     },
     {
       "title": "Senior Mobile Engineer",
-      "department": "Engineering",
+      "department": "2026 Engineering",
       "location": "Chengdu, CN or Wuhan, CN or Shanghai, CN",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5467038004",
       "company": "Workstream",
@@ -3220,7 +3232,7 @@
     },
     {
       "title": "Senior Software Engineer (Golang)",
-      "department": "Engineering",
+      "department": "2026 Engineering",
       "location": "Chengdu or Wuhan or Shanghai, China",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5549718004",
       "company": "Workstream",
@@ -3228,7 +3240,7 @@
     },
     {
       "title": "Senior Software Engineer (Golong)",
-      "department": "Engineering",
+      "department": "2026 Engineering",
       "location": "Chengdu or Wuhan or Shanghai, China",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5526629004",
       "company": "Workstream",
@@ -3236,7 +3248,7 @@
     },
     {
       "title": "Senior Software Engineer(Node.JS)",
-      "department": "Engineering",
+      "department": "2026 Engineering",
       "location": "Menlo Park, CA or San Francisco, CA",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5596289004",
       "company": "Workstream",
@@ -3244,7 +3256,7 @@
     },
     {
       "title": "Senior Software Engineer(Node.JS)",
-      "department": "Engineering",
+      "department": "2026 Engineering",
       "location": "Vancouver",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5551192004",
       "company": "Workstream",
@@ -3252,23 +3264,23 @@
     },
     {
       "title": "Senior Software Engineer (Ruby on Rails)",
-      "department": "Engineering",
-      "location": "Menlo Park, or San Francisco CA",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5550012004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "Senior Software Engineer (Ruby on Rails)",
-      "department": "Engineering",
+      "department": "2026 Engineering",
       "location": "Vancouver, British Columbia, Canada",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5550010004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
     {
+      "title": "Senior Software Engineer (Ruby on Rails)",
+      "department": "2026 Engineering",
+      "location": "Menlo Park, or San Francisco CA",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5550012004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
       "title": "Software Engineer, Node.js",
-      "department": "Engineering",
+      "department": "2026 Engineering",
       "location": "Chengdu, CN or Wuhan, CN",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5449968004",
       "company": "Workstream",
@@ -3276,7 +3288,7 @@
     },
     {
       "title": "Staff Software Engineer",
-      "department": "Engineering",
+      "department": "2026 Engineering",
       "location": "Vancouver, British Columbia, Canada",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5019756004",
       "company": "Workstream",
@@ -3471,14 +3483,6 @@
       "department": "General",
       "location": "Not specified",
       "url": "https://ats.rippling.com/courtyard/jobs/42ad3c16-2741-4f62-b21b-179cb0ccea54",
-      "company": "Courtyard",
-      "company_website": "https://courtyard.io"
-    },
-    {
-      "title": "Senior Growth Product manager",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://ats.rippling.com/courtyard/jobs/dc9bb9b2-7e8d-424c-a23d-aafe3055b4ad",
       "company": "Courtyard",
       "company_website": "https://courtyard.io"
     },
@@ -3692,6 +3696,14 @@
     },
     {
       "title": "ApplyDirector of Financial OperationsPhiladelphia, PARemote OKFull-TimeFinance",
+      "department": "General",
+      "location": "Philadelphia, PA",
+      "url": "https://www.kingenergy.com/careers/",
+      "company": "King Energy",
+      "company_website": "https://www.kingenergy.com"
+    },
+    {
+      "title": "ApplyOriginations AnalystPhiladelphia, PARemote OKFull-TimeFinance",
       "department": "General",
       "location": "Philadelphia, PA",
       "url": "https://www.kingenergy.com/careers/",
@@ -5883,50 +5895,18 @@
       "company_website": "https://www.justworks.com"
     },
     {
-      "title": "Accounts Payable Specialist IMultiple LocationsFinanceFullTime",
+      "title": "Senior Payroll Associate, Japan Payroll | JapanJapanPayroll Operations - APACFullTime",
       "department": "General",
       "location": "Not specified",
-      "url": "https://app.ashbyhq.com/jobs/6560439a-7db9-454d-924e-cab44adfc080",
+      "url": "https://app.ashbyhq.com/jobs/d95009e4-bb82-445b-9c2e-ed2a9c2cd793",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Staff Product Manager - Fintech, Client ExperienceMultiple LocationsFinTech ProductFullTime",
+      "title": "Account Executive, Deel IT, Mid-MarketMultiple LocationsNAM Sales - MMFullTime",
       "department": "General",
       "location": "Not specified",
-      "url": "https://app.ashbyhq.com/jobs/955171b2-83ce-4954-a9e9-4f4168c41630",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Backend Engineer, Node.js/TypescriptMultiple LocationsEngineeringFullTime",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://app.ashbyhq.com/jobs/4d3b19eb-72cf-431f-ab54-8e9bb3d422bb",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Senior Backend Engineer, Node.js/TypescriptMultiple LocationsEngineeringFullTime",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://app.ashbyhq.com/jobs/0c39e806-1ae2-4024-8480-0bfd496f7b14",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Senior Backend Engineer (AI focus)Multiple LocationsPayroll EngineeringFullTime",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://app.ashbyhq.com/jobs/2f13d55a-318b-45fa-be3e-95c8d4c8b413",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Team Lead, Payroll Operations | FranceEMEAPayroll Operations - EMEFullTime",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://app.ashbyhq.com/jobs/c69ac636-7f06-4b4f-8685-5045e4246b3d",
+      "url": "https://app.ashbyhq.com/jobs/8e31e533-0bd0-4224-8e36-92856c1ee7a7",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -5939,10 +5919,42 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Country Finance ManagerMultiple LocationsCountry Finance ManagementFullTime",
+      "title": "Account Executive, Deel IT - Mid-MarketMultiple LocationsAMER SalesFullTime",
       "department": "General",
       "location": "Not specified",
-      "url": "https://app.ashbyhq.com/jobs/bf9034ff-5bc2-4ffb-ae88-b0767811a6ff",
+      "url": "https://app.ashbyhq.com/jobs/d8340f54-463f-4c9a-b086-296c676bc143",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive I, SMBMultiple LocationsLATAM SalesFullTime",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://app.ashbyhq.com/jobs/7e0eddfe-f030-4ab3-9ff3-9426207664be",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Legal Counsel, MexicoMexicoLegalFullTime",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://app.ashbyhq.com/jobs/9c63499f-e4cd-43ad-8459-aa1d18e4b0d4",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Associate Business Operations ManagerMultiple LocationsExpansion OperationsFullTime",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://app.ashbyhq.com/jobs/c0801b32-c123-4920-81a7-0f1b97456d05",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Manager, Account Executive, SMB | FranceMultiple LocationsEMEA Sales - SMBFullTime",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://app.ashbyhq.com/jobs/88f3dec8-375a-42fe-b2e6-202649f4b794",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
