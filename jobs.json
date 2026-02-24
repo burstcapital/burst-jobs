@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-02-24T10:49:37.432472+00:00",
-  "total_jobs": 747,
+  "generated_at": "2026-02-24T20:24:35.393509+00:00",
+  "total_jobs": 1076,
   "total_companies": 96,
-  "companies_with_jobs": 53,
+  "companies_with_jobs": 55,
   "failed_companies": [
     {
       "name": "Producer AI",
@@ -255,14 +255,6 @@
       "company_website": "https://www.faire.com"
     },
     {
-      "title": "Lead, Public Relations & Industry Communications",
-      "department": "Marketing",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8350090002?gh_jid=8350090002",
-      "company": "Faire",
-      "company_website": "https://www.faire.com"
-    },
-    {
       "title": "Manager, Brand Success",
       "department": "Brand Success Management",
       "location": "San Francisco, CA",
@@ -401,16 +393,16 @@
     {
       "title": "Senior Data Scientist - Retailer",
       "department": "Algorithms & Data",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/7953217002?gh_jid=7953217002",
+      "location": "Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/7953219002?gh_jid=7953219002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Senior Data Scientist - Retailer",
       "department": "Algorithms & Data",
-      "location": "Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/7953219002?gh_jid=7953219002",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/7953217002?gh_jid=7953217002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -479,10 +471,10 @@
       "company_website": "https://www.faire.com"
     },
     {
-      "title": "Senior Technical Program Manager, Engineering",
-      "department": "Engineering",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8237744002?gh_jid=8237744002",
+      "title": "Sr. Staff Data Engineer: Platform Data and Analytics",
+      "department": "Algorithms & Data",
+      "location": "Kitchener-Waterloo, ON; San Francisco, CA; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8435521002?gh_jid=8435521002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -975,18 +967,18 @@
       "company_website": "https://joinhandshake.com"
     },
     {
-      "title": "Software EngineerSan Francisco, CA",
+      "title": "Software EngineerRemote (USA)",
       "department": "General",
       "location": "London",
-      "url": "https://app.ashbyhq.com/jobs/7626377a-b1b7-4f5e-a587-104fbeb4b5f6",
+      "url": "https://app.ashbyhq.com/jobs/bd12564f-bad3-4a53-a89d-a7f3d7c44eb4",
       "company": "Handshake",
       "company_website": "https://joinhandshake.com"
     },
     {
-      "title": "Software EngineerRemote (USA)",
+      "title": "Software EngineerSan Francisco, CA",
       "department": "General",
       "location": "London",
-      "url": "https://app.ashbyhq.com/jobs/a2304cc0-a339-474b-9405-3e238420331e",
+      "url": "https://app.ashbyhq.com/jobs/7626377a-b1b7-4f5e-a587-104fbeb4b5f6",
       "company": "Handshake",
       "company_website": "https://joinhandshake.com"
     },
@@ -1809,16 +1801,16 @@
     {
       "title": "Customer Solutions Consultant II",
       "department": "Customer Experience",
-      "location": "Remote- Canada",
-      "url": "https://job-boards.greenhouse.io/ada18/jobs/5028260007",
+      "location": "Remote - United Kingdom",
+      "url": "https://job-boards.greenhouse.io/ada18/jobs/4898479007",
       "company": "Ada",
       "company_website": "https://www.ada.cx"
     },
     {
       "title": "Customer Solutions Consultant II",
       "department": "Customer Experience",
-      "location": "Remote - United Kingdom",
-      "url": "https://job-boards.greenhouse.io/ada18/jobs/4898479007",
+      "location": "Remote- Canada",
+      "url": "https://job-boards.greenhouse.io/ada18/jobs/5028260007",
       "company": "Ada",
       "company_website": "https://www.ada.cx"
     },
@@ -1867,6 +1859,14 @@
       "department": "Revenue",
       "location": "Remote - Canada",
       "url": "https://job-boards.greenhouse.io/ada18/jobs/5019227007",
+      "company": "Ada",
+      "company_website": "https://www.ada.cx"
+    },
+    {
+      "title": "Senior Demand Generation Manager",
+      "department": "Marketing",
+      "location": "Remote - Canada",
+      "url": "https://job-boards.greenhouse.io/ada18/jobs/5061830007",
       "company": "Ada",
       "company_website": "https://www.ada.cx"
     },
@@ -2479,6 +2479,22 @@
       "company_website": "https://www.owner.com"
     },
     {
+      "title": "Manager, Customer Success",
+      "department": "Customer Success & Support",
+      "location": "Remote - United States or Canada",
+      "url": "https://jobs.lever.co/owner/88cdf11e-610c-4acb-b952-5bebdc8bb892",
+      "company": "Owner",
+      "company_website": "https://www.owner.com"
+    },
+    {
+      "title": "Manager, Customer Success (Mexico/Colombia)",
+      "department": "Customer Success & Support",
+      "location": "Remote - LATAM (Colombia, Mexico, or Costa Rica)",
+      "url": "https://jobs.lever.co/owner/e096d931-3de9-471f-aff2-93a84faa2546",
+      "company": "Owner",
+      "company_website": "https://www.owner.com"
+    },
+    {
       "title": "Manager, Customer Success Enablement",
       "department": "Revenue Enablement",
       "location": "Remote - United States or Canada",
@@ -2737,16 +2753,16 @@
     {
       "title": "Customer Support Expert",
       "department": "Customer Experience",
-      "location": "Remote - Canada",
-      "url": "https://job-boards.greenhouse.io/glossgenius/jobs/6657324003",
+      "location": "Remote - USA",
+      "url": "https://job-boards.greenhouse.io/glossgenius/jobs/6657258003",
       "company": "GlossGenius",
       "company_website": "https://www.glossgenius.com"
     },
     {
       "title": "Customer Support Expert",
       "department": "Customer Experience",
-      "location": "Remote - USA",
-      "url": "https://job-boards.greenhouse.io/glossgenius/jobs/6657258003",
+      "location": "Remote - Canada",
+      "url": "https://job-boards.greenhouse.io/glossgenius/jobs/6657324003",
       "company": "GlossGenius",
       "company_website": "https://www.glossgenius.com"
     },
@@ -2761,16 +2777,16 @@
     {
       "title": "Director of Engineering",
       "department": "Engineering",
-      "location": "Hybrid - San Francisco",
-      "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7607190003",
+      "location": "Hybrid - NYC",
+      "url": "https://job-boards.greenhouse.io/glossgenius/jobs/5798626003",
       "company": "GlossGenius",
       "company_website": "https://www.glossgenius.com"
     },
     {
       "title": "Director of Engineering",
       "department": "Engineering",
-      "location": "Hybrid - NYC",
-      "url": "https://job-boards.greenhouse.io/glossgenius/jobs/5798626003",
+      "location": "Hybrid - San Francisco",
+      "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7607190003",
       "company": "GlossGenius",
       "company_website": "https://www.glossgenius.com"
     },
@@ -2863,26 +2879,10 @@
       "company_website": "https://www.glossgenius.com"
     },
     {
-      "title": "Senior Social Media Creative",
-      "department": "Marketing",
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7582833003",
-      "company": "GlossGenius",
-      "company_website": "https://www.glossgenius.com"
-    },
-    {
       "title": "Senior Technical Recruiter",
       "department": "People",
       "location": "New York, San Francisco",
       "url": "https://job-boards.greenhouse.io/glossgenius/jobs/6628706003",
-      "company": "GlossGenius",
-      "company_website": "https://www.glossgenius.com"
-    },
-    {
-      "title": "Software Engineer - All Levels",
-      "department": "Engineering",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/glossgenius/jobs/6684042003",
       "company": "GlossGenius",
       "company_website": "https://www.glossgenius.com"
     },
@@ -2899,6 +2899,14 @@
       "department": "Engineering",
       "location": "Greater Toronto Area - Remote",
       "url": "https://job-boards.greenhouse.io/glossgenius/jobs/6684050003",
+      "company": "GlossGenius",
+      "company_website": "https://www.glossgenius.com"
+    },
+    {
+      "title": "Software Engineer - All Levels",
+      "department": "Engineering",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/glossgenius/jobs/6684042003",
       "company": "GlossGenius",
       "company_website": "https://www.glossgenius.com"
     },
@@ -2923,14 +2931,6 @@
       "department": "Product Design",
       "location": "Hybrid - SF Bay Area, Hybrid - NYC",
       "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7580118003",
-      "company": "GlossGenius",
-      "company_website": "https://www.glossgenius.com"
-    },
-    {
-      "title": "Strategic Finance Associate",
-      "department": "Finance",
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7511143003",
       "company": "GlossGenius",
       "company_website": "https://www.glossgenius.com"
     },
@@ -3471,6 +3471,158 @@
       "company_website": "https://daisyco.com"
     },
     {
+      "title": "Sales Development Representative",
+      "department": "Sales & Marketing",
+      "location": "Istanbul",
+      "url": "https://jobs.ashbyhq.com/Cambly/17aea1df-e148-48e7-a153-5cb75ad2b891",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "Senior Marketing Designer  - Japan-based",
+      "department": "Sales & Marketing",
+      "location": "Tokyo",
+      "url": "https://jobs.ashbyhq.com/Cambly/5e42bbd5-d83f-45fb-8630-9cd2ce6ed21b",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "Senior Marketing Designer  - Brazil-based",
+      "department": "Sales & Marketing",
+      "location": "Rio de Janeiro",
+      "url": "https://jobs.ashbyhq.com/Cambly/f9d6eaca-2f44-4e57-bb64-17637afb6c17",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "Full Stack Engineer",
+      "department": "Research & Development",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/Cambly/c0eb33a2-fcfc-42d3-bae8-96a57dee4950",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "Senior Performance & Influencer Marketing Specialist (APAC)",
+      "department": "Sales & Marketing",
+      "location": "Seoul",
+      "url": "https://jobs.ashbyhq.com/Cambly/2a32c236-d8e5-4726-ad55-93961ba0d243",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "Sales Development Representative",
+      "department": "Sales & Marketing",
+      "location": "Rio de Janeiro",
+      "url": "https://jobs.ashbyhq.com/Cambly/23de1180-a07d-4ddc-9e36-34777e2de219",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "department": "Sales & Marketing",
+      "location": "Istanbul",
+      "url": "https://jobs.ashbyhq.com/Cambly/f346785a-0ab7-4419-8eb8-b8c30a20abe6",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "Account Manager (Enterprise Accounts)",
+      "department": "Sales & Marketing",
+      "location": "Istanbul",
+      "url": "https://jobs.ashbyhq.com/Cambly/42e12eff-b071-4124-84c8-591c4730d05d",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "B2B Marketing Specialist",
+      "department": "Sales & Marketing",
+      "location": "Tokyo",
+      "url": "https://jobs.ashbyhq.com/Cambly/d20326e1-60a7-457b-90dc-f45325d9fbac",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "Performance & Influencer Marketing Specialist (APAC)",
+      "department": "Sales & Marketing",
+      "location": "Seoul",
+      "url": "https://jobs.ashbyhq.com/Cambly/761ee777-54c2-4241-9268-fde399ae9163",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "Marketing Program Manager (SEO + Community)",
+      "department": "Sales & Marketing",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/Cambly/b9106fab-4deb-42cb-9ac0-4ef8e9e5a451",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "Senior Marketing Designer",
+      "department": "Sales & Marketing",
+      "location": "Shanghai",
+      "url": "https://jobs.ashbyhq.com/Cambly/95144d66-01c5-480d-addd-1ba3c9c19c53",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "Marketing Program Manager (SEO + Community) - Japan-based",
+      "department": "Sales & Marketing",
+      "location": "Tokyo",
+      "url": "https://jobs.ashbyhq.com/Cambly/c035a6a5-743a-44c3-a6ff-73735fae6ef2",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "Marketing Program Manager (SEO + Community) - UAE-based",
+      "department": "Sales & Marketing",
+      "location": "Riyadh",
+      "url": "https://jobs.ashbyhq.com/Cambly/33fd9bbf-2374-485e-8e0e-65ed703d3879",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "Marketing Program Manager (SEO + Community) - Brazil-based",
+      "department": "Sales & Marketing",
+      "location": "Rio de Janeiro",
+      "url": "https://jobs.ashbyhq.com/Cambly/77f530b2-a76b-4718-8d79-1bd2d3728c77",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "Copywriter",
+      "department": "Sales & Marketing",
+      "location": "Istanbul",
+      "url": "https://jobs.ashbyhq.com/Cambly/510e20df-12d3-4aa1-b76c-17a9fd6b6cff",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "Sales Manager",
+      "department": "Sales & Marketing",
+      "location": "Rio de Janeiro",
+      "url": "https://jobs.ashbyhq.com/Cambly/be13fb85-d24c-4e09-aec3-1a299bedb91e",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "department": "Research & Development",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/Cambly/2b931c47-bdd2-425e-8c37-3208fbc7162d",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "Marketing Program Manager (SEO + Community) - Brazil remote",
+      "department": "Sales & Marketing",
+      "location": "Rio de Janeiro",
+      "url": "https://jobs.ashbyhq.com/Cambly/c8f9290f-3c31-4a90-a057-80f340652e9f",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
       "title": "Content Distribution Manager",
       "department": "Content",
       "location": "Distributed, \ud83c\uddfa\ud83c\uddf8 + \ud83c\udde8\ud83c\udde6 (US + Canada)",
@@ -3599,58 +3751,58 @@
       "company_website": "https://www.wonderschool.com"
     },
     {
-      "title": "Lifecycle Marketing ManagerMarketing \u2022 Remote \u2022 Full time \u2022 Remote$120K \u2013 $134K \u2022 Offers Equity",
-      "department": "General",
-      "location": "Remote",
-      "url": "https://jobs.ashbyhq.com/medely/2dc3b06f-69dd-4f40-8413-0f21fc6c7712",
-      "company": "Medely",
-      "company_website": "https://medely.com"
-    },
-    {
-      "title": "Product Marketing ManagerMarketing \u2022 Remote \u2022 Full time \u2022 Remote$120K \u2013 $134K \u2022 Offers Equity",
-      "department": "General",
-      "location": "Remote",
-      "url": "https://jobs.ashbyhq.com/medely/4723ad81-7104-477c-8bd7-0f72bc084683",
-      "company": "Medely",
-      "company_website": "https://medely.com"
-    },
-    {
-      "title": "Revenue Operations AnalystRevenue Ops \u2022 Remote \u2022 Full time \u2022 Remote$86K \u2013 $90K \u2022 Offers Equity",
-      "department": "General",
-      "location": "Remote",
-      "url": "https://jobs.ashbyhq.com/medely/b848dca9-bf96-4fac-9fcb-3488caedb2de",
-      "company": "Medely",
-      "company_website": "https://medely.com"
-    },
-    {
-      "title": "Account Executive - East CoastSMB AE \u2022 Remote \u2022 Full time \u2022 Remote$68K \u2013 $76K \u2022 Offers Equity \u2022 $0 \u2013 $60K Commission",
-      "department": "General",
+      "title": "Account Executive - East Coast",
+      "department": "Sales Department",
       "location": "Remote",
       "url": "https://jobs.ashbyhq.com/medely/91f0e660-bfba-45d7-98fb-6785de6c134b",
       "company": "Medely",
       "company_website": "https://medely.com"
     },
     {
-      "title": "Account Executive - SMB Healthcare Solutions (West Coast)SMB AE \u2022 Remote \u2022 Full time \u2022 Remote$68K \u2013 $76K \u2022 $0 \u2013 $60K Commission",
-      "department": "General",
+      "title": "Lifecycle Marketing Manager",
+      "department": "Marketing Department",
       "location": "Remote",
-      "url": "https://jobs.ashbyhq.com/medely/4c6c6c96-f656-4134-b615-618324185fb4",
+      "url": "https://jobs.ashbyhq.com/medely/2dc3b06f-69dd-4f40-8413-0f21fc6c7712",
       "company": "Medely",
       "company_website": "https://medely.com"
     },
     {
-      "title": "Account Executive, New Markets - SMB HealthcareSMB AE \u2022 Remote \u2022 Full time \u2022 Remote$68K \u2013 $76K \u2022 Offers Equity \u2022 $0 \u2013 $60K Commission",
-      "department": "General",
+      "title": "Account Executive, New Markets - SMB Healthcare",
+      "department": "Sales Department",
       "location": "Remote",
       "url": "https://jobs.ashbyhq.com/medely/c74c00ff-361b-4a3b-b512-d34462ba850a",
       "company": "Medely",
       "company_website": "https://medely.com"
     },
     {
-      "title": "Strategic Account DirectorSMB AM \u2022 Remote \u2022 Full time \u2022 Remote$108K \u2013 $120K \u2022 Offers Equity \u2022 Offers Commission",
-      "department": "General",
+      "title": "Strategic Account Director",
+      "department": "Sales Department",
       "location": "Remote",
       "url": "https://jobs.ashbyhq.com/medely/f5113699-534e-44c3-9aec-6b32ccfb23bf",
+      "company": "Medely",
+      "company_website": "https://medely.com"
+    },
+    {
+      "title": "Account Executive - SMB Healthcare Solutions (West Coast)",
+      "department": "Sales Department",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/medely/4c6c6c96-f656-4134-b615-618324185fb4",
+      "company": "Medely",
+      "company_website": "https://medely.com"
+    },
+    {
+      "title": "Revenue Operations Analyst",
+      "department": "Sales Department",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/medely/b848dca9-bf96-4fac-9fcb-3488caedb2de",
+      "company": "Medely",
+      "company_website": "https://medely.com"
+    },
+    {
+      "title": "Product Marketing Manager",
+      "department": "Marketing Department",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/medely/4723ad81-7104-477c-8bd7-0f72bc084683",
       "company": "Medely",
       "company_website": "https://medely.com"
     },
@@ -3743,10 +3895,50 @@
       "company_website": "https://www.paywholesail.com"
     },
     {
-      "title": "Join the team",
-      "department": "General",
-      "location": "Not specified",
+      "title": "Processing Center Specialist",
+      "department": "Mail Operations",
+      "location": "Dallas",
+      "url": "https://jobs.ashbyhq.com/stable/0983b042-93b1-44a6-a9f5-2fb70c183cb6",
+      "company": "Stable",
+      "company_website": "https://www.usestable.com"
+    },
+    {
+      "title": "Growth Engineer",
+      "department": "Product",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/stable/6de3b67e-1ff7-494c-a3da-9831e08db0f7",
+      "company": "Stable",
+      "company_website": "https://www.usestable.com"
+    },
+    {
+      "title": "Senior Product Designer",
+      "department": "Product",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/stable/af9030bc-a3be-4c6f-b674-c9c4ccd9e1f8",
+      "company": "Stable",
+      "company_website": "https://www.usestable.com"
+    },
+    {
+      "title": "Customer Support Specialist",
+      "department": "Customer Support",
+      "location": "Denver",
+      "url": "https://jobs.ashbyhq.com/stable/15248dd1-10f5-44a4-a8be-7b155213b04d",
+      "company": "Stable",
+      "company_website": "https://www.usestable.com"
+    },
+    {
+      "title": "Product Engineer",
+      "department": "Product",
+      "location": "Remote",
       "url": "https://jobs.ashbyhq.com/stable/17ed97f1-7418-4bd0-9a83-2eaccb0212c7",
+      "company": "Stable",
+      "company_website": "https://www.usestable.com"
+    },
+    {
+      "title": "Processing Center Specialist - PT/Seasonal",
+      "department": "Mail Operations",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/stable/953c1a76-5ace-43f7-8775-630b8b204630",
       "company": "Stable",
       "company_website": "https://www.usestable.com"
     },
@@ -3799,25 +3991,97 @@
       "company_website": "https://goodtime.io"
     },
     {
-      "title": "Full Stack EngineerEngineering \u2022 Miami, Florida \u2022 Full time \u2022 Hybrid",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://jobs.ashbyhq.com/ResQ/33226095-a929-4c15-8dd0-6bcf905e4556",
-      "company": "ResQ",
-      "company_website": "https://www.getresq.com"
+      "title": "Skills Lab / Open Application",
+      "department": "All Teams",
+      "location": "All Locations",
+      "url": "https://jobs.ashbyhq.com/peek/8fe62033-e2b6-4b2b-bdf0-010fbdac60e4",
+      "company": "Peek",
+      "company_website": "https://www.peek.com"
     },
     {
-      "title": "Senior Full Stack EngineerEngineering \u2022 Miami, Florida \u2022 Full time \u2022 Hybrid",
-      "department": "General",
-      "location": "Not specified",
+      "title": "Technical Support Representative",
+      "department": "CS Support",
+      "location": "Mexico City",
+      "url": "https://jobs.ashbyhq.com/peek/2f86fefe-6f70-4b73-8c4d-915361f5b4ee",
+      "company": "Peek",
+      "company_website": "https://www.peek.com"
+    },
+    {
+      "title": "DevOps Engineer",
+      "department": "Engineering",
+      "location": "Mexico City",
+      "url": "https://jobs.ashbyhq.com/peek/b00d054f-80b7-4efa-b186-b65323aec820",
+      "company": "Peek",
+      "company_website": "https://www.peek.com"
+    },
+    {
+      "title": "DevOps Engineer",
+      "department": "Engineering",
+      "location": "Bogota, Colombia",
+      "url": "https://jobs.ashbyhq.com/peek/b857faa3-de37-4fb6-829f-72d094ebf361",
+      "company": "Peek",
+      "company_website": "https://www.peek.com"
+    },
+    {
+      "title": "Lifecycle Marketing Manager",
+      "department": "Marketing",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/peek/5a67b18c-0380-4ccc-99e0-1769d2750983",
+      "company": "Peek",
+      "company_website": "https://www.peek.com"
+    },
+    {
+      "title": "Technical Support Representative",
+      "department": "CS Support",
+      "location": "Bogota, Colombia",
+      "url": "https://jobs.ashbyhq.com/peek/5641c440-38ec-42b7-91a2-232f252edfe5",
+      "company": "Peek",
+      "company_website": "https://www.peek.com"
+    },
+    {
+      "title": "Fullstack Engineer",
+      "department": "Engineering",
+      "location": "Mexico City",
+      "url": "https://jobs.ashbyhq.com/peek/5e266d2b-a36e-48f5-af09-39e46923c6a4",
+      "company": "Peek",
+      "company_website": "https://www.peek.com"
+    },
+    {
+      "title": "Senior Manager, Finance",
+      "department": "G&A",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/peek/532fcd2d-fc4b-46b3-ba22-e4ea87b0dcb6",
+      "company": "Peek",
+      "company_website": "https://www.peek.com"
+    },
+    {
+      "title": "Product Analyst",
+      "department": "Product",
+      "location": "Mexico City",
+      "url": "https://jobs.ashbyhq.com/peek/75944193-c077-4ef0-a7f3-75d5a6614ff9",
+      "company": "Peek",
+      "company_website": "https://www.peek.com"
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "department": "Engineering",
+      "location": "Miami, Florida",
       "url": "https://jobs.ashbyhq.com/ResQ/9e7d7e6e-bf62-4501-ae51-4d19bc7650a9",
       "company": "ResQ",
       "company_website": "https://www.getresq.com"
     },
     {
-      "title": "Senior Marketing ManagerMarketing \u2022 Toronto, Ontario; Miami, Florida; New York, New York \u2022 Full time \u2022 Hybrid",
-      "department": "General",
-      "location": "New York",
+      "title": "Full Stack Engineer",
+      "department": "Engineering",
+      "location": "Miami, Florida",
+      "url": "https://jobs.ashbyhq.com/ResQ/33226095-a929-4c15-8dd0-6bcf905e4556",
+      "company": "ResQ",
+      "company_website": "https://www.getresq.com"
+    },
+    {
+      "title": "Senior Marketing Manager",
+      "department": "Marketing",
+      "location": "Toronto, Ontario",
       "url": "https://jobs.ashbyhq.com/ResQ/9d137d5b-c74f-4802-a8eb-3543497e7820",
       "company": "ResQ",
       "company_website": "https://www.getresq.com"
@@ -3832,33 +4096,9 @@
     },
     {
       "title": "M&A Advisor",
-      "department": "General",
-      "location": "New York",
+      "department": "Revenue",
+      "location": "New York City",
       "url": "https://jobs.ashbyhq.com/Baton/e1ed78de-bd92-46a3-97f9-05d34923f7fa",
-      "company": "Baton",
-      "company_website": "https://www.batonmarket.com"
-    },
-    {
-      "title": "Senior Product Designer",
-      "department": "General",
-      "location": "New York",
-      "url": "https://jobs.ashbyhq.com/Baton/81bac4e9-011b-42db-aee4-a953f0d644ba",
-      "company": "Baton",
-      "company_website": "https://www.batonmarket.com"
-    },
-    {
-      "title": "Data Analyst",
-      "department": "General",
-      "location": "New York",
-      "url": "https://jobs.ashbyhq.com/Baton/1bb19386-43b8-4757-83de-fc76bb8f2e30",
-      "company": "Baton",
-      "company_website": "https://www.batonmarket.com"
-    },
-    {
-      "title": "Finance Analyst",
-      "department": "General",
-      "location": "New York",
-      "url": "https://jobs.ashbyhq.com/Baton/5e5aca3b-5a0f-49f0-83e6-755b4242ea06",
       "company": "Baton",
       "company_website": "https://www.batonmarket.com"
     },
@@ -4097,16 +4337,16 @@
     {
       "title": "Sales Development Representative (SDR)",
       "department": "Sales",
-      "location": "Chicago, U.S. (Hybrid)",
-      "url": "https://job-boards.greenhouse.io/webflow/jobs/7203091",
+      "location": "San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/webflow/jobs/7590326",
       "company": "Carebrain",
       "company_website": "https://www.carebrain.com"
     },
     {
       "title": "Sales Development Representative (SDR)",
       "department": "Sales",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/webflow/jobs/7590326",
+      "location": "Chicago, U.S. (Hybrid)",
+      "url": "https://job-boards.greenhouse.io/webflow/jobs/7203091",
       "company": "Carebrain",
       "company_website": "https://www.carebrain.com"
     },
@@ -4171,6 +4411,14 @@
       "department": "Engineering",
       "location": "Argentina Remote",
       "url": "https://job-boards.greenhouse.io/webflow/jobs/7572627",
+      "company": "Carebrain",
+      "company_website": "https://www.carebrain.com"
+    },
+    {
+      "title": "Senior IT Support Specialist, EMEA",
+      "department": "IT",
+      "location": "London, U.K. (Hybrid)",
+      "url": "https://job-boards.greenhouse.io/webflow/jobs/7646540",
       "company": "Carebrain",
       "company_website": "https://www.carebrain.com"
     },
@@ -4735,34 +4983,34 @@
       "company_website": "https://www.sourcetable.com"
     },
     {
-      "title": "Backend EngineerEngineering \u2022 San Francisco Bay Area \u2022 Full time",
-      "department": "General",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/StandardFleet/98afc09b-e834-43f4-9181-64b475cfca47",
-      "company": "Standard Fleet",
-      "company_website": "https://www.standardfleet.com"
-    },
-    {
-      "title": "Product EngineerEngineering \u2022 San Francisco Bay Area \u2022 Full time",
-      "department": "General",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/StandardFleet/74965ed0-89fc-427d-96da-e3ceea677510",
-      "company": "Standard Fleet",
-      "company_website": "https://www.standardfleet.com"
-    },
-    {
-      "title": "Senior/Staff Backend EngineerEngineering \u2022 San Francisco Bay Area \u2022 Full time \u2022 Hybrid",
-      "department": "General",
-      "location": "San Francisco",
+      "title": "Senior/Staff Backend Engineer",
+      "department": "Engineering",
+      "location": "San Francisco Bay Area",
       "url": "https://jobs.ashbyhq.com/StandardFleet/1cc6d8b1-2fcd-4fc0-ba09-3c078eb07d1e",
       "company": "Standard Fleet",
       "company_website": "https://www.standardfleet.com"
     },
     {
-      "title": "Senior/Staff Product EngineerEngineering \u2022 San Francisco Bay Area \u2022 Full time \u2022 Hybrid",
-      "department": "General",
-      "location": "San Francisco",
+      "title": "Senior/Staff Product Engineer",
+      "department": "Engineering",
+      "location": "San Francisco Bay Area",
       "url": "https://jobs.ashbyhq.com/StandardFleet/4a7c01e9-4dbd-46f6-891d-472de5c93d03",
+      "company": "Standard Fleet",
+      "company_website": "https://www.standardfleet.com"
+    },
+    {
+      "title": "Backend Engineer",
+      "department": "Engineering",
+      "location": "San Francisco Bay Area",
+      "url": "https://jobs.ashbyhq.com/StandardFleet/98afc09b-e834-43f4-9181-64b475cfca47",
+      "company": "Standard Fleet",
+      "company_website": "https://www.standardfleet.com"
+    },
+    {
+      "title": "Product Engineer",
+      "department": "Engineering",
+      "location": "San Francisco Bay Area",
+      "url": "https://jobs.ashbyhq.com/StandardFleet/74965ed0-89fc-427d-96da-e3ceea677510",
       "company": "Standard Fleet",
       "company_website": "https://www.standardfleet.com"
     },
@@ -4919,121 +5167,113 @@
       "company_website": "https://www.prenda.com"
     },
     {
-      "title": "Total Rewards - Senior Client Manager, Major MarketUnited States (Hybrid)Employee Benefits TeamFull time",
-      "department": "General",
-      "location": "San Francisco",
+      "title": "Total Rewards - Senior Client Manager, Major Market",
+      "department": "Total Rewards",
+      "location": "United States (Hybrid)",
       "url": "https://jobs.ashbyhq.com/newfront/97c11a50-eecc-4ae8-9165-f9baf6f47d0f",
       "company": "Newfront Insurance (acquired by WTW)",
       "company_website": "https://www.newfront.com"
     },
     {
-      "title": "Total Rewards - Client Manager, Major MarketWalnut Creek, California (Hybrid)Employee Benefits TeamFull time",
-      "department": "General",
-      "location": "San Francisco",
+      "title": "Total Rewards - Client Manager, Major Market",
+      "department": "Total Rewards",
+      "location": "Walnut Creek, California (Hybrid)",
       "url": "https://jobs.ashbyhq.com/newfront/d5ff7165-ddcb-4d26-bda1-3548d504ea70",
       "company": "Newfront Insurance (acquired by WTW)",
       "company_website": "https://www.newfront.com"
     },
     {
-      "title": "Total Rewards - Client Manager, Emerging MarketSan Francisco, California (Hybrid)Employee Benefits TeamFull time",
-      "department": "General",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/newfront/3ad9a868-7228-464a-939a-beeb4e6ad785",
-      "company": "Newfront Insurance (acquired by WTW)",
-      "company_website": "https://www.newfront.com"
-    },
-    {
-      "title": "Account Coordinator - Life Science & Digital HealthUnited States (Hybrid)Life Sciences TeamFull time",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://jobs.ashbyhq.com/newfront/83db542c-dd2f-45ae-9793-13a44aa76c7d",
-      "company": "Newfront Insurance (acquired by WTW)",
-      "company_website": "https://www.newfront.com"
-    },
-    {
-      "title": "Account Coordinator - Emerging RiskUnited States (Hybrid)Emerging Risk TeamFull time",
-      "department": "General",
-      "location": "Remote",
+      "title": "Account Coordinator - Emerging Risk",
+      "department": "Business Insurance",
+      "location": "United States (Hybrid)",
       "url": "https://jobs.ashbyhq.com/newfront/7cb834f0-0816-46b4-980f-2cfc8587c9b4",
       "company": "Newfront Insurance (acquired by WTW)",
       "company_website": "https://www.newfront.com"
     },
     {
-      "title": "Account Manager - Emerging RiskUnited States (Remote)Emerging Risk TeamFull time",
-      "department": "General",
-      "location": "Remote",
-      "url": "https://jobs.ashbyhq.com/newfront/666a0915-8f11-4f76-970a-ca44b43b07ac",
+      "title": "Total Rewards - Client Manager, Emerging Market",
+      "department": "Total Rewards",
+      "location": "San Francisco, California (Hybrid)",
+      "url": "https://jobs.ashbyhq.com/newfront/3ad9a868-7228-464a-939a-beeb4e6ad785",
       "company": "Newfront Insurance (acquired by WTW)",
       "company_website": "https://www.newfront.com"
     },
     {
-      "title": "Team Lead- Emerging RiskUnited States (Hybrid)Emerging Risk TeamFull time",
-      "department": "General",
-      "location": "Remote",
-      "url": "https://jobs.ashbyhq.com/newfront/813ce20d-c6c5-4cc7-94af-d51438adfb8b",
-      "company": "Newfront Insurance (acquired by WTW)",
-      "company_website": "https://www.newfront.com"
-    },
-    {
-      "title": "Payroll AssociateUnited States (Hybrid)HR Services TeamFull time",
-      "department": "General",
-      "location": "Not specified",
+      "title": "Payroll Associate",
+      "department": "Total Rewards",
+      "location": "United States (Hybrid)",
       "url": "https://jobs.ashbyhq.com/newfront/9bb1b02c-e0f8-4508-baf4-3335733643d3",
       "company": "Newfront Insurance (acquired by WTW)",
       "company_website": "https://www.newfront.com"
     },
     {
-      "title": "Account Coordinator - Commercial RiskUnited States (Hybrid)Commercial Risk TeamFull time",
-      "department": "General",
-      "location": "Not specified",
+      "title": "Account Coordinator - Commercial Risk",
+      "department": "Business Insurance",
+      "location": "United States (Hybrid)",
       "url": "https://jobs.ashbyhq.com/newfront/55735e94-56d6-4341-82bb-fe474adeb5d3",
       "company": "Newfront Insurance (acquired by WTW)",
       "company_website": "https://www.newfront.com"
     },
     {
-      "title": "Account Coordinator - Small BusinessUnited States (Hybrid)Frontier TeamFull time",
-      "department": "General",
-      "location": "Not specified",
+      "title": "Account Coordinator - Small Business",
+      "department": "Business Insurance",
+      "location": "United States (Hybrid)",
       "url": "https://jobs.ashbyhq.com/newfront/23dcee71-edfb-45b6-8e4f-39d6a818950e",
       "company": "Newfront Insurance (acquired by WTW)",
       "company_website": "https://www.newfront.com"
     },
     {
-      "title": "Account Manager - ConstructionUnited States (Hybrid)Construction TeamFull time",
-      "department": "General",
-      "location": "Not specified",
+      "title": "Account Manager - Construction",
+      "department": "Business Insurance",
+      "location": "United States (Hybrid)",
       "url": "https://jobs.ashbyhq.com/newfront/8d3c8dce-f59c-4f11-9e24-a421232b61e1",
       "company": "Newfront Insurance (acquired by WTW)",
       "company_website": "https://www.newfront.com"
     },
     {
-      "title": "Senior Account Manager - ConstructionUnited States (Hybrid)Construction TeamFull time",
-      "department": "General",
-      "location": "Not specified",
+      "title": "Senior Account Manager - Construction",
+      "department": "Business Insurance",
+      "location": "United States (Hybrid)",
       "url": "https://jobs.ashbyhq.com/newfront/79665f31-feaa-4f2d-972f-6e61f1cf9efd",
       "company": "Newfront Insurance (acquired by WTW)",
       "company_website": "https://www.newfront.com"
     },
     {
-      "title": "Account Manager - Executive RiskUnited States (Hybrid)Public Company TeamFull time",
-      "department": "General",
-      "location": "Not specified",
+      "title": "Account Manager - Emerging Risk",
+      "department": "Business Insurance",
+      "location": "United States (Remote)",
+      "url": "https://jobs.ashbyhq.com/newfront/666a0915-8f11-4f76-970a-ca44b43b07ac",
+      "company": "Newfront Insurance (acquired by WTW)",
+      "company_website": "https://www.newfront.com"
+    },
+    {
+      "title": "Account Manager - Executive Risk",
+      "department": "Executive Risk Solutions",
+      "location": "United States (Hybrid)",
       "url": "https://jobs.ashbyhq.com/newfront/8f2d1b7f-246d-45ca-bea1-8352717b4399",
       "company": "Newfront Insurance (acquired by WTW)",
       "company_website": "https://www.newfront.com"
     },
     {
-      "title": "Account Coordinator - Executive RiskUnited States (Hybrid)Private Company TeamFull time",
-      "department": "General",
-      "location": "Not specified",
+      "title": "Team Lead- Emerging Risk",
+      "department": "Business Insurance",
+      "location": "United States (Hybrid)",
+      "url": "https://jobs.ashbyhq.com/newfront/813ce20d-c6c5-4cc7-94af-d51438adfb8b",
+      "company": "Newfront Insurance (acquired by WTW)",
+      "company_website": "https://www.newfront.com"
+    },
+    {
+      "title": "Account Coordinator - Executive Risk",
+      "department": "Executive Risk Solutions",
+      "location": "United States (Hybrid)",
       "url": "https://jobs.ashbyhq.com/newfront/e95e7658-1d4e-4fb5-a884-acca93efffe3",
       "company": "Newfront Insurance (acquired by WTW)",
       "company_website": "https://www.newfront.com"
     },
     {
-      "title": "Account Coordinator - Financial InstitutionsUnited States (Hybrid)Financial Institutions TeamFull time",
-      "department": "General",
-      "location": "Not specified",
+      "title": "Account Coordinator - Financial Institutions",
+      "department": "Executive Risk Solutions",
+      "location": "United States (Hybrid)",
       "url": "https://jobs.ashbyhq.com/newfront/a8ad45c1-372e-41cc-8a83-e5027761635d",
       "company": "Newfront Insurance (acquired by WTW)",
       "company_website": "https://www.newfront.com"
@@ -5233,16 +5473,16 @@
     {
       "title": "Customer Support Advocate, Employees",
       "department": "Customer Success",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/5803389?gh_jid=5803389",
+      "location": "Tampa, Florida",
+      "url": "https://boards.greenhouse.io/justworks/jobs/5891994?gh_jid=5891994",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Customer Support Advocate, Employees",
       "department": "Customer Success",
-      "location": "Tampa, Florida",
-      "url": "https://boards.greenhouse.io/justworks/jobs/5891994?gh_jid=5891994",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/5803389?gh_jid=5803389",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5281,32 +5521,16 @@
     {
       "title": "Director, Health Underwriting",
       "department": "Risk & Insurance",
-      "location": "Tampa, Florida",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7369188?gh_jid=7369188",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Director, Health Underwriting",
-      "department": "Risk & Insurance",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/7284392?gh_jid=7284392",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
-      "title": "Director, International Benefits",
-      "department": "Operations, International Products",
-      "location": "Remote - International",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7430362?gh_jid=7430362",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Director, International Benefits",
-      "department": "Operations, International Products",
-      "location": "Remote - International",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7517595?gh_jid=7517595",
+      "title": "Director, Health Underwriting",
+      "department": "Risk & Insurance",
+      "location": "Tampa, Florida",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7369188?gh_jid=7369188",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5339,6 +5563,22 @@
       "department": "Operations, International Products",
       "location": "London, England ; Remote - International",
       "url": "https://boards.greenhouse.io/justworks/jobs/7430359?gh_jid=7430359",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Director, International Benefits",
+      "department": "Operations, International Products",
+      "location": "Remote - International",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7430362?gh_jid=7430362",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Director, International Benefits",
+      "department": "Operations, International Products",
+      "location": "Remote - International",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7517595?gh_jid=7517595",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5567,6 +5807,14 @@
       "company_website": "https://www.justworks.com"
     },
     {
+      "title": "Manager, Onboarding",
+      "department": "Customer Success",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7614982?gh_jid=7614982",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
       "title": "Manager, Sales (Los Angeles)",
       "department": "Sales",
       "location": "Remote - U.S.A.",
@@ -5627,6 +5875,14 @@
       "department": "Product",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/7635508?gh_jid=7635508",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Senior Accountant",
+      "department": "Corporate & Finance",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7630475?gh_jid=7630475",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5865,80 +6121,2456 @@
     {
       "title": "Underwriter, Risk",
       "department": "Risk & Insurance",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7607337?gh_jid=7607337",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Underwriter, Risk",
-      "department": "Risk & Insurance",
       "location": "Tampa, Florida",
       "url": "https://boards.greenhouse.io/justworks/jobs/7615572?gh_jid=7615572",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
-      "title": "Full Stack EngineerMultiple LocationsEngineeringFullTime",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://app.ashbyhq.com/jobs/c6492fda-ddca-4ea1-b13a-1195ec6b2658",
+      "title": "Underwriter, Risk",
+      "department": "Risk & Insurance",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7607337?gh_jid=7607337",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Legal Counsel, Mexico",
+      "department": "G&A",
+      "location": "Mexico",
+      "url": "https://jobs.ashbyhq.com/deel/9c63499f-e4cd-43ad-8459-aa1d18e4b0d4",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Senior Backend Engineer, Node.js + AWSMultiple LocationsEngineeringFullTime",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://app.ashbyhq.com/jobs/5f5720f2-fa75-41d3-862a-bf3c1a6bb1fd",
+      "title": "Offensive Security Specialist (Red Team)",
+      "department": "R&D",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/41a53f93-1828-43b5-a14e-771d62dcbc11",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "HR Experience Specialist | UK & IrelandEMEAHR ExperienceFullTime",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://app.ashbyhq.com/jobs/8a9f5f29-258e-4750-8070-eda66a26d9d4",
+      "title": "Sales Development Representative, Enterprise | Benelux",
+      "department": "S&M",
+      "location": "Belgium",
+      "url": "https://jobs.ashbyhq.com/deel/587cd202-756d-4a3a-8ae5-7dcde64e12a8",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Full Stack Engineer (React, Node.js)EMEAEngineeringFullTime",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://app.ashbyhq.com/jobs/f677f26e-a10a-40e4-a3f5-8fdcbec54aca",
+      "title": "Team Lead, Payroll Legislative Compliance | EMEA",
+      "department": "R&D",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/1a70c854-9faa-4c1c-ab31-6ff929ab0223",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Account Executive, SMB | APACHong KongSales - GlobalFullTime",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://app.ashbyhq.com/jobs/f4a0bbfd-2ea7-41a1-a64c-bbdabe44cce8",
+      "title": "Payroll Compliance Analyst, Mexico",
+      "department": "R&D",
+      "location": "Mexico",
+      "url": "https://jobs.ashbyhq.com/deel/15b2045b-86ae-4c5e-bc43-fc27a2192859",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Manager, Deel Immigration, SMBMultiple LocationsNAM Enterprise SalesFullTime",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://app.ashbyhq.com/jobs/e9302117-17a0-4782-b290-a38224602b7a",
+      "title": "Sales Development Representative | SMB LATAM",
+      "department": "S&M",
+      "location": "Brazil",
+      "url": "https://jobs.ashbyhq.com/deel/7f6cd241-e7ed-487b-88ff-73a43a9512a3",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Payroll Expert |  GuatemalaGuatemalaPayroll OperationsFullTime",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://app.ashbyhq.com/jobs/a4d13237-a205-4a3b-9d5f-a5c75f729b3d",
+      "title": "Information Security Analyst, SecOps",
+      "department": "R&D",
+      "location": "APAC",
+      "url": "https://jobs.ashbyhq.com/deel/d62ed944-a34e-475a-a26d-7881a6a44629",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Payroll Expert  |  ColombiaColombiaPayroll OperationsFullTime",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://app.ashbyhq.com/jobs/ee072aeb-77c1-4eac-8b29-f5cf10070eac",
+      "title": "Senior IT Support Engineer",
+      "department": "R&D",
+      "location": "Philippines",
+      "url": "https://jobs.ashbyhq.com/deel/c4e70bde-3c15-4a83-afa8-89edd02f877b",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Staff Product Manager - Payroll",
+      "department": "R&D",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/79055e4d-8251-4cdf-a667-a94967e97385",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative, SMB | France",
+      "department": "S&M",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/3721619d-c79a-4125-aa23-29a8a5e8938e",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative, SMB | MENA",
+      "department": "S&M",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/52d549cb-23ff-466b-ac6b-e071fc497dac",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, Deel IT - SMB",
+      "department": "S&M",
+      "location": "North America",
+      "url": "https://jobs.ashbyhq.com/deel/170a287c-4094-451e-a849-f04b8e72bf3d",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Product Operations Manager, Platform",
+      "department": "R&D",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/a09e1b67-c17f-4fda-a3fa-b08a66fa2116",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative, SMB| Israel",
+      "department": "S&M",
+      "location": "Israel",
+      "url": "https://jobs.ashbyhq.com/deel/dc319079-f142-4ba3-9c5b-aad174425b65",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Payroll Associate | Spain",
+      "department": "COGS",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/fea5b88c-a34e-4082-9deb-fcc3eccda8d0",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Staff Product Manager, Onboarding",
+      "department": "R&D",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/f6132ae0-20ec-4c5c-9177-842ed34571cd",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative, SMB | China",
+      "department": "S&M",
+      "location": "China",
+      "url": "https://jobs.ashbyhq.com/deel/53a24027-7f10-454b-b518-b63aa12887fd",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Partnerships Manager | Japan",
+      "department": "S&M",
+      "location": "Japan",
+      "url": "https://jobs.ashbyhq.com/deel/0c7a8f8c-7bbd-4b85-98f5-64f7678bab52",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Customer Onboarding Manager | Korean speaking",
+      "department": "COGS",
+      "location": "APAC",
+      "url": "https://jobs.ashbyhq.com/deel/1598900a-3926-4015-b79a-e78faea708ce",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Staff Product Designer",
+      "department": "R&D",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/54b3cc53-fd02-443d-9926-5306ee245b54",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative | North America",
+      "department": "S&M",
+      "location": "North America",
+      "url": "https://jobs.ashbyhq.com/deel/ca567206-5e4b-4547-b5bf-fa02edfb237c",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Country Finance Manager | South Korea",
+      "department": "G&A",
+      "location": "South Korea",
+      "url": "https://jobs.ashbyhq.com/deel/220ad6c3-709e-4f6b-8c62-80b25215b03c",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative, SMB | UK&I",
+      "department": "S&M",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/5edfa9d4-9a67-4c2d-95c0-aa722c025e61",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, Mid-Market | DACH",
+      "department": "S&M",
+      "location": "Germany",
+      "url": "https://jobs.ashbyhq.com/deel/b94efb4f-9ca0-4385-af7a-7537f29bb1c8",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Compliance Analyst | Switzerland",
+      "department": "R&D",
+      "location": "Switzerland",
+      "url": "https://jobs.ashbyhq.com/deel/e721b29a-b64c-4c02-8f89-e1d6be0d317f",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Data Analyst, Onboarding",
+      "department": "R&D",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/1afc85bd-f946-4c5d-8cac-b842aa64bda0",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Executive Assistant to C-Suite",
+      "department": "G&A",
+      "location": "Israel",
+      "url": "https://jobs.ashbyhq.com/deel/10245c5c-b09e-4bfd-a57d-c0c36a05e493",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative, SMB | Benelux",
+      "department": "S&M",
+      "location": "Belgium",
+      "url": "https://jobs.ashbyhq.com/deel/91c90d0a-0830-444f-a33c-12015d3c669f",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Product Designer",
+      "department": "R&D",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/86b441c4-9ed5-470e-81a1-ff7263ef0c94",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Warehouse Associate, IT equipment | Houston, Texas, On-site",
+      "department": "COGS",
+      "location": "Houston, Texas",
+      "url": "https://jobs.ashbyhq.com/deel/776333d3-864d-42db-9ea4-49381143160a",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Shipping Assistant, IT Equipment | Houston, Texas, On-site",
+      "department": "COGS",
+      "location": "Houston, Texas",
+      "url": "https://jobs.ashbyhq.com/deel/03ca0083-d2d6-4992-b970-8f42433a097e",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Fulfilment Centre Associate, IT equipment | Houston, Texas, On-site",
+      "department": "COGS",
+      "location": "Houston, Texas",
+      "url": "https://jobs.ashbyhq.com/deel/a12df33b-5685-41ac-a6a6-59723d9fcce5",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Order Operations Associate, IT equipment shipping | Houston, Texas, On-site",
+      "department": "COGS",
+      "location": "Houston, Texas",
+      "url": "https://jobs.ashbyhq.com/deel/62192257-41ad-43b6-855d-9187113e05bb",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative, Deel IT | LATAM",
+      "department": "S&M",
+      "location": "Argentina",
+      "url": "https://jobs.ashbyhq.com/deel/f25a8791-6fb8-4374-b8fe-d6883bfce18e",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Develoment Representative, SMB | DACH",
+      "department": "S&M",
+      "location": "Germany",
+      "url": "https://jobs.ashbyhq.com/deel/d69ccaf9-ac70-49f0-8865-0e899f8857f6",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, Enterprise | Greater China",
+      "department": "S&M",
+      "location": "China",
+      "url": "https://jobs.ashbyhq.com/deel/8f75b64b-c813-4a94-9848-6d98fa115e8b",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative, Mid-Market | CEE",
+      "department": "S&M",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/7b7b7926-9fd0-4fb1-83a4-019f06f2bff0",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Legal Counsel",
+      "department": "G&A",
+      "location": "Australia",
+      "url": "https://jobs.ashbyhq.com/deel/c6e2770c-9727-4463-b19b-7c5b5b47b8e3",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Country Finance Manager | Austria",
+      "department": "G&A",
+      "location": "Austria",
+      "url": "https://jobs.ashbyhq.com/deel/60461cc3-6818-4d13-9bc0-ecf54f9728fc",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, SMB | ASEAN",
+      "department": "S&M",
+      "location": "Singapore",
+      "url": "https://jobs.ashbyhq.com/deel/6f091de9-5c3d-4791-ab2a-38d4e9c1b186",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Fulfilment Operations Associate | Houston, Texas, On-site",
+      "department": "COGS",
+      "location": "Houston, Texas",
+      "url": "https://jobs.ashbyhq.com/deel/78e372c5-6966-4288-a574-5f672b3fb194",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Payroll Associate, Thailand Payroll | Thailand",
+      "department": "COGS",
+      "location": "Thailand",
+      "url": "https://jobs.ashbyhq.com/deel/21975361-2d9d-4a44-9524-394be7069248",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, SMB | Australia",
+      "department": "S&M",
+      "location": "Australia",
+      "url": "https://jobs.ashbyhq.com/deel/28a6ce58-dc88-4f89-b1ff-46054bec4e0e",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Backend Engineer (AI focus)",
+      "department": "R&D",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/2f13d55a-318b-45fa-be3e-95c8d4c8b413",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Expert | France (Mauritius)",
+      "department": "COGS",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/54291ad8-c566-432d-8a8f-522443e8e8ff",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Associate | France",
+      "department": "COGS",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/4da566a5-af79-4e3e-ad56-617eb52a559e",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative Expansion, SMB | UK&I",
+      "department": "S&M",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/1368af14-2e3f-4774-a859-024a70d132cc",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Legal Counsel | UK & Ireland",
+      "department": "G&A",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/bde1011b-e7c8-4d39-be81-cbb79447527e",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Legal Counsel",
+      "department": "G&A",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/998076e6-115b-455b-84e0-e6b86c4c9891",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Order Operations Associate, IT equipment shipping | Netherlands, On-site",
+      "department": "COGS",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://jobs.ashbyhq.com/deel/11a5b67b-561f-4451-aa4c-7d580976d001",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Fulfilment Operations Associate | Netherlands, On-site",
+      "department": "COGS",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://jobs.ashbyhq.com/deel/25a45d5e-42db-4c21-8bb1-3ed36fc01b66",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Shipping Assistant, IT Equipment | Netherlands, On-site",
+      "department": "COGS",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://jobs.ashbyhq.com/deel/1836bb9e-df8d-47e8-9a29-f97af270871b",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Fulfilment Centre Associate, IT equipment | Amsterdam, On-site",
+      "department": "COGS",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://jobs.ashbyhq.com/deel/a9f6d5e0-067f-43d1-a9c0-d26f64469c12",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Warehouse Associate, IT equipment | Amsterdam, On-site",
+      "department": "COGS",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://jobs.ashbyhq.com/deel/10bfeab7-ac9d-469c-86de-aacebddce4dd",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Director, Credit Risk and Analytics",
+      "department": "G&A",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/1a23dd2e-074c-456c-9866-0d59306ad6a9",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative, Enterprise | UKI",
+      "department": "S&M",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/685086b8-2a42-4211-91e6-2e11f41e33b7",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Risk Analyst - Operational Risk Management",
+      "department": "G&A",
+      "location": "Brazil",
+      "url": "https://jobs.ashbyhq.com/deel/cd3ae31d-a3b1-451b-9c0d-1022b8379785",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Risk Analyst - Enterprise Risk Management",
+      "department": "G&A",
+      "location": "Argentina",
+      "url": "https://jobs.ashbyhq.com/deel/05695b1d-3b36-49d5-8738-70d79ce3687e",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Web Tracking Analyst, Marketing",
+      "department": "R&D",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/dc1acf90-bf72-488a-9737-c06a155b26e8",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Team Lead, Payroll Regulatory Compliance | EMEA",
+      "department": "R&D",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/778bd6ac-b341-4bbb-b66d-668e4ea3dd5b",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Back-End/Infra Engineer (Kubernetes / Node.js)",
+      "department": "R&D",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/51d0d9a4-1f45-4225-ad1e-36b8beafb079",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Backend Engineer, Node.js + AWS",
+      "department": "R&D",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/5f5720f2-fa75-41d3-862a-bf3c1a6bb1fd",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Global Country Expansion Manager",
+      "department": "R&D",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/ac6e6add-eaef-4d5b-99b1-090f3f6c2a2d",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Associate | Germany",
+      "department": "COGS",
+      "location": "Hungary",
+      "url": "https://jobs.ashbyhq.com/deel/c7b9fb5a-a427-4ea0-8492-0fea8b222752",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, Expansion, SMB | Israel",
+      "department": "S&M",
+      "location": "Israel",
+      "url": "https://jobs.ashbyhq.com/deel/ff97cf65-383e-4e4b-b24b-b42b1a81add2",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Full Stack Engineer",
+      "department": "R&D",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/c6492fda-ddca-4ea1-b13a-1195ec6b2658",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "GM, Korea",
+      "department": "S&M",
+      "location": "South Korea",
+      "url": "https://jobs.ashbyhq.com/deel/4d0b506c-8a4a-4438-81ca-9d418ded98bb",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Associate | Colombia",
+      "department": "COGS",
+      "location": "Colombia",
+      "url": "https://jobs.ashbyhq.com/deel/03526007-94f8-4e21-a208-f55d26228ae6",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Payroll Associate | France",
+      "department": "COGS",
+      "location": "France",
+      "url": "https://jobs.ashbyhq.com/deel/bce098af-153c-4752-96e6-6968c135ff05",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative, SMB | CEE",
+      "department": "S&M",
+      "location": "Czech Republic",
+      "url": "https://jobs.ashbyhq.com/deel/82dde381-45d8-4afd-a555-fe08ca13086f",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Product Manager - Payroll Expansion | EMEA / APAC",
+      "department": "R&D",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/ce5e7787-4ad1-47ff-9fe5-111b77f71c94",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Full Stack Engineer (React, Node.js)",
+      "department": "R&D",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/f677f26e-a10a-40e4-a3f5-8fdcbec54aca",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Solutions Engineer, Global Payroll | APAC",
+      "department": "S&M",
+      "location": "APAC",
+      "url": "https://jobs.ashbyhq.com/deel/28f41f54-ffac-4cb3-9c74-040979439550",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, SMB | APAC",
+      "department": "S&M",
+      "location": "Hong Kong",
+      "url": "https://jobs.ashbyhq.com/deel/f4a0bbfd-2ea7-41a1-a64c-bbdabe44cce8",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Compliance Officer, EU",
+      "department": "G&A",
+      "location": "Belgium",
+      "url": "https://jobs.ashbyhq.com/deel/a4f3beed-ec40-42c6-a684-26bb5366a995",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Full Stack Engineer",
+      "department": "R&D",
+      "location": "India",
+      "url": "https://jobs.ashbyhq.com/deel/64dfc3b2-a0c5-4ad5-9d35-992d3d76edda",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Payroll Solution Designer (Business Analyst)",
+      "department": "R&D",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/94c45950-a2e3-4dd7-bfdb-c462f37715d0",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Business Analysis and Control Associate",
+      "department": "G&A",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/5f60b932-e06b-4f11-b5a5-d9b59acebd49",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative | Japan",
+      "department": "S&M",
+      "location": "Japan",
+      "url": "https://jobs.ashbyhq.com/deel/c0af44a5-7e40-4bf3-9d74-6a888ff2b5b9",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Customer for Life Consultant | South Africa",
+      "department": "Local Payroll",
+      "location": "South Africa",
+      "url": "https://jobs.ashbyhq.com/deel/7b3b4de3-414d-4ae6-8a14-1d3581bd2019",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Team Lead, Solution Designer",
+      "department": "R&D",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/53dbdff2-d877-4e29-9f36-35ae62c01136",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Ghostbuster, Growth & GTM",
+      "department": "S&M",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/1f6dc6b5-e465-4832-9254-b1abe93afcad",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Product Manager",
+      "department": "R&D",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/62363600-a23b-42ab-9267-fe8c78265632",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Staff Product Manager",
+      "department": "R&D",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/07e80be5-d69c-4299-8d8d-f4d574159ced",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Risk Analyst - Enterprise Risk Management",
+      "department": "G&A",
+      "location": "Poland",
+      "url": "https://jobs.ashbyhq.com/deel/9582382a-af69-4978-94ed-6a9ac8d2100d",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Treasury Manager",
+      "department": "G&A",
+      "location": "USA",
+      "url": "https://jobs.ashbyhq.com/deel/36262bec-6f0f-496c-9c1d-742772bc4fb9",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Staff Product Designer, Web3",
+      "department": "R&D",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/8a98b20e-d4bf-46e1-81c9-fb886fd83338",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Associate Director, Payroll Implementation",
+      "department": "COGS",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/5ffd5dfd-3134-4c9c-9ea0-7dbc1650bc33",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "VP of Enablement",
+      "department": "COGS",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/d2fce000-9fc2-4d4c-be2a-0d04ef798bac",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Customer Success Manager II | AUS Payroll",
+      "department": "COGS",
+      "location": "APAC",
+      "url": "https://jobs.ashbyhq.com/deel/e0cfa2bf-205c-4162-aaab-d01731d268d1",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Director, Product",
+      "department": "R&D",
+      "location": "APAC",
+      "url": "https://jobs.ashbyhq.com/deel/ff3b0a75-4eec-4490-8a1e-1e632228e410",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "department": "R&D",
+      "location": "India",
+      "url": "https://jobs.ashbyhq.com/deel/45861dfa-7ea9-4bfc-a9ca-6e7a69080137",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Product Manager - Payroll Expansion | EMEA / APAC",
+      "department": "R&D",
+      "location": "APAC",
+      "url": "https://jobs.ashbyhq.com/deel/d7c7ebcd-abb7-4f50-a07d-07b3049d9689",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, PEO | EMEA",
+      "department": "S&M",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/c615b579-ae1c-474a-b93c-578131989f6b",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, Astute Payroll",
+      "department": "S&M",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/108ba32c-3c25-4817-b12e-ab5c27306744",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative, Mid-Market | DACH",
+      "department": "S&M",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/43983943-798e-4adf-939a-0d3cb8f8aa22",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative, SMB | Italy",
+      "department": "S&M",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/c763be4c-50b2-403a-8130-8ed6d5fb9926",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative, Deel IT | UKI",
+      "department": "S&M",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/ea717ce3-8d03-48d9-b8f2-6cd6e68ce31a",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Expert  |  Colombia",
+      "department": "COGS",
+      "location": "Colombia",
+      "url": "https://jobs.ashbyhq.com/deel/ee072aeb-77c1-4eac-8b29-f5cf10070eac",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Team Lead, Payroll Operations | Czech Republic & Slovakia",
+      "department": "COGS",
+      "location": "Czech Republic",
+      "url": "https://jobs.ashbyhq.com/deel/8ad28cc6-d110-4841-8145-901f4412d9d8",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, Enterprise | North America",
+      "department": "S&M",
+      "location": "North America",
+      "url": "https://jobs.ashbyhq.com/deel/3bcab9fe-d314-43fa-8491-8bebde9a21d4",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Cloud Partner Manager",
+      "department": "S&M",
+      "location": "USA",
+      "url": "https://jobs.ashbyhq.com/deel/49c855de-a1e3-4948-abb5-1c71ec65fc7d",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Partnerships Manager | DACH",
+      "department": "S&M",
+      "location": "Germany",
+      "url": "https://jobs.ashbyhq.com/deel/8008dfa3-1115-4566-947e-39ad1e63a73d",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative, Mid-Market | France",
+      "department": "S&M",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/cdc134d8-9973-4e75-a82d-6041bca88af7",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Manager, SDR, SMB | UKI",
+      "department": "S&M",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/ebdeb0a7-187f-4d45-af7a-51eb48ef0191",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Ghostbuster",
+      "department": "COGS",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/b168b5dd-f4f9-4586-be56-d2026bcd5352",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Implementation Manager | German Payroll, EMEA",
+      "department": "COGS",
+      "location": "Germany",
+      "url": "https://jobs.ashbyhq.com/deel/49f69941-c3f6-42ae-9859-8c11ec80dc7a",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, Expansion SMB I LATAM",
+      "department": "S&M",
+      "location": "Chile",
+      "url": "https://jobs.ashbyhq.com/deel/9c3c403d-3045-4d48-98ef-7deeebd57e50",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Customer Success Manager | Benelux",
+      "department": "COGS",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/ec0fafd1-af5c-477a-bf29-a3c58f2dab29",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Manager, SDR, SMB | DACH",
+      "department": "S&M",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/9fd55d53-be2e-4985-8631-fc6c178d1daf",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative, Mid-Market | UKI",
+      "department": "S&M",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/a37f2e4b-4cf9-423c-a0fb-196334f1463c",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative, Enterprise | France",
+      "department": "S&M",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/358d8713-3a7a-49ef-a968-7946b47a8d9b",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Customer Onboarding Manager | EMEA",
+      "department": "COGS",
+      "location": "Poland",
+      "url": "https://jobs.ashbyhq.com/deel/3104f657-788b-400d-8429-7afa5bc29d4c",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Lead Product Designer (Fintech)",
+      "department": "R&D",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/2d8abd4e-6d47-4c0d-b022-f7f3c7fe6611",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative, Deel IT | ANZ",
+      "department": "S&M",
+      "location": "Australia",
+      "url": "https://jobs.ashbyhq.com/deel/3af9520d-91fc-49cf-82f6-341fff061f13",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Equity Tax Counsel",
+      "department": "G&A",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/4b1fa52f-c9c0-41cc-b2dc-051b59c4503a",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative, Enterprise | Nordics",
+      "department": "S&M",
+      "location": "Norway",
+      "url": "https://jobs.ashbyhq.com/deel/510d89ca-2873-44b1-9865-404e0ad6f83f",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative, Mid-Market | Nordics",
+      "department": "S&M",
+      "location": "Norway",
+      "url": "https://jobs.ashbyhq.com/deel/241c3383-950a-451e-bab1-fd0adfc1e2fe",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior HR Implementation Manager",
+      "department": "COGS",
+      "location": "North America",
+      "url": "https://jobs.ashbyhq.com/deel/2b21f9c6-565a-4c20-9fca-6f5f917b0acd",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Manager, SMB | ANZ",
+      "department": "S&M",
+      "location": "Australia",
+      "url": "https://jobs.ashbyhq.com/deel/2c5d5e38-9f2a-430b-8e30-53d43c3587db",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Manager, Sales Development, SMB | North America",
+      "department": "S&M",
+      "location": "North America",
+      "url": "https://jobs.ashbyhq.com/deel/c654f5b9-159a-4373-baba-784075c54e8a",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, MM | ANZ",
+      "department": "S&M",
+      "location": "Australia",
+      "url": "https://jobs.ashbyhq.com/deel/9e349566-66b2-4cb6-8a13-f41311aed7c1",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, Deel IT - Mid-Market",
+      "department": "S&M",
+      "location": "LATAM",
+      "url": "https://jobs.ashbyhq.com/deel/d8340f54-463f-4c9a-b086-296c676bc143",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Manager, SDR, SMB | Southern Europe",
+      "department": "S&M",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/c2fbc022-e44f-4d96-acd7-56ab7a4141ae",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Team Lead, Engineering, Node.js",
+      "department": "R&D",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/dfc3b223-9114-4721-a40e-941e34c0dc85",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Treasury Risk Analyst",
+      "department": "G&A",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/51411610-e98a-4723-b380-a0bc4544cfb2",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Customer Success Manager II | AUS",
+      "department": "COGS",
+      "location": "Australia",
+      "url": "https://jobs.ashbyhq.com/deel/a97a6943-4f32-4e44-a119-2f985a4e2d36",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Partnerships Manager | GCC",
+      "department": "S&M",
+      "location": "United Arab Emirates",
+      "url": "https://jobs.ashbyhq.com/deel/b5c27f58-f579-4a81-a2a5-86b8ca8f1c87",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Workday Integration Consultant",
+      "department": "COGS",
+      "location": "North America",
+      "url": "https://jobs.ashbyhq.com/deel/c4b52c6a-982c-4f85-b7b8-dafe81bd03a6",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Associate |  Norway",
+      "department": "COGS",
+      "location": "Norway",
+      "url": "https://jobs.ashbyhq.com/deel/8122009a-0ddf-4968-a41d-0ad5917ce50a",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, Whitelabel",
+      "department": "S&M",
+      "location": "USA",
+      "url": "https://jobs.ashbyhq.com/deel/4b46b352-ae6b-4c44-aa9d-defcdf13ae6a",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, Mid-Market | North America",
+      "department": "S&M",
+      "location": "USA",
+      "url": "https://jobs.ashbyhq.com/deel/19edf0ba-b735-421b-a22c-b11e6734e282",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, PEO | North America",
+      "department": "S&M",
+      "location": "USA",
+      "url": "https://jobs.ashbyhq.com/deel/48672362-3741-4031-ab39-0262ff4795c9",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative, Mid-Market | Benelux",
+      "department": "S&M",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/0460d59b-61aa-479f-b45e-b98d67ea1aff",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, Expansion, SMB | UK&I",
+      "department": "S&M",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/6bccf2e0-07fe-455c-89fd-f73486d96732",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Country Finance Manager | Thailand",
+      "department": "G&A",
+      "location": "Thailand",
+      "url": "https://jobs.ashbyhq.com/deel/fae07601-7006-4a22-90e9-364292325221",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative Expansion, SMB | Benelux",
+      "department": "S&M",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/d4af5a77-b3e3-4437-b12f-c4e176336c16",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Data Scientist",
+      "department": "R&D",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/9b6eff6c-9be5-4b58-88c7-e66af0fada3c",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Client Account Executive, Mid-Market",
+      "department": "S&M",
+      "location": "USA",
+      "url": "https://jobs.ashbyhq.com/deel/f2af85f3-54b4-47e1-a806-107cfeb668c9",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Tax Manager",
+      "department": "G&A",
+      "location": "USA",
+      "url": "https://jobs.ashbyhq.com/deel/8ff415df-beb9-49ed-8d8b-646f9ba93215",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, SMB | France",
+      "department": "S&M",
+      "location": "France",
+      "url": "https://jobs.ashbyhq.com/deel/4e388a15-b160-4f79-b4f6-ca794d95b6af",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Channel Account Executive | APAC",
+      "department": "S&M",
+      "location": "APAC",
+      "url": "https://jobs.ashbyhq.com/deel/5ce33d57-e285-4af9-9a72-4d7e72018ceb",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Immigration Specialist | US",
+      "department": "COGS",
+      "location": "LATAM",
+      "url": "https://jobs.ashbyhq.com/deel/3c8cdce9-fcbe-4066-8d16-08e4c088e433",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, Expansion, Mid-Market | France",
+      "department": "S&M",
+      "location": "France",
+      "url": "https://jobs.ashbyhq.com/deel/f00c3716-a63b-4418-9e86-6c47fafa309b",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Solutions Engineer - Deel IT",
+      "department": "S&M",
+      "location": "North America",
+      "url": "https://jobs.ashbyhq.com/deel/da7dad63-613d-4255-bded-290a2724d9c2",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Operations Manager, Payroll Solutions | EMEA",
+      "department": "COGS",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/30f13587-3e23-4fe7-8111-55548fc1dd53",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Staff Product Manager, Immigration",
+      "department": "R&D",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/c5c4fed9-dd50-4477-9148-59ce9cebc0fc",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "General Manager, White Label",
+      "department": "COGS",
+      "location": "North America",
+      "url": "https://jobs.ashbyhq.com/deel/c20aa813-dbdf-4bf6-9aee-c67abb72d2b3",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, Mid-Market | CEE & Baltics",
+      "department": "S&M",
+      "location": "Poland",
+      "url": "https://jobs.ashbyhq.com/deel/4eb5c626-c739-4eaa-b110-5dda80beb45e",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Manager, Account Executive, Mid-Market | Nordics",
+      "department": "S&M",
+      "location": "Sweden",
+      "url": "https://jobs.ashbyhq.com/deel/cfdac9cf-0dbe-4581-a7ba-69272a288c6b",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Customer Onboarding Manager, Mid-Market | French speaking",
+      "department": "COGS",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/5a219694-7a4e-4fb8-8a51-0a1299cd1666",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Customer Success Manager, ENT | Spanish speaking",
+      "department": "COGS",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/90779118-50a4-4335-8a72-e3e333497bef",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Manager, Account Executive Expansion, SMB",
+      "department": "S&M",
+      "location": "Mexico",
+      "url": "https://jobs.ashbyhq.com/deel/ae9b9447-c59a-4f74-a5b5-66bf09298794",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, SMB | Benelux",
+      "department": "S&M",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/77c8148b-5db3-4075-878e-1e10b8398262",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "VC Partnerships Manager",
+      "department": "S&M",
+      "location": "Brazil",
+      "url": "https://jobs.ashbyhq.com/deel/1fe7dc19-2071-441b-9d29-0fd7edc09c5a",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Global Corporate Services Specialist",
+      "department": "G&A",
+      "location": "Indonesia",
+      "url": "https://jobs.ashbyhq.com/deel/9931e48f-7c2c-4229-b24d-7e071e900226",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Global Corporate Services Specialist",
+      "department": "G&A",
+      "location": "LATAM",
+      "url": "https://jobs.ashbyhq.com/deel/99429c4f-b153-41cb-b8d3-03aa72cf7235",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Associate |  US",
+      "department": "COGS",
+      "location": "USA",
+      "url": "https://jobs.ashbyhq.com/deel/0ca1bd33-21c3-4488-8826-c1d3593c8fb1",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Data Analyst, Sales",
+      "department": "R&D",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/4b97c6b3-53b9-4680-8392-e9cc5f66c0fc",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Associate | Germany",
+      "department": "COGS",
+      "location": "Germany",
+      "url": "https://jobs.ashbyhq.com/deel/90681216-b3ef-4688-8016-c1d70b8c6862",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Associate Director, US Tax Operations",
+      "department": "COGS",
+      "location": "USA",
+      "url": "https://jobs.ashbyhq.com/deel/48160bf9-b680-4b89-a2dd-3348c8a74029",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative Expansion, SMB | South Europe",
+      "department": "S&M",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/60604ec0-aae6-4b45-8083-45d2cacc4774",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative Expansion, Mid-Market | DACH",
+      "department": "S&M",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/e7e97b42-eb2a-4fed-87d8-0f9c3c2c31dc",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative, SMB | Nordics",
+      "department": "S&M",
+      "location": "Denmark",
+      "url": "https://jobs.ashbyhq.com/deel/711afa42-4972-49f9-9585-d8da165ed3fa",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Global Corporate Services Specialist",
+      "department": "G&A",
+      "location": "Indonesia",
+      "url": "https://jobs.ashbyhq.com/deel/d7d58c66-6ba1-4162-915e-10f5cf1e7d1f",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Payroll Associate | US (Based in India/Philippines)",
+      "department": "COGS",
+      "location": "India",
+      "url": "https://jobs.ashbyhq.com/deel/aa5bc77a-63b7-44a9-b22c-a14a68d78db1",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Associate |  US (Based in India/Philippines)",
+      "department": "COGS",
+      "location": "India",
+      "url": "https://jobs.ashbyhq.com/deel/2c482852-014d-4e5a-875b-fea06a7be2c9",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Immigration Specialist | Australia",
+      "department": "COGS",
+      "location": "Australia",
+      "url": "https://jobs.ashbyhq.com/deel/a376fda3-b468-44a2-b5db-3a0129e9753c",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Product Marketing Manager - Deel IT",
+      "department": "S&M",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/e3c86ba4-a9ff-454d-9a3f-4317f48b9ea6",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Systems Engineer",
+      "department": "R&D",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/382a8410-39c1-4118-afe1-8a2b5bce29ea",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Information Security Engineer",
+      "department": "R&D",
+      "location": "APAC",
+      "url": "https://jobs.ashbyhq.com/deel/5694336f-09a4-4452-8aec-b71a1d929adf",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Product Operations Manager, Deel IT",
+      "department": "COGS",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/f9a4fce0-4844-4c2e-8325-535d5e76fc8b",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Compliance Officer | UAE",
+      "department": "G&A",
+      "location": "United Arab Emirates",
+      "url": "https://jobs.ashbyhq.com/deel/5936f5b7-1b23-4440-bf75-960b8be9971a",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Payroll Associate, Japan Payroll | Japan",
+      "department": "COGS",
+      "location": "Japan",
+      "url": "https://jobs.ashbyhq.com/deel/d95009e4-bb82-445b-9c2e-ed2a9c2cd793",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Data Engineer",
+      "department": "R&D",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/a4166891-6f38-44af-b902-d342e903aac8",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Customer Success Manager",
+      "department": "COGS",
+      "location": "Mexico",
+      "url": "https://jobs.ashbyhq.com/deel/845e24f5-a75d-441e-91b8-aae1c03e59ca",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Backend Engineer, Node.js/Typescript",
+      "department": "R&D",
+      "location": "LATAM",
+      "url": "https://jobs.ashbyhq.com/deel/4d3b19eb-72cf-431f-ab54-8e9bb3d422bb",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Health & Safety Associate",
+      "department": "G&A",
+      "location": "North America",
+      "url": "https://jobs.ashbyhq.com/deel/692c0d88-9eb4-4b93-9041-28211e76d580",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Channel Sales Development Representative",
+      "department": "S&M",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/2e9c1d37-91ac-42fb-9eb9-46235fe2e281",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Channel Sales Development Representative, Private Equity",
+      "department": "S&M",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/2fc62a60-5618-4372-a2ed-df9605609364",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Marketplace Operations Manager EMEA",
+      "department": "S&M",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/c4a8575d-31c2-4ea0-9b87-fa1913e0aa51",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Staff Product Manager, Knowledge",
+      "department": "R&D",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/5b04adf2-36b6-4675-bf98-e3af39906552",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative - Channel Sales | APAC",
+      "department": "S&M",
+      "location": "Singapore",
+      "url": "https://jobs.ashbyhq.com/deel/d4a75a39-631e-46bb-a940-697131d2a7e2",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Customer Onboarding Manager | Japanese speaking",
+      "department": "COGS",
+      "location": "APAC",
+      "url": "https://jobs.ashbyhq.com/deel/29169761-9128-4cc3-9775-e3d029285bbd",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Customer Onboarding Manager | Thai speaking",
+      "department": "COGS",
+      "location": "APAC",
+      "url": "https://jobs.ashbyhq.com/deel/aeccd651-d6ac-4291-a017-76e6f635fd5e",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Associate Legal Counsel",
+      "department": "G&A",
+      "location": "Netherlands",
+      "url": "https://jobs.ashbyhq.com/deel/f86022f4-4296-44f5-b6bb-b7a764e77a90",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, SMB | UK&I",
+      "department": "S&M",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/e693dbc9-3059-42c1-9326-339a90be0f49",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, MM | Benelux",
+      "department": "S&M",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/07316a84-aa35-4960-9c62-d6539ba7e3a4",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive Deel IT - SMB ANZ",
+      "department": "S&M",
+      "location": "Australia",
+      "url": "https://jobs.ashbyhq.com/deel/46bb96d8-73c2-4fd0-9cd6-c2461d478428",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive Deel IT - SMB ANZ",
+      "department": "S&M",
+      "location": "Australia",
+      "url": "https://jobs.ashbyhq.com/deel/f6c9c963-debb-490e-b18f-edaa3761b8ac",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative, ENT | ANZ",
+      "department": "S&M",
+      "location": "Australia",
+      "url": "https://jobs.ashbyhq.com/deel/a80f391e-c1fe-4f76-adb9-96777355f578",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "IT Team Lead | EMEA (or 5 am GMT-3)",
+      "department": "R&D",
+      "location": "Turkey",
+      "url": "https://jobs.ashbyhq.com/deel/697e6b4f-1814-4179-9416-84071c3668ad",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Expert | Czech Republic",
+      "department": "COGS",
+      "location": "Czech Republic",
+      "url": "https://jobs.ashbyhq.com/deel/b3ba8d15-8290-4117-b022-5ed483f987da",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Country Finance Manager",
+      "department": "G&A",
+      "location": "New Zealand",
+      "url": "https://jobs.ashbyhq.com/deel/bf9034ff-5bc2-4ffb-ae88-b0767811a6ff",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Payroll Associate | Serbia",
+      "department": "COGS",
+      "location": "Serbia",
+      "url": "https://jobs.ashbyhq.com/deel/e530da30-6352-4570-9ee4-9e83ff2dcfec",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Legal Counsel, Immigration (US/CAN)",
+      "department": "G&A",
+      "location": "North America",
+      "url": "https://jobs.ashbyhq.com/deel/1ab1540c-20f7-4fb7-a88b-acd7888ccd06",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Implementation Manager | Netherlands",
+      "department": "COGS",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/8639877b-73d4-43f5-8c8c-4819fe6db721",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive I, SMB",
+      "department": "S&M",
+      "location": "Colombia",
+      "url": "https://jobs.ashbyhq.com/deel/7e0eddfe-f030-4ab3-9ff3-9426207664be",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Payroll Associate | Netherlands",
+      "department": "COGS",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/94a60ee8-ec9a-4cf8-b4d7-544ff58565b8",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Associate |  Denmark",
+      "department": "COGS",
+      "location": "Denmark",
+      "url": "https://jobs.ashbyhq.com/deel/4180e2cc-1344-4ef5-ade9-8bb7d667f2bd",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Accountant I | Japan",
+      "department": "G&A",
+      "location": "Japan",
+      "url": "https://jobs.ashbyhq.com/deel/8c251f7e-45d6-422d-ac2e-31428ab56e40",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Accountant I | Philippines",
+      "department": "G&A",
+      "location": "Philippines",
+      "url": "https://jobs.ashbyhq.com/deel/021f6aef-0bed-4503-b143-10a05f013467",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Associate |  Poland",
+      "department": "COGS",
+      "location": "Poland",
+      "url": "https://jobs.ashbyhq.com/deel/8a3bd9b6-6e78-49ba-a70f-0232ecc331f5",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Associate | Sweden",
+      "department": "COGS",
+      "location": "Sweden",
+      "url": "https://jobs.ashbyhq.com/deel/dfa6323b-10b4-4e67-96b7-6517584afa47",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Talent Acquisition Specialist",
+      "department": "G&A",
+      "location": "USA",
+      "url": "https://jobs.ashbyhq.com/deel/6f79e71c-ce13-4ca0-98d2-01b9a45fef55",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Expert |",
+      "department": "COGS",
+      "location": "Mexico",
+      "url": "https://jobs.ashbyhq.com/deel/b891ea40-3a3a-45f9-9e2a-204cafa8396e",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "SAP Strategic Partnerships Manager | DACH",
+      "department": "S&M",
+      "location": "Germany",
+      "url": "https://jobs.ashbyhq.com/deel/8428194d-84ea-4687-9256-aadae17fa57e",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Expert | Netherlands",
+      "department": "COGS",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/c17a0203-b9e4-45ac-bf58-b3964dc614bf",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Talent Acquisition Specialist, Revenue",
+      "department": "G&A",
+      "location": "India",
+      "url": "https://jobs.ashbyhq.com/deel/11f43719-2c4e-4de5-be70-edac0ee3eade",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, Deel IT, Mid-Market",
+      "department": "S&M",
+      "location": "USA",
+      "url": "https://jobs.ashbyhq.com/deel/8e31e533-0bd0-4224-8e36-92856c1ee7a7",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative ENT | LATAM",
+      "department": "S&M",
+      "location": "Mexico",
+      "url": "https://jobs.ashbyhq.com/deel/a76aeb6f-6972-4b6a-946a-880e42395759",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Payroll Associate | Italy",
+      "department": "COGS",
+      "location": "Italy",
+      "url": "https://jobs.ashbyhq.com/deel/1c9ec9b4-0116-493e-81ff-01ee4efc2305",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "CPQ Administrator",
+      "department": "COGS",
+      "location": "LATAM",
+      "url": "https://jobs.ashbyhq.com/deel/e7a94b2f-55f0-414c-a5da-58c2ab1250db",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "HR Experience Specialist | Portugal",
+      "department": "COGS",
+      "location": "Portugal",
+      "url": "https://jobs.ashbyhq.com/deel/206630d6-e9b8-4d0e-8453-66ed69678b28",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Partnerships Manager | APAC",
+      "department": "S&M",
+      "location": "Singapore",
+      "url": "https://jobs.ashbyhq.com/deel/501e2562-54b0-4882-82ef-8d593d943d33",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive Expansion - SMB  | ANZ",
+      "department": "S&M",
+      "location": "Australia",
+      "url": "https://jobs.ashbyhq.com/deel/210ff752-2a86-468e-874f-fe3493b7ffc9",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Associate | Slovakia",
+      "department": "COGS",
+      "location": "Slovakia",
+      "url": "https://jobs.ashbyhq.com/deel/2d7d0340-60f9-47c7-9c83-620cb423c068",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Head of Social",
+      "department": "Sourcing",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/c50c46e8-9c02-41bc-884e-aef6f5a12053",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Paid Search Manager | French speaking",
+      "department": "S&M",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/8f7c9dfc-d8b7-4505-ab9f-1cda2b3a0f74",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Paid Search Manager",
+      "department": "S&M",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/1be32548-d015-4a3f-ad1f-c07cfedcce0f",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Business Operations Manager, Payroll Strategy | EMEA",
+      "department": "COGS",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/f44a65e7-7471-454a-a6f4-959c9d6815e7",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative, Whitelabel Sales",
+      "department": "S&M",
+      "location": "Norway",
+      "url": "https://jobs.ashbyhq.com/deel/860b1188-68a0-4c22-81df-ce98653626b3",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "IT Support Technician | EMEA (Monday to Friday)",
+      "department": "R&D",
+      "location": "South Africa",
+      "url": "https://jobs.ashbyhq.com/deel/e6215710-c826-4923-b358-030de88e399c",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Associate Strategic Corporate Development Director",
+      "department": "G&A",
+      "location": "North America",
+      "url": "https://jobs.ashbyhq.com/deel/1d6939eb-93c8-49b4-821c-4b92b6941ab6",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Global Senior Payroll Associate",
+      "department": "G&A",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/2baa3452-23ed-419b-bd67-83b3b302f28a",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Legal Counsel | Brazil",
+      "department": "G&A",
+      "location": "Brazil",
+      "url": "https://jobs.ashbyhq.com/deel/469d5c99-02cd-45ec-904d-028054dfbaac",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Manager, Customer Success - Enterprise",
+      "department": "COGS",
+      "location": "USA",
+      "url": "https://jobs.ashbyhq.com/deel/f75b6b86-4e90-4c16-8b18-bf9b49285b33",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Channel Account Executive, Broker Partnerships",
+      "department": "S&M",
+      "location": "USA",
+      "url": "https://jobs.ashbyhq.com/deel/abf43533-0058-466f-9ce4-4e1caae722fd",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Compensation Manager",
+      "department": "COGS",
+      "location": "LATAM",
+      "url": "https://jobs.ashbyhq.com/deel/b80af4a2-1659-445f-8b99-100f2ca60d31",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, Enterprise | UKI",
+      "department": "S&M",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/5ddc471a-f285-4462-99cd-11cf023b8cc8",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Solutions Engineer | North America",
+      "department": "S&M",
+      "location": "North America",
+      "url": "https://jobs.ashbyhq.com/deel/49307b09-116c-47ce-844a-04056d5147c1",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Expert |  Panama",
+      "department": "COGS",
+      "location": "Panama",
+      "url": "https://jobs.ashbyhq.com/deel/01678295-ea02-4b59-987f-cd1322072476",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Solutions Engineer, Global Payroll | Mandarin speaking",
+      "department": "S&M",
+      "location": "APAC",
+      "url": "https://jobs.ashbyhq.com/deel/6a373da7-c002-4f18-abdd-cba7861ebb8a",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Manager, Customer Success | EMEA",
+      "department": "COGS",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/ec70567e-9540-46e2-a48b-11a0402e3255",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "HR Experience Specialist | LATAM",
+      "department": "COGS",
+      "location": "LATAM",
+      "url": "https://jobs.ashbyhq.com/deel/a6447351-59e9-49dd-a51f-f8b92860bbaa",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "HR Experience Specialist | Germany",
+      "department": "COGS",
+      "location": "Germany",
+      "url": "https://jobs.ashbyhq.com/deel/57f0b8d4-963b-4112-bf8d-24ba60025de5",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "HR Experience Specialist | Poland",
+      "department": "COGS",
+      "location": "Poland",
+      "url": "https://jobs.ashbyhq.com/deel/0377a74d-7cca-4303-8f80-22d4f3a09c46",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, SMB | DACH",
+      "department": "S&M",
+      "location": "Germany",
+      "url": "https://jobs.ashbyhq.com/deel/da47df84-964f-44ef-a768-99a00c5148cd",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "HR Experience Specialist | Israel",
+      "department": "COGS",
+      "location": "Israel",
+      "url": "https://jobs.ashbyhq.com/deel/28bb5ccd-8110-4bc1-98e3-e3468be4be2f",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "HR Experience Specialist | Bulgaria",
+      "department": "COGS",
+      "location": "Bulgaria",
+      "url": "https://jobs.ashbyhq.com/deel/dbe0d31a-37af-4f5c-afba-5f8d3cd7edbe",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "HR Experience Specialist | UK & Ireland",
+      "department": "COGS",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/8a9f5f29-258e-4750-8070-eda66a26d9d4",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Immigration Consultant | Germany",
+      "department": "COGS",
+      "location": "Germany",
+      "url": "https://jobs.ashbyhq.com/deel/5dad6755-65b3-434b-a35f-d992da5f5e65",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "PEO HR Consultant I US",
+      "department": "COGS",
+      "location": "USA",
+      "url": "https://jobs.ashbyhq.com/deel/1e89f099-4db3-49f8-aec4-85893ba40002",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Staff Product Manager, Immigration",
+      "department": "R&D",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/73502d24-d905-4e8f-b5ee-19167db3a0d9",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Payroll Associate | Poland",
+      "department": "COGS",
+      "location": "Poland",
+      "url": "https://jobs.ashbyhq.com/deel/06706ae8-452a-44dd-941f-2cc69667fc87",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, Deel IT, SMB | EMEA",
+      "department": "S&M",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/0ee7f540-c21b-4868-a906-bec56ee9c723",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Global Payroll Programs & Product Manager",
+      "department": "G&A",
+      "location": "USA",
+      "url": "https://jobs.ashbyhq.com/deel/bd56f9d0-8ea7-4c05-8522-40c3a70b25c6",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Team Lead, Engineering - Node.js | LATAM",
+      "department": "R&D",
+      "location": "Brazil",
+      "url": "https://jobs.ashbyhq.com/deel/66e8a5ab-7899-46cb-89e8-899b5287d3d1",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Implementation Manager | Brazil",
+      "department": "COGS",
+      "location": "LATAM",
+      "url": "https://jobs.ashbyhq.com/deel/ffff3b88-134b-469d-9c39-2d327676f1d7",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Implementation Manager | Mexico",
+      "department": "COGS",
+      "location": "LATAM",
+      "url": "https://jobs.ashbyhq.com/deel/4cc0546d-0969-4554-aef7-3580a83da270",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Payroll Associate, Malaysian Payroll | Malaysia",
+      "department": "COGS",
+      "location": "Malaysia",
+      "url": "https://jobs.ashbyhq.com/deel/70f6a3e4-9de4-42c6-9c66-0717105c877f",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior People Systems Analyst",
+      "department": "G&A",
+      "location": "USA",
+      "url": "https://jobs.ashbyhq.com/deel/1c3560ee-67ef-4aed-96c9-37e9bf81a21a",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior People Systems Analyst",
+      "department": "G&A",
+      "location": "USA",
+      "url": "https://jobs.ashbyhq.com/deel/495b1505-d673-4952-92f8-33d740599da5",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Frontend Engineer, React.js",
+      "department": "R&D",
+      "location": "LATAM",
+      "url": "https://jobs.ashbyhq.com/deel/168b0c3c-2df8-4aba-aebc-4eeac17a3240",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Mobile (React Native) Engineer | LATAM",
+      "department": "R&D",
+      "location": "Brazil",
+      "url": "https://jobs.ashbyhq.com/deel/28106e8a-c643-4807-9a8f-5e3dd719d4de",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Staff Product Manager - Fintech, Client Experience",
+      "department": "R&D",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/955171b2-83ce-4954-a9e9-4f4168c41630",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Staff Product Manager, Integrations",
+      "department": "R&D",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/90cb4b15-5930-40b6-ab71-eb77690a2315",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, Deel IT, ENT | EMEA",
+      "department": "S&M",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/22eaacd1-fbbe-4122-b5ed-e79dca01d829",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, Deel IT, MM | EMEA",
+      "department": "S&M",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/885790ce-d659-4674-ac90-71a1f54b8bbe",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Associate |  Mexico",
+      "department": "COGS",
+      "location": "Mexico",
+      "url": "https://jobs.ashbyhq.com/deel/09fcf9cd-8ed1-40a1-9cdf-b2be2f7d84cf",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Payroll Associate |",
+      "department": "COGS",
+      "location": "Mexico",
+      "url": "https://jobs.ashbyhq.com/deel/b440541d-d825-4045-86ff-ceba29d611d8",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Partnerships Manager | France",
+      "department": "S&M",
+      "location": "France",
+      "url": "https://jobs.ashbyhq.com/deel/2061deef-601d-4dc0-86d5-f326c7656ca6",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Talent Acquisition Specialist, Product",
+      "department": "G&A",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/a00315a1-11f3-4614-bc68-8b28ec029dcf",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Customer Success Manager | SMB UKI",
+      "department": "COGS",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/2a607890-81ed-4727-97b2-109542c373fa",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Channel Account Executive, Accounting Partnerships",
+      "department": "S&M",
+      "location": "USA",
+      "url": "https://jobs.ashbyhq.com/deel/917b268c-7998-4ad2-a91b-7075446e026c",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Manager, Solutions Consultant, PEO | NAM",
+      "department": "R&D",
+      "location": "North America",
+      "url": "https://jobs.ashbyhq.com/deel/88406175-6957-48d1-9897-f7e51767bbe4",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "SOX Compliance Specialist | US",
+      "department": "G&A",
+      "location": "USA",
+      "url": "https://jobs.ashbyhq.com/deel/17f65fdc-ed64-4408-ad7a-658a7a082e72",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Team Lead, Payroll Operations | Belgium",
+      "department": "COGS",
+      "location": "Belgium",
+      "url": "https://jobs.ashbyhq.com/deel/2bbabf90-206d-4372-9962-df321e117121",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Solutions Engineer, White Label Sales | APAC",
+      "department": "S&M",
+      "location": "APAC",
+      "url": "https://jobs.ashbyhq.com/deel/29bc8dc1-4d4d-49a1-9ec1-bd2f88c63e7e",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Systems Engineer",
+      "department": "R&D",
+      "location": "India",
+      "url": "https://jobs.ashbyhq.com/deel/005a8bd1-43d3-4a75-af0d-7dec773d8f11",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Global Head of Partnerships",
+      "department": "S&M",
+      "location": "California",
+      "url": "https://jobs.ashbyhq.com/deel/88da8cc5-b0e2-4d52-b237-6f8b93f9bf7b",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Payroll Expert, Japan Payroll | Japan",
+      "department": "COGS",
+      "location": "Japan",
+      "url": "https://jobs.ashbyhq.com/deel/d327ab38-8654-4686-a94b-8db136a2b0a0",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Payroll Associate |  Switzerland",
+      "department": "COGS",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/85ef4ded-6477-4fbe-9043-f7d941e1d67b",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior IT Support Engineer",
+      "department": "R&D",
+      "location": "Philippines",
+      "url": "https://jobs.ashbyhq.com/deel/1c30007c-2f94-4147-ad6f-3152aa873225",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Expert | Canada",
+      "department": "COGS",
+      "location": "Canada",
+      "url": "https://jobs.ashbyhq.com/deel/a32808ed-2795-4041-9962-f457b34840ce",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Team Lead, Payroll Operations | Canada",
+      "department": "COGS",
+      "location": "Canada",
+      "url": "https://jobs.ashbyhq.com/deel/dd535ed6-7325-452e-94d0-5627051efdc2",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Analytics Engineer - Product Analytics",
+      "department": "R&D",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/ef64cdd3-f5eb-4003-abcc-6822e176fca3",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative Expansion, SMB | France",
+      "department": "S&M",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/4c946a83-14d3-43f1-87e1-5b7707e79f72",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Team Lead, Enablement",
+      "department": "COGS",
+      "location": "North America",
+      "url": "https://jobs.ashbyhq.com/deel/9bac701e-fd89-4ac4-955e-6c47478e01be",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Immigration Specialist | Central Europe",
+      "department": "COGS",
+      "location": "Germany",
+      "url": "https://jobs.ashbyhq.com/deel/93416610-62f0-4b7b-a171-7e43ae28f811",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Associate, Japan Payroll | Japan",
+      "department": "COGS",
+      "location": "Japan",
+      "url": "https://jobs.ashbyhq.com/deel/6d61f6bc-ab46-4bcf-b68d-e2c623dc9263",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Associate |  Italy",
+      "department": "COGS",
+      "location": "Italy",
+      "url": "https://jobs.ashbyhq.com/deel/d33c74d9-a8a2-443a-991e-7cfd12e2dd93",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Payroll Associate | Bulgaria",
+      "department": "COGS",
+      "location": "Bulgaria",
+      "url": "https://jobs.ashbyhq.com/deel/dbecc3b8-6610-4946-81cc-ef9b3a68e6f2",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Enablement Manager",
+      "department": "COGS",
+      "location": "Canada",
+      "url": "https://jobs.ashbyhq.com/deel/f6e6ac9f-b033-49c2-a888-1e3e7274b3ae",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Channel Account Executive, Consulting Partnerships",
+      "department": "S&M",
+      "location": "USA",
+      "url": "https://jobs.ashbyhq.com/deel/c14f4605-35bc-422c-b44a-ccf3e66bc4d6",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "DevSecOps Engineer",
+      "department": "R&D",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/54310194-769a-4c4b-b045-c3f6637ef2d6",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Accounts Payable Specialist I",
+      "department": "G&A",
+      "location": "Philippines",
+      "url": "https://jobs.ashbyhq.com/deel/6560439a-7db9-454d-924e-cab44adfc080",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Backend Engineer, Node.js/Typescript",
+      "department": "R&D",
+      "location": "Brazil",
+      "url": "https://jobs.ashbyhq.com/deel/0c39e806-1ae2-4024-8480-0bfd496f7b14",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Customer Success Manager I | APAC",
+      "department": "COGS",
+      "location": "APAC",
+      "url": "https://jobs.ashbyhq.com/deel/0b810fff-859c-4b16-8444-54603dc44b5e",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Manager, Sales Development Enterprise - ANZ",
+      "department": "S&M",
+      "location": "Australia",
+      "url": "https://jobs.ashbyhq.com/deel/53ed024b-c42a-4fd5-945f-ac9437ca4c77",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Analytics Engineer (Marketing)",
+      "department": "R&D",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/39fbf3d3-e504-4db7-b490-35965e1ed26b",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Compensation Partner",
+      "department": "G&A",
+      "location": "USA",
+      "url": "https://jobs.ashbyhq.com/deel/59494f01-bae8-4e3e-8fb6-7eefa259b5d9",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, Deel IT, MM | France",
+      "department": "S&M",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/91792b9b-bdf8-4c18-8632-a44c0d92fee8",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, SMB | North America",
+      "department": "S&M",
+      "location": "North America",
+      "url": "https://jobs.ashbyhq.com/deel/8ea938bc-da61-4ea7-b5e2-a08c0b94266c",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Manager, Deel Immigration, SMB",
+      "department": "S&M",
+      "location": "North America",
+      "url": "https://jobs.ashbyhq.com/deel/e9302117-17a0-4782-b290-a38224602b7a",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Partner Development & Growth Manager",
+      "department": "S&M",
+      "location": "North America",
+      "url": "https://jobs.ashbyhq.com/deel/224d152e-b819-4f83-8b13-4484db3dbf6c",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Account Executive, SMB | Portugal",
+      "department": "S&M",
+      "location": "Portugal",
+      "url": "https://jobs.ashbyhq.com/deel/fe9e78db-120a-4b88-b3e2-6b121ccefcd6",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Operational Excellence Specialist, People Ops",
+      "department": "G&A",
+      "location": "LATAM",
+      "url": "https://jobs.ashbyhq.com/deel/39bd7808-9b01-41d6-9eca-401ba1613d7e",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Operations Manager | EMEA",
+      "department": "COGS",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/2714e67a-e8c4-4402-b2fb-1f7b0d7ff000",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Manager, Account Executive, SMB | France",
+      "department": "S&M",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/88f3dec8-375a-42fe-b2e6-202649f4b794",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Expert |  Guatemala",
+      "department": "COGS",
+      "location": "Guatemala",
+      "url": "https://jobs.ashbyhq.com/deel/a4d13237-a205-4a3b-9d5f-a5c75f729b3d",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Expert, Japan Payroll | Japan",
+      "department": "COGS",
+      "location": "Japan",
+      "url": "https://jobs.ashbyhq.com/deel/bbd3d6c3-9948-47c0-95af-2ec4caafe9b7",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Payroll Associate, Indian Payroll | India",
+      "department": "COGS",
+      "location": "India",
+      "url": "https://jobs.ashbyhq.com/deel/f6255854-a582-4c41-a1da-6edc2681a7f6",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Talent Acquisition Specialist, Operations",
+      "department": "G&A",
+      "location": "Canada",
+      "url": "https://jobs.ashbyhq.com/deel/b422b6f9-0ccd-4387-beb0-4b27e899bfb2",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Talent Acquisition Specialist, Operations",
+      "department": "G&A",
+      "location": "Canada",
+      "url": "https://jobs.ashbyhq.com/deel/45a40b43-1de2-4f29-8479-004feddb1626",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -6065,7 +8697,7 @@
     {
       "title": "Financial Planning Manager",
       "department": "Financial Planning",
-      "location": "New York, NY (Hybrid)",
+      "location": "New York, NY (Hybrid); New York, NY (Hybrid) or US-Remote",
       "url": "https://nayya.com/career?gh_jid=5809605004",
       "company": "Northstar (acquired by Nayya Health)",
       "company_website": "https://www.northstarmoney.com"
