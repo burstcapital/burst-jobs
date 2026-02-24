@@ -80,6 +80,7 @@ KNOWN_ATS = {
     "via (acquired by justworks)":            ("greenhouse", "justworks",    "https://boards.greenhouse.io/justworks"),
     "yik yak (acquired by sidechat)":         ("greenhouse", "sidechat",     "https://boards.greenhouse.io/sidechat"),
     "setter.com (acquired by thumbtack)":     ("greenhouse", "thumbtackjobs","https://boards.greenhouse.io/thumbtackjobs"),
+    "assemble (acquired by deel)":            ("ashby",      "deel",         "https://jobs.ashbyhq.com/deel"),
     "carebrain":                              ("greenhouse", "carebrain",    "https://boards.greenhouse.io/carebrain"),
     "sprx technologies":                      ("greenhouse", "sprx",         "https://boards.greenhouse.io/sprx"),
     "resq":                                   ("ashby",      "ResQ",         "https://jobs.ashbyhq.com/ResQ"),
@@ -284,11 +285,17 @@ def scrape_ashby(slug, company, fallback_url):
         try:
             r = requests.get(f"https://api.ashbyhq.com/posting-api/job-board/{try_slug}",
                              headers=HEADERS, timeout=REQUEST_TIMEOUT)
+            data = r.json()
+            # Ashby uses either 'jobPostings' or 'jobs' depending on the account
+            raw = data.get("jobPostings") or data.get("jobs") or []
             jobs = []
-            for j in r.json().get("jobPostings", []):
-                loc = j.get("locationName", "Remote" if j.get("isRemote") else "")
-                jobs.append(make_job(j.get("title", ""), j.get("departmentName", "General"),
-                                     loc, j.get("jobPostingUrl", fallback_url), company))
+            for j in raw:
+                loc = (j.get("locationName") or j.get("location") or
+                       ("Remote" if j.get("isRemote") else ""))
+                dept = (j.get("departmentName") or j.get("department") or
+                        j.get("team") or "General")
+                url = (j.get("jobPostingUrl") or j.get("jobUrl") or fallback_url)
+                jobs.append(make_job(j.get("title", ""), dept, loc, url, company))
             if jobs:
                 log.info(f"    Ashby API ({try_slug}): {len(jobs)} jobs")
                 return jobs
