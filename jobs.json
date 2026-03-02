@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T09:11:52.133095+00:00",
+  "generated_at": "2026-03-02T10:45:30.999324+00:00",
   "total_jobs": 1067,
   "total_companies": 96,
   "companies_with_jobs": 56,
@@ -102,6 +102,10 @@
     },
     {
       "name": "Airvet",
+      "reason": "no jobs page found"
+    },
+    {
+      "name": "Setter.com (acquired by Thumbtack)",
       "reason": "no jobs page found"
     }
   ],
@@ -999,6 +1003,14 @@
       "department": "General",
       "location": "London",
       "url": "https://app.ashbyhq.com/jobs/b7fe4853-bc90-41fa-89ae-6124990adbfe",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Senior UX Researcher, Handshake AlSan Francisco, CA",
+      "department": "General",
+      "location": "London",
+      "url": "https://app.ashbyhq.com/jobs/b35bc23c-a28e-493d-92d9-0bfa1200607e",
       "company": "Handshake",
       "company_website": "https://joinhandshake.com"
     },
@@ -2131,6 +2143,14 @@
       "company_website": "https://www.instawork.com"
     },
     {
+      "title": "Inter City / Inter State Field Operations Executive",
+      "department": "Robotics",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4658861006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
       "title": "Internal Coordinator",
       "department": "Robotics",
       "location": "Bengaluru, Karnataka, India",
@@ -2167,14 +2187,6 @@
       "department": "Robotics",
       "location": "San Francisco, California, United States",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4620748006",
-      "company": "Instawork",
-      "company_website": "https://www.instawork.com"
-    },
-    {
-      "title": "Mobile Developer - Instawork Robotics",
-      "department": "Robotics",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4627404006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2229,6 +2241,30 @@
     {
       "title": "Robotics AI Campus Lead",
       "department": "Product Operations",
+      "location": "Philadelphia, Pennsylvania, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652590006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
+      "title": "Robotics AI Campus Lead",
+      "department": "Product Operations",
+      "location": "Austin, Texas, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652588006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
+      "title": "Robotics AI Campus Lead",
+      "department": "Product Operations",
+      "location": "Chapel Hill, North Carolina, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652592006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
+      "title": "Robotics AI Campus Lead",
+      "department": "Product Operations",
       "location": "Monterrey, Nuevo Le\u00f3n, Mexico",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4652587006",
       "company": "Instawork",
@@ -2245,32 +2281,16 @@
     {
       "title": "Robotics AI Campus Lead",
       "department": "Product Operations",
-      "location": "Austin, Texas, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652588006",
-      "company": "Instawork",
-      "company_website": "https://www.instawork.com"
-    },
-    {
-      "title": "Robotics AI Campus Lead",
-      "department": "Product Operations",
       "location": "Atlanta, Georgia, United States",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4652589006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
     {
-      "title": "Robotics AI Campus Lead",
-      "department": "Product Operations",
-      "location": "Philadelphia, Pennsylvania, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652590006",
-      "company": "Instawork",
-      "company_website": "https://www.instawork.com"
-    },
-    {
-      "title": "Robotics AI Campus Lead",
-      "department": "Product Operations",
-      "location": "Chapel Hill, North Carolina, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652592006",
+      "title": "Senior Enterprise Account Executive",
+      "department": "Sales",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4590967006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2291,14 +2311,6 @@
       "company_website": "https://www.instawork.com"
     },
     {
-      "title": "Senior Enterprise Account Executive",
-      "department": "Sales",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4590967006",
-      "company": "Instawork",
-      "company_website": "https://www.instawork.com"
-    },
-    {
       "title": "Senior Manager, Product Operations",
       "department": "Product Operations",
       "location": "San Francisco, California, United States",
@@ -2311,6 +2323,14 @@
       "department": "People",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4625736006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
+      "title": "Senior / Staff Software Engineer",
+      "department": "Robotics",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4658858006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2333,6 +2353,14 @@
     {
       "title": "Strategic Account Manager \u2013 Enterprise Light Industrial",
       "department": "Account Management",
+      "location": "San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4607887006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
+      "title": "Strategic Account Manager \u2013 Enterprise Light Industrial",
+      "department": "Account Management",
       "location": "Chicago, Illinois, United States",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4607891006",
       "company": "Instawork",
@@ -2343,14 +2371,6 @@
       "department": "Account Management",
       "location": "New York, New York, United States",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4607892006",
-      "company": "Instawork",
-      "company_website": "https://www.instawork.com"
-    },
-    {
-      "title": "Strategic Account Manager \u2013 Enterprise Light Industrial",
-      "department": "Account Management",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4607887006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2765,7 +2785,7 @@
     {
       "title": "Account Executive",
       "department": "Sales",
-      "location": "Remote - USA",
+      "location": "Remote - USA, Hybrid - NYC",
       "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7499898003",
       "company": "GlossGenius",
       "company_website": "https://www.glossgenius.com"
@@ -4511,6 +4531,14 @@
       "department": "Product Design",
       "location": "CA Remote (BC & ON only); U.S. Remote",
       "url": "https://job-boards.greenhouse.io/webflow/jobs/7658221",
+      "company": "Carebrain",
+      "company_website": "https://www.carebrain.com"
+    },
+    {
+      "title": "Senior Sales Strategy Manager, EMEA",
+      "department": "Sales",
+      "location": "London, U.K. (Hybrid)",
+      "url": "https://job-boards.greenhouse.io/webflow/jobs/7659051",
       "company": "Carebrain",
       "company_website": "https://www.carebrain.com"
     },
@@ -6691,7 +6719,7 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Account Executive, SMB | APAC",
+      "title": "Account Executive, SMB | Greater China",
       "department": "S&M",
       "location": "Hong Kong",
       "url": "https://jobs.ashbyhq.com/deel/f4a0bbfd-2ea7-41a1-a64c-bbdabe44cce8",
@@ -6871,6 +6899,14 @@
       "department": "COGS",
       "location": "Colombia",
       "url": "https://jobs.ashbyhq.com/deel/ee072aeb-77c1-4eac-8b29-f5cf10070eac",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Accountant I | Japan",
+      "department": "G&A",
+      "location": "Japan",
+      "url": "https://jobs.ashbyhq.com/deel/8c251f7e-45d6-422d-ac2e-31428ab56e40",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -7183,14 +7219,6 @@
       "department": "S&M",
       "location": "EMEA",
       "url": "https://jobs.ashbyhq.com/deel/d4af5a77-b3e3-4437-b12f-c4e176336c16",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Senior Payroll Associate, Hong Kong Payroll | Hong Kong",
-      "department": "COGS",
-      "location": "Hong Kong",
-      "url": "https://jobs.ashbyhq.com/deel/023ac677-a58c-4317-a040-15228a1e7eca",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -7687,14 +7715,6 @@
       "department": "COGS",
       "location": "Denmark",
       "url": "https://jobs.ashbyhq.com/deel/4180e2cc-1344-4ef5-ade9-8bb7d667f2bd",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Accountant I | Japan",
-      "department": "G&A",
-      "location": "Japan",
-      "url": "https://jobs.ashbyhq.com/deel/8c251f7e-45d6-422d-ac2e-31428ab56e40",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -8315,14 +8335,6 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Accounts Payable Specialist I",
-      "department": "G&A",
-      "location": "Philippines",
-      "url": "https://jobs.ashbyhq.com/deel/6560439a-7db9-454d-924e-cab44adfc080",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
       "title": "Senior Backend Engineer, Node.js/Typescript",
       "department": "R&D",
       "location": "Brazil",
@@ -8407,14 +8419,6 @@
       "department": "G&A",
       "location": "LATAM",
       "url": "https://jobs.ashbyhq.com/deel/39bd7808-9b01-41d6-9eca-401ba1613d7e",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Senior Operations Manager | EMEA",
-      "department": "COGS",
-      "location": "Spain",
-      "url": "https://jobs.ashbyhq.com/deel/2714e67a-e8c4-4402-b2fb-1f7b0d7ff000",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
