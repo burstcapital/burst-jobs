@@ -51,7 +51,7 @@ KNOWN_ATS = {
     "ada":                           ("greenhouse", "ada18",        "https://job-boards.greenhouse.io/ada18"),
     "adquick":                       ("greenhouse", "adquick",      "https://boards.greenhouse.io/adquick"),
     "cambly":                        ("greenhouse", "cambly",       "https://boards.greenhouse.io/cambly"),
-    "curri":                         ("greenhouse", "curri",        "https://boards.greenhouse.io/curri"),
+    "curri":                         ("ashby",      "curri",        "https://jobs.ashbyhq.com/curri"),
     "glossgenius":                   ("greenhouse", "glossgenius",  "https://boards.greenhouse.io/glossgenius"),
     "hipcamp":                       ("greenhouse", "hipcamp",      "https://boards.greenhouse.io/hipcamp"),
     "owner":                         ("lever",      "owner",         "https://jobs.lever.co/owner"),
