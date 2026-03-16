@@ -40,6 +40,13 @@ JOBS_PATHS = [
     "/open-roles", "/work-with-us", "/hiring", "/openings", "/career",
 ]
 
+# Companies to skip entirely — no current openings or retired
+SKIP_COMPANIES = {
+    "prenda",
+    "optimoroute",
+    "prairie health (acquired by carbon health)",
+}
+
 # Hardcoded overrides — ONLY used when auto-detection returns nothing.
 # Key = exact company name (lowercase). Value = (ats, slug, jobs_url).
 KNOWN_ATS = {
@@ -54,7 +61,7 @@ KNOWN_ATS = {
     "curri":                         ("ashby",      "curri",        "https://jobs.ashbyhq.com/curri"),
     "glossgenius":                   ("greenhouse", "glossgenius",  "https://boards.greenhouse.io/glossgenius"),
     "hipcamp":                       ("greenhouse", "hipcamp",      "https://boards.greenhouse.io/hipcamp"),
-    "owner":                         ("lever",      "owner",         "https://jobs.lever.co/owner"),
+    "owner":                         ("ashby",      "owner",         "https://jobs.ashbyhq.com/owner"),
     "bounce":                        ("ashby_embedded", None,        "https://jobs.ashbyhq.com/Bounce"),
     "lily":                          ("greenhouse", "lilyai",       "https://boards.greenhouse.io/lilyai"),
     "medely":                        ("greenhouse", "medely",       "https://boards.greenhouse.io/medely"),
@@ -67,7 +74,7 @@ KNOWN_ATS = {
     "overflow":                      ("lever",      "overflow",     "https://jobs.lever.co/overflow"),
     "huckleberry":                   ("lever",      "huckleberry",  "https://jobs.lever.co/huckleberry"),
     "goodtime":                      ("lever",      "goodtime",     "https://jobs.lever.co/goodtime"),
-    "sourcegraph":                   ("lever",      "sourcegraph",  "https://jobs.lever.co/sourcegraph"),
+    "sourcegraph":                   ("greenhouse", "sourcegraph91", "https://boards.greenhouse.io/sourcegraph91"),
     "liftoff":                       ("lever",      "liftoff",      "https://jobs.lever.co/liftoff"),
     "trendsi":                       ("lever",      "trendsi",      "https://jobs.lever.co/trendsi"),
     "lilo":                          ("lever",      "lilo",         "https://jobs.lever.co/lilo"),
@@ -81,6 +88,9 @@ KNOWN_ATS = {
     "yik yak (acquired by sidechat)":         ("greenhouse", "sidechat",     "https://boards.greenhouse.io/sidechat"),
     "setter.com (acquired by thumbtack)":     ("greenhouse", "thumbtackjobs","https://boards.greenhouse.io/thumbtackjobs"),
     "assemble (acquired by deel)":            ("ashby",      "deel",         "https://jobs.ashbyhq.com/deel"),
+    "cut+dry":                                ("jazzhr",     "cutanddry",    "https://cutanddry.applytojob.com/apply"),
+    "commenda":                               ("commenda",   None,           "https://www.commenda.io/careers"),
+    "daisy":                                  ("careerplug", "daisy-co-careers", "https://daisy-co-careers.careerplug.com/jobs"),
     "carebrain":                              ("greenhouse", "carebrain",    "https://boards.greenhouse.io/carebrain"),
     "sprx technologies":                      ("greenhouse", "sprx",         "https://boards.greenhouse.io/sprx"),
     "resq":                                   ("ashby",      "ResQ",         "https://jobs.ashbyhq.com/ResQ"),
@@ -414,6 +424,40 @@ def scrape_rippling(slug, company, fallback_url):
     return scrape_generic(fallback_url or f"https://ats.rippling.com/{slug}/jobs", company)
 
 
+def scrape_jazzhr(slug, company, fallback_url):
+    """Scrape jobs from JazzHR (applytojob.com) via HTML parsing."""
+    url = fallback_url or f"https://{slug}.applytojob.com/apply"
+    try:
+        html = fetch_html(url)
+        if not html:
+            return []
+        soup = BeautifulSoup(html, "html.parser")
+        jobs, seen = [], set()
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+            # JazzHR job links follow pattern: /apply/SLUG/Job-Title
+            if "applytojob.com/apply/" not in href:
+                continue
+            parts = href.rstrip("/").split("/")
+            if len(parts) < 6:  # needs at least the job slug segment
+                continue
+            title = a.get_text(strip=True)
+            if not title or title in seen or len(title) < 3:
+                continue
+            seen.add(title)
+            parent = a.find_parent()
+            text = parent.get_text(" ", strip=True) if parent else ""
+            loc_m = re.search(r'\b(Remote|New York|San Francisco|Los Angeles|Austin|'
+                               r'London|Chicago|Seattle|Boston|Denver|NYC|SF)\b', text, re.I)
+            jobs.append(make_job(title, "General", loc_m.group(1) if loc_m else "",
+                                 href, company))
+        log.info(f"    JazzHR: {len(jobs)} jobs")
+        return jobs
+    except Exception as e:
+        log.warning(f"    JazzHR failed: {e}")
+        return []
+
+
 
 def scrape_yc(slug, company, fallback_url):
     """Scrape jobs from YC's company page via their JSON API."""
@@ -517,64 +561,64 @@ def scrape_generic(jobs_url, company):
     return jobs[:200]
 
 
-def scrape_generic(jobs_url, company):
-    if not jobs_url:
-        return []
-    html = fetch_html(jobs_url, use_playwright=True)
-    if not html:
-        return []
-    if "ashby_jid=" in html:
-        return scrape_ashby_embedded(jobs_url, company)
-    soup = BeautifulSoup(html, "html.parser")
-    jobs, seen = [], set()
-    # schema.org
-    for script in soup.find_all("script", type="application/ld+json"):
-        try:
-            d = json.loads(script.string or "")
-            for item in (d if isinstance(d, list) else [d]):
-                if item.get("@type") == "JobPosting":
-                    loc_obj = item.get("jobLocation") or {}
-                    addr = loc_obj.get("address") or {}
-                    loc = addr.get("addressLocality", "") if isinstance(addr, dict) else ""
-                    jobs.append(make_job(item.get("title", ""),
-                                        item.get("occupationalCategory", "General"),
-                                        loc, item.get("url", jobs_url), company))
-        except Exception:
-            pass
-    if jobs:
-        log.info(f"    Schema.org: {len(jobs)} jobs")
+def scrape_commenda(jobs_url, company):
+    """Scrape Commenda's custom WordPress/Elementor jobs board."""
+    try:
+        html = fetch_html(jobs_url, use_playwright=True)
+        if not html:
+            return []
+        soup = BeautifulSoup(html, "html.parser")
+        jobs, seen = [], set()
+        # Jobs are in <a class="job-row"> inside <div class="jobs-list">
+        for div in soup.find_all(class_="jobs-list"):
+            for a in div.find_all("a", href=True):
+                title = a.get_text(strip=True)
+                # Strip the arrow icon text if present
+                title = re.sub(r'[\u2192\u2197→↗].*$', '', title).strip()
+                if not title or title in seen or len(title) < 3:
+                    continue
+                seen.add(title)
+                jobs.append(make_job(title, "General", "San Francisco, CA",
+                                     urljoin(jobs_url, a["href"]), company))
+        log.info(f"    Commenda custom: {len(jobs)} jobs")
         return jobs
-    # CSS class heuristic
-    for container in soup.find_all(class_=re.compile(
-            r"job|position|role|opening|listing|posting|career|vacancy", re.I))[:150]:
-        a = container.find("a", href=True)
-        if not a:
-            continue
-        title = a.get_text(strip=True)
-        if not title or len(title) < 3 or title in seen:
-            continue
-        seen.add(title)
-        text = container.get_text(" ", strip=True)
-        loc_m = re.search(r'\b(Remote|New York|San Francisco|Los Angeles|Austin|'
-                           r'London|Chicago|Seattle|Boston|Denver|[A-Z][a-z]+,\s*[A-Z]{2})\b', text)
-        jobs.append(make_job(title, "General", loc_m.group(1) if loc_m else "",
-                             urljoin(jobs_url, a["href"]), company))
-    if jobs:
-        log.info(f"    HTML heuristic: {len(jobs)} jobs")
+    except Exception as e:
+        log.warning(f"    Commenda scraper failed: {e}")
+        return []
+
+
+def scrape_careerplug(slug, company, fallback_url):
+    """Scrape CareerPlug jobs board via HTML — jobs are in static HTML with aria-labels."""
+    url = fallback_url or f"https://{slug}.careerplug.com/jobs"
+    try:
+        html = fetch_html(url)
+        if not html:
+            return []
+        soup = BeautifulSoup(html, "html.parser")
+        jobs, seen = [], set()
+        for a in soup.find_all("a", attrs={"aria-label": True}, href=True):
+            label = a["aria-label"]  # format: "Job Title in City, ST"
+            href = a["href"]
+            if not href.startswith("/jobs/"):
+                continue
+            # Parse title and location from aria-label
+            loc_m = re.search(r'\bin\s+(.+)$', label)
+            if loc_m:
+                title = label[:loc_m.start()].strip()
+                loc = loc_m.group(1).strip()
+            else:
+                title = label.strip()
+                loc = ""
+            if not title or title in seen or len(title) < 3:
+                continue
+            seen.add(title + href)  # allow same title in different locations
+            full_url = f"https://{slug}.careerplug.com{href}"
+            jobs.append(make_job(title, "General", loc, full_url, company))
+        log.info(f"    CareerPlug: {len(jobs)} jobs")
         return jobs
-    # Last resort: keyword links
-    for a in soup.find_all("a", href=True):
-        title = a.get_text(strip=True)
-        if (5 < len(title) < 100 and
-                re.search(r'(engineer|manager|designer|analyst|director|specialist|'
-                           r'coordinator|lead|head of|vp |senior|junior|intern|'
-                           r'developer|scientist|recruiter|executive|associate)', title, re.I)):
-            full_url = urljoin(jobs_url, a["href"])
-            if full_url not in seen:
-                seen.add(full_url)
-                jobs.append(make_job(title, "General", "", full_url, company))
-    log.info(f"    Link scan: {len(jobs)} jobs")
-    return jobs[:200]
+    except Exception as e:
+        log.warning(f"    CareerPlug failed: {e}")
+        return []
 
 
 def route_to_scraper(ats, slug, name, jobs_url):
@@ -592,6 +636,12 @@ def route_to_scraper(ats, slug, name, jobs_url):
         return scrape_yc(slug, name, jobs_url)
     elif ats == "rippling" and slug:
         return scrape_rippling(slug, name, jobs_url)
+    elif ats == "jazzhr":
+        return scrape_jazzhr(slug, name, jobs_url)
+    elif ats == "commenda":
+        return scrape_commenda(jobs_url, name)
+    elif ats == "careerplug":
+        return scrape_careerplug(slug, name, jobs_url)
     else:
         return scrape_generic(jobs_url, name)
 
@@ -601,6 +651,11 @@ def route_to_scraper(ats, slug, name, jobs_url):
 def scrape_company(company):
     name = company["name"]
     website = company.get("website", "").rstrip("/")
+
+    # Skip companies with no current openings
+    if name.lower() in SKIP_COMPANIES:
+        log.info(f"  → Skipped (no openings)")
+        return []
 
     # Step 1: use hardcoded override if we have one — it's always more reliable
     override = KNOWN_ATS.get(name.lower())
