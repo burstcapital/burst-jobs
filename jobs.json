@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T20:50:02.576236+00:00",
-  "total_jobs": 1178,
+  "generated_at": "2026-03-17T10:52:18.223708+00:00",
+  "total_jobs": 1174,
   "total_companies": 96,
   "companies_with_jobs": 55,
   "failed_companies": [
@@ -875,14 +875,6 @@
       "company_website": "https://joinhandshake.com"
     },
     {
-      "title": "Director, Product DesignSan Francisco, CA",
-      "department": "General",
-      "location": "New York",
-      "url": "https://app.ashbyhq.com/jobs/6d67496b-75fd-4f32-b9c7-08c0fcf49919",
-      "company": "Handshake",
-      "company_website": "https://joinhandshake.com"
-    },
-    {
       "title": "Electrical Design Engineer - AI TrainerRemote (USA)",
       "department": "General",
       "location": "New York",
@@ -1007,14 +999,6 @@
       "department": "General",
       "location": "New York",
       "url": "https://app.ashbyhq.com/jobs/6b647e66-495d-49c5-bd8e-ca87a4d68e08",
-      "company": "Handshake",
-      "company_website": "https://joinhandshake.com"
-    },
-    {
-      "title": "Handshake AI Research Intern, Summer 2026San Francisco, CA",
-      "department": "General",
-      "location": "New York",
-      "url": "https://app.ashbyhq.com/jobs/f01f09ac-4b94-4de0-bbef-e1892df4e0cb",
       "company": "Handshake",
       "company_website": "https://joinhandshake.com"
     },
@@ -1667,18 +1651,26 @@
       "company_website": "https://lattice.com"
     },
     {
-      "title": "Director, IT Business Systems",
-      "department": "Business Systems",
-      "location": "Remote - US",
-      "url": "https://lattice.com/job?gh_jid=8407641002",
+      "title": "Customer Care AI Specialist",
+      "department": "Customer Care",
+      "location": "London",
+      "url": "https://lattice.com/job?gh_jid=8465323002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
     {
-      "title": "Lead Brand & Production Designer",
-      "department": "Marketing",
+      "title": "Customer Care AI Specialist",
+      "department": "Customer Care",
       "location": "Remote - US",
-      "url": "https://lattice.com/job?gh_jid=8447579002",
+      "url": "https://lattice.com/job?gh_jid=8461635002",
+      "company": "Lattice",
+      "company_website": "https://lattice.com"
+    },
+    {
+      "title": "Director, IT Business Systems",
+      "department": "Business Systems",
+      "location": "Remote - US",
+      "url": "https://lattice.com/job?gh_jid=8407641002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
@@ -1699,10 +1691,10 @@
       "company_website": "https://lattice.com"
     },
     {
-      "title": "Senior Recruiter (Contract)",
-      "department": "Talent Acquisition",
-      "location": "Remote - US",
-      "url": "https://lattice.com/job?gh_jid=8453699002",
+      "title": "Senior Software Engineer, AI",
+      "department": "Engineering",
+      "location": "Remote - British Columbia, Canada",
+      "url": "https://lattice.com/job?gh_jid=8431495002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
@@ -1711,14 +1703,6 @@
       "department": "Engineering",
       "location": "Remote - Ontario, Canada",
       "url": "https://lattice.com/job?gh_jid=8440997002",
-      "company": "Lattice",
-      "company_website": "https://lattice.com"
-    },
-    {
-      "title": "Senior Software Engineer, AI",
-      "department": "Engineering",
-      "location": "Remote - British Columbia, Canada",
-      "url": "https://lattice.com/job?gh_jid=8431495002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
@@ -1733,24 +1717,16 @@
     {
       "title": "Software Engineer, Data Platform",
       "department": "Engineering",
-      "location": "Remote - British Columbia, Canada",
-      "url": "https://lattice.com/job?gh_jid=8434007002",
-      "company": "Lattice",
-      "company_website": "https://lattice.com"
-    },
-    {
-      "title": "Software Engineer, Data Platform",
-      "department": "Engineering",
       "location": "Remote - Ontario, Canada",
       "url": "https://lattice.com/job?gh_jid=8434039002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
     {
-      "title": "Software Engineer, Developer Platform",
+      "title": "Software Engineer, Data Platform",
       "department": "Engineering",
       "location": "Remote - British Columbia, Canada",
-      "url": "https://lattice.com/job?gh_jid=8401154002",
+      "url": "https://lattice.com/job?gh_jid=8434007002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
@@ -1759,6 +1735,14 @@
       "department": "Engineering",
       "location": "Remote - Ontario, Canada",
       "url": "https://lattice.com/job?gh_jid=8450068002",
+      "company": "Lattice",
+      "company_website": "https://lattice.com"
+    },
+    {
+      "title": "Software Engineer, Developer Platform",
+      "department": "Engineering",
+      "location": "Remote - British Columbia, Canada",
+      "url": "https://lattice.com/job?gh_jid=8401154002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
@@ -2245,6 +2229,14 @@
     {
       "title": "Software Engineer, Full-Stack",
       "department": "Engineering",
+      "location": "San Francisco; Hybrid",
+      "url": "https://job-boards.greenhouse.io/grammarly/jobs/6356355",
+      "company": "Grammarly",
+      "company_website": "https://www.grammarly.com"
+    },
+    {
+      "title": "Software Engineer, Full-Stack",
+      "department": "Engineering",
       "location": "Seattle; Hybrid",
       "url": "https://job-boards.greenhouse.io/grammarly/jobs/7333571",
       "company": "Grammarly",
@@ -2255,14 +2247,6 @@
       "department": "Engineering",
       "location": "Kyiv, Ukraine",
       "url": "https://job-boards.greenhouse.io/grammarly/jobs/6928720",
-      "company": "Grammarly",
-      "company_website": "https://www.grammarly.com"
-    },
-    {
-      "title": "Software Engineer, Full-Stack",
-      "department": "Engineering",
-      "location": "San Francisco; Hybrid",
-      "url": "https://job-boards.greenhouse.io/grammarly/jobs/6356355",
       "company": "Grammarly",
       "company_website": "https://www.grammarly.com"
     },
@@ -2335,6 +2319,14 @@
       "department": "Strategy and Operations",
       "location": "San Francisco, CA",
       "url": "https://job-boards.greenhouse.io/grammarly/jobs/7387759",
+      "company": "Grammarly",
+      "company_website": "https://www.grammarly.com"
+    },
+    {
+      "title": "Staff User Researcher",
+      "department": "Design",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/grammarly/jobs/7701947",
       "company": "Grammarly",
       "company_website": "https://www.grammarly.com"
     },
@@ -2971,6 +2963,14 @@
       "company_website": "https://www.owner.com"
     },
     {
+      "title": "Senior Software Engineer, Backend",
+      "department": "Engineering, Product, and Design",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/owner/0b373b8f-ca11-4a4a-ad68-76ffd79a35d6",
+      "company": "Owner",
+      "company_website": "https://www.owner.com"
+    },
+    {
       "title": "Staff Product Data Scientist, Risk and Payments",
       "department": "G&A",
       "location": "San Francisco",
@@ -3077,7 +3077,7 @@
     {
       "title": "Engineering Manager, Guest Online Ordering",
       "department": "Engineering, Product, and Design",
-      "location": "Remote - United States",
+      "location": "Remote - United States or Canada",
       "url": "https://jobs.ashbyhq.com/owner/251c25ea-5d69-419e-9990-9c82b50562bb",
       "company": "Owner",
       "company_website": "https://www.owner.com"
@@ -3335,6 +3335,14 @@
       "department": "Revenue",
       "location": "Remote - United States",
       "url": "https://jobs.ashbyhq.com/owner/32ec2da7-86b1-46b8-a88a-45b4c22391d1",
+      "company": "Owner",
+      "company_website": "https://www.owner.com"
+    },
+    {
+      "title": "Senior Talent Partner, Business Operations",
+      "department": "G&A",
+      "location": "Remote - United States",
+      "url": "https://jobs.ashbyhq.com/owner/81523349-e458-4bb5-9218-eba575fdfd03",
       "company": "Owner",
       "company_website": "https://www.owner.com"
     },
@@ -3907,6 +3915,14 @@
       "company_website": "https://www.workstream.us"
     },
     {
+      "title": "Part-time Video Data Contributor",
+      "department": "Special Projects",
+      "location": "Philippines",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5822640004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
       "title": "Recruiter",
       "department": "People Operations and Talent Acquisition",
       "location": "Manila, Philippines",
@@ -3973,16 +3989,16 @@
     {
       "title": "Senior Software Engineer(Node.JS)",
       "department": "Engineering",
-      "location": "Menlo Park, CA or San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5596289004",
+      "location": "Vancouver",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5551192004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
     {
       "title": "Senior Software Engineer(Node.JS)",
       "department": "Engineering",
-      "location": "Vancouver",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5551192004",
+      "location": "Menlo Park, CA or San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5596289004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -5619,10 +5635,10 @@
       "company_website": "https://www.carebrain.com"
     },
     {
-      "title": "Revenue Operations Data Hygiene Coordinator (Part-Time Contract Basis)",
+      "title": "Revenue Analytics Manager",
       "department": "Sales",
-      "location": "San Francisco, California, United States; U.S. Remote",
-      "url": "https://job-boards.greenhouse.io/webflow/jobs/7675765",
+      "location": "U.S. Remote",
+      "url": "https://job-boards.greenhouse.io/webflow/jobs/7723458",
       "company": "Carebrain",
       "company_website": "https://www.carebrain.com"
     },
@@ -6531,14 +6547,6 @@
       "company_website": "https://www.zingly.ai"
     },
     {
-      "title": "Growth Partner",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://cutanddry.applytojob.com/apply/vqyyQ92HXn/Growth-Partner",
-      "company": "Cut+Dry",
-      "company_website": "https://cutanddry.com"
-    },
-    {
       "title": "Senior Customer Enablement Specialist",
       "department": "General",
       "location": "Not specified",
@@ -6567,14 +6575,6 @@
       "department": "Total Rewards",
       "location": "San Francisco, California (Hybrid)",
       "url": "https://jobs.ashbyhq.com/newfront/3ad9a868-7228-464a-939a-beeb4e6ad785",
-      "company": "Newfront Insurance (acquired by WTW)",
-      "company_website": "https://www.newfront.com"
-    },
-    {
-      "title": "Payroll Associate",
-      "department": "Total Rewards",
-      "location": "United States (Hybrid)",
-      "url": "https://jobs.ashbyhq.com/newfront/9bb1b02c-e0f8-4508-baf4-3335733643d3",
       "company": "Newfront Insurance (acquired by WTW)",
       "company_website": "https://www.newfront.com"
     },
@@ -6837,16 +6837,16 @@
     {
       "title": "Customer Support Advocate, Employees",
       "department": "Customer Success",
-      "location": "Tampa, Florida",
-      "url": "https://boards.greenhouse.io/justworks/jobs/5891994?gh_jid=5891994",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/5803389?gh_jid=5803389",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Customer Support Advocate, Employees",
       "department": "Customer Success",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/5803389?gh_jid=5803389",
+      "location": "Tampa, Florida",
+      "url": "https://boards.greenhouse.io/justworks/jobs/5891994?gh_jid=5891994",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -6941,14 +6941,6 @@
     {
       "title": "Employment Counsel - EMEA",
       "department": "Legal & Compliance",
-      "location": "Remote - International",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7453823?gh_jid=7453823",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Employment Counsel - EMEA",
-      "department": "Legal & Compliance",
       "location": "London, England ; Remote - International",
       "url": "https://boards.greenhouse.io/justworks/jobs/7453820?gh_jid=7453820",
       "company": "Via (acquired by JustWorks)",
@@ -6959,6 +6951,14 @@
       "department": "Legal & Compliance",
       "location": "Remote - International",
       "url": "https://boards.greenhouse.io/justworks/jobs/7585460?gh_jid=7585460",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Employment Counsel - EMEA",
+      "department": "Legal & Compliance",
+      "location": "Remote - International",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7453823?gh_jid=7453823",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -6981,16 +6981,16 @@
     {
       "title": "Engineering Manager, International",
       "department": "Engineering",
-      "location": "Mexico City, Mexico",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7530659?gh_jid=7530659",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7595441?gh_jid=7595441",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Engineering Manager, International",
       "department": "Engineering",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7595441?gh_jid=7595441",
+      "location": "Mexico City, Mexico",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7530659?gh_jid=7530659",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -7101,16 +7101,16 @@
     {
       "title": "Manager, International Benefits Operations",
       "department": "Operations, International Products",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/6950315?gh_jid=6950315",
+      "location": "Mexico City, Mexico",
+      "url": "https://boards.greenhouse.io/justworks/jobs/6950317?gh_jid=6950317",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Manager, International Benefits Operations",
       "department": "Operations, International Products",
-      "location": "Mexico City, Mexico",
-      "url": "https://boards.greenhouse.io/justworks/jobs/6950317?gh_jid=6950317",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/6950315?gh_jid=6950315",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -7427,6 +7427,14 @@
       "company_website": "https://www.justworks.com"
     },
     {
+      "title": "Senior Software Engineer, Backend - Lifecyle",
+      "department": "Engineering, International Products",
+      "location": "Toronto, Canada",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7668996?gh_jid=7668996",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
       "title": "Senior Talent Acquisition Partner, Engineering",
       "department": "People",
       "location": "New York, New York",
@@ -7559,6 +7567,14 @@
       "department": "S&M",
       "location": "Brazil",
       "url": "https://jobs.ashbyhq.com/deel/7f6cd241-e7ed-487b-88ff-73a43a9512a3",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Information Security Analyst, SecOps",
+      "department": "R&D",
+      "location": "APAC",
+      "url": "https://jobs.ashbyhq.com/deel/d62ed944-a34e-475a-a26d-7881a6a44629",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -7803,14 +7819,6 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Manager, Payroll Product Expansion",
-      "department": "R&D",
-      "location": "EMEA",
-      "url": "https://jobs.ashbyhq.com/deel/ac6e6add-eaef-4d5b-99b1-090f3f6c2a2d",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
       "title": "Payroll Associate | Germany",
       "department": "COGS",
       "location": "Hungary",
@@ -7863,14 +7871,6 @@
       "department": "S&M",
       "location": "India",
       "url": "https://jobs.ashbyhq.com/deel/a1cf354c-6b85-4f2d-9e7e-922b16f817bb",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Full Stack Engineer (React, Node.js)",
-      "department": "R&D",
-      "location": "EMEA",
-      "url": "https://jobs.ashbyhq.com/deel/f677f26e-a10a-40e4-a3f5-8fdcbec54aca",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -7999,14 +7999,6 @@
       "department": "G&A",
       "location": "Japan",
       "url": "https://jobs.ashbyhq.com/deel/8c251f7e-45d6-422d-ac2e-31428ab56e40",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Singapore Payroll Specialist",
-      "department": "COGS",
-      "location": "India",
-      "url": "https://jobs.ashbyhq.com/deel/b287ecfd-5cfc-4161-9fa9-60dbaa013263",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -8483,14 +8475,6 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Senior Customer Success Manager",
-      "department": "COGS",
-      "location": "LATAM",
-      "url": "https://jobs.ashbyhq.com/deel/b5e3de19-e02a-4719-bda0-3d62ffba2554",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
       "title": "Channel Sales Development Representative",
       "department": "S&M",
       "location": "UK",
@@ -8723,14 +8707,6 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Sales Development Representative, Whitelabel Sales",
-      "department": "S&M",
-      "location": "EMEA",
-      "url": "https://jobs.ashbyhq.com/deel/860b1188-68a0-4c22-81df-ce98653626b3",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
       "title": "Associate Strategic Corporate Development Director",
       "department": "G&A",
       "location": "North America",
@@ -8883,14 +8859,6 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Frontend Engineer, React.js",
-      "department": "R&D",
-      "location": "LATAM",
-      "url": "https://jobs.ashbyhq.com/deel/168b0c3c-2df8-4aba-aebc-4eeac17a3240",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
       "title": "Staff Product Manager, Integrations",
       "department": "R&D",
       "location": "EMEA",
@@ -8983,14 +8951,6 @@
       "department": "COGS",
       "location": "EMEA",
       "url": "https://jobs.ashbyhq.com/deel/85ef4ded-6477-4fbe-9043-f7d941e1d67b",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Senior IT Support Engineer",
-      "department": "R&D",
-      "location": "Philippines",
-      "url": "https://jobs.ashbyhq.com/deel/1c30007c-2f94-4147-ad6f-3152aa873225",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -9179,14 +9139,6 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Manager, Customer Onboarding",
-      "department": "COGS",
-      "location": "USA",
-      "url": "https://jobs.ashbyhq.com/deel/60ab7eee-71cd-4435-89c2-cb35b2edaa52",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
       "title": "Payroll Expert |  Greece",
       "department": "COGS",
       "location": "Greece",
@@ -9315,6 +9267,14 @@
       "company_website": "https://www.deel.com"
     },
     {
+      "title": "Payroll Enablement Manager",
+      "department": "COGS",
+      "location": "LATAM",
+      "url": "https://jobs.ashbyhq.com/deel/02b32f28-ab24-458b-959a-11b00bd9feec",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
       "title": "Country Finance Manager I Kenya",
       "department": "G&A",
       "location": "Kenya",
@@ -9335,6 +9295,14 @@
       "department": "COGS",
       "location": "EMEA",
       "url": "https://jobs.ashbyhq.com/deel/3a0100db-e0d4-42a9-a01b-08e608c8224e",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Instructional Designer",
+      "department": "COGS",
+      "location": "USA",
+      "url": "https://jobs.ashbyhq.com/deel/e8a8b485-fef6-4da9-9eb8-9527c1cf7a58",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
