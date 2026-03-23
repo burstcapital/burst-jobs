@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T09:21:48.180347+00:00",
-  "total_jobs": 1174,
+  "generated_at": "2026-03-23T11:27:56.958397+00:00",
+  "total_jobs": 1170,
   "total_companies": 96,
   "companies_with_jobs": 54,
   "failed_companies": [
@@ -111,10 +111,6 @@
     {
       "name": "Prairie Health (acquired by Carbon Health)",
       "reason": "not enough values to unpack (expected 2, got 0)"
-    },
-    {
-      "name": "Setter.com (acquired by Thumbtack)",
-      "reason": "no jobs page found"
     }
   ],
   "jobs": [
@@ -3841,22 +3837,6 @@
     {
       "title": "Head of Engineering",
       "department": "Engineering",
-      "location": "Menlo Park, California",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5782130004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "Head of Engineering",
-      "department": "Engineering",
-      "location": "Singapore",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5798657004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "Head of Engineering",
-      "department": "Engineering",
       "location": "Singapore",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5798655004",
       "company": "Workstream",
@@ -3871,18 +3851,26 @@
       "company_website": "https://www.workstream.us"
     },
     {
-      "title": "HRIS Customer Implementation Specialist",
-      "department": "Sales - PA",
-      "location": "Manila, Philippines",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5832026004",
+      "title": "Head of Engineering",
+      "department": "Engineering",
+      "location": "Menlo Park, California",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5782130004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
     {
-      "title": "Information Security Engineer",
+      "title": "Head of Engineering",
       "department": "Engineering",
-      "location": "San Francisco, California",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5747869004",
+      "location": "Singapore",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5798657004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
+      "title": "HRIS Customer Implementation Specialist",
+      "department": "Sales - PA",
+      "location": "Manila, Philippines",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5832026004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -3903,10 +3891,34 @@
       "company_website": "https://www.workstream.us"
     },
     {
+      "title": "Information Security Engineer",
+      "department": "Engineering",
+      "location": "San Francisco, California",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5747869004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
       "title": "Knowledge Management Specialist",
       "department": "Customer Support",
       "location": "Manila, Philippines",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5786401004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
+      "title": "Part-Time Office Video Data Contributor",
+      "department": "Special Projects",
+      "location": "San Francisco/Menlo Park",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5834236004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
+      "title": "Part-Time Office Video Data Contributor",
+      "department": "Special Projects",
+      "location": "San Francisco/Menlo Park",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5832863004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -7703,14 +7715,6 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Senior Payroll Associate, Thailand Payroll | Thailand",
-      "department": "COGS",
-      "location": "Thailand",
-      "url": "https://jobs.ashbyhq.com/deel/21975361-2d9d-4a44-9524-394be7069248",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
       "title": "Payroll Expert | France (Mauritius)",
       "department": "COGS",
       "location": "EMEA",
@@ -7811,14 +7815,6 @@
       "department": "S&M",
       "location": "Israel",
       "url": "https://jobs.ashbyhq.com/deel/ff97cf65-383e-4e4b-b24b-b42b1a81add2",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Full Stack Engineer",
-      "department": "R&D",
-      "location": "EMEA",
-      "url": "https://jobs.ashbyhq.com/deel/c6492fda-ddca-4ea1-b13a-1195ec6b2658",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -8447,14 +8443,6 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Sales Development Representative - Channel Sales | APAC",
-      "department": "S&M",
-      "location": "Singapore",
-      "url": "https://jobs.ashbyhq.com/deel/d4a75a39-631e-46bb-a940-697131d2a7e2",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
       "title": "Account Executive, SMB | UK&I",
       "department": "S&M",
       "location": "UK",
@@ -8539,14 +8527,6 @@
       "department": "COGS",
       "location": "EMEA",
       "url": "https://jobs.ashbyhq.com/deel/c17a0203-b9e4-45ac-bf58-b3964dc614bf",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Senior Talent Acquisition Specialist, Revenue",
-      "department": "G&A",
-      "location": "India",
-      "url": "https://jobs.ashbyhq.com/deel/11f43719-2c4e-4de5-be70-edac0ee3eade",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -9207,14 +9187,6 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Sales Development, Deel - Astute Payroll ANZ",
-      "department": "S&M",
-      "location": "Australia",
-      "url": "https://jobs.ashbyhq.com/deel/77a93751-e0a3-406b-bd9f-e6b1092988f7",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
       "title": "Senior Payroll Associate , UAE/ KSA Payroll",
       "department": "COGS",
       "location": "India",
@@ -9271,10 +9243,18 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Channel Account Executive, Venture Capital",
+      "title": "Channel Account Executive",
       "department": "S&M",
       "location": "UK",
       "url": "https://jobs.ashbyhq.com/deel/702caaa9-86fe-4ecf-959d-dd00062d87ca",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Sales Development Representative, SMB | ANZ",
+      "department": "S&M",
+      "location": "Australia",
+      "url": "https://jobs.ashbyhq.com/deel/21b1490a-b3eb-473c-8c9a-819281c6cb8d",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -9351,14 +9331,6 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Product Data Analyst",
-      "department": "R&D",
-      "location": "Spain",
-      "url": "https://jobs.ashbyhq.com/deel/21e6a942-3a02-4917-9519-0a9369a9a45a",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
       "title": "Sales Manager, SMB - Deel IT",
       "department": "S&M",
       "location": "USA",
@@ -9371,14 +9343,6 @@
       "department": "COGS",
       "location": "India",
       "url": "https://jobs.ashbyhq.com/deel/06d9789b-23a6-468a-9a32-5566bb424393",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Sales Development Representative, ENT | ASEAN",
-      "department": "S&M",
-      "location": "Singapore",
-      "url": "https://jobs.ashbyhq.com/deel/73af9952-8f65-47b5-8dee-8aebbd571f64",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
