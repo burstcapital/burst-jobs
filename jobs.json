@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T09:05:56.299932+00:00",
-  "total_jobs": 1127,
+  "generated_at": "2026-03-30T09:37:27.701026+00:00",
+  "total_jobs": 1123,
   "total_companies": 96,
   "companies_with_jobs": 55,
   "failed_companies": [
@@ -111,10 +111,6 @@
     {
       "name": "Prairie Health (acquired by Carbon Health)",
       "reason": "not enough values to unpack (expected 2, got 0)"
-    },
-    {
-      "name": "Setter.com (acquired by Thumbtack)",
-      "reason": "no jobs page found"
     }
   ],
   "jobs": [
@@ -3410,7 +3406,7 @@
       "title": "Head of ProductProduct \u2022 San Francisco, California \u2022 Full time",
       "department": "General",
       "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/Bounce/2321ef7b-2729-41e2-a5b7-9a90d6b111ae",
+      "url": "https://jobs.ashbyhq.com/Bounce/85b1fe6a-7ba3-41aa-aa60-d5090aeed170",
       "company": "Bounce",
       "company_website": "https://www.bounce.com"
     },
@@ -3603,14 +3599,6 @@
       "department": "Sales",
       "location": "Remote - USA",
       "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7581091003",
-      "company": "GlossGenius",
-      "company_website": "https://www.glossgenius.com"
-    },
-    {
-      "title": "People Business Partner",
-      "department": "People",
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7647253003",
       "company": "GlossGenius",
       "company_website": "https://www.glossgenius.com"
     },
@@ -4283,14 +4271,6 @@
       "department": "General",
       "location": "Not specified",
       "url": "https://ats.rippling.com/courtyard/jobs/63919b32-3c25-49d2-a0fa-10bee70d7263",
-      "company": "Courtyard",
-      "company_website": "https://courtyard.io"
-    },
-    {
-      "title": "Warehouse Associate",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://ats.rippling.com/courtyard/jobs/cde8b302-50bb-4315-8c77-089d35fcafea",
       "company": "Courtyard",
       "company_website": "https://courtyard.io"
     },
@@ -7615,6 +7595,14 @@
       "company_website": "https://www.deel.com"
     },
     {
+      "title": "Team Lead, Engineering, Node.js",
+      "department": "R&D",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/dfc3b223-9114-4721-a40e-941e34c0dc85",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
       "title": "Treasury Risk Analyst",
       "department": "G&A",
       "location": "EMEA",
@@ -7867,14 +7855,6 @@
       "department": "R&D",
       "location": "EMEA",
       "url": "https://jobs.ashbyhq.com/deel/382a8410-39c1-4118-afe1-8a2b5bce29ea",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Compliance Officer | UAE",
-      "department": "G&A",
-      "location": "United Arab Emirates",
-      "url": "https://jobs.ashbyhq.com/deel/5936f5b7-1b23-4440-bf75-960b8be9971a",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -8295,22 +8275,6 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Talent Acquisition Specialist, Operations",
-      "department": "G&A",
-      "location": "USA",
-      "url": "https://jobs.ashbyhq.com/deel/b422b6f9-0ccd-4387-beb0-4b27e899bfb2",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Talent Acquisition Specialist, Operations",
-      "department": "G&A",
-      "location": "USA",
-      "url": "https://jobs.ashbyhq.com/deel/45a40b43-1de2-4f29-8479-004feddb1626",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
       "title": "DevSecOps Engineer",
       "department": "R&D",
       "location": "Brazil",
@@ -8379,6 +8343,14 @@
       "department": "COGS",
       "location": "Turkey",
       "url": "https://jobs.ashbyhq.com/deel/713360d7-e009-43b2-bb94-c08323824773",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Equity Management Analyst",
+      "department": "G&A",
+      "location": "South Africa",
+      "url": "https://jobs.ashbyhq.com/deel/d00171e3-be1c-4dd8-a3b4-a79555d0450a",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -8563,14 +8535,6 @@
       "department": "S&M",
       "location": "North America",
       "url": "https://jobs.ashbyhq.com/deel/7290665d-8d79-4d6f-9b03-0f6a25d516bc",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Senior Payroll Associate , UAE & Saudi Arabia Payroll",
-      "department": "COGS",
-      "location": "India",
-      "url": "https://jobs.ashbyhq.com/deel/c410124e-a4bd-4473-b69f-6141731c0f72",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
