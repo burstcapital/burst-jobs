@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T09:13:52.573562+00:00",
-  "total_jobs": 1060,
+  "generated_at": "2026-04-04T09:02:49.734239+00:00",
+  "total_jobs": 1056,
   "total_companies": 96,
   "companies_with_jobs": 54,
   "failed_companies": [
@@ -1319,6 +1319,14 @@
       "company_website": "https://joinhandshake.com"
     },
     {
+      "title": "Senior Engineering Manager, Forward Deployed EngineeringSan Francisco, CA",
+      "department": "General",
+      "location": "New York",
+      "url": "https://app.ashbyhq.com/jobs/1108340b-a334-4f08-8355-8c81b28da626",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
       "title": "Senior Engineering Manager, Growth EngineeringSan Francisco, CA",
       "department": "General",
       "location": "New York",
@@ -1655,6 +1663,14 @@
       "company_website": "https://joinhandshake.com"
     },
     {
+      "title": "Account Executive, Mid-Market",
+      "department": "Account Executive",
+      "location": "Remote-US, PST or EST",
+      "url": "https://lattice.com/job?gh_jid=8483245002",
+      "company": "Lattice",
+      "company_website": "https://lattice.com"
+    },
+    {
       "title": "Account Executive - SMB",
       "department": "Account Executive",
       "location": "Remote, PST",
@@ -1713,6 +1729,14 @@
     {
       "title": "Staff Software Engineer, AI",
       "department": "Engineering",
+      "location": "Remote - US",
+      "url": "https://lattice.com/job?gh_jid=8458025002",
+      "company": "Lattice",
+      "company_website": "https://lattice.com"
+    },
+    {
+      "title": "Staff Software Engineer, AI",
+      "department": "Engineering",
       "location": "Remote - British Columbia, Canada",
       "url": "https://lattice.com/job?gh_jid=8455193002",
       "company": "Lattice",
@@ -1723,14 +1747,6 @@
       "department": "Engineering",
       "location": "Remote - Ontario, Canada",
       "url": "https://lattice.com/job?gh_jid=8458015002",
-      "company": "Lattice",
-      "company_website": "https://lattice.com"
-    },
-    {
-      "title": "Staff Software Engineer, AI",
-      "department": "Engineering",
-      "location": "Remote - US",
-      "url": "https://lattice.com/job?gh_jid=8458025002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
@@ -1871,14 +1887,6 @@
       "company_website": "https://www.instawork.com"
     },
     {
-      "title": "AI and Analytics Associate, Go-to-Market",
-      "department": "Business Operations",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4626229006",
-      "company": "Instawork",
-      "company_website": "https://www.instawork.com"
-    },
-    {
       "title": "Area Manager",
       "department": "Robotics",
       "location": "Bengaluru, Karnataka, India",
@@ -1945,22 +1953,6 @@
     {
       "title": "Enterprise Account Manager",
       "department": "Account Management",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4655557006",
-      "company": "Instawork",
-      "company_website": "https://www.instawork.com"
-    },
-    {
-      "title": "Enterprise Account Manager",
-      "department": "Account Management",
-      "location": "Pittsburgh, Pennsylvania, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4664062006",
-      "company": "Instawork",
-      "company_website": "https://www.instawork.com"
-    },
-    {
-      "title": "Enterprise Account Manager",
-      "department": "Account Management",
       "location": "Las Vegas, Nevada, United States",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4655558006",
       "company": "Instawork",
@@ -1979,6 +1971,22 @@
       "department": "Account Management",
       "location": "San Diego, California, United States",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4664090006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
+      "title": "Enterprise Account Manager",
+      "department": "Account Management",
+      "location": "Pittsburgh, Pennsylvania, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4664062006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
+      "title": "Enterprise Account Manager",
+      "department": "Account Management",
+      "location": "San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4655557006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2019,6 +2027,14 @@
       "department": "Robotics",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4667922006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
+      "title": "Growth Operations Associate",
+      "department": "Product Operations",
+      "location": "San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4670211006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2113,8 +2129,8 @@
     {
       "title": "Product Operations Analyst",
       "department": "Product Operations",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583588006",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4350762006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2129,8 +2145,8 @@
     {
       "title": "Product Operations Analyst",
       "department": "Product Operations",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4350762006",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583588006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2169,8 +2185,8 @@
     {
       "title": "Robotics AI Campus Lead",
       "department": "Product Operations",
-      "location": "Philadelphia, Pennsylvania, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652590006",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652381006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2179,6 +2195,14 @@
       "department": "Product Operations",
       "location": "Chapel Hill, North Carolina, United States",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4652592006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
+      "title": "Robotics AI Campus Lead",
+      "department": "Product Operations",
+      "location": "Philadelphia, Pennsylvania, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652590006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2195,14 +2219,6 @@
       "department": "Product Operations",
       "location": "Austin, Texas, United States",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4652588006",
-      "company": "Instawork",
-      "company_website": "https://www.instawork.com"
-    },
-    {
-      "title": "Robotics AI Campus Lead",
-      "department": "Product Operations",
-      "location": "Vancouver, British Columbia, Canada",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652381006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2227,6 +2243,14 @@
       "department": "Sales",
       "location": "Chicago, Illinois, United States",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4590967006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
+      "title": "Senior Global Robotics Operations Manager",
+      "department": "Robotics",
+      "location": "San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4670092006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2303,10 +2327,18 @@
       "company_website": "https://www.instawork.com"
     },
     {
-      "title": "Staff Software Engineer",
+      "title": "Staff Software Engineer - Instawork Robotics",
       "department": "Engineering",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4658858006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
+      "title": "Strategic Account Manager \u2013 Enterprise Light Industrial",
+      "department": "Account Management",
+      "location": "San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4607887006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2327,10 +2359,10 @@
       "company_website": "https://www.instawork.com"
     },
     {
-      "title": "Strategic Account Manager \u2013 Enterprise Light Industrial",
-      "department": "Account Management",
+      "title": "Strategy and Analytics Associate, GTM",
+      "department": "Business Operations",
       "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4607887006",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4626229006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2361,16 +2393,16 @@
     {
       "title": "Trust & Safety Specialist",
       "department": "Trust and Safety",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4664773006",
+      "location": "San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4664772006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
     {
       "title": "Trust & Safety Specialist",
       "department": "Trust and Safety",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4664772006",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4664773006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -3431,14 +3463,6 @@
       "company_website": "https://www.workstream.us"
     },
     {
-      "title": "Brand Copywriter (Contract, Part-Time, Remote)",
-      "department": "Content",
-      "location": "Los Angeles, CA",
-      "url": "https://jobs.lever.co/Huckleberrylabs/9652b18c-8c44-4c0f-9721-9b3091819c44",
-      "company": "Huckleberry",
-      "company_website": "https://huckleberrycare.com"
-    },
-    {
       "title": "Creative Director (Remote)",
       "department": "Brand Creative",
       "location": "Los Angeles, CA",
@@ -4007,7 +4031,7 @@
       "company_website": "https://medely.com"
     },
     {
-      "title": "Account Executive - SMB (West Coast)",
+      "title": "Account Executive (West Coast)",
       "department": "Sales Department",
       "location": "Remote",
       "url": "https://jobs.ashbyhq.com/medely/4c6c6c96-f656-4134-b615-618324185fb4",
@@ -4053,14 +4077,6 @@
       "url": "https://jobs.ashbyhq.com/medely/6be48618-ffdb-4074-867b-a1057fb9209e",
       "company": "Medely",
       "company_website": "https://medely.com"
-    },
-    {
-      "title": "ApplyManager, Capital Markets - Solar EnergyPhiladelphia, PARemote OKFull-TimeFinance",
-      "department": "General",
-      "location": "Philadelphia, PA",
-      "url": "https://kingenergy.com/careers/",
-      "company": "King Energy",
-      "company_website": "https://www.kingenergy.com"
     },
     {
       "title": "ApplyVP of Solar Construction & Asset ManagementPhiladelphia, PARemote OKFull-TimeOperations",
@@ -4189,14 +4205,6 @@
       "url": "https://jobs.ashbyhq.com/stable/a67a7164-3f05-4557-8089-00a0a15de845",
       "company": "Stable",
       "company_website": "https://www.usestable.com"
-    },
-    {
-      "title": "Account Executive",
-      "department": "Sales",
-      "location": "Birmingham, Alabama",
-      "url": "https://jobs.ashbyhq.com/overflow/0601f366-1595-4d18-910b-9673a1b044c0",
-      "company": "Overflow",
-      "company_website": "https://www.overflow.co"
     },
     {
       "title": "Support Specialist (Tier 1)",
@@ -4655,6 +4663,14 @@
       "company_website": "https://www.batonmarket.com"
     },
     {
+      "title": "Software Engineer",
+      "department": "Research & Development",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/Baton/70f30a22-fe97-43ff-a67a-a89e3a2de557",
+      "company": "Baton",
+      "company_website": "https://www.batonmarket.com"
+    },
+    {
       "title": "Email Marketing LeadDenver + Remote (USA)View Position",
       "department": "General",
       "location": "Denver",
@@ -4707,6 +4723,14 @@
       "department": "Marketing",
       "location": "San Francisco, California",
       "url": "https://jobs.lever.co/CollectlyInc/b8f0e3f4-a93f-4e28-8e66-83c5487f07e7",
+      "company": "Collectly",
+      "company_website": "https://www.collectly.co"
+    },
+    {
+      "title": "Implementation Manager",
+      "department": "Support and Implementation",
+      "location": "San Francisco, California",
+      "url": "https://jobs.lever.co/CollectlyInc/2cd60e17-6160-4671-b56b-6b7b8103c47e",
       "company": "Collectly",
       "company_website": "https://www.collectly.co"
     },
@@ -4907,22 +4931,6 @@
       "department": "Sales",
       "location": "Australia",
       "url": "https://job-boards.greenhouse.io/shopmy/jobs/4991999008",
-      "company": "Shop My",
-      "company_website": "https://shopmy.us"
-    },
-    {
-      "title": "Director, Product Go-to-Market",
-      "department": "Product Marketing",
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/shopmy/jobs/5128243008",
-      "company": "Shop My",
-      "company_website": "https://shopmy.us"
-    },
-    {
-      "title": "Executive Assistant to the COO",
-      "department": "Strategy & Operations",
-      "location": "New York, NY",
-      "url": "https://job-boards.greenhouse.io/shopmy/jobs/5153854008",
       "company": "Shop My",
       "company_website": "https://shopmy.us"
     },
@@ -5671,14 +5679,6 @@
       "company_website": "https://www.justworks.com"
     },
     {
-      "title": "Customer Support Specialist, Benefits",
-      "department": "Customer Success",
-      "location": "Tampa, Florida",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7574520?gh_jid=7574520",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
       "title": "Customer Support Specialist, International",
       "department": "Customer Success, International Products",
       "location": "Mexico City, Mexico",
@@ -5705,16 +5705,16 @@
     {
       "title": "Director, Health Underwriting",
       "department": "Risk & Insurance",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7284392?gh_jid=7284392",
+      "location": "Remote - U.S.A.",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7729264?gh_jid=7729264",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Director, Health Underwriting",
       "department": "Risk & Insurance",
-      "location": "Remote - U.S.A.",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7729264?gh_jid=7729264",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7284392?gh_jid=7284392",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5731,14 +5731,6 @@
       "department": "Sales",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/7654607?gh_jid=7654607",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Director of International HR Operations",
-      "department": "Operations, International Products",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7751580?gh_jid=7751580",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5775,6 +5767,14 @@
       "company_website": "https://www.justworks.com"
     },
     {
+      "title": "Director of International HR Operations",
+      "department": "Operations, International Products",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7751580?gh_jid=7751580",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
       "title": "Director, Partner Marketing",
       "department": "Marketing",
       "location": "New York, New York",
@@ -5801,16 +5801,16 @@
     {
       "title": "Employment Counsel - EMEA",
       "department": "Legal & Compliance",
-      "location": "London, England ; Remote - International",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7453820?gh_jid=7453820",
+      "location": "Remote - International",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7585460?gh_jid=7585460",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Employment Counsel - EMEA",
       "department": "Legal & Compliance",
-      "location": "Remote - International",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7585460?gh_jid=7585460",
+      "location": "London, England ; Remote - International",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7453820?gh_jid=7453820",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -6033,16 +6033,16 @@
     {
       "title": "Project Manager, Risk & Insurance",
       "department": "Risk & Insurance",
-      "location": "Tampa, Florida",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7735963?gh_jid=7735963",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7638080?gh_jid=7638080",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Project Manager, Risk & Insurance",
       "department": "Risk & Insurance",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7638080?gh_jid=7638080",
+      "location": "Tampa, Florida",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7735963?gh_jid=7735963",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -6123,14 +6123,6 @@
       "department": "Revenue Effectiveness",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/7444819?gh_jid=7444819",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Senior Analyst, Risk & Insurance",
-      "department": "Risk & Insurance",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7506149?gh_jid=7506149",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -6299,22 +6291,6 @@
       "department": "Engineering",
       "location": "Toronto, Canada",
       "url": "https://boards.greenhouse.io/justworks/jobs/7721539?gh_jid=7721539",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Senior Talent Acquisition Partner, Engineering",
-      "department": "People",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7637267?gh_jid=7637267",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Senior Talent Acquisition Partner, Product and Design",
-      "department": "People",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7647024?gh_jid=7647024",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -7055,14 +7031,6 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Treasury Risk Analyst",
-      "department": "G&A",
-      "location": "EMEA",
-      "url": "https://jobs.ashbyhq.com/deel/51411610-e98a-4723-b380-a0bc4544cfb2",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
       "title": "Customer Success Manager II | AUS",
       "department": "COGS",
       "location": "Australia",
@@ -7147,14 +7115,6 @@
       "department": "S&M",
       "location": "EMEA",
       "url": "https://jobs.ashbyhq.com/deel/d4af5a77-b3e3-4437-b12f-c4e176336c16",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Data Scientist",
-      "department": "R&D",
-      "location": "Spain",
-      "url": "https://jobs.ashbyhq.com/deel/9b6eff6c-9be5-4b58-88c7-e66af0fada3c",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -8027,6 +7987,14 @@
       "department": "R&D",
       "location": "EMEA",
       "url": "https://jobs.ashbyhq.com/deel/b88f5e4d-d5d0-4c10-a584-45aa250c8b33",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Immigration Analyst | EMEA",
+      "department": "COGS",
+      "location": "South Africa",
+      "url": "https://jobs.ashbyhq.com/deel/4c1dd8aa-0bcb-4ce3-858d-f017973037bc",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
