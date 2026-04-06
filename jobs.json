@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T09:04:54.238949+00:00",
-  "total_jobs": 1056,
+  "generated_at": "2026-04-06T09:28:24.346105+00:00",
+  "total_jobs": 1057,
   "total_companies": 96,
   "companies_with_jobs": 54,
   "failed_companies": [
@@ -103,10 +103,6 @@
     {
       "name": "Prairie Health (acquired by Carbon Health)",
       "reason": "not enough values to unpack (expected 2, got 0)"
-    },
-    {
-      "name": "Setter.com (acquired by Thumbtack)",
-      "reason": "no jobs page found"
     }
   ],
   "jobs": [
@@ -3679,6 +3675,14 @@
       "company_website": "https://courtyard.io"
     },
     {
+      "title": "Product Design Director",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://ats.rippling.com/courtyard/jobs/effb54c9-9d04-45ea-8fca-75a9d9ab763c",
+      "company": "Courtyard",
+      "company_website": "https://courtyard.io"
+    },
+    {
       "title": "Senior Product Designer",
       "department": "General",
       "location": "Not specified",
@@ -6407,14 +6411,6 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Information Security Analyst, SecOps",
-      "department": "R&D",
-      "location": "APAC",
-      "url": "https://jobs.ashbyhq.com/deel/d62ed944-a34e-475a-a26d-7881a6a44629",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
       "title": "Senior Full Stack Engineer",
       "department": "R&D",
       "location": "EMEA",
@@ -6727,14 +6723,6 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Full Stack Engineer",
-      "department": "R&D",
-      "location": "EMEA",
-      "url": "https://jobs.ashbyhq.com/deel/c6492fda-ddca-4ea1-b13a-1195ec6b2658",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
       "title": "GM, Korea",
       "department": "S&M",
       "location": "South Korea",
@@ -6759,7 +6747,7 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Full Stack Engineer (React, Node.js)",
+      "title": "Full Stack Engineer (Back-end Heavy)",
       "department": "R&D",
       "location": "EMEA",
       "url": "https://jobs.ashbyhq.com/deel/f677f26e-a10a-40e4-a3f5-8fdcbec54aca",
@@ -7307,6 +7295,14 @@
       "department": "S&M",
       "location": "Colombia",
       "url": "https://jobs.ashbyhq.com/deel/7e0eddfe-f030-4ab3-9ff3-9426207664be",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Payroll Associate | Netherlands",
+      "department": "COGS",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/94a60ee8-ec9a-4cf8-b4d7-544ff58565b8",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -7939,6 +7935,14 @@
       "department": "R&D",
       "location": "EMEA",
       "url": "https://jobs.ashbyhq.com/deel/51d41717-54db-4701-a1db-7da0a708e730",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Full Stack Engineer (Front-end Heavy)",
+      "department": "R&D",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/334d3287-9864-4425-bcb0-0cbbf8f3a4ea",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
