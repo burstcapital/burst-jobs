@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T09:04:45.975414+00:00",
-  "total_jobs": 1046,
+  "generated_at": "2026-04-12T09:08:23.959369+00:00",
+  "total_jobs": 1045,
   "total_companies": 96,
   "companies_with_jobs": 53,
   "failed_companies": [
@@ -74,6 +74,10 @@
     },
     {
       "name": "RealRoots",
+      "reason": "no jobs page found"
+    },
+    {
+      "name": "Sibli",
       "reason": "no jobs page found"
     },
     {
@@ -3527,65 +3531,57 @@
       "company_website": "https://www.workstream.us"
     },
     {
-      "title": "View Openings",
-      "department": "General",
-      "location": "Remote",
-      "url": "https://huckleberrycare.com/careers#jobPostings",
-      "company": "Huckleberry",
-      "company_website": "https://huckleberrycare.com"
-    },
-    {
-      "title": "Engineering Manager (Remote)",
-      "department": "General",
-      "location": "Remote",
-      "url": "https://jobs.lever.co/Huckleberrylabs/469f7c73-1ad7-4eb5-8924-183b4b569369",
-      "company": "Huckleberry",
-      "company_website": "https://huckleberrycare.com"
-    },
-    {
-      "title": "Join our Talent Community!",
-      "department": "General",
-      "location": "Los Angeles",
-      "url": "https://jobs.lever.co/Huckleberrylabs/c93c37eb-cfbb-4905-b09d-c8494030196a",
-      "company": "Huckleberry",
-      "company_website": "https://huckleberrycare.com"
-    },
-    {
       "title": "Creative Director (Remote)",
-      "department": "General",
-      "location": "Remote",
+      "department": "Brand Creative",
+      "location": "Los Angeles, CA",
       "url": "https://jobs.lever.co/Huckleberrylabs/a9fed6ac-8703-4730-bdf1-501c0fff9b26",
       "company": "Huckleberry",
       "company_website": "https://huckleberrycare.com"
     },
     {
-      "title": "Senior Director of Growth Marketing (Remote)",
-      "department": "General",
-      "location": "Remote",
-      "url": "https://jobs.lever.co/Huckleberrylabs/547082b4-ea77-4396-869c-bd056ff5ac21",
-      "company": "Huckleberry",
-      "company_website": "https://huckleberrycare.com"
-    },
-    {
       "title": "Customer Success Associate (Contract, Part-Time, Remote)",
-      "department": "General",
-      "location": "Remote",
+      "department": "Customer Success",
+      "location": "Los Angeles, CA",
       "url": "https://jobs.lever.co/Huckleberrylabs/d5af1bf4-5ae6-49da-bde5-7ca0f1f9b3e8",
       "company": "Huckleberry",
       "company_website": "https://huckleberrycare.com"
     },
     {
+      "title": "Engineering Manager (Remote)",
+      "department": "Engineering",
+      "location": "Los Angeles, CA",
+      "url": "https://jobs.lever.co/Huckleberrylabs/469f7c73-1ad7-4eb5-8924-183b4b569369",
+      "company": "Huckleberry",
+      "company_website": "https://huckleberrycare.com"
+    },
+    {
       "title": "Head of Product Design (Remote)",
-      "department": "General",
-      "location": "Remote",
+      "department": "Product Design",
+      "location": "Los Angeles, CA",
       "url": "https://jobs.lever.co/Huckleberrylabs/36de73d6-5f01-4988-80ab-cdb5c83d2c46",
       "company": "Huckleberry",
       "company_website": "https://huckleberrycare.com"
     },
     {
+      "title": "Join our Talent Community!",
+      "department": "Talent Community",
+      "location": "Los Angeles, CA",
+      "url": "https://jobs.lever.co/Huckleberrylabs/c93c37eb-cfbb-4905-b09d-c8494030196a",
+      "company": "Huckleberry",
+      "company_website": "https://huckleberrycare.com"
+    },
+    {
+      "title": "Senior Director of Growth Marketing (Remote)",
+      "department": "Growth",
+      "location": "Los Angeles, CA",
+      "url": "https://jobs.lever.co/Huckleberrylabs/547082b4-ea77-4396-869c-bd056ff5ac21",
+      "company": "Huckleberry",
+      "company_website": "https://huckleberrycare.com"
+    },
+    {
       "title": "Senior Product Manager - Core Experiences (Remote)",
-      "department": "General",
-      "location": "Remote",
+      "department": "Product Management",
+      "location": "Los Angeles, CA",
       "url": "https://jobs.lever.co/Huckleberrylabs/67be33af-3570-43d0-8c74-64c7e65054f3",
       "company": "Huckleberry",
       "company_website": "https://huckleberrycare.com"
@@ -4271,18 +4267,18 @@
       "company_website": "https://future.co"
     },
     {
-      "title": "Senior Data Analyst",
-      "department": "Product",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/future/jobs/4683274005",
-      "company": "Future",
-      "company_website": "https://future.co"
-    },
-    {
       "title": "Senior Product Designer",
       "department": "Product",
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/future/jobs/4683185005",
+      "company": "Future",
+      "company_website": "https://future.co"
+    },
+    {
+      "title": "Senior/Staff Data Analyst",
+      "department": "Product",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/future/jobs/4683274005",
       "company": "Future",
       "company_website": "https://future.co"
     },
