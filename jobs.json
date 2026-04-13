@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T09:08:23.959369+00:00",
-  "total_jobs": 1045,
+  "generated_at": "2026-04-13T10:15:26.135537+00:00",
+  "total_jobs": 1044,
   "total_companies": 96,
   "companies_with_jobs": 53,
   "failed_companies": [
@@ -74,10 +74,6 @@
     },
     {
       "name": "RealRoots",
-      "reason": "no jobs page found"
-    },
-    {
-      "name": "Sibli",
       "reason": "no jobs page found"
     },
     {
@@ -6259,7 +6255,7 @@
       "company_website": "https://www.justworks.com"
     },
     {
-      "title": "Senior Program Manager, Technology",
+      "title": "Senior Program Manager, Product",
       "department": "Product",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/7797381?gh_jid=7797381",
@@ -7587,14 +7583,6 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Senior Compensation Partner",
-      "department": "G&A",
-      "location": "USA",
-      "url": "https://jobs.ashbyhq.com/deel/59494f01-bae8-4e3e-8fb6-7eefa259b5d9",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
       "title": "Payroll Associate | Slovakia",
       "department": "COGS",
       "location": "Slovakia",
@@ -8131,14 +8119,6 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Sales Development Representative Expansion, SMB | Nordics",
-      "department": "S&M",
-      "location": "EMEA",
-      "url": "https://jobs.ashbyhq.com/deel/03c2a082-99a0-4078-8ac8-236f93e5a3ae",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
       "title": "Sales Development Representative, Enterprise | Italy",
       "department": "S&M",
       "location": "Spain",
@@ -8259,6 +8239,14 @@
       "company_website": "https://www.deel.com"
     },
     {
+      "title": "Account Executive - Local Payroll",
+      "department": "S&M",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/21f3bffc-314a-4b45-86be-4f152342babb",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
       "title": "Senior VC Partnerships Manager",
       "department": "S&M",
       "location": "UK",
@@ -8363,15 +8351,7 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Full Stack Engineer",
-      "department": "R&D",
-      "location": "EMEA",
-      "url": "https://jobs.ashbyhq.com/deel/d0cc0fd9-e39d-4937-93d9-507cfe8bd608",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Payroll Associate, Hong Kong Payroll",
+      "title": "Payroll Associate (Hong Kong Payroll)",
       "department": "COGS",
       "location": "Malaysia",
       "url": "https://jobs.ashbyhq.com/deel/0ed27b66-7f63-444a-9aea-795478743066",
@@ -8407,6 +8387,14 @@
       "department": "S&M",
       "location": "Israel",
       "url": "https://jobs.ashbyhq.com/deel/381b1af3-baec-4473-b989-3cccc6d4d679",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Head of Engineering (FinTech)",
+      "department": "R&D",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/e15012a6-b7b3-4ed0-b76b-14acfdcf5b13",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
