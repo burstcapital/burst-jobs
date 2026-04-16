@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-16T22:01:44.487216+00:00",
-  "total_jobs": 1007,
+  "generated_at": "2026-04-16T23:28:08.060142+00:00",
+  "total_jobs": 1035,
   "total_companies": 93,
-  "companies_with_jobs": 52,
+  "companies_with_jobs": 54,
   "failed_companies": [
     {
       "name": "Acely.ai",
@@ -37,10 +37,6 @@
       "reason": "no jobs page found"
     },
     {
-      "name": "Float Health",
-      "reason": "no jobs page found"
-    },
-    {
       "name": "Gencove",
       "reason": "no jobs page found"
     },
@@ -65,16 +61,16 @@
       "reason": "no jobs page found"
     },
     {
+      "name": "Next Insurance (acquired by MunichRe)",
+      "reason": "no jobs page found"
+    },
+    {
       "name": "OfferFit (acquired by Braze)",
       "reason": "no jobs page found"
     },
     {
       "name": "OptimoRoute",
       "reason": "not enough values to unpack (expected 2, got 0)"
-    },
-    {
-      "name": "Padlet",
-      "reason": "no jobs page found"
     },
     {
       "name": "Pickle",
@@ -2175,6 +2171,14 @@
       "company_website": "https://www.deel.com"
     },
     {
+      "title": "Manager, Customer Success",
+      "department": "COGS",
+      "location": "USA",
+      "url": "https://jobs.ashbyhq.com/deel/0e753693-efad-452d-854c-7ca94495963b",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
       "title": "Account Executive, MM | ANZ",
       "department": "S&M",
       "location": "Australia",
@@ -3765,6 +3769,14 @@
       "url": "https://boards.greenhouse.io/faire/jobs/8502465002?gh_jid=8502465002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
+    },
+    {
+      "title": "Remote Field Resource Nurse (LPN / LVN)",
+      "department": "Clinical Resource",
+      "location": "United States",
+      "url": "https://float-health.breezy.hr/p/8bf98653433d-remote-field-resource-nurse-lpn-lvn",
+      "company": "Float Health",
+      "company_website": "https://www.floathealth.com"
     },
     {
       "title": "Applied AI Engineer",
@@ -5409,16 +5421,16 @@
     {
       "title": "Robotics AI Campus Lead",
       "department": "Product Operations",
-      "location": "Vancouver, British Columbia, Canada",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652381006",
+      "location": "Monterrey, Nuevo Le\u00f3n, Mexico",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652587006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
     {
       "title": "Robotics AI Campus Lead",
       "department": "Product Operations",
-      "location": "Monterrey, Nuevo Le\u00f3n, Mexico",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652587006",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652381006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -5495,6 +5507,14 @@
       "company_website": "https://www.instawork.com"
     },
     {
+      "title": "Senior Software Engineer",
+      "department": "Robotics",
+      "location": "San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4674046006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
       "title": "Senior Software Engineer - E3",
       "department": "Engineering",
       "location": "Bengaluru, Karnataka, India",
@@ -5507,14 +5527,6 @@
       "department": "Engineering",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4658887006",
-      "company": "Instawork",
-      "company_website": "https://www.instawork.com"
-    },
-    {
-      "title": "Software Engineer",
-      "department": "Robotics",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4674046006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -5569,16 +5581,16 @@
     {
       "title": "Trust & Safety Specialist",
       "department": "Trust and Safety",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4664772006",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4664773006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
     {
       "title": "Trust & Safety Specialist",
       "department": "Trust and Safety",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4664773006",
+      "location": "San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4664772006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -5699,14 +5711,6 @@
       "department": "Accounting",
       "location": "Remote - US",
       "url": "https://lattice.com/job?gh_jid=8443082002",
-      "company": "Lattice",
-      "company_website": "https://lattice.com"
-    },
-    {
-      "title": "Senior Customer Support Associate",
-      "department": "Customer Care",
-      "location": "New York City Metropolitan Area, NY",
-      "url": "https://lattice.com/job?gh_jid=8481698002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
@@ -5845,14 +5849,6 @@
       "url": "https://jobs.ashbyhq.com/namespace/ff8cc22e-9c67-47cc-a858-04b38f29bf81",
       "company": "Namespace",
       "company_website": "https://namespace.so"
-    },
-    {
-      "title": "Load more",
-      "department": "General",
-      "location": "Waltham, MA",
-      "url": "https://www.nextinsurance.com/careers/",
-      "company": "Next Insurance (acquired by MunichRe)",
-      "company_website": "https://www.nextinsurance.com"
     },
     {
       "title": "Job Description",
@@ -6039,7 +6035,7 @@
       "company_website": "https://www.owner.com"
     },
     {
-      "title": "Social Media Manager, Short Form Content",
+      "title": "Short Form Content Manager",
       "department": "Marketing & Media",
       "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/owner/198497d4-167b-4213-b48f-8ef2aba3a682",
@@ -6319,6 +6315,166 @@
       "company_website": "https://www.owner.com"
     },
     {
+      "title": "Customer Support AssociateSingapore",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://padlet.jobs/open-roles/9bc0f170-83ba-4794-ac76-a0c206d47959",
+      "company": "Padlet",
+      "company_website": "https://www.padlet.com"
+    },
+    {
+      "title": "Customer Support AssociateSeoul",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://padlet.jobs/open-roles/da322f74-57d1-4648-9816-de889b121104",
+      "company": "Padlet",
+      "company_website": "https://www.padlet.com"
+    },
+    {
+      "title": "Head of DesignSan Francisco",
+      "department": "General",
+      "location": "San Francisco",
+      "url": "https://padlet.jobs/open-roles/3a63c991-b86d-41d8-84ee-c878a13baf8a",
+      "company": "Padlet",
+      "company_website": "https://www.padlet.com"
+    },
+    {
+      "title": "Product DesignerSingapore",
+      "department": "General",
+      "location": "San Francisco",
+      "url": "https://padlet.jobs/open-roles/50cdf712-daba-4925-b344-d0b3530b5c1c",
+      "company": "Padlet",
+      "company_website": "https://www.padlet.com"
+    },
+    {
+      "title": "Senior Product DesignerSan Francisco",
+      "department": "General",
+      "location": "San Francisco",
+      "url": "https://padlet.jobs/open-roles/bbe2d8fd-3055-492e-b3b7-11badf711626",
+      "company": "Padlet",
+      "company_website": "https://www.padlet.com"
+    },
+    {
+      "title": "Software Engineer \u2013 Frontend / Backend / FullstackSan Francisco",
+      "department": "General",
+      "location": "San Francisco",
+      "url": "https://padlet.jobs/open-roles/92eeb42e-4648-4c39-9894-c3991beddeae",
+      "company": "Padlet",
+      "company_website": "https://www.padlet.com"
+    },
+    {
+      "title": "Software Engineer \u2013 Frontend / Backend / FullstackSingapore",
+      "department": "General",
+      "location": "San Francisco",
+      "url": "https://padlet.jobs/open-roles/eb909049-fbc3-4510-9b55-c02b97bbf4f7",
+      "company": "Padlet",
+      "company_website": "https://www.padlet.com"
+    },
+    {
+      "title": "Software Engineer \u2013 MobileSan Francisco",
+      "department": "General",
+      "location": "San Francisco",
+      "url": "https://padlet.jobs/open-roles/0c6fba2d-f8b3-488c-8541-bd196a0277f5",
+      "company": "Padlet",
+      "company_website": "https://www.padlet.com"
+    },
+    {
+      "title": "Software Engineer \u2013 MobileSingapore",
+      "department": "General",
+      "location": "San Francisco",
+      "url": "https://padlet.jobs/open-roles/8db03f4d-61ca-4dad-9db0-a71120df5e45",
+      "company": "Padlet",
+      "company_website": "https://www.padlet.com"
+    },
+    {
+      "title": "Content MarketerSeoul",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://padlet.jobs/open-roles/1ab2470d-03bd-4cf9-85b9-9a512d74822c",
+      "company": "Padlet",
+      "company_website": "https://www.padlet.com"
+    },
+    {
+      "title": "Product Manager \u2013 SchoolsSingapore",
+      "department": "General",
+      "location": "San Francisco",
+      "url": "https://padlet.jobs/open-roles/33451cc9-4e15-49f8-82bf-afdc15891dbb",
+      "company": "Padlet",
+      "company_website": "https://www.padlet.com"
+    },
+    {
+      "title": "Product Manager \u2013 SchoolsSan Francisco",
+      "department": "General",
+      "location": "San Francisco",
+      "url": "https://padlet.jobs/open-roles/6c0945ab-f704-4b7c-8677-402ebc0fbf6c",
+      "company": "Padlet",
+      "company_website": "https://www.padlet.com"
+    },
+    {
+      "title": "Account Executive - ChicagoRemote",
+      "department": "General",
+      "location": "Chicago",
+      "url": "https://padlet.jobs/open-roles/c68c94e1-5b3d-4e48-98b4-9996d890df91",
+      "company": "Padlet",
+      "company_website": "https://www.padlet.com"
+    },
+    {
+      "title": "Account Executive - LondonLondon",
+      "department": "General",
+      "location": "Chicago",
+      "url": "https://padlet.jobs/open-roles/b4a7bacb-f221-4bfe-8667-53891d13a05d",
+      "company": "Padlet",
+      "company_website": "https://www.padlet.com"
+    },
+    {
+      "title": "Account Executive - SeoulSeoul",
+      "department": "General",
+      "location": "Chicago",
+      "url": "https://padlet.jobs/open-roles/907a4b5e-61b2-4adc-9710-9c3b4e51bb3e",
+      "company": "Padlet",
+      "company_website": "https://www.padlet.com"
+    },
+    {
+      "title": "Account Executive - TokyoTokyo",
+      "department": "General",
+      "location": "Chicago",
+      "url": "https://padlet.jobs/open-roles/4638213a-f320-40c8-af1f-2c0bc0934512",
+      "company": "Padlet",
+      "company_website": "https://www.padlet.com"
+    },
+    {
+      "title": "Business Development Representative (BDR)San Francisco",
+      "department": "General",
+      "location": "Chicago",
+      "url": "https://padlet.jobs/open-roles/8bd0c07e-d8a5-47a3-808c-43f3a106c7f9",
+      "company": "Padlet",
+      "company_website": "https://www.padlet.com"
+    },
+    {
+      "title": "Sales Operations ManagerSan Francisco",
+      "department": "General",
+      "location": "Chicago",
+      "url": "https://padlet.jobs/open-roles/339bfb7a-bf9c-4adc-af12-328c3193de22",
+      "company": "Padlet",
+      "company_website": "https://www.padlet.com"
+    },
+    {
+      "title": "A Job Not Listed HereSan Francisco",
+      "department": "General",
+      "location": "San Francisco",
+      "url": "https://padlet.jobs/open-roles/1315a363-c35c-42ea-8ec8-f80db34f681d",
+      "company": "Padlet",
+      "company_website": "https://www.padlet.com"
+    },
+    {
+      "title": "A Job Not Listed HereSingapore",
+      "department": "General",
+      "location": "San Francisco",
+      "url": "https://padlet.jobs/open-roles/ce0a8e36-0a5b-4e49-a3f8-15020e0f046f",
+      "company": "Padlet",
+      "company_website": "https://www.padlet.com"
+    },
+    {
       "title": "Skills Lab / Open Application",
       "department": "All Teams",
       "location": "All Locations",
@@ -6397,6 +6553,70 @@
       "url": "https://jobs.ashbyhq.com/peek/3643ebaa-49fd-4320-8070-4ed9bd3f30ca",
       "company": "Peek",
       "company_website": "https://www.peek.com"
+    },
+    {
+      "title": "Account Executive",
+      "department": "Sales",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/resortpass/jobs/5085229007",
+      "company": "ResortPass",
+      "company_website": "https://www.resortpass.com"
+    },
+    {
+      "title": "Account Manager - Hotels",
+      "department": "General",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/resortpass/jobs/5031794007",
+      "company": "ResortPass",
+      "company_website": "https://www.resortpass.com"
+    },
+    {
+      "title": "Culture and Operations Intern",
+      "department": "People",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/resortpass/jobs/5040776007",
+      "company": "ResortPass",
+      "company_website": "https://www.resortpass.com"
+    },
+    {
+      "title": "Founding iOS Engineer",
+      "department": "Engineering",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/resortpass/jobs/5090681007",
+      "company": "ResortPass",
+      "company_website": "https://www.resortpass.com"
+    },
+    {
+      "title": "Senior Product Designer",
+      "department": "Product",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/resortpass/jobs/5088327007",
+      "company": "ResortPass",
+      "company_website": "https://www.resortpass.com"
+    },
+    {
+      "title": "Senior Software Engineer, Frontend",
+      "department": "Engineering",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/resortpass/jobs/5037441007",
+      "company": "ResortPass",
+      "company_website": "https://www.resortpass.com"
+    },
+    {
+      "title": "Software Engineer - Full Stack",
+      "department": "Engineering",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/resortpass/jobs/5059472007",
+      "company": "ResortPass",
+      "company_website": "https://www.resortpass.com"
+    },
+    {
+      "title": "VP of Finance",
+      "department": "Finance",
+      "location": "New York",
+      "url": "https://job-boards.greenhouse.io/resortpass/jobs/4624206007",
+      "company": "ResortPass",
+      "company_website": "https://www.resortpass.com"
     },
     {
       "title": "Senior Full Stack Engineer",
