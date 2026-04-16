@@ -1,187 +1,27 @@
 [
   {
-    "name": "Faire",
-    "website": "https://www.faire.com"
-  },
-  {
-    "name": "Handshake",
-    "website": "https://joinhandshake.com"
-  },
-  {
-    "name": "Lattice",
-    "website": "https://lattice.com"
-  },
-  {
-    "name": "Grammarly",
-    "website": "https://www.grammarly.com"
-  },
-  {
-    "name": "Shef",
-    "website": "https://www.shef.com"
-  },
-  {
-    "name": "Sourcegraph",
-    "website": "https://www.sourcegraph.com"
+    "name": "Acely.ai",
+    "website": "https://acely.ai"
   },
   {
     "name": "Ada",
     "website": "https://www.ada.cx"
   },
   {
-    "name": "Instawork",
-    "website": "https://www.instawork.com"
-  },
-  {
-    "name": "Owner",
-    "website": "https://www.owner.com"
-  },
-  {
-    "name": "Bounce",
-    "website": "https://www.bounce.com"
-  },
-  {
-    "name": "GlossGenius",
-    "website": "https://www.glossgenius.com"
-  },
-  {
-    "name": "Codi",
-    "website": "https://www.codi.com"
-  },
-  {
-    "name": "Workstream",
-    "website": "https://www.workstream.us"
-  },
-  {
-    "name": "Huckleberry",
-    "website": "https://huckleberrycare.com"
-  },
-  {
-    "name": "SPRX Technologies",
-    "website": "https://sprx.tax"
-  },
-  {
-    "name": "Producer AI",
-    "website": "https://www.producer.ai"
-  },
-  {
-    "name": "Gencove",
-    "website": "https://www.gencove.com"
-  },
-  {
-    "name": "Courtyard",
-    "website": "https://courtyard.io"
-  },
-  {
-    "name": "Daisy",
-    "website": "https://daisyco.com"
-  },
-  {
-    "name": "Cambly",
-    "website": "https://www.cambly.com"
-  },
-  {
-    "name": "Hatch Baby",
-    "website": "https://www.hatch.co"
-  },
-  {
-    "name": "Wonderschool",
-    "website": "https://www.wonderschool.com"
-  },
-  {
-    "name": "Pickle",
-    "website": "https://www.shoponpickle.com"
-  },
-  {
-    "name": "Medely",
-    "website": "https://medely.com"
-  },
-  {
-    "name": "RedCircle",
-    "website": "https://www.redcircle.com"
-  },
-  {
-    "name": "King Energy",
-    "website": "https://www.kingenergy.com"
-  },
-  {
-    "name": "Prophia",
-    "website": "https://www.prophia.com"
-  },
-  {
-    "name": "Honey Health",
-    "website": "https://www.honeyhealth.ai"
-  },
-  {
-    "name": "Wholesail",
-    "website": "https://www.paywholesail.com"
-  },
-  {
-    "name": "Float Health",
-    "website": "https://www.floathealth.com"
-  },
-  {
-    "name": "Stable",
-    "website": "https://www.usestable.com"
-  },
-  {
-    "name": "Overflow",
-    "website": "https://www.overflow.co"
-  },
-  {
-    "name": "OptimoRoute",
-    "website": "https://optimoroute.com"
-  },
-  {
-    "name": "Lily",
-    "website": "https://www.lily.ai"
-  },
-  {
-    "name": "Future",
-    "website": "https://future.co"
-  },
-  {
-    "name": "Acely.ai",
-    "website": "https://acely.ai"
-  },
-  {
-    "name": "MDAlgorithms",
-    "website": "https://www.mdalgorithms.com"
-  },
-  {
-    "name": "HipCamp",
-    "website": "https://www.hipcamp.com"
-  },
-  {
-    "name": "GoodTime",
-    "website": "https://goodtime.io"
-  },
-  {
-    "name": "Peek",
-    "website": "https://www.peek.com"
-  },
-  {
-    "name": "Rising Team",
-    "website": "https://www.risingteam.com"
-  },
-  {
     "name": "AdQuick",
     "website": "https://www.adquick.com"
   },
   {
-    "name": "ResQ",
-    "website": "https://www.getresq.com"
-  },
-  {
-    "name": "Padlet",
-    "website": "https://www.padlet.com"
-  },
-  {
-    "name": "Curri",
-    "website": "https://www.curri.com"
-  },
-  {
     "name": "AirCover",
     "website": "https://www.aircover.ai"
+  },
+  {
+    "name": "Airvet",
+    "website": "https://www.airvet.com"
+  },
+  {
+    "name": "Assemble (acquired by Deel)",
+    "website": "https://www.deel.com"
   },
   {
     "name": "Ava",
@@ -192,16 +32,36 @@
     "website": "https://www.batonmarket.com"
   },
   {
+    "name": "Bounce",
+    "website": "https://www.bounce.com"
+  },
+  {
     "name": "Breef",
     "website": "https://www.breef.com"
+  },
+  {
+    "name": "Cabana",
+    "website": "https://cabanapools.com"
+  },
+  {
+    "name": "Cambly",
+    "website": "https://www.cambly.com"
   },
   {
     "name": "Canopy",
     "website": "https://www.canopyworks.com"
   },
   {
+    "name": "Cardinal",
+    "website": "https://trycardinal.ai"
+  },
+  {
     "name": "Carebrain",
     "website": "https://www.carebrain.com"
+  },
+  {
+    "name": "Codi",
+    "website": "https://www.codi.com"
   },
   {
     "name": "Collectly",
@@ -212,20 +72,92 @@
     "website": "https://www.commenda.io"
   },
   {
+    "name": "Courtyard",
+    "website": "https://courtyard.io"
+  },
+  {
+    "name": "Curri",
+    "website": "https://www.curri.com"
+  },
+  {
+    "name": "Cut+Dry",
+    "website": "https://cutanddry.com"
+  },
+  {
+    "name": "Daisy",
+    "website": "https://daisyco.com"
+  },
+  {
     "name": "Dime",
     "website": "https://dimehealth.ai"
+  },
+  {
+    "name": "Faire",
+    "website": "https://www.faire.com"
   },
   {
     "name": "Felt",
     "website": "https://www.feltclinic.com"
   },
   {
+    "name": "Float Health",
+    "website": "https://www.floathealth.com"
+  },
+  {
+    "name": "Future",
+    "website": "https://future.co"
+  },
+  {
+    "name": "Gencove",
+    "website": "https://www.gencove.com"
+  },
+  {
+    "name": "GlossGenius",
+    "website": "https://www.glossgenius.com"
+  },
+  {
     "name": "GMTM",
     "website": "https://www.gmtm.com"
   },
   {
+    "name": "GoodTime",
+    "website": "https://goodtime.io"
+  },
+  {
+    "name": "Grammarly",
+    "website": "https://superhuman.com"
+  },
+  {
+    "name": "Handshake",
+    "website": "https://joinhandshake.com"
+  },
+  {
+    "name": "Hardline (acquired by Tango Tango)",
+    "website": "https://tangotango.net"
+  },
+  {
+    "name": "Hatch Baby",
+    "website": "https://www.hatch.co"
+  },
+  {
+    "name": "Hipcamp",
+    "website": "https://www.hipcamp.com"
+  },
+  {
+    "name": "Honey Health",
+    "website": "https://www.honeyhealth.ai"
+  },
+  {
     "name": "Hostie",
     "website": "https://www.hostie.ai"
+  },
+  {
+    "name": "Huckleberry",
+    "website": "https://huckleberrycare.com"
+  },
+  {
+    "name": "Instawork",
+    "website": "https://www.instawork.com"
   },
   {
     "name": "Ivy",
@@ -240,6 +172,14 @@
     "website": "https://www.juxta.com"
   },
   {
+    "name": "King Energy",
+    "website": "https://www.kingenergy.com"
+  },
+  {
+    "name": "Lattice",
+    "website": "https://lattice.com"
+  },
+  {
     "name": "Liftoff",
     "website": "https://www.liftoff.xyz"
   },
@@ -248,8 +188,20 @@
     "website": "https://lilohq.com"
   },
   {
+    "name": "Lily",
+    "website": "https://www.lily.ai"
+  },
+  {
     "name": "Marvin",
     "website": "https://www.meetmarvin.com"
+  },
+  {
+    "name": "MDAlgorithms",
+    "website": "https://www.mdalgorithms.com"
+  },
+  {
+    "name": "Medely",
+    "website": "https://medely.com"
   },
   {
     "name": "Merlin",
@@ -260,8 +212,48 @@
     "website": "https://namespace.so"
   },
   {
+    "name": "Next Insurance (acquired by MunichRe)",
+    "website": "https://www.nextinsurance.com"
+  },
+  {
+    "name": "OfferFit (acquired by Braze)",
+    "website": "https://www.braze.com/product/brazeai-decisioning-studio"
+  },
+  {
     "name": "Oova",
     "website": "https://www.oova.life"
+  },
+  {
+    "name": "OptimoRoute",
+    "website": "https://optimoroute.com"
+  },
+  {
+    "name": "Overflow",
+    "website": "https://www.overflow.co"
+  },
+  {
+    "name": "Owner",
+    "website": "https://www.owner.com"
+  },
+  {
+    "name": "Padlet",
+    "website": "https://www.padlet.com"
+  },
+  {
+    "name": "Peek",
+    "website": "https://www.peek.com"
+  },
+  {
+    "name": "Pickle",
+    "website": "https://www.shoponpickle.com"
+  },
+  {
+    "name": "Prenda",
+    "website": "https://www.prenda.com"
+  },
+  {
+    "name": "Prophia",
+    "website": "https://www.prophia.com"
   },
   {
     "name": "Prox",
@@ -272,12 +264,28 @@
     "website": "https://www.therealroots.com"
   },
   {
+    "name": "RedCircle",
+    "website": "https://www.redcircle.com"
+  },
+  {
     "name": "ResortPass",
     "website": "https://www.resortpass.com"
   },
   {
+    "name": "ResQ",
+    "website": "https://www.getresq.com"
+  },
+  {
+    "name": "Rising Team",
+    "website": "https://www.risingteam.com"
+  },
+  {
     "name": "Route Reports",
     "website": "https://www.routereports.com"
+  },
+  {
+    "name": "Shef",
+    "website": "https://www.shef.com"
   },
   {
     "name": "Shop My",
@@ -288,20 +296,32 @@
     "website": "https://sibli.ai"
   },
   {
+    "name": "Sourcegraph",
+    "website": "https://www.sourcegraph.com"
+  },
+  {
     "name": "Sourcetable",
     "website": "https://www.sourcetable.com"
+  },
+  {
+    "name": "SPRX Technologies",
+    "website": "https://onshore.com"
+  },
+  {
+    "name": "Stable",
+    "website": "https://www.usestable.com"
   },
   {
     "name": "Standard Fleet",
     "website": "https://www.standardfleet.com"
   },
   {
-    "name": "Stress-Free Auto Care",
-    "website": "https://www.stressfree.com"
-  },
-  {
     "name": "Stitch",
     "website": "https://www.withstitch.com"
+  },
+  {
+    "name": "Stress-Free Auto Care",
+    "website": "https://www.stressfree.com"
   },
   {
     "name": "Swantide",
@@ -312,16 +332,36 @@
     "website": "https://www.toothio.com"
   },
   {
+    "name": "Torch Dental",
+    "website": "https://www.torchdental.com"
+  },
+  {
     "name": "Trendsi",
     "website": "https://www.trendsi.com"
+  },
+  {
+    "name": "Via (acquired by JustWorks)",
+    "website": "https://www.justworks.com"
   },
   {
     "name": "Weave",
     "website": "https://workweave.dev"
   },
   {
+    "name": "Wholesail",
+    "website": "https://www.paywholesail.com"
+  },
+  {
     "name": "Willow",
     "website": "https://willowvoice.com"
+  },
+  {
+    "name": "Wonderschool",
+    "website": "https://www.wonderschool.com"
+  },
+  {
+    "name": "Workstream",
+    "website": "https://www.workstream.us"
   },
   {
     "name": "Woz",
@@ -330,57 +370,5 @@
   {
     "name": "Zingly",
     "website": "https://www.zingly.ai"
-  },
-  {
-    "name": "Cut+Dry",
-    "website": "https://cutanddry.com"
-  },
-  {
-    "name": "Torch Dental",
-    "website": "https://www.torchdental.com"
-  },
-  {
-    "name": "Prenda",
-    "website": "https://www.prenda.com"
-  },
-  {
-    "name": "Airvet",
-    "website": "https://www.airvet.com"
-  },
-  {
-    "name": "Newfront Insurance (acquired by WTW)",
-    "website": "https://www.newfront.com"
-  },
-  {
-    "name": "Via (acquired by JustWorks)",
-    "website": "https://www.justworks.com"
-  },
-  {
-    "name": "Yik Yak (acquired by SideChat)",
-    "website": "https://yikyak.com"
-  },
-  {
-    "name": "Assemble (acquired by Deel)",
-    "website": "https://www.deel.com"
-  },
-  {
-    "name": "Prairie Health (acquired by Carbon Health)",
-    "website": "https://www.carbonhealth.com"
-  },
-  {
-    "name": "Hardline (acquired by Tango Tango)",
-    "website": "https://tangotango.net"
-  },
-  {
-    "name": "Setter.com (acquired by Thumbtack)",
-    "website": "https://www.thumbtack.com"
-  },
-  {
-    "name": "AllStripes (acquired by Picnic Health)",
-    "website": "https://www.picnichealth.com"
-  },
-  {
-    "name": "Northstar (acquired by Nayya Health)",
-    "website": "https://www.northstarmoney.com"
   }
 ]
