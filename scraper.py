@@ -51,7 +51,8 @@ SKIP_COMPANIES = {
 # Key = exact company name (lowercase). Value = (ats, slug, jobs_url).
 KNOWN_ATS = {
     "faire":                         ("greenhouse", "Faire",        "https://boards.greenhouse.io/faire"),
-    "grammarly":                     ("greenhouse", "grammarly",    "https://boards.greenhouse.io/grammarly"),
+    "grammarly":                     ("greenhouse", "grammarly",    "https://boards.greenhouse.io/grammarly"),  # legacy — pre-rebrand
+    "superhuman":                    ("greenhouse", "superhuman",   "https://boards.greenhouse.io/superhuman"),
     "instawork":                     ("greenhouse", "instawork",    "https://boards.greenhouse.io/instawork"),
     "handshake":                     ("ashby_embedded", None,       "https://joinhandshake.com/careers/"),
     "lattice":                       ("greenhouse", "lattice",      "https://boards.greenhouse.io/lattice"),
@@ -65,12 +66,12 @@ KNOWN_ATS = {
     "bounce":                        ("ashby_embedded", None,        "https://jobs.ashbyhq.com/Bounce"),
     "lily":                          ("greenhouse", "lilyai",       "https://boards.greenhouse.io/lilyai"),
     "medely":                        ("greenhouse", "medely",       "https://boards.greenhouse.io/medely"),
-    "padlet":                        ("greenhouse", "padlet",       "https://boards.greenhouse.io/padlet"),
+    "padlet":                        ("ashby_embedded", None,           "https://padlet.jobs/open-roles"),
     "peek":                          ("greenhouse", "peek",         "https://boards.greenhouse.io/peek"),
     "workstream":                    ("greenhouse", "workstream",   "https://boards.greenhouse.io/workstream"),
     "wonderschool":                  ("ashby",      "wonderschool", "https://jobs.ashbyhq.com/wonderschool"),
     "ava":                           ("ashby",      "ava",          "https://jobs.ashbyhq.com/ava"),
-    "resortpass":                    ("lever",      "resortpass",   "https://jobs.lever.co/resortpass"),
+    "resortpass":                    ("greenhouse", "resortpass",       "https://boards.greenhouse.io/resortpass"),
     "overflow":                      ("lever",      "overflow",     "https://jobs.lever.co/overflow"),
     "huckleberry":                   ("lever",      "huckleberry",  "https://jobs.lever.co/huckleberry"),
     "goodtime":                      ("lever",      "goodtime",     "https://jobs.lever.co/goodtime"),
@@ -96,6 +97,12 @@ KNOWN_ATS = {
     "resq":                                   ("ashby",      "ResQ",         "https://jobs.ashbyhq.com/ResQ"),
     "medely":                                 ("ashby",      "medely",       "https://jobs.ashbyhq.com/medely"),
     "standard fleet":                         ("ashby",      "StandardFleet","https://jobs.ashbyhq.com/StandardFleet"),
+    "float health":                           ("breezy",     "float-health", "https://float-health.breezy.hr"),
+    "superhuman (formerly grammarly)":        ("greenhouse", "superhuman",   "https://boards.greenhouse.io/superhuman"),  # alias — in case companies.json uses full name
+    "canopy":                                 ("ashby_embedded", None,       "https://www.canopyworks.com/about"),
+    "cabana":                                 ("ashby_embedded", None,       "https://cabanapools.com/jobs-careers"),
+    "honey health":                           ("ashby_embedded", None,       "https://www.honeyhealth.ai/careers"),
+    "pickle":                                 ("ashby_embedded", None,       "https://www.shoponpickle.com/careers"),
 }
 
 
@@ -621,6 +628,31 @@ def scrape_careerplug(slug, company, fallback_url):
         return []
 
 
+def scrape_breezy(slug, company, fallback_url):
+    """Scrape Breezy HR jobs via their API."""
+    try:
+        r = requests.get(f"https://{slug}.breezy.hr/json",
+                         headers=HEADERS, timeout=REQUEST_TIMEOUT)
+        data = r.json()
+        positions = data if isinstance(data, list) else data.get("positions", [])
+        jobs = []
+        for j in positions:
+            title = j.get("name", "")
+            loc = j.get("location", {})
+            if isinstance(loc, dict):
+                loc = loc.get("name", loc.get("city", ""))
+            dept = j.get("department", {})
+            if isinstance(dept, dict):
+                dept = dept.get("name", "General")
+            job_url = f"https://{slug}.breezy.hr/p/{j.get('friendly_id', '')}"
+            jobs.append(make_job(title, dept or "General", loc or "", job_url, company))
+        log.info(f"    Breezy HR: {len(jobs)} jobs")
+        return jobs
+    except Exception as e:
+        log.warning(f"    Breezy HR failed: {e}")
+        return scrape_generic(fallback_url, company)
+
+
 def route_to_scraper(ats, slug, name, jobs_url):
     if ats == "greenhouse" and slug:
         return scrape_greenhouse(slug, name, jobs_url)
@@ -642,6 +674,8 @@ def route_to_scraper(ats, slug, name, jobs_url):
         return scrape_commenda(jobs_url, name)
     elif ats == "careerplug":
         return scrape_careerplug(slug, name, jobs_url)
+    elif ats == "breezy":
+        return scrape_breezy(slug, name, jobs_url)
     else:
         return scrape_generic(jobs_url, name)
 
