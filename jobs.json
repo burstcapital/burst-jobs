@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-16T23:28:08.060142+00:00",
-  "total_jobs": 1035,
+  "generated_at": "2026-04-17T00:23:43.466703+00:00",
+  "total_jobs": 1046,
   "total_companies": 93,
-  "companies_with_jobs": 54,
+  "companies_with_jobs": 56,
   "failed_companies": [
     {
       "name": "Acely.ai",
@@ -61,20 +61,12 @@
       "reason": "no jobs page found"
     },
     {
-      "name": "Next Insurance (acquired by MunichRe)",
-      "reason": "no jobs page found"
-    },
-    {
       "name": "OfferFit (acquired by Braze)",
       "reason": "no jobs page found"
     },
     {
       "name": "OptimoRoute",
       "reason": "not enough values to unpack (expected 2, got 0)"
-    },
-    {
-      "name": "Pickle",
-      "reason": "no jobs page found"
     },
     {
       "name": "Prenda",
@@ -5851,6 +5843,14 @@
       "company_website": "https://namespace.so"
     },
     {
+      "title": "Load more",
+      "department": "General",
+      "location": "Waltham, MA",
+      "url": "https://www.nextinsurance.com/careers/",
+      "company": "Next Insurance (acquired by MunichRe)",
+      "company_website": "https://www.nextinsurance.com"
+    },
+    {
       "title": "Job Description",
       "department": "General",
       "location": "Not specified",
@@ -6553,6 +6553,86 @@
       "url": "https://jobs.ashbyhq.com/peek/3643ebaa-49fd-4320-8070-4ed9bd3f30ca",
       "company": "Peek",
       "company_website": "https://www.peek.com"
+    },
+    {
+      "title": "Head of Ops",
+      "department": "Operations",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/shoponpickle/446a87a9-ad9a-4d92-844d-ef07ca4f5486",
+      "company": "Pickle",
+      "company_website": "https://www.shoponpickle.com"
+    },
+    {
+      "title": "Pickle Growth Fellow",
+      "department": "GTM",
+      "location": "Various",
+      "url": "https://jobs.ashbyhq.com/shoponpickle/a4b99007-abc7-4efe-9fea-53839a94c669",
+      "company": "Pickle",
+      "company_website": "https://www.shoponpickle.com"
+    },
+    {
+      "title": "Data Scientist",
+      "department": "Data",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/shoponpickle/dd9ba0ea-edef-440a-a273-fea0ec2e8506",
+      "company": "Pickle",
+      "company_website": "https://www.shoponpickle.com"
+    },
+    {
+      "title": "Community Programs Lead",
+      "department": "GTM",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/shoponpickle/c84242a9-741b-4e16-ab83-142cc67a6c0f",
+      "company": "Pickle",
+      "company_website": "https://www.shoponpickle.com"
+    },
+    {
+      "title": "Full Stack Engineer",
+      "department": "Engineering",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/shoponpickle/0af670bf-f7d5-4341-914f-849eb3a3e272",
+      "company": "Pickle",
+      "company_website": "https://www.shoponpickle.com"
+    },
+    {
+      "title": "Summer MBA Intern \u2014 Market Strategy & Expansion (NYC)",
+      "department": "Intern",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/shoponpickle/87d61a64-797c-447a-98e1-dfb5d31116b6",
+      "company": "Pickle",
+      "company_website": "https://www.shoponpickle.com"
+    },
+    {
+      "title": "Stylist & Events Coordinator (LA)",
+      "department": "GTM",
+      "location": "Los Angeles",
+      "url": "https://jobs.ashbyhq.com/shoponpickle/64c06a87-c6fb-4e1c-b913-bc1392095969",
+      "company": "Pickle",
+      "company_website": "https://www.shoponpickle.com"
+    },
+    {
+      "title": "Director of Marketplace Health",
+      "department": "GTM",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/shoponpickle/24a54694-d6e2-4cc0-b054-78ec7af7c5f7",
+      "company": "Pickle",
+      "company_website": "https://www.shoponpickle.com"
+    },
+    {
+      "title": "Social Media Coordinator",
+      "department": "Marketing",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/shoponpickle/7d27d481-5ce6-4823-9a99-6f14f9a4fece",
+      "company": "Pickle",
+      "company_website": "https://www.shoponpickle.com"
+    },
+    {
+      "title": "Events & Community Summer Intern (NYC)",
+      "department": "Intern",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/shoponpickle/5d95b505-4132-497e-a5e7-b59ee9532c97",
+      "company": "Pickle",
+      "company_website": "https://www.shoponpickle.com"
     },
     {
       "title": "Account Executive",
