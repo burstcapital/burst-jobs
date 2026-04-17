@@ -51,8 +51,7 @@ SKIP_COMPANIES = {
 # Key = exact company name (lowercase). Value = (ats, slug, jobs_url).
 KNOWN_ATS = {
     "faire":                         ("greenhouse", "Faire",        "https://boards.greenhouse.io/faire"),
-    "grammarly":                     ("greenhouse", "grammarly",    "https://boards.greenhouse.io/grammarly"),  # legacy — pre-rebrand
-    "superhuman":                    ("greenhouse", "superhuman",   "https://boards.greenhouse.io/superhuman"),
+    "grammarly":                     ("greenhouse", "grammarly",    "https://job-boards.greenhouse.io/grammarly"),
     "instawork":                     ("greenhouse", "instawork",    "https://boards.greenhouse.io/instawork"),
     "handshake":                     ("ashby_embedded", None,       "https://joinhandshake.com/careers/"),
     "lattice":                       ("greenhouse", "lattice",      "https://boards.greenhouse.io/lattice"),
@@ -98,11 +97,13 @@ KNOWN_ATS = {
     "medely":                                 ("ashby",      "medely",       "https://jobs.ashbyhq.com/medely"),
     "standard fleet":                         ("ashby",      "StandardFleet","https://jobs.ashbyhq.com/StandardFleet"),
     "float health":                           ("breezy",     "float-health", "https://float-health.breezy.hr"),
-    "superhuman (formerly grammarly)":        ("greenhouse", "superhuman",   "https://boards.greenhouse.io/superhuman"),  # alias — in case companies.json uses full name
+    "superhuman (formerly grammarly)":        ("greenhouse", "grammarly",    "https://job-boards.greenhouse.io/grammarly"),
+    "superhuman":                             ("greenhouse", "grammarly",    "https://job-boards.greenhouse.io/grammarly"),
+    "grammarly":                              ("greenhouse", "grammarly",    "https://job-boards.greenhouse.io/grammarly"),
     "canopy":                                 ("ashby_embedded", None,       "https://www.canopyworks.com/about"),
     "cabana":                                 ("ashby_embedded", None,       "https://cabanapools.com/jobs-careers"),
     "honey health":                           ("ashby_embedded", None,       "https://www.honeyhealth.ai/careers"),
-    "pickle":                                 ("ashby_embedded", None,       "https://www.shoponpickle.com/careers"),
+    "pickle":                                 ("ashby",      "shoponpickle", "https://jobs.ashbyhq.com/shoponpickle"),
 }
 
 
