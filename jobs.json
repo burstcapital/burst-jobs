@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T00:23:43.466703+00:00",
-  "total_jobs": 1046,
+  "generated_at": "2026-04-17T09:37:39.736500+00:00",
+  "total_jobs": 1048,
   "total_companies": 93,
   "companies_with_jobs": 56,
   "failed_companies": [
@@ -1611,7 +1611,7 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Full Stack Engineer (Front-end Heavy)",
+      "title": "Full Stack Engineer (Back End Heavy)",
       "department": "R&D",
       "location": "EMEA",
       "url": "https://jobs.ashbyhq.com/deel/334d3287-9864-4425-bcb0-0cbbf8f3a4ea",
@@ -1919,14 +1919,6 @@
       "department": "COGS",
       "location": "Spain",
       "url": "https://jobs.ashbyhq.com/deel/6348960b-5c0a-4970-b569-28941cb29583",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Tech Lead, Engineering",
-      "department": "R&D",
-      "location": "Spain",
-      "url": "https://jobs.ashbyhq.com/deel/2ee7f3e1-5883-41b5-8b3d-d748ab6e4898",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -2379,6 +2371,22 @@
       "company_website": "https://www.deel.com"
     },
     {
+      "title": "Tech Lead, Engineering",
+      "department": "R&D",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/233c1569-bf4d-4154-a169-a80ddc334bbf",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Associate, Japan Payroll | Japan",
+      "department": "COGS",
+      "location": "Japan",
+      "url": "https://jobs.ashbyhq.com/deel/6d61f6bc-ab46-4bcf-b68d-e2c623dc9263",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
       "title": "M&A Advisor",
       "department": "Revenue",
       "location": "New York City",
@@ -2547,26 +2555,10 @@
       "company_website": "https://www.breef.com"
     },
     {
-      "title": "Senior Performance & Influencer Marketing Specialist (APAC)",
-      "department": "Sales & Marketing",
-      "location": "Seoul",
-      "url": "https://jobs.ashbyhq.com/Cambly/2a32c236-d8e5-4726-ad55-93961ba0d243",
-      "company": "Cambly",
-      "company_website": "https://www.cambly.com"
-    },
-    {
       "title": "Marketing Specialist, Japan (Remote)",
       "department": "Sales & Marketing",
       "location": "Tokyo",
       "url": "https://jobs.ashbyhq.com/Cambly/d20326e1-60a7-457b-90dc-f45325d9fbac",
-      "company": "Cambly",
-      "company_website": "https://www.cambly.com"
-    },
-    {
-      "title": "Performance & Influencer Marketing Specialist (APAC)",
-      "department": "Sales & Marketing",
-      "location": "Seoul",
-      "url": "https://jobs.ashbyhq.com/Cambly/761ee777-54c2-4241-9268-fde399ae9163",
       "company": "Cambly",
       "company_website": "https://www.cambly.com"
     },
@@ -2599,6 +2591,14 @@
       "department": "Sales & Marketing",
       "location": "Shanghai",
       "url": "https://jobs.ashbyhq.com/Cambly/aa8dfae0-3170-4507-91bb-561829b31f1e",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "Senior Performance Marketing Specialist (Korea)",
+      "department": "Sales & Marketing",
+      "location": "Seoul",
+      "url": "https://jobs.ashbyhq.com/Cambly/a3a876f8-2738-4984-80c3-9a686a6852f8",
       "company": "Cambly",
       "company_website": "https://www.cambly.com"
     },
@@ -8157,16 +8157,16 @@
     {
       "title": "B2B Brand & Graphic Designer",
       "department": "Marketing",
-      "location": "Singapore",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5880196004",
+      "location": "Lehi, Utah",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5880169004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
     {
       "title": "B2B Brand & Graphic Designer",
       "department": "Marketing",
-      "location": "Lehi, Utah",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5880169004",
+      "location": "Singapore",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5880196004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -8191,6 +8191,14 @@
       "department": "Customer Support",
       "location": "Manila, Philippines",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/4087417004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
+      "title": "Engineering Intern - HRIS Product",
+      "department": "Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/4778341004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -8253,16 +8261,16 @@
     {
       "title": "Information Security Engineer",
       "department": "Engineering",
-      "location": "Vancouver, Canada",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5747991004",
+      "location": "Lehi, Utah",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5747973004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
     {
       "title": "Information Security Engineer",
       "department": "Engineering",
-      "location": "Lehi, Utah",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5747973004",
+      "location": "Vancouver, Canada",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5747991004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -8271,6 +8279,14 @@
       "department": "Special Projects",
       "location": "San Francisco/Menlo Park",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5832863004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
+      "title": "Order Management Specialist",
+      "department": "Operations",
+      "location": "Manila, Philippines",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5973189004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -8341,16 +8357,16 @@
     {
       "title": "Senior Software Engineer(Node.JS)",
       "department": "Engineering",
-      "location": "Vancouver",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5551192004",
+      "location": "Menlo Park, CA or San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5596289004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
     {
       "title": "Senior Software Engineer(Node.JS)",
       "department": "Engineering",
-      "location": "Menlo Park, CA or San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5596289004",
+      "location": "Vancouver",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5551192004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
