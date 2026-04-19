@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-18T09:11:12.431653+00:00",
-  "total_jobs": 1046,
+  "generated_at": "2026-04-19T09:13:39.127300+00:00",
+  "total_jobs": 1049,
   "total_companies": 93,
-  "companies_with_jobs": 54,
+  "companies_with_jobs": 56,
   "failed_companies": [
     {
       "name": "Acely.ai",
@@ -58,10 +58,6 @@
     },
     {
       "name": "Merlin",
-      "reason": "no jobs page found"
-    },
-    {
-      "name": "Next Insurance (acquired by MunichRe)",
       "reason": "no jobs page found"
     },
     {
@@ -223,7 +219,7 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Staff Product Operations Manager - EMEA",
+      "title": "Staff Product Operations Manager, FinTech - EMEA",
       "department": "R&D",
       "location": "EMEA",
       "url": "https://jobs.ashbyhq.com/deel/03173116-8450-456d-8816-928e915ca56b",
@@ -2367,6 +2363,14 @@
       "company_website": "https://www.deel.com"
     },
     {
+      "title": "Senior Product Manager - People List & Org Chart",
+      "department": "R&D",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/269e6266-838b-4cb5-85f9-290549e885e0",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
       "title": "M&A Advisor",
       "department": "Revenue",
       "location": "New York City",
@@ -2581,6 +2585,30 @@
       "url": "https://jobs.ashbyhq.com/Cambly/a3a876f8-2738-4984-80c3-9a686a6852f8",
       "company": "Cambly",
       "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "Cleaning servicesBook recurring or one-off professional cleaning services instantly",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://www.codi.com/cleaning/",
+      "company": "Codi",
+      "company_website": "https://www.codi.com"
+    },
+    {
+      "title": "BlogStories and best practices about team culture and workplace experience",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://www.codi.com/blog",
+      "company": "Codi",
+      "company_website": "https://www.codi.com"
+    },
+    {
+      "title": "Press",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://www.codi.com/press",
+      "company": "Codi",
+      "company_website": "https://www.codi.com"
     },
     {
       "title": "Director of Enterprise Sales",
@@ -5847,6 +5875,14 @@
       "company_website": "https://namespace.so"
     },
     {
+      "title": "Load more",
+      "department": "General",
+      "location": "Waltham, MA",
+      "url": "https://www.nextinsurance.com/careers/",
+      "company": "Next Insurance (acquired by MunichRe)",
+      "company_website": "https://www.nextinsurance.com"
+    },
+    {
       "title": "Job Description",
       "department": "General",
       "location": "Not specified",
@@ -6571,22 +6607,6 @@
       "department": "Engineering",
       "location": "New York City",
       "url": "https://jobs.ashbyhq.com/shoponpickle/0af670bf-f7d5-4341-914f-849eb3a3e272",
-      "company": "Pickle",
-      "company_website": "https://www.shoponpickle.com"
-    },
-    {
-      "title": "Summer MBA Intern \u2014 Market Strategy & Expansion (NYC)",
-      "department": "Intern",
-      "location": "New York City",
-      "url": "https://jobs.ashbyhq.com/shoponpickle/87d61a64-797c-447a-98e1-dfb5d31116b6",
-      "company": "Pickle",
-      "company_website": "https://www.shoponpickle.com"
-    },
-    {
-      "title": "Stylist & Events Coordinator (LA)",
-      "department": "GTM",
-      "location": "Los Angeles",
-      "url": "https://jobs.ashbyhq.com/shoponpickle/64c06a87-c6fb-4e1c-b913-bc1392095969",
       "company": "Pickle",
       "company_website": "https://www.shoponpickle.com"
     },
