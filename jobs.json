@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T09:13:39.127300+00:00",
-  "total_jobs": 1049,
+  "generated_at": "2026-04-20T10:16:13.879360+00:00",
+  "total_jobs": 1047,
   "total_companies": 93,
   "companies_with_jobs": 56,
   "failed_companies": [
@@ -267,14 +267,6 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Senior Full Stack Engineer - EMEA",
-      "department": "R&D",
-      "location": "EMEA",
-      "url": "https://jobs.ashbyhq.com/deel/eef5c286-e727-4a37-ad15-629022a02950",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
       "title": "Account Executive, Expansion, SMB | Nordics",
       "department": "S&M",
       "location": "Sweden",
@@ -391,6 +383,14 @@
       "department": "S&M",
       "location": "Belgium",
       "url": "https://jobs.ashbyhq.com/deel/91c90d0a-0830-444f-a33c-12015d3c669f",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Senior Product Designer",
+      "department": "R&D",
+      "location": "UK",
+      "url": "https://jobs.ashbyhq.com/deel/86b441c4-9ed5-470e-81a1-ff7263ef0c94",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -1123,14 +1123,6 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "SAP Strategic Partnerships Manager | DACH",
-      "department": "S&M",
-      "location": "Germany",
-      "url": "https://jobs.ashbyhq.com/deel/8428194d-84ea-4687-9256-aadae17fa57e",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
       "title": "Payroll Expert | Netherlands",
       "department": "COGS",
       "location": "EMEA",
@@ -1247,14 +1239,6 @@
       "department": "S&M",
       "location": "UK",
       "url": "https://jobs.ashbyhq.com/deel/22eaacd1-fbbe-4122-b5ed-e79dca01d829",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Senior Partnerships Manager | France",
-      "department": "S&M",
-      "location": "France",
-      "url": "https://jobs.ashbyhq.com/deel/2061deef-601d-4dc0-86d5-f326c7656ca6",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -1587,6 +1571,14 @@
       "company_website": "https://www.deel.com"
     },
     {
+      "title": "Payroll Expert, PEO |  US",
+      "department": "COGS",
+      "location": "North America",
+      "url": "https://jobs.ashbyhq.com/deel/21f4f7d4-c291-4b1a-a406-421c76d1aa9b",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
       "title": "M&A Integration Specialist",
       "department": "G&A",
       "location": "Austria",
@@ -1851,14 +1843,6 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Sales Development Representative, Enterprise | Italy",
-      "department": "S&M",
-      "location": "Spain",
-      "url": "https://jobs.ashbyhq.com/deel/c24ea852-e549-4848-8c69-a40b8855ec6f",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
       "title": "Solutions Engineer - Deel Field Services",
       "department": "S&M",
       "location": "APAC",
@@ -1947,7 +1931,7 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Account Executive - Local Payroll",
+      "title": "Account Executive, Enterprise",
       "department": "S&M",
       "location": "UK",
       "url": "https://jobs.ashbyhq.com/deel/21f3bffc-314a-4b45-86be-4f152342babb",
@@ -2127,14 +2111,6 @@
       "department": "S&M",
       "location": "Sweden",
       "url": "https://jobs.ashbyhq.com/deel/cac51f94-079d-4fb2-ba7b-d0b6e35c95dc",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Manager, Account Executive, Mid-Market | UK&I",
-      "department": "S&M",
-      "location": "Sweden",
-      "url": "https://jobs.ashbyhq.com/deel/7c4d01a1-6ff1-420e-92b3-b95137a7479c",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -8365,16 +8341,16 @@
     {
       "title": "Senior Software Engineer(Node.JS)",
       "department": "Engineering",
-      "location": "Menlo Park, CA or San Francisco, CA",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5596289004",
+      "location": "Vancouver",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5551192004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
     {
       "title": "Senior Software Engineer(Node.JS)",
       "department": "Engineering",
-      "location": "Vancouver",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5551192004",
+      "location": "Menlo Park, CA or San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5596289004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -8407,6 +8383,14 @@
       "department": "Engineering",
       "location": "Vancouver, British Columbia, Canada",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5019756004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
+      "title": "Strategic Finance Manager",
+      "department": "People Operations and Talent Acquisition",
+      "location": "San Francisco/Menlo Park",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5976118004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
