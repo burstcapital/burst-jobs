@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T09:37:30.542608+00:00",
-  "total_jobs": 848,
+  "generated_at": "2026-05-10T09:53:51.380955+00:00",
+  "total_jobs": 849,
   "total_companies": 93,
   "companies_with_jobs": 56,
   "failed_companies": [
@@ -3491,6 +3491,14 @@
       "company_website": "https://joinhandshake.com"
     },
     {
+      "title": "Entrepreneur, CEO OfficeEntrepreneur, CEO OfficeGeneral & AdministrativeSan Francisco, CAApply",
+      "department": "General",
+      "location": "San Francisco",
+      "url": "https://app.ashbyhq.com/jobs/9f62feb3-50d7-4d55-9b93-a52776c074f1",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
       "title": "Fellow Experience Specialist, India (Contract)Fellow Experience Specialist, India (Contract)Global SupportIndiaApply",
       "department": "General",
       "location": "San Francisco",
@@ -3511,14 +3519,6 @@
       "department": "General",
       "location": "San Francisco",
       "url": "https://app.ashbyhq.com/jobs/d5ea1ac8-6b4b-4f79-98a7-f7077fb1c07e",
-      "company": "Handshake",
-      "company_website": "https://joinhandshake.com"
-    },
-    {
-      "title": "Handshake AI Fellow Experience Specialist (Flexible Schedule), ContractHandshake AI Fellow Experience Specialist (Flexible Schedule), ContractGlobal SupportRemote (USA)Apply",
-      "department": "General",
-      "location": "San Francisco",
-      "url": "https://app.ashbyhq.com/jobs/6b647e66-495d-49c5-bd8e-ca87a4d68e08",
       "company": "Handshake",
       "company_website": "https://joinhandshake.com"
     },
@@ -4077,16 +4077,16 @@
     {
       "title": "Product Security Engineer",
       "department": "Engineering",
-      "location": "Remote - US",
-      "url": "https://lattice.com/job?gh_jid=8538998002",
+      "location": "Remote - Canada",
+      "url": "https://lattice.com/job?gh_jid=8485286002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
     {
       "title": "Product Security Engineer",
       "department": "Engineering",
-      "location": "Remote - Canada",
-      "url": "https://lattice.com/job?gh_jid=8485286002",
+      "location": "Remote - US",
+      "url": "https://lattice.com/job?gh_jid=8538998002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
@@ -4101,16 +4101,24 @@
     {
       "title": "Senior Software Engineer, AI",
       "department": "Engineering",
-      "location": "Remote - US",
-      "url": "https://lattice.com/job?gh_jid=8527013002",
+      "location": "Remote - Canada",
+      "url": "https://lattice.com/job?gh_jid=8516967002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
     {
       "title": "Senior Software Engineer, AI",
       "department": "Engineering",
+      "location": "Remote - US",
+      "url": "https://lattice.com/job?gh_jid=8527013002",
+      "company": "Lattice",
+      "company_website": "https://lattice.com"
+    },
+    {
+      "title": "Senior Software Engineer, Compensation",
+      "department": "Engineering",
       "location": "Remote - Canada",
-      "url": "https://lattice.com/job?gh_jid=8516967002",
+      "url": "https://lattice.com/job?gh_jid=8494207002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
