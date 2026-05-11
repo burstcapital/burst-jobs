@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T09:53:51.380955+00:00",
-  "total_jobs": 849,
+  "generated_at": "2026-05-11T11:41:43.982712+00:00",
+  "total_jobs": 844,
   "total_companies": 93,
   "companies_with_jobs": 56,
   "failed_companies": [
@@ -507,6 +507,14 @@
       "company_website": "https://www.deel.com"
     },
     {
+      "title": "Ghostbuster",
+      "department": "COGS",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/b168b5dd-f4f9-4586-be56-d2026bcd5352",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
       "title": "Sales Development Representative, Mid-Market | UKI",
       "department": "S&M",
       "location": "UK",
@@ -843,15 +851,7 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Staff Product Manager, Integrations",
-      "department": "R&D",
-      "location": "EMEA",
-      "url": "https://jobs.ashbyhq.com/deel/90cb4b15-5930-40b6-ab71-eb77690a2315",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Account Executive, Deel IT, ENT | EMEA",
+      "title": "Account Executive, Deel IT, Enterprise | EMEA",
       "department": "S&M",
       "location": "UK",
       "url": "https://jobs.ashbyhq.com/deel/22eaacd1-fbbe-4122-b5ed-e79dca01d829",
@@ -967,14 +967,6 @@
       "department": "COGS",
       "location": "South Korea",
       "url": "https://jobs.ashbyhq.com/deel/39751cb0-9318-46e5-bbe3-2ec6714f6106",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Associate Legal Counsel | Italy",
-      "department": "G&A",
-      "location": "Italy",
-      "url": "https://jobs.ashbyhq.com/deel/92f40e9d-5d01-43b5-a16d-a3caa8282cf8",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -1268,7 +1260,7 @@
     },
     {
       "title": "Data Engineer",
-      "department": "R&D",
+      "department": "S&M",
       "location": "Germany",
       "url": "https://jobs.ashbyhq.com/deel/c5821928-76aa-482a-abb9-a8cb2a487fca",
       "company": "Assemble (acquired by Deel)",
@@ -1395,7 +1387,7 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Senior Solutions Engineer",
+      "title": "Senior Solutions Engineer | EMEA",
       "department": "S&M",
       "location": "EMEA",
       "url": "https://jobs.ashbyhq.com/deel/86460213-3a85-46a3-acbf-79da960615a2",
@@ -1411,15 +1403,7 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Sales Development Representative, Enterprise | Nordics",
-      "department": "S&M",
-      "location": "Norway",
-      "url": "https://jobs.ashbyhq.com/deel/e927c79e-78fc-444e-ac19-ee56643fffb2",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Solutions Engineer, Global Payroll",
+      "title": "Solutions Engineer, Global Payroll | EMEA",
       "department": "S&M",
       "location": "EMEA",
       "url": "https://jobs.ashbyhq.com/deel/e9255b69-dde1-480f-8830-b33bab807f69",
@@ -1435,7 +1419,7 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Pre-Sales Delivery Consultant",
+      "title": "Pre-Sales Delivery Consultant | EMEA",
       "department": "S&M",
       "location": "EMEA",
       "url": "https://jobs.ashbyhq.com/deel/e6019ac5-7051-4176-a194-7072f6bbb6d0",
@@ -1539,7 +1523,7 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Account Executive, Deel IT, MM | EMEA",
+      "title": "Account Executive, Deel IT, Mid-Market | EMEA",
       "department": "S&M",
       "location": "UK",
       "url": "https://jobs.ashbyhq.com/deel/371fe67e-7862-4a11-83e8-cec0c5842e97",
@@ -1551,14 +1535,6 @@
       "department": "COGS",
       "location": "Canada",
       "url": "https://jobs.ashbyhq.com/deel/c0741897-80e8-4c8b-a1bb-ccc77dae55c0",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Data Analyst",
-      "department": "R&D",
-      "location": "Spain",
-      "url": "https://jobs.ashbyhq.com/deel/4b862c9b-c284-48a3-a47b-0327f80e44ad",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -1671,14 +1647,6 @@
       "department": "General",
       "location": "Portugal",
       "url": "https://jobs.ashbyhq.com/Bounce/a4bfeddf-1e52-4b33-9e07-163c6e4d5060",
-      "company": "Bounce",
-      "company_website": "https://www.bounce.com"
-    },
-    {
-      "title": "Head of ProductProduct \u2022 San Francisco, California \u2022 Full time",
-      "department": "General",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/Bounce/85b1fe6a-7ba3-41aa-aa60-d5090aeed170",
       "company": "Bounce",
       "company_website": "https://www.bounce.com"
     },
@@ -3675,6 +3643,14 @@
       "company_website": "https://www.instawork.com"
     },
     {
+      "title": "Data Captain",
+      "department": "Robotics",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4646566006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
       "title": "Data Operations Analyst - Instawork Robotics",
       "department": "Robotics",
       "location": "San Francisco, California, United States",
@@ -3693,24 +3669,24 @@
     {
       "title": "Enterprise Account Executive - Light Industrial",
       "department": "Sales",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4573123006",
-      "company": "Instawork",
-      "company_website": "https://www.instawork.com"
-    },
-    {
-      "title": "Enterprise Account Executive - Light Industrial",
-      "department": "Sales",
       "location": "New York, New York, United States",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4573114006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
     {
+      "title": "Enterprise Account Executive - Light Industrial",
+      "department": "Sales",
+      "location": "San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4573123006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
       "title": "Enterprise Account Manager",
       "department": "Account Management",
-      "location": "Pittsburgh, Pennsylvania, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4664062006",
+      "location": "Houston, Texas, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4664096006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -3725,8 +3701,8 @@
     {
       "title": "Enterprise Account Manager",
       "department": "Account Management",
-      "location": "Houston, Texas, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4664096006",
+      "location": "Pittsburgh, Pennsylvania, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4664062006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -3735,6 +3711,14 @@
       "department": "Account Management",
       "location": "San Francisco, California, United States",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4672019006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
+      "title": "Field Operations Executive",
+      "department": "Robotics",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4625772006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -3829,24 +3813,16 @@
     {
       "title": "Product Operations Analyst",
       "department": "Product Operations",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583588006",
-      "company": "Instawork",
-      "company_website": "https://www.instawork.com"
-    },
-    {
-      "title": "Product Operations Analyst",
-      "department": "Product Operations",
       "location": "San Francisco, California, United States",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4583589006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
     {
-      "title": "Product Operations Intern",
-      "department": "Product",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4567386006",
+      "title": "Product Operations Analyst",
+      "department": "Product Operations",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583588006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -3855,6 +3831,14 @@
       "department": "Product Operations",
       "location": "Chicago, Illinois, United States",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4588237006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
+      "title": "Product Operations Intern",
+      "department": "Product",
+      "location": "San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4567386006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -3877,6 +3861,14 @@
     {
       "title": "Robotics AI Campus Lead",
       "department": "Product Operations",
+      "location": "Austin, Texas, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652588006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
+      "title": "Robotics AI Campus Lead",
+      "department": "Product Operations",
       "location": "Chapel Hill, North Carolina, United States",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4652592006",
       "company": "Instawork",
@@ -3885,24 +3877,8 @@
     {
       "title": "Robotics AI Campus Lead",
       "department": "Product Operations",
-      "location": "Vancouver, British Columbia, Canada",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652381006",
-      "company": "Instawork",
-      "company_website": "https://www.instawork.com"
-    },
-    {
-      "title": "Robotics AI Campus Lead",
-      "department": "Product Operations",
-      "location": "Monterrey, Nuevo Le\u00f3n, Mexico",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652587006",
-      "company": "Instawork",
-      "company_website": "https://www.instawork.com"
-    },
-    {
-      "title": "Robotics AI Campus Lead",
-      "department": "Product Operations",
-      "location": "Austin, Texas, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652588006",
+      "location": "Philadelphia, Pennsylvania, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652590006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -3917,8 +3893,16 @@
     {
       "title": "Robotics AI Campus Lead",
       "department": "Product Operations",
-      "location": "Philadelphia, Pennsylvania, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652590006",
+      "location": "Monterrey, Nuevo Le\u00f3n, Mexico",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652587006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
+      "title": "Robotics AI Campus Lead",
+      "department": "Product Operations",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652381006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -3981,6 +3965,14 @@
     {
       "title": "Strategic Account Manager \u2013 Enterprise Light Industrial",
       "department": "Account Management",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4607891006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
+      "title": "Strategic Account Manager \u2013 Enterprise Light Industrial",
+      "department": "Account Management",
       "location": "San Francisco, California, United States",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4607887006",
       "company": "Instawork",
@@ -3991,14 +3983,6 @@
       "department": "Account Management",
       "location": "New York, New York, United States",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4607892006",
-      "company": "Instawork",
-      "company_website": "https://www.instawork.com"
-    },
-    {
-      "title": "Strategic Account Manager \u2013 Enterprise Light Industrial",
-      "department": "Account Management",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4607891006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -4038,14 +4022,6 @@
       "title": "ApplyVP of Solar Construction & Asset ManagementPhiladelphia, PARemote OKFull-TimeOperations",
       "department": "General",
       "location": "Philadelphia, PA",
-      "url": "https://kingenergy.com/careers/",
-      "company": "King Energy",
-      "company_website": "https://www.kingenergy.com"
-    },
-    {
-      "title": "ApplyRenewable Energy B2B Partner SalesSan Luis Obispo, CAFull-Time$75k - $85k",
-      "department": "General",
-      "location": "Obispo, CA",
       "url": "https://kingenergy.com/careers/",
       "company": "King Energy",
       "company_website": "https://www.kingenergy.com"
@@ -6667,14 +6643,6 @@
       "company_website": "https://www.workstream.us"
     },
     {
-      "title": "Customer Support Associate",
-      "department": "Customer Support",
-      "location": "Manila, Philippines",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/4087417004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
       "title": "Forward Deployed Engineer",
       "department": "Special Projects",
       "location": "Menlo Park, California",
@@ -6751,14 +6719,6 @@
       "department": "Special Projects",
       "location": "San Francisco/Menlo Park",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5832863004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "Order Management Specialist",
-      "department": "Operations",
-      "location": "Manila, Philippines",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5973189004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
