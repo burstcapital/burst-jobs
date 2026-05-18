@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T10:02:59.444356+00:00",
-  "total_jobs": 846,
+  "generated_at": "2026-05-18T11:59:56.743614+00:00",
+  "total_jobs": 851,
   "total_companies": 93,
   "companies_with_jobs": 56,
   "failed_companies": [
@@ -251,6 +251,14 @@
       "department": "S&M",
       "location": "EMEA",
       "url": "https://jobs.ashbyhq.com/deel/3721619d-c79a-4125-aa23-29a8a5e8938e",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Payroll Compliance Analyst | Sweden",
+      "department": "R&D",
+      "location": "Sweden",
+      "url": "https://jobs.ashbyhq.com/deel/7324ec2c-4595-425d-b19e-726e4b7101c5",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -1335,6 +1343,14 @@
       "company_website": "https://www.deel.com"
     },
     {
+      "title": "Staff Product Designer, Growth",
+      "department": "R&D",
+      "location": "EMEA",
+      "url": "https://jobs.ashbyhq.com/deel/071d58cc-e90e-4935-8bd7-c04ae9c5c069",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
       "title": "Engineering Tech Lead, AI",
       "department": "R&D",
       "location": "Romania",
@@ -1363,6 +1379,14 @@
       "department": "COGS",
       "location": "Canada",
       "url": "https://jobs.ashbyhq.com/deel/c0741897-80e8-4c8b-a1bb-ccc77dae55c0",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Data Analyst",
+      "department": "R&D",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/4b862c9b-c284-48a3-a47b-0327f80e44ad",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -1459,6 +1483,22 @@
       "department": "R&D",
       "location": "EMEA",
       "url": "https://jobs.ashbyhq.com/deel/2d7a1512-6b96-4d66-bd7e-4ce755e7d591",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Operations Manager | EMEA",
+      "department": "COGS",
+      "location": "Spain",
+      "url": "https://jobs.ashbyhq.com/deel/2714e67a-e8c4-4402-b2fb-1f7b0d7ff000",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
+      "title": "Solutions Engineer, Global Payroll - ASEAN",
+      "department": "S&M",
+      "location": "Singapore",
+      "url": "https://jobs.ashbyhq.com/deel/55b82d6c-6797-4a31-bf47-c5b95df8f939",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -1591,26 +1631,10 @@
       "company_website": "https://www.bounce.com"
     },
     {
-      "title": "Business Development ManagerSales \u2022 Tokyo \u2022 Contract",
-      "department": "General",
-      "location": "Tokyo",
-      "url": "https://jobs.ashbyhq.com/Bounce/dde5e989-1be1-4fa5-ada4-bd36626577c0",
-      "company": "Bounce",
-      "company_website": "https://www.bounce.com"
-    },
-    {
       "title": "Business Development Specialist (Supply)Sales \u2022 San Francisco, California \u2022 Contract",
       "department": "General",
-      "location": "Tokyo",
+      "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/Bounce/3749f4c6-5e1a-409e-b498-31c60a981420",
-      "company": "Bounce",
-      "company_website": "https://www.bounce.com"
-    },
-    {
-      "title": "Supply Operations InternSales \u2022 Portugal \u2022 Full time \u2022 On-site",
-      "department": "General",
-      "location": "Tokyo",
-      "url": "https://jobs.ashbyhq.com/Bounce/3b8235f7-0d08-4d6d-8c48-428de5e80c61",
       "company": "Bounce",
       "company_website": "https://www.bounce.com"
     },
@@ -3663,14 +3687,6 @@
       "company_website": "https://www.instawork.com"
     },
     {
-      "title": "Data Captain",
-      "department": "Robotics",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4646566006",
-      "company": "Instawork",
-      "company_website": "https://www.instawork.com"
-    },
-    {
       "title": "Data Operations Analyst - Instawork Robotics",
       "department": "Robotics",
       "location": "San Francisco, California, United States",
@@ -3705,16 +3721,16 @@
     {
       "title": "Enterprise Account Manager",
       "department": "Account Management",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4655557006",
+      "location": "Houston, Texas, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4664096006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
     {
       "title": "Enterprise Account Manager",
       "department": "Account Management",
-      "location": "Houston, Texas, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4664096006",
+      "location": "San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4655557006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -3731,6 +3747,14 @@
       "department": "Robotics",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4625772006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
+      "title": "Field Sales",
+      "department": "Robotics",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4646566006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -4015,7 +4039,7 @@
       "company_website": "https://www.instawork.com"
     },
     {
-      "title": "Tele-Calling Intern - Business Development",
+      "title": "Tele-Calling - Business Development",
       "department": "Robotics",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4619515006",
@@ -5551,6 +5575,14 @@
       "company_website": "https://www.usestable.com"
     },
     {
+      "title": "Product Operations",
+      "department": "Product",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/stable/0f18fcb9-6dff-4621-a207-e35f8403f189",
+      "company": "Stable",
+      "company_website": "https://www.usestable.com"
+    },
+    {
       "title": "Head of Business Operations",
       "department": "Business",
       "location": "San Francisco Bay Area",
@@ -6771,6 +6803,14 @@
       "department": "Engineering",
       "location": "Menlo Park, CA or San Francisco, CA",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5596289004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
+      "title": "Special Projects Recruiter (High-Volume Recruiting \u2013 Video Contributor Programs)",
+      "department": "People Operations and Talent Acquisition",
+      "location": "Menlo Park, California",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/5997708004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
