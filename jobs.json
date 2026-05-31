@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-30T10:17:10.398612+00:00",
+  "generated_at": "2026-05-31T10:31:49.403295+00:00",
   "total_jobs": 802,
   "total_companies": 93,
-  "companies_with_jobs": 55,
+  "companies_with_jobs": 56,
   "failed_companies": [
     {
       "name": "Acely.ai",
@@ -54,10 +54,6 @@
     },
     {
       "name": "Merlin",
-      "reason": "no jobs page found"
-    },
-    {
-      "name": "Next Insurance (acquired by MunichRe)",
       "reason": "no jobs page found"
     },
     {
@@ -3695,6 +3691,14 @@
       "company_website": "https://namespace.so"
     },
     {
+      "title": "Load more",
+      "department": "General",
+      "location": "Waltham, MA",
+      "url": "https://www.nextinsurance.com/careers/",
+      "company": "Next Insurance (acquired by MunichRe)",
+      "company_website": "https://www.nextinsurance.com"
+    },
+    {
       "title": "Job Description",
       "department": "General",
       "location": "Not specified",
@@ -6353,16 +6357,16 @@
     {
       "title": "In-house Recruiter",
       "department": "People Operations and Talent Acquisition",
-      "location": "Menlo Park, California",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6006952004",
+      "location": "Lehi, Utah",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6006959004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
     {
       "title": "In-house Recruiter",
       "department": "People Operations and Talent Acquisition",
-      "location": "Lehi, Utah",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6006959004",
+      "location": "Menlo Park, California",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6006952004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6435,14 +6439,6 @@
       "department": "Engineering",
       "location": "Menlo Park, CA or San Francisco, CA",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5596289004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "Strategic Finance Manager",
-      "department": "Finance",
-      "location": "San Francisco/Menlo Park",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5976118004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
