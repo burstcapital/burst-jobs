@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T10:31:49.403295+00:00",
-  "total_jobs": 802,
+  "generated_at": "2026-06-01T13:53:59.223971+00:00",
+  "total_jobs": 797,
   "total_companies": 93,
   "companies_with_jobs": 56,
   "failed_companies": [
@@ -54,6 +54,10 @@
     },
     {
       "name": "Merlin",
+      "reason": "no jobs page found"
+    },
+    {
+      "name": "Next Insurance (acquired by MunichRe)",
       "reason": "no jobs page found"
     },
     {
@@ -275,6 +279,14 @@
       "company_website": "https://www.deel.com"
     },
     {
+      "title": "Account Executive, SMB | India",
+      "department": "S&M",
+      "location": "India",
+      "url": "https://jobs.ashbyhq.com/deel/a1cf354c-6b85-4f2d-9e7e-922b16f817bb",
+      "company": "Assemble (acquired by Deel)",
+      "company_website": "https://www.deel.com"
+    },
+    {
       "title": "Account Executive, SMB | Greater China",
       "department": "S&M",
       "location": "Hong Kong",
@@ -379,26 +391,10 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Payroll Implementation Manager | Netherlands",
-      "department": "COGS",
-      "location": "EMEA",
-      "url": "https://jobs.ashbyhq.com/deel/8639877b-73d4-43f5-8c8c-4819fe6db721",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
       "title": "Payroll Associate |  Denmark",
       "department": "COGS",
       "location": "Denmark",
       "url": "https://jobs.ashbyhq.com/deel/4180e2cc-1344-4ef5-ade9-8bb7d667f2bd",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Payroll Expert | Netherlands",
-      "department": "COGS",
-      "location": "EMEA",
-      "url": "https://jobs.ashbyhq.com/deel/c17a0203-b9e4-45ac-bf58-b3964dc614bf",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -447,14 +443,6 @@
       "department": "S&M",
       "location": "Japan",
       "url": "https://jobs.ashbyhq.com/deel/2486e518-1a18-4c73-8eba-a4cc9dc10bbe",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Payroll Expert, PEO |  US",
-      "department": "COGS",
-      "location": "North America",
-      "url": "https://jobs.ashbyhq.com/deel/21f4f7d4-c291-4b1a-a406-421c76d1aa9b",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -603,26 +591,10 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Data Engineer",
-      "department": "S&M",
-      "location": "Germany",
-      "url": "https://jobs.ashbyhq.com/deel/c5821928-76aa-482a-abb9-a8cb2a487fca",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
       "title": "Director of Data Governance",
       "department": "R&D",
       "location": "EMEA",
       "url": "https://jobs.ashbyhq.com/deel/c2f82242-607b-430a-a934-3842aabb22fb",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
-      "title": "Senior Staff Product Designer | AI",
-      "department": "R&D",
-      "location": "UK",
-      "url": "https://jobs.ashbyhq.com/deel/d806d38e-3cd2-4692-937a-b82e60396570",
       "company": "Assemble (acquired by Deel)",
       "company_website": "https://www.deel.com"
     },
@@ -771,14 +743,6 @@
       "company_website": "https://www.deel.com"
     },
     {
-      "title": "Operations Manager | EMEA",
-      "department": "COGS",
-      "location": "Spain",
-      "url": "https://jobs.ashbyhq.com/deel/2714e67a-e8c4-4402-b2fb-1f7b0d7ff000",
-      "company": "Assemble (acquired by Deel)",
-      "company_website": "https://www.deel.com"
-    },
-    {
       "title": "M&A Advisor",
       "department": "Revenue",
       "location": "New York City",
@@ -787,10 +751,18 @@
       "company_website": "https://www.batonmarket.com"
     },
     {
+      "title": "Senior Software Engineer",
+      "department": "Research & Development",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/Baton/12c9b4a1-d31a-435c-a3b0-a2d3f8aa7358",
+      "company": "Baton",
+      "company_website": "https://www.batonmarket.com"
+    },
+    {
       "title": "Software Engineer",
       "department": "Research & Development",
       "location": "New York City",
-      "url": "https://jobs.ashbyhq.com/Baton/70f30a22-fe97-43ff-a67a-a89e3a2de557",
+      "url": "https://jobs.ashbyhq.com/Baton/acc4eb72-7d41-4c19-a099-c9fe4b4307a0",
       "company": "Baton",
       "company_website": "https://www.batonmarket.com"
     },
@@ -831,6 +803,14 @@
       "department": "General",
       "location": "Portugal",
       "url": "https://jobs.ashbyhq.com/Bounce/aa788b80-b428-4146-980c-1d28618fd687",
+      "company": "Bounce",
+      "company_website": "https://www.bounce.com"
+    },
+    {
+      "title": "Product Engineer, New VerticalsEngineering \u2022 Portugal \u2022 Full time \u2022 On-site",
+      "department": "General",
+      "location": "Portugal",
+      "url": "https://jobs.ashbyhq.com/Bounce/3b45f24c-f935-44d3-81e5-cd4da3a7c71e",
       "company": "Bounce",
       "company_website": "https://www.bounce.com"
     },
@@ -3523,14 +3503,6 @@
       "company_website": "https://lattice.com"
     },
     {
-      "title": "Senior Customer Campaigns & Advocacy Manager",
-      "department": "Marketing",
-      "location": "Remote",
-      "url": "https://lattice.com/job?gh_jid=8531456002",
-      "company": "Lattice",
-      "company_website": "https://lattice.com"
-    },
-    {
       "title": "Senior Customer Support Associate",
       "department": "Customer Care",
       "location": "US - Remote, EST (NYC preferred)",
@@ -3659,7 +3631,7 @@
       "company_website": "https://namespace.so"
     },
     {
-      "title": "Account Executive",
+      "title": "Junior Account Executive",
       "department": "Go-to-market",
       "location": "Switzerland",
       "url": "https://jobs.ashbyhq.com/namespace/2fbc889a-0f46-476a-a4f0-416da416f23f",
@@ -3667,7 +3639,7 @@
       "company_website": "https://namespace.so"
     },
     {
-      "title": "Account Executive",
+      "title": "Junior Account Executive",
       "department": "Go-to-market",
       "location": "San Francisco surroundings",
       "url": "https://jobs.ashbyhq.com/namespace/18263589-98e1-46ff-a8c7-7a117f20cec4",
@@ -3689,14 +3661,6 @@
       "url": "https://jobs.ashbyhq.com/namespace/da8147a0-17aa-4a0b-8778-03d077257ec3",
       "company": "Namespace",
       "company_website": "https://namespace.so"
-    },
-    {
-      "title": "Load more",
-      "department": "General",
-      "location": "Waltham, MA",
-      "url": "https://www.nextinsurance.com/careers/",
-      "company": "Next Insurance (acquired by MunichRe)",
-      "company_website": "https://www.nextinsurance.com"
     },
     {
       "title": "Job Description",
@@ -5099,6 +5063,14 @@
       "company_website": "https://www.usestable.com"
     },
     {
+      "title": "Head of Partnerships",
+      "department": "Business",
+      "location": "San Francisco Bay Area",
+      "url": "https://jobs.ashbyhq.com/StandardFleet/f5ce9b15-0149-4e0b-9d98-b6c6d962a32d",
+      "company": "Standard Fleet",
+      "company_website": "https://www.standardfleet.com"
+    },
+    {
       "title": "FastTrack Manager Training",
       "department": "Store Management",
       "location": "Bay Area, Metroplex, Sacramento Valley, Southern California",
@@ -5253,16 +5225,16 @@
     {
       "title": "Customer Support Advocate, Admins (Temporary Contract)",
       "department": "Customer Success",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7913278?gh_jid=7913278",
+      "location": "Tampa, Florida",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7921278?gh_jid=7921278",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Customer Support Advocate, Admins (Temporary Contract)",
       "department": "Customer Success",
-      "location": "Tampa, Florida",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7921278?gh_jid=7921278",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7913278?gh_jid=7913278",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5403,14 +5375,6 @@
       "company_website": "https://www.justworks.com"
     },
     {
-      "title": "Group Product Manager, Onboarding",
-      "department": "Product",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7202857?gh_jid=7202857",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
       "title": "GTM Engineer",
       "department": "Revenue Effectiveness",
       "location": "New York, New York",
@@ -5517,6 +5481,14 @@
     {
       "title": "Manager, Sales Development",
       "department": "Sales",
+      "location": "Phoenix, Arizona",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7939899?gh_jid=7939899",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Manager, Sales Development",
+      "department": "Sales",
       "location": "Tampa, Florida",
       "url": "https://boards.greenhouse.io/justworks/jobs/7867910?gh_jid=7867910",
       "company": "Via (acquired by JustWorks)",
@@ -5527,14 +5499,6 @@
       "department": "Sales",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/7846681?gh_jid=7846681",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Manager, Sales Development",
-      "department": "Sales",
-      "location": "Phoenix, Arizona",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7939899?gh_jid=7939899",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5637,16 +5601,16 @@
     {
       "title": "Senior Business Systems Analyst (Workday)",
       "department": "People",
-      "location": "Remote - U.S.A.",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7913363?gh_jid=7913363",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7583930?gh_jid=7583930",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Senior Business Systems Analyst (Workday)",
       "department": "People",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7583930?gh_jid=7583930",
+      "location": "Remote - U.S.A.",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7913363?gh_jid=7913363",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5719,6 +5683,14 @@
       "department": "Product, Benefits",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/7751751?gh_jid=7751751",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Senior Product Manager, Money Movement & Payments",
+      "department": "Product",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7921821?gh_jid=7921821",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -6403,14 +6375,6 @@
       "company_website": "https://www.workstream.us"
     },
     {
-      "title": "Recruiter",
-      "department": "People Operations and Talent Acquisition",
-      "location": "Manila, Philippines",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5822787004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
       "title": "Recruiter (High Volume Programs)",
       "department": "People Operations and Talent Acquisition",
       "location": "Menlo Park, California",
@@ -6445,7 +6409,7 @@
     {
       "title": "Strategic Project Lead",
       "department": "Special Projects",
-      "location": "San Francisco, California",
+      "location": "Menlo Park, California",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5833050004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
