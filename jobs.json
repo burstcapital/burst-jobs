@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T10:21:05.976448+00:00",
-  "total_jobs": 771,
+  "generated_at": "2026-06-07T10:44:18.095824+00:00",
+  "total_jobs": 770,
   "total_companies": 93,
   "companies_with_jobs": 57,
   "failed_companies": [
@@ -70,6 +70,10 @@
     },
     {
       "name": "Rising Team",
+      "reason": "no jobs page found"
+    },
+    {
+      "name": "Sibli",
       "reason": "no jobs page found"
     },
     {
@@ -4907,14 +4911,6 @@
       "company_website": "https://www.justworks.com"
     },
     {
-      "title": "Customer Onboarding Manager",
-      "department": "Customer Success",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7466941?gh_jid=7466941",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
       "title": "Customer Onboarding Manager, Payroll",
       "department": "Customer Success",
       "location": "New York, New York",
@@ -5149,16 +5145,16 @@
     {
       "title": "Manager, Customer Payments Support",
       "department": "Customer Success",
-      "location": "Tampa, Florida",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7974973?gh_jid=7974973",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7950982?gh_jid=7950982",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Manager, Customer Payments Support",
       "department": "Customer Success",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7950982?gh_jid=7950982",
+      "location": "Tampa, Florida",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7974973?gh_jid=7974973",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5182,7 +5178,7 @@
       "title": "Manager, International Customer Success",
       "department": "Customer Success, International Products",
       "location": "Remote - International",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7966602?gh_jid=7966602",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7985166?gh_jid=7985166",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5190,7 +5186,7 @@
       "title": "Manager, International Customer Success",
       "department": "Customer Success, International Products",
       "location": "Remote - International",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7985166?gh_jid=7985166",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7966602?gh_jid=7966602",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
