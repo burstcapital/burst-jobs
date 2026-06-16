@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T14:39:34.446711+00:00",
-  "total_jobs": 760,
+  "generated_at": "2026-06-16T13:05:58.710717+00:00",
+  "total_jobs": 763,
   "total_companies": 93,
   "companies_with_jobs": 57,
   "failed_companies": [
@@ -46,10 +46,6 @@
     },
     {
       "name": "Marvin",
-      "reason": "no jobs page found"
-    },
-    {
-      "name": "MDAlgorithms",
       "reason": "no jobs page found"
     },
     {
@@ -207,7 +203,7 @@
       "company_website": "https://www.bounce.com"
     },
     {
-      "title": "Product DesignerDesign \u2022 Lisbon \u2022 Full time \u2022 On-site",
+      "title": "Product DesignerDesign \u2022 Portugal \u2022 Full time \u2022 Hybrid",
       "department": "General",
       "location": "Portugal",
       "url": "https://jobs.ashbyhq.com/Bounce/0ef5aac0-cd80-463e-9ea1-679c29d96552",
@@ -215,7 +211,7 @@
       "company_website": "https://www.bounce.com"
     },
     {
-      "title": "Senior Product Designer (6-month Contract)Design \u2022 Europe; Portugal \u2022 Contract \u2022 Remote",
+      "title": "Senior Product Designer (6-month Contract)Design \u2022 Lisbon \u2022 Contract \u2022 Hybrid",
       "department": "General",
       "location": "Portugal",
       "url": "https://jobs.ashbyhq.com/Bounce/65e4ec91-0032-44d8-b28d-ada701380e72",
@@ -379,14 +375,6 @@
       "department": "Sales & Marketing",
       "location": "Tokyo",
       "url": "https://jobs.ashbyhq.com/Cambly/fbf4b1a6-2a3f-4c9d-adb7-2f9134b19ae3",
-      "company": "Cambly",
-      "company_website": "https://www.cambly.com"
-    },
-    {
-      "title": "Account Executive (Contract: 9-12 Months)",
-      "department": "Sales & Marketing",
-      "location": "Shanghai",
-      "url": "https://jobs.ashbyhq.com/Cambly/aa8dfae0-3170-4507-91bb-561829b31f1e",
       "company": "Cambly",
       "company_website": "https://www.cambly.com"
     },
@@ -735,6 +723,14 @@
       "company_website": "https://courtyard.io"
     },
     {
+      "title": "Growth Marketing Manager",
+      "department": "Marketing",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/courtyardinc/jobs/4287072009",
+      "company": "Courtyard",
+      "company_website": "https://courtyard.io"
+    },
+    {
       "title": "Process Improvement Engineer",
       "department": "Operations",
       "location": "United States",
@@ -771,14 +767,6 @@
       "department": "Engineering",
       "location": "United States",
       "url": "https://job-boards.greenhouse.io/courtyardinc/jobs/4250987009",
-      "company": "Courtyard",
-      "company_website": "https://courtyard.io"
-    },
-    {
-      "title": "Technical Recruiting Sourcer",
-      "department": "Human Resources",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/courtyardinc/jobs/4253318009",
       "company": "Courtyard",
       "company_website": "https://courtyard.io"
     },
@@ -991,6 +979,14 @@
       "company_website": "https://daisyco.com"
     },
     {
+      "title": "Sales Manager and Business Development",
+      "department": "General",
+      "location": "Miami, FL",
+      "url": "https://daisy-co-careers.careerplug.com/jobs/3440348",
+      "company": "Daisy",
+      "company_website": "https://daisyco.com"
+    },
+    {
       "title": "Sales Manager",
       "department": "General",
       "location": "Ho-Ho-Kus, NJ",
@@ -1027,14 +1023,6 @@
       "department": "General",
       "location": "Portsmouth, NH",
       "url": "https://daisy-co-careers.careerplug.com/jobs/3443461",
-      "company": "Daisy",
-      "company_website": "https://daisyco.com"
-    },
-    {
-      "title": "Sales Manager and Business Development",
-      "department": "General",
-      "location": "Miami, FL",
-      "url": "https://daisy-co-careers.careerplug.com/jobs/3440348",
       "company": "Daisy",
       "company_website": "https://daisyco.com"
     },
@@ -2529,6 +2517,14 @@
     {
       "title": "Enterprise Account Manager",
       "department": "Account Management",
+      "location": "Raleigh, North Carolina, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4689480006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
+      "title": "Enterprise Account Manager",
+      "department": "Account Management",
       "location": "San Francisco, California, United States",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4655557006",
       "company": "Instawork",
@@ -2681,16 +2677,16 @@
     {
       "title": "Product Operations Analyst",
       "department": "Product Operations",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583589006",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583588006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
     {
       "title": "Product Operations Analyst",
       "department": "Product Operations",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583588006",
+      "location": "San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583589006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2745,8 +2741,16 @@
     {
       "title": "Robotics AI Campus Lead",
       "department": "Product Operations",
-      "location": "Vancouver, British Columbia, Canada",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652381006",
+      "location": "Austin, Texas, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652588006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
+      "title": "Robotics AI Campus Lead",
+      "department": "Product Operations",
+      "location": "Chapel Hill, North Carolina, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652592006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2761,16 +2765,8 @@
     {
       "title": "Robotics AI Campus Lead",
       "department": "Product Operations",
-      "location": "Austin, Texas, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652588006",
-      "company": "Instawork",
-      "company_website": "https://www.instawork.com"
-    },
-    {
-      "title": "Robotics AI Campus Lead",
-      "department": "Product Operations",
-      "location": "Chapel Hill, North Carolina, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652592006",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652381006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2991,14 +2987,6 @@
       "company_website": "https://lattice.com"
     },
     {
-      "title": "Director, Revenue Excellence",
-      "department": "Enablement",
-      "location": "Remote - US",
-      "url": "https://lattice.com/job?gh_jid=8517765002",
-      "company": "Lattice",
-      "company_website": "https://lattice.com"
-    },
-    {
       "title": "Engineering Manager, Platform",
       "department": "Engineering",
       "location": "Remote - US",
@@ -3055,18 +3043,18 @@
       "company_website": "https://lattice.com"
     },
     {
-      "title": "Senior Revenue Operations Manager",
-      "department": "Customer Operations",
-      "location": "Remote - US",
-      "url": "https://lattice.com/job?gh_jid=8581365002",
+      "title": "Senior Product Designer, AI",
+      "department": "Design",
+      "location": "Remote, US",
+      "url": "https://lattice.com/job?gh_jid=8553095002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
     {
-      "title": "Software Engineer",
-      "department": "Engineering",
-      "location": "Canada - Remote",
-      "url": "https://lattice.com/job?gh_jid=8463880002",
+      "title": "Senior Revenue Operations Manager",
+      "department": "Customer Operations",
+      "location": "Remote - US",
+      "url": "https://lattice.com/job?gh_jid=8581365002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
@@ -3099,6 +3087,14 @@
       "department": "Engineering Department",
       "location": "Remote",
       "url": "https://jobs.ashbyhq.com/medely/87daae5d-f4b6-42a6-9cc9-113b250408d8",
+      "company": "Medely",
+      "company_website": "https://medely.com"
+    },
+    {
+      "title": "Manager, Business Intelligence",
+      "department": "Finance & Accounting Department",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/medely/3eaa08f0-fc15-4cf5-9e02-7ab85d123710",
       "company": "Medely",
       "company_website": "https://medely.com"
     },
@@ -3939,14 +3935,6 @@
       "department": "All Teams",
       "location": "All Locations",
       "url": "https://jobs.ashbyhq.com/peek/8fe62033-e2b6-4b2b-bdf0-010fbdac60e4",
-      "company": "Peek",
-      "company_website": "https://www.peek.com"
-    },
-    {
-      "title": "Social Media Content Manager",
-      "department": "Marketing",
-      "location": "Mexico",
-      "url": "https://jobs.ashbyhq.com/peek/64e3a024-ddc4-41af-ac7a-9a432f372f98",
       "company": "Peek",
       "company_website": "https://www.peek.com"
     },
@@ -4879,6 +4867,14 @@
       "company_website": "https://www.justworks.com"
     },
     {
+      "title": "Director of AI Ecosystem & Partnerships",
+      "department": "Sales",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8000372?gh_jid=8000372",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
       "title": "Director, Payments and Fraud Operations",
       "department": "Operations, Payments & Tax",
       "location": "New York, New York",
@@ -5001,16 +4997,16 @@
     {
       "title": "Manager, Account Executives - Sales",
       "department": "Sales",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7801522?gh_jid=7801522",
+      "location": "Phoenix, Arizona",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7822111?gh_jid=7822111",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Manager, Account Executives - Sales",
       "department": "Sales",
-      "location": "Phoenix, Arizona",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7822111?gh_jid=7822111",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7801522?gh_jid=7801522",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5050,7 +5046,7 @@
       "title": "Manager, International Customer Success",
       "department": "Customer Success, International Products",
       "location": "Remote - International",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7966602?gh_jid=7966602",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7985157?gh_jid=7985157",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5058,7 +5054,7 @@
       "title": "Manager, International Customer Success",
       "department": "Customer Success, International Products",
       "location": "Remote - International",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7985166?gh_jid=7985166",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7966602?gh_jid=7966602",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5074,7 +5070,7 @@
       "title": "Manager, International Customer Success",
       "department": "Customer Success, International Products",
       "location": "Remote - International",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7985157?gh_jid=7985157",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7985166?gh_jid=7985166",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5239,10 +5235,50 @@
       "company_website": "https://www.justworks.com"
     },
     {
+      "title": "Senior Employment Counsel, International Lifecycle",
+      "department": "Corporate & Finance",
+      "location": "Remote - International",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7997717?gh_jid=7997717",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Senior Employment Counsel, International Lifecycle",
+      "department": "Corporate & Finance",
+      "location": "London, England",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7997714?gh_jid=7997714",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Senior Employment Counsel, International Lifecycle",
+      "department": "Corporate & Finance",
+      "location": "Mexico City, Mexico",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7997713?gh_jid=7997713",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Senior Employment Counsel, International Lifecycle",
+      "department": "Corporate & Finance",
+      "location": "Toronto, Canada",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7997716?gh_jid=7997716",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
       "title": "Senior Engineer, Knowledge Systems",
       "department": "Engineering",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/7859646?gh_jid=7859646",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Senior Events Marketing Strategist",
+      "department": "Marketing",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7985074?gh_jid=7985074",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5895,14 +5931,6 @@
       "company_website": "https://www.workstream.us"
     },
     {
-      "title": "Customer Success Manager - US Payroll",
-      "department": "Customer Success",
-      "location": "Manila, Philippines",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/4424481004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
       "title": "Customer Support Associate",
       "department": "Customer Support",
       "location": "Manila, Philippines",
@@ -6075,14 +6103,6 @@
       "department": "Special Projects",
       "location": "Menlo Park, California",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5833050004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "Strategic Project Lead",
-      "department": "Special Projects",
-      "location": "Lehi, Utah",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6018297004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
