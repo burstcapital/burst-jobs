@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-18T12:01:04.532199+00:00",
-  "total_jobs": 759,
+  "generated_at": "2026-06-19T12:19:01.653603+00:00",
+  "total_jobs": 762,
   "total_companies": 93,
-  "companies_with_jobs": 57,
+  "companies_with_jobs": 58,
   "failed_companies": [
     {
       "name": "Acely.ai",
@@ -267,14 +267,6 @@
       "company_website": "https://www.bounce.com"
     },
     {
-      "title": "Talent Acquisition SpecialistOperations \u2022 Portugal \u2022 Full time \u2022 Remote",
-      "department": "General",
-      "location": "Portugal",
-      "url": "https://jobs.ashbyhq.com/Bounce/be095a55-480c-4645-bd17-3ad3654227f9",
-      "company": "Bounce",
-      "company_website": "https://www.bounce.com"
-    },
-    {
       "title": "Senior Product Manager, Demand GrowthProduct \u2022 San Francisco, California \u2022 Full time \u2022 Hybrid",
       "department": "General",
       "location": "San Francisco",
@@ -295,6 +287,14 @@
       "department": "General",
       "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/Bounce/9bc3c632-17f1-4f88-a509-4334b6f59511",
+      "company": "Bounce",
+      "company_website": "https://www.bounce.com"
+    },
+    {
+      "title": "Market Launcher, Sales InternshipSales \u2022 Portugal \u2022 Contract \u2022 On-site",
+      "department": "General",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/Bounce/1a17877b-9f47-43df-8b17-265714e8761e",
       "company": "Bounce",
       "company_website": "https://www.bounce.com"
     },
@@ -803,14 +803,6 @@
       "company_website": "https://www.curri.com"
     },
     {
-      "title": "Field and Event Marketer",
-      "department": "Revenue",
-      "location": "Ventura, CA",
-      "url": "https://jobs.ashbyhq.com/curri/30e19684-cac5-46a1-9d3e-2e3f546708c7",
-      "company": "Curri",
-      "company_website": "https://www.curri.com"
-    },
-    {
       "title": "Outside Sales Representative",
       "department": "Revenue",
       "location": "Remote - United States",
@@ -955,6 +947,14 @@
       "company_website": "https://cutanddry.com"
     },
     {
+      "title": "Senior Account Manager",
+      "department": "General",
+      "location": "New York, NY",
+      "url": "https://daisy-co-careers.careerplug.com/jobs/3163423",
+      "company": "Daisy",
+      "company_website": "https://daisyco.com"
+    },
+    {
       "title": "Remote Appointment Specialist",
       "department": "General",
       "location": "Costa Mesa, CA",
@@ -1071,14 +1071,6 @@
       "department": "General",
       "location": "Sarasota, FL",
       "url": "https://daisy-co-careers.careerplug.com/jobs/3361743",
-      "company": "Daisy",
-      "company_website": "https://daisyco.com"
-    },
-    {
-      "title": "Senior Account Manager",
-      "department": "General",
-      "location": "New York, NY",
-      "url": "https://daisy-co-careers.careerplug.com/jobs/3163423",
       "company": "Daisy",
       "company_website": "https://daisyco.com"
     },
@@ -1571,7 +1563,7 @@
       "company_website": "https://www.faire.com"
     },
     {
-      "title": "Strategic Finance Lead, Fulfillment",
+      "title": "Strategic Finance Lead",
       "department": "Finance",
       "location": "San Francisco, CA",
       "url": "https://boards.greenhouse.io/faire/jobs/8547681002?gh_jid=8547681002",
@@ -2347,6 +2339,14 @@
       "company_website": "https://huckleberrycare.com"
     },
     {
+      "title": "HR Generalist (Remote, Part-Time, Contract)",
+      "department": "HR",
+      "location": "Los Angeles, CA",
+      "url": "https://jobs.lever.co/Huckleberrylabs/f6fcffc3-b1c1-4bd4-85e7-26cbdfb53e4c",
+      "company": "Huckleberry",
+      "company_website": "https://huckleberrycare.com"
+    },
+    {
       "title": "Join our Talent Community!",
       "department": "Talent Community",
       "location": "Los Angeles, CA",
@@ -2379,7 +2379,7 @@
       "company_website": "https://huckleberrycare.com"
     },
     {
-      "title": "User Acquisition Manager (Remote, Contract)",
+      "title": "User Acquisition Marketing Manager (Remote, Contract)",
       "department": "User Acquisition",
       "location": "Los Angeles, CA",
       "url": "https://jobs.lever.co/Huckleberrylabs/bce514e3-aca2-4c0e-aa49-64f8da9c1ecf",
@@ -2503,14 +2503,6 @@
       "department": "Account Management",
       "location": "Raleigh, North Carolina, United States",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4689480006",
-      "company": "Instawork",
-      "company_website": "https://www.instawork.com"
-    },
-    {
-      "title": "Enterprise Account Manager",
-      "department": "Account Management",
-      "location": "Houston, Texas, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4664096006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2693,6 +2685,14 @@
     {
       "title": "Robotics AI Campus Lead",
       "department": "Product Operations",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652381006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
+      "title": "Robotics AI Campus Lead",
+      "department": "Product Operations",
       "location": "Monterrey, Nuevo Le\u00f3n, Mexico",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4652587006",
       "company": "Instawork",
@@ -2727,14 +2727,6 @@
       "department": "Product Operations",
       "location": "Chapel Hill, North Carolina, United States",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4652592006",
-      "company": "Instawork",
-      "company_website": "https://www.instawork.com"
-    },
-    {
-      "title": "Robotics AI Campus Lead",
-      "department": "Product Operations",
-      "location": "Vancouver, British Columbia, Canada",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4652381006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2789,16 +2781,16 @@
     {
       "title": "Senior Manager, Product Operations",
       "department": "Product Operations",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4649339006",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4660142006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
     {
       "title": "Senior Manager, Product Operations",
       "department": "Product Operations",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4660142006",
+      "location": "San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4649339006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2869,16 +2861,16 @@
     {
       "title": "Strategic Account Manager \u2013 Enterprise Light Industrial",
       "department": "Account Management",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4607891006",
+      "location": "New York, New York, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4607892006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
     {
       "title": "Strategic Account Manager \u2013 Enterprise Light Industrial",
       "department": "Account Management",
-      "location": "New York, New York, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4607892006",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4607891006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -3739,6 +3731,22 @@
       "company_website": "https://www.owner.com"
     },
     {
+      "title": "Senior Software Engineer, Guest Lifecycle & Loyalty",
+      "department": "Engineering, Product, and Design",
+      "location": "Remote - United States",
+      "url": "https://jobs.ashbyhq.com/owner/7d5db775-5063-4098-8474-f185ad9d8a1e",
+      "company": "Owner",
+      "company_website": "https://www.owner.com"
+    },
+    {
+      "title": "Staff Software Engineer, Guest Lifecycle & Loyalty",
+      "department": "Engineering, Product, and Design",
+      "location": "Remote - United States",
+      "url": "https://jobs.ashbyhq.com/owner/0fdcea84-a2fd-49a9-9065-5ee6c6c5aae2",
+      "company": "Owner",
+      "company_website": "https://www.owner.com"
+    },
+    {
       "title": "Customer Support AssociateSingapore",
       "department": "General",
       "location": "Not specified",
@@ -3923,14 +3931,6 @@
       "company_website": "https://www.peek.com"
     },
     {
-      "title": "Senior Data Engineer",
-      "department": "Engineering",
-      "location": "Mexico City",
-      "url": "https://jobs.ashbyhq.com/peek/0149f5f3-99f6-4d7e-af58-ba1f3c28c5fa",
-      "company": "Peek",
-      "company_website": "https://www.peek.com"
-    },
-    {
       "title": "Sr. Full Stack Engineer",
       "department": "Engineering",
       "location": "Mexico",
@@ -4057,6 +4057,14 @@
       "url": "https://jobs.ashbyhq.com/prox/c0c1c269-c761-48d1-a2ad-da3ee36d08ba",
       "company": "Prox",
       "company_website": "https://www.prox.inc"
+    },
+    {
+      "title": "Ad Operations Intern",
+      "department": "Operations",
+      "location": "Boston or Los Angeles",
+      "url": "https://job-boards.greenhouse.io/redcircle/jobs/5264726008",
+      "company": "RedCircle",
+      "company_website": "https://www.redcircle.com"
     },
     {
       "title": "Chief of Staff",
@@ -4303,6 +4311,14 @@
       "department": "Product Support",
       "location": "Remote - US",
       "url": "https://job-boards.greenhouse.io/shopmy/jobs/5160546008",
+      "company": "Shop My",
+      "company_website": "https://shopmy.us"
+    },
+    {
+      "title": "Senior Manager, Sales Enablement",
+      "department": "Sales",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/shopmy/jobs/5270759008",
       "company": "Shop My",
       "company_website": "https://shopmy.us"
     },
@@ -4707,6 +4723,14 @@
       "company_website": "https://www.justworks.com"
     },
     {
+      "title": "Associate Channel Partner Manager",
+      "department": "Sales",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7852451?gh_jid=7852451",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
       "title": "Channel Partner Manager",
       "department": "Sales",
       "location": "New York, New York; Phoenix, Arizona",
@@ -4751,6 +4775,14 @@
       "department": "Customer Success",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/7615306?gh_jid=7615306",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Customer Support Advocate, Employees",
+      "department": "Customer Success",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/5803389?gh_jid=5803389",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -4923,6 +4955,14 @@
       "company_website": "https://www.justworks.com"
     },
     {
+      "title": "Legal Tech and Operations Manager",
+      "department": "Legal & Compliance",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8007419?gh_jid=8007419",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
       "title": "Manager, Account Development",
       "department": "Sales",
       "location": "New York, New York; Remote - U.S.A.",
@@ -4941,32 +4981,32 @@
     {
       "title": "Manager, Account Executives - Sales",
       "department": "Sales",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7801522?gh_jid=7801522",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Manager, Account Executives - Sales",
-      "department": "Sales",
       "location": "Phoenix, Arizona",
       "url": "https://boards.greenhouse.io/justworks/jobs/7822111?gh_jid=7822111",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
-      "title": "Manager, Channel Partnerships",
+      "title": "Manager, Account Executives - Sales",
       "department": "Sales",
       "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7626498?gh_jid=7626498",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7801522?gh_jid=7801522",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
-      "title": "Manager, Channel Partnerships (Phoenix, AZ)",
+      "title": "Manager, Account Executives - Sales (Los Angeles, CA)",
       "department": "Sales",
-      "location": "Phoenix, Arizona",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7636412?gh_jid=7636412",
+      "location": "Remote - U.S.A.",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7808862?gh_jid=7808862",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Manager, Channel Partnerships",
+      "department": "Sales",
+      "location": "New York, New York; Phoenix, Arizona; Remote - U.S.A.",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7626498?gh_jid=7626498",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -4990,14 +5030,6 @@
       "title": "Manager, International Customer Success",
       "department": "Customer Success, International Products",
       "location": "Remote - International",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7966602?gh_jid=7966602",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Manager, International Customer Success",
-      "department": "Customer Success, International Products",
-      "location": "Remote - International",
       "url": "https://boards.greenhouse.io/justworks/jobs/7985161?gh_jid=7985161",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
@@ -5006,7 +5038,7 @@
       "title": "Manager, International Customer Success",
       "department": "Customer Success, International Products",
       "location": "Remote - International",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7985166?gh_jid=7985166",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7966602?gh_jid=7966602",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5015,6 +5047,14 @@
       "department": "Customer Success, International Products",
       "location": "Remote - International",
       "url": "https://boards.greenhouse.io/justworks/jobs/7985157?gh_jid=7985157",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Manager, International Customer Success",
+      "department": "Customer Success, International Products",
+      "location": "Remote - International",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7985166?gh_jid=7985166",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5205,14 +5245,6 @@
     {
       "title": "Senior Employment Counsel, International Lifecycle",
       "department": "Corporate & Finance",
-      "location": "London, England",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7997714?gh_jid=7997714",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Senior Employment Counsel, International Lifecycle",
-      "department": "Corporate & Finance",
       "location": "Toronto, Canada",
       "url": "https://boards.greenhouse.io/justworks/jobs/7997716?gh_jid=7997716",
       "company": "Via (acquired by JustWorks)",
@@ -5223,6 +5255,14 @@
       "department": "Corporate & Finance",
       "location": "Mexico City, Mexico",
       "url": "https://boards.greenhouse.io/justworks/jobs/7997713?gh_jid=7997713",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Senior Employment Counsel, International Lifecycle",
+      "department": "Corporate & Finance",
+      "location": "London, England",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7997714?gh_jid=7997714",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5279,14 +5319,6 @@
       "department": "IT",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/7743119?gh_jid=7743119",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Senior Manager, Community Marketing",
-      "department": "Marketing",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7985089?gh_jid=7985089",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5455,14 +5487,6 @@
       "department": "Corporate & Finance",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/7775153?gh_jid=7775153",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Vice President, Sales",
-      "department": "Sales",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7901899?gh_jid=7901899",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
