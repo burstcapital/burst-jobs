@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-04T10:24:11.840934+00:00",
-  "total_jobs": 793,
+  "generated_at": "2026-07-05T10:27:54.841869+00:00",
+  "total_jobs": 791,
   "total_companies": 93,
-  "companies_with_jobs": 56,
+  "companies_with_jobs": 55,
   "failed_companies": [
     {
       "name": "Acely.ai",
@@ -54,6 +54,10 @@
     },
     {
       "name": "Merlin",
+      "reason": "no jobs page found"
+    },
+    {
+      "name": "Next Insurance (acquired by MunichRe)",
       "reason": "no jobs page found"
     },
     {
@@ -2803,10 +2807,10 @@
       "company_website": "https://www.instawork.com"
     },
     {
-      "title": "Leadership",
+      "title": "Apply",
       "department": "General",
-      "location": "Not specified",
-      "url": "https://kingenergy.com/leadership/",
+      "location": "Remote",
+      "url": "https://kingenergy.com/careers/",
       "company": "King Energy",
       "company_website": "https://www.kingenergy.com"
     },
@@ -3001,22 +3005,6 @@
       "url": "https://jobs.ashbyhq.com/namespace/ff8cc22e-9c67-47cc-a858-04b38f29bf81",
       "company": "Namespace",
       "company_website": "https://namespace.so"
-    },
-    {
-      "title": "Architects & Engineers",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://www.nextinsurance.com/industry/architects-engineers-insurance/",
-      "company": "Next Insurance (acquired by MunichRe)",
-      "company_website": "https://www.nextinsurance.com"
-    },
-    {
-      "title": "Engineer Insurance",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://www.nextinsurance.com/business/engineer-insurance/",
-      "company": "Next Insurance (acquired by MunichRe)",
-      "company_website": "https://www.nextinsurance.com"
     },
     {
       "title": "Job Description",
@@ -4333,16 +4321,8 @@
     {
       "title": "Assistant General Manager",
       "department": "Store Management",
-      "location": "San Jose, California, United States",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5287861008",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "Assistant General Manager",
-      "department": "Store Management",
-      "location": "Menlo Park, California, United States",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5287856008",
+      "location": "San Mateo, California, United States",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5169966008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
@@ -4357,8 +4337,8 @@
     {
       "title": "Assistant General Manager",
       "department": "Store Management",
-      "location": "San Mateo, California, United States",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5169966008",
+      "location": "Menlo Park, California, United States",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5287856008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
@@ -4379,18 +4359,18 @@
       "company_website": "https://www.stressfree.com"
     },
     {
-      "title": "Automotive Assistant General Manager",
+      "title": "Assistant General Manager",
       "department": "Store Management",
-      "location": "Montecito, California, United States",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5249685008",
+      "location": "San Jose, California, United States",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5287861008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
     {
-      "title": "Automotive General Manager",
+      "title": "Automotive Assistant General Manager",
       "department": "Store Management",
       "location": "Montecito, California, United States",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/4867021008",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5249685008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
@@ -4403,10 +4383,18 @@
       "company_website": "https://www.stressfree.com"
     },
     {
+      "title": "Automotive General Manager",
+      "department": "Store Management",
+      "location": "Montecito, California, United States",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/4867021008",
+      "company": "Stress-Free Auto Care",
+      "company_website": "https://www.stressfree.com"
+    },
+    {
       "title": "Automotive - Porter",
       "department": "Repair & Maintenance",
       "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5234088008",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5291351008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
@@ -4749,16 +4737,16 @@
     {
       "title": "General Manager",
       "department": "Store Management",
-      "location": "Whittier, California, United States",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5255212008",
+      "location": "Mission Viejo, California, United States",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5203373008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
     {
       "title": "General Manager",
       "department": "Store Management",
-      "location": "Mission Viejo, California, United States",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5203373008",
+      "location": "Whittier, California, United States",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5255212008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
@@ -4821,8 +4809,8 @@
     {
       "title": "Service Advisor",
       "department": "Sales & Service",
-      "location": "San Jose, California, United States",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5255856008",
+      "location": "Concord, California, United States",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5276513008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
@@ -4837,8 +4825,8 @@
     {
       "title": "Service Advisor",
       "department": "Sales & Service",
-      "location": "Concord, California, United States",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5276513008",
+      "location": "San Jose, California, United States",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5255856008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
