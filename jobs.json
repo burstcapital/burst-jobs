@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-05T10:27:54.841869+00:00",
-  "total_jobs": 791,
+  "generated_at": "2026-07-06T12:17:10.878123+00:00",
+  "total_jobs": 798,
   "total_companies": 93,
-  "companies_with_jobs": 55,
+  "companies_with_jobs": 56,
   "failed_companies": [
     {
       "name": "Acely.ai",
@@ -54,10 +54,6 @@
     },
     {
       "name": "Merlin",
-      "reason": "no jobs page found"
-    },
-    {
-      "name": "Next Insurance (acquired by MunichRe)",
       "reason": "no jobs page found"
     },
     {
@@ -367,10 +363,42 @@
       "company_website": "https://www.breef.com"
     },
     {
+      "title": "Sales Operations Manager - Turkey",
+      "department": "Sales & Marketing",
+      "location": "Istanbul",
+      "url": "https://jobs.ashbyhq.com/Cambly/11c6f23c-d2e7-4312-8cf7-3b23683ba706",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "Revenue Operations Manager - Brazil",
+      "department": "Sales & Marketing",
+      "location": "Rio de Janeiro",
+      "url": "https://jobs.ashbyhq.com/Cambly/4816f2cb-a3bd-4555-b290-acd88e7b65d0",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "Revenue Operations Manager - Turkey",
+      "department": "Sales & Marketing",
+      "location": "Istanbul",
+      "url": "https://jobs.ashbyhq.com/Cambly/706eec4a-236c-41c1-b06c-082f4b32373b",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
       "title": "Senior Designer - B2B & B2C",
       "department": "Sales & Marketing",
       "location": "Rio de Janeiro",
       "url": "https://jobs.ashbyhq.com/Cambly/a971753a-9796-4f6a-843d-bae8df4783e9",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "Sales Operations Manager - Brazil",
+      "department": "Sales & Marketing",
+      "location": "Rio de Janeiro",
+      "url": "https://jobs.ashbyhq.com/Cambly/ca2a04d7-0c60-4105-8112-f3125dc1ecc3",
       "company": "Cambly",
       "company_website": "https://www.cambly.com"
     },
@@ -3007,6 +3035,22 @@
       "company_website": "https://namespace.so"
     },
     {
+      "title": "Architects & Engineers",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://www.nextinsurance.com/industry/architects-engineers-insurance/",
+      "company": "Next Insurance (acquired by MunichRe)",
+      "company_website": "https://www.nextinsurance.com"
+    },
+    {
+      "title": "Engineer Insurance",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://www.nextinsurance.com/business/engineer-insurance/",
+      "company": "Next Insurance (acquired by MunichRe)",
+      "company_website": "https://www.nextinsurance.com"
+    },
+    {
       "title": "Job Description",
       "department": "General",
       "location": "Not specified",
@@ -3847,10 +3891,26 @@
       "company_website": "https://www.shoponpickle.com"
     },
     {
-      "title": "Chief of Staff / Executive Assistant & Operations",
+      "title": "Founding GTM Engineer",
+      "department": "Operations",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/prox/4b233f6a-9ff9-48f4-96db-1f5cfbe9802d",
+      "company": "Prox",
+      "company_website": "https://www.prox.inc"
+    },
+    {
+      "title": "Executive Assistant & Operations",
       "department": "Operations",
       "location": "San Francisco, CA",
       "url": "https://jobs.ashbyhq.com/prox/82670a85-a713-407e-b6d7-aa7ca78b58ed",
+      "company": "Prox",
+      "company_website": "https://www.prox.inc"
+    },
+    {
+      "title": "Videographer & Creative Producer",
+      "department": "Operations",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/prox/9fa75b4d-e0ab-416b-a4bb-164445fea084",
       "company": "Prox",
       "company_website": "https://www.prox.inc"
     },
@@ -3863,10 +3923,10 @@
       "company_website": "https://www.prox.inc"
     },
     {
-      "title": "Deployment Specialist",
-      "department": "Evals",
-      "location": "remote",
-      "url": "https://jobs.ashbyhq.com/prox/c0c1c269-c761-48d1-a2ad-da3ee36d08ba",
+      "title": "Forward-Deployed Engineer",
+      "department": "Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/prox/c86617ef-1808-432c-bd78-b77ff44658bb",
       "company": "Prox",
       "company_website": "https://www.prox.inc"
     },
@@ -4319,10 +4379,10 @@
       "company_website": "https://www.stressfree.com"
     },
     {
-      "title": "Assistant General Manager",
-      "department": "Store Management",
-      "location": "San Mateo, California, United States",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5169966008",
+      "title": "A Level Automotive Technician",
+      "department": "Repair & Maintenance",
+      "location": "Bay Area",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5236243008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
@@ -4353,8 +4413,8 @@
     {
       "title": "Assistant General Manager",
       "department": "Store Management",
-      "location": "Redwood City, California, United States",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5183062008",
+      "location": "San Mateo, California, United States",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5169966008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
@@ -4363,6 +4423,14 @@
       "department": "Store Management",
       "location": "San Jose, California, United States",
       "url": "https://job-boards.greenhouse.io/stressfree/jobs/5287861008",
+      "company": "Stress-Free Auto Care",
+      "company_website": "https://www.stressfree.com"
+    },
+    {
+      "title": "Assistant General Manager",
+      "department": "Store Management",
+      "location": "Redwood City, California, United States",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5183062008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
@@ -4377,16 +4445,16 @@
     {
       "title": "Automotive General Manager",
       "department": "Store Management",
-      "location": "San Diego, California, United States",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/4982783008",
+      "location": "Montecito, California, United States",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/4867021008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
     {
       "title": "Automotive General Manager",
       "department": "Store Management",
-      "location": "Montecito, California, United States",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/4867021008",
+      "location": "San Diego, California, United States",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/4982783008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
@@ -4682,7 +4750,7 @@
       "title": "FastTrack Manager Training",
       "department": "Store Management",
       "location": "Bay Area; Metroplex; Southern California",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5223660008",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5223661008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
@@ -4698,7 +4766,7 @@
       "title": "FastTrack Manager Training",
       "department": "Store Management",
       "location": "Bay Area; Metroplex; Southern California",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5223661008",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5223660008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
@@ -4721,8 +4789,8 @@
     {
       "title": "General Manager",
       "department": "Store Management",
-      "location": "San Diego, California, United States",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5209112008",
+      "location": "Mission Viejo, California, United States",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5203373008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
@@ -4737,16 +4805,16 @@
     {
       "title": "General Manager",
       "department": "Store Management",
-      "location": "Mission Viejo, California, United States",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5203373008",
+      "location": "Whittier, California, United States",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5255212008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
     {
       "title": "General Manager",
       "department": "Store Management",
-      "location": "Whittier, California, United States",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5255212008",
+      "location": "San Diego, California, United States",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5209112008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
@@ -6097,14 +6165,6 @@
     {
       "title": "Founding Recruiter",
       "department": "AI- Recruiting",
-      "location": "Menlo Park, California",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6101173004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "Founding Recruiter",
-      "department": "AI- Recruiting",
       "location": "San Francisco, California",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/6017137004",
       "company": "Workstream",
@@ -6119,6 +6179,14 @@
       "company_website": "https://www.workstream.us"
     },
     {
+      "title": "Founding Recruiter",
+      "department": "AI- Recruiting",
+      "location": "Menlo Park, California",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6101173004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
       "title": "General Application",
       "department": "General",
       "location": "Workstream Hubs",
@@ -6129,16 +6197,8 @@
     {
       "title": "Global Business Operations Manager",
       "department": "Special Projects",
-      "location": "Kuala Lumpur, Malaysia",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6105644004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "Global Business Operations Manager",
-      "department": "Special Projects",
-      "location": "Mexico City, Mexico",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6105634004",
+      "location": "Bogota, Colombia",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6105642004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6153,8 +6213,16 @@
     {
       "title": "Global Business Operations Manager",
       "department": "Special Projects",
-      "location": "Bogota, Colombia",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6105642004",
+      "location": "Mexico City, Mexico",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6105634004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
+      "title": "Global Business Operations Manager",
+      "department": "Special Projects",
+      "location": "Kuala Lumpur, Malaysia",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6105644004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6179,14 +6247,6 @@
       "department": "Customer Support",
       "location": "Manila, Philippines",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/6109106004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "Mandarin Technical Support Associate",
-      "department": "Customer Support",
-      "location": "Manila, Philippines",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6109105004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6275,14 +6335,6 @@
       "department": "Enablement",
       "location": "Lehi, Utah",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/5429629004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "Senior Customer Success Manager",
-      "department": "Customer Success",
-      "location": "Lehi, Utah",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5993867004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
