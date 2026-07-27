@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T10:12:23.605460+00:00",
-  "total_jobs": 859,
+  "generated_at": "2026-07-27T11:36:37.100531+00:00",
+  "total_jobs": 861,
   "total_companies": 95,
   "companies_with_jobs": 57,
   "failed_companies": [
@@ -959,18 +959,18 @@
       "company_website": "https://cutanddry.com"
     },
     {
-      "title": "AV Service Technician",
-      "department": "General",
-      "location": "Charlotte, NC",
-      "url": "https://daisy-co-careers.careerplug.com/jobs/3420438",
-      "company": "Daisy",
-      "company_website": "https://daisyco.com"
-    },
-    {
       "title": "Service Technician",
       "department": "General",
       "location": "San Carlos, CA",
       "url": "https://daisy-co-careers.careerplug.com/jobs/3502671",
+      "company": "Daisy",
+      "company_website": "https://daisyco.com"
+    },
+    {
+      "title": "AV Service Technician",
+      "department": "General",
+      "location": "Charlotte, NC",
+      "url": "https://daisy-co-careers.careerplug.com/jobs/3420438",
       "company": "Daisy",
       "company_website": "https://daisyco.com"
     },
@@ -1441,8 +1441,8 @@
     {
       "title": "Senior Account Executive",
       "department": "Brand Partnerships",
-      "location": "London, UK",
-      "url": "https://boards.greenhouse.io/faire/jobs/8618479002?gh_jid=8618479002",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8628505002?gh_jid=8628505002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1457,8 +1457,8 @@
     {
       "title": "Senior Account Executive",
       "department": "Brand Partnerships",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8628505002?gh_jid=8628505002",
+      "location": "London, UK",
+      "url": "https://boards.greenhouse.io/faire/jobs/8618479002?gh_jid=8618479002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1513,16 +1513,16 @@
     {
       "title": "Senior Applied ML/AI Scientist - Search",
       "department": "Algorithms & Data",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8618124002?gh_jid=8618124002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8618151002?gh_jid=8618151002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Senior Applied ML/AI Scientist - Search",
       "department": "Algorithms & Data",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8618151002?gh_jid=8618151002",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8618124002?gh_jid=8618124002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1625,16 +1625,16 @@
     {
       "title": "Senior Staff Machine Learning Platform Engineer",
       "department": "Algorithms & Data",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8618464002?gh_jid=8618464002",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8618460002?gh_jid=8618460002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Senior Staff Machine Learning Platform Engineer",
       "department": "Algorithms & Data",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8618460002?gh_jid=8618460002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8618464002?gh_jid=8618464002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1681,16 +1681,16 @@
     {
       "title": "Staff Machine Learning Platform Engineer",
       "department": "Algorithms & Data",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8542017002?gh_jid=8542017002",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8426107002?gh_jid=8426107002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Staff Machine Learning Platform Engineer",
       "department": "Algorithms & Data",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8426107002?gh_jid=8426107002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8542017002?gh_jid=8542017002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -2729,16 +2729,16 @@
     {
       "title": "Senior Account Executive",
       "department": "Sales",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4686689006",
+      "location": "San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4697692006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
     {
       "title": "Senior Account Executive",
       "department": "Sales",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4697692006",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4686689006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -3001,16 +3001,16 @@
     {
       "title": "Senior GenAI Software Engineer",
       "department": "Core Ops",
-      "location": "London, UK",
-      "url": "https://liftoff.io/job/7908979?gh_jid=7908979",
+      "location": "United States (East Coast)",
+      "url": "https://liftoff.io/job/7986138?gh_jid=7986138",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
     },
     {
       "title": "Senior GenAI Software Engineer",
       "department": "Core Ops",
-      "location": "United States (East Coast)",
-      "url": "https://liftoff.io/job/7986138?gh_jid=7986138",
+      "location": "London, UK",
+      "url": "https://liftoff.io/job/7908979?gh_jid=7908979",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
     },
@@ -5391,10 +5391,26 @@
       "company_website": "https://superhuman.com"
     },
     {
+      "title": "System Engineer",
+      "department": "Engineering, Product, Design, and Marketing",
+      "location": "Hub - Berlin",
+      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/4ba57436-df4f-41b4-95a3-67f5718dd1e7",
+      "company": "Superhuman",
+      "company_website": "https://superhuman.com"
+    },
+    {
       "title": "Platform Security Engineer",
       "department": "Engineering, Product, Design, and Marketing",
       "location": "Hub - San Francisco",
       "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/99d81b4b-8323-4082-87aa-3456821d4d17",
+      "company": "Superhuman",
+      "company_website": "https://superhuman.com"
+    },
+    {
+      "title": "System Engineer",
+      "department": "Engineering, Product, Design, and Marketing",
+      "location": "Hub - Warsaw",
+      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/21d40098-b367-4fca-a0e5-b43572455101",
       "company": "Superhuman",
       "company_website": "https://superhuman.com"
     },
@@ -5762,6 +5778,14 @@
       "title": "Manager, International Customer Success",
       "department": "Customer Success, International Products",
       "location": "Remote - International",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7966602?gh_jid=7966602",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Manager, International Customer Success",
+      "department": "Customer Success, International Products",
+      "location": "Remote - International",
       "url": "https://boards.greenhouse.io/justworks/jobs/7985161?gh_jid=7985161",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
@@ -5771,14 +5795,6 @@
       "department": "Customer Success, International Products",
       "location": "Remote - International",
       "url": "https://boards.greenhouse.io/justworks/jobs/7985166?gh_jid=7985166",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Manager, International Customer Success",
-      "department": "Customer Success, International Products",
-      "location": "Remote - International",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7966602?gh_jid=7966602",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -6065,16 +6081,16 @@
     {
       "title": "Senior Manager, Workers' Compensation Claims",
       "department": "Risk & Insurance",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8012944?gh_jid=8012944",
+      "location": "Tampa, Florida",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8071747?gh_jid=8071747",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Senior Manager, Workers' Compensation Claims",
       "department": "Risk & Insurance",
-      "location": "Tampa, Florida",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8071747?gh_jid=8071747",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8012944?gh_jid=8012944",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -6473,6 +6489,14 @@
     {
       "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $14-$17/hr",
       "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Port Washington, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7788802003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $14-$17/hr",
+      "department": "Wonderschool Substitutes (SubPool)",
       "location": "Waupaca, Wisconsin, United States",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7788796003",
       "company": "Wonderschool",
@@ -6481,8 +6505,8 @@
     {
       "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $14-$17/hr",
       "department": "Wonderschool Substitutes (SubPool)",
-      "location": "West Bend, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7788758003",
+      "location": "Appleton, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7788787003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -6497,14 +6521,6 @@
     {
       "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $14-$17/hr",
       "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Port Washington, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7788802003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $14-$17/hr",
-      "department": "Wonderschool Substitutes (SubPool)",
       "location": "Fond du Lac, Wisconsin, United States",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7788748003",
       "company": "Wonderschool",
@@ -6513,16 +6529,16 @@
     {
       "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $14-$17/hr",
       "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Sheboygan, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7788776003",
+      "location": "West Bend, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7788758003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
     {
       "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $14-$17/hr",
       "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Appleton, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7788787003",
+      "location": "Sheboygan, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7788776003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -6553,6 +6569,14 @@
     {
       "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
       "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Southport, North Carolina, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7788733003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
+      "department": "Wonderschool Substitutes (SubPool)",
       "location": "Wilmington, North Carolina, United States",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7788735003",
       "company": "Wonderschool",
@@ -6563,14 +6587,6 @@
       "department": "Wonderschool Substitutes (SubPool)",
       "location": "Shallotte, North Carolina, United States",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7788725003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
-      "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Southport, North Carolina, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7788733003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -6809,16 +6825,16 @@
     {
       "title": "Revenue Operations Manager",
       "department": "Operations - Revenue Operations",
-      "location": "Menlo Park, California",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6016772004",
+      "location": "San Francisco, California",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6015051004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
     {
       "title": "Revenue Operations Manager",
       "department": "Operations - Revenue Operations",
-      "location": "San Francisco, California",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6015051004",
+      "location": "Menlo Park, California",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6016772004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6857,16 +6873,16 @@
     {
       "title": "Software Engineer (Full Stack)",
       "department": "Engineering",
-      "location": "Vancouver, British Columbia, Canada",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6116389004",
+      "location": "Lehi, Utah",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6116393004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
     {
       "title": "Software Engineer (Full Stack)",
       "department": "Engineering",
-      "location": "Lehi, Utah",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6116393004",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6116389004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
