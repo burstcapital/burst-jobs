@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T08:59:36.005622+00:00",
+  "generated_at": "2026-08-09T09:00:34.607467+00:00",
   "total_jobs": 868,
   "total_companies": 95,
   "companies_with_jobs": 57,
@@ -67,6 +67,10 @@
     {
       "name": "Prenda",
       "reason": "not enough values to unpack (expected 2, got 0)"
+    },
+    {
+      "name": "Sibli",
+      "reason": "no jobs page found"
     },
     {
       "name": "SPRX Technologies",
@@ -931,6 +935,14 @@
       "company_website": "https://cutanddry.com"
     },
     {
+      "title": "Lead Technician 2",
+      "department": "General",
+      "location": "San Carlos, CA",
+      "url": "https://daisy-co-careers.careerplug.com/jobs/3536964",
+      "company": "Daisy",
+      "company_website": "https://daisyco.com"
+    },
+    {
       "title": "AV Service Technician",
       "department": "General",
       "location": "New York, NY",
@@ -1159,14 +1171,6 @@
       "department": "General",
       "location": "Ho Ho Kus, NJ",
       "url": "https://daisy-co-careers.careerplug.com/jobs/3154040",
-      "company": "Daisy",
-      "company_website": "https://daisyco.com"
-    },
-    {
-      "title": "Sales Manager",
-      "department": "General",
-      "location": "Ho-Ho-Kus, NJ",
-      "url": "https://daisy-co-careers.careerplug.com/jobs/3438925",
       "company": "Daisy",
       "company_website": "https://daisyco.com"
     },
