@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T09:00:34.607467+00:00",
-  "total_jobs": 868,
+  "generated_at": "2026-08-10T09:34:46.314949+00:00",
+  "total_jobs": 869,
   "total_companies": 95,
   "companies_with_jobs": 57,
   "failed_companies": [
@@ -2969,7 +2969,7 @@
     {
       "title": "Manager, Commercial Finance",
       "department": "Finance",
-      "location": "Pacific Timezone (Remote)",
+      "location": "Pacific Time Zone (Remote)",
       "url": "https://liftoff.io/job/8071453?gh_jid=8071453",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
@@ -2979,6 +2979,14 @@
       "department": "Marketing",
       "location": "United States (Remote)",
       "url": "https://liftoff.io/job/7913462?gh_jid=7913462",
+      "company": "Liftoff",
+      "company_website": "https://www.liftoff.xyz"
+    },
+    {
+      "title": "Product Analyst",
+      "department": "Product",
+      "location": "Pacific Time Zone (Remote)",
+      "url": "https://liftoff.io/job/8114436?gh_jid=8114436",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
     },
@@ -3025,7 +3033,7 @@
     {
       "title": "Senior Financial Analyst, FP&A (Contractor)",
       "department": "Finance",
-      "location": "United States (Remote)",
+      "location": "Pacific Time Zone (Remote)",
       "url": "https://liftoff.io/job/8112525?gh_jid=8112525",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
@@ -4943,14 +4951,6 @@
       "company_website": "https://superhuman.com"
     },
     {
-      "title": "Head of Enterprise Design",
-      "department": "Engineering, Product, Design, and Marketing",
-      "location": "Hub - San Francisco",
-      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/7f6c98ce-9033-4ea9-be09-cab557edec2f",
-      "company": "Superhuman",
-      "company_website": "https://superhuman.com"
-    },
-    {
       "title": "Senior Manager, Strategic Finance \u2013 GTM",
       "department": "G&A",
       "location": "Hub - San Francisco",
@@ -6857,8 +6857,8 @@
     {
       "title": "Revenue Operations Manager",
       "department": "Operations - Revenue Operations",
-      "location": "Menlo Park, California",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6016772004",
+      "location": "Lehi, Utah",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6015057004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6873,8 +6873,8 @@
     {
       "title": "Revenue Operations Manager",
       "department": "Operations - Revenue Operations",
-      "location": "Lehi, Utah",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6015057004",
+      "location": "Menlo Park, California",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6016772004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6911,10 +6911,10 @@
       "company_website": "https://www.workstream.us"
     },
     {
-      "title": "Software Engineer (Full Stack)",
-      "department": "Engineering",
-      "location": "Vancouver, British Columbia, Canada",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6116389004",
+      "title": "Senior Solutions Engineer, GTM Engineering",
+      "department": "Professional Services",
+      "location": "Lehi, Utah",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6138363004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6923,6 +6923,14 @@
       "department": "Engineering",
       "location": "Lehi, Utah",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/6116393004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
+      "title": "Software Engineer (Full Stack)",
+      "department": "Engineering",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6116389004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
