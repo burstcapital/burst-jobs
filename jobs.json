@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T09:24:09.414858+00:00",
-  "total_jobs": 878,
+  "generated_at": "2026-08-15T08:41:26.191580+00:00",
+  "total_jobs": 880,
   "total_companies": 95,
   "companies_with_jobs": 56,
   "failed_companies": [
@@ -67,6 +67,10 @@
     {
       "name": "Prenda",
       "reason": "not enough values to unpack (expected 2, got 0)"
+    },
+    {
+      "name": "Sibli",
+      "reason": "no jobs page found"
     },
     {
       "name": "SPRX Technologies",
@@ -493,7 +497,7 @@
     {
       "title": "Technical Account Specialist - West Coast",
       "department": "CX",
-      "location": "Remote",
+      "location": "Remote West Coast",
       "url": "https://job-boards.greenhouse.io/canopyworks/jobs/4362460009",
       "company": "Canopy",
       "company_website": "https://www.canopyworks.com"
@@ -763,6 +767,14 @@
       "company_website": "https://courtyard.io"
     },
     {
+      "title": "Warehouse Supervisor",
+      "department": "Operations",
+      "location": "Bear, Delaware",
+      "url": "https://job-boards.greenhouse.io/courtyardinc/jobs/4370406009",
+      "company": "Courtyard",
+      "company_website": "https://courtyard.io"
+    },
+    {
       "title": "Enterprise Sales Director, Medical and Healthcare",
       "department": "Revenue",
       "location": "Ventura, CA",
@@ -939,14 +951,6 @@
       "company_website": "https://daisyco.com"
     },
     {
-      "title": "DaisyCare Technician",
-      "department": "General",
-      "location": "Anderson, SC",
-      "url": "https://daisy-co-careers.careerplug.com/jobs/3471995",
-      "company": "Daisy",
-      "company_website": "https://daisyco.com"
-    },
-    {
       "title": "Service Technician",
       "department": "General",
       "location": "San Carlos, CA",
@@ -1119,6 +1123,14 @@
       "department": "General",
       "location": "Ho Ho Kus, NJ",
       "url": "https://daisy-co-careers.careerplug.com/jobs/3154040",
+      "company": "Daisy",
+      "company_website": "https://daisyco.com"
+    },
+    {
+      "title": "Sales Manager",
+      "department": "General",
+      "location": "Ho-Ho-Kus, NJ",
+      "url": "https://daisy-co-careers.careerplug.com/jobs/3438925",
       "company": "Daisy",
       "company_website": "https://daisyco.com"
     },
@@ -1349,7 +1361,7 @@
     {
       "title": "Principal Product Manager, Financial Products",
       "department": "Product",
-      "location": "New York City, NY; San Francisco, CA",
+      "location": "New York City, NY; San Francisco, CA; Toronto, ON",
       "url": "https://boards.greenhouse.io/faire/jobs/8631486002?gh_jid=8631486002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
@@ -1549,7 +1561,7 @@
     {
       "title": "Senior Staff Machine Learning Platform Engineer",
       "department": "Algorithms & Data",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "location": "Kitchener-Waterloo, ON; Remote - Ontario; Toronto, ON",
       "url": "https://boards.greenhouse.io/faire/jobs/8618464002?gh_jid=8618464002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
@@ -1557,7 +1569,7 @@
     {
       "title": "Senior Staff Machine Learning Platform Engineer",
       "department": "Algorithms & Data",
-      "location": "San Francisco, CA",
+      "location": "Remote - US; San Francisco, CA",
       "url": "https://boards.greenhouse.io/faire/jobs/8618460002?gh_jid=8618460002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
@@ -1613,7 +1625,7 @@
     {
       "title": "Staff Machine Learning Platform Engineer",
       "department": "Algorithms & Data",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "location": "Kitchener-Waterloo, ON; Remote - Ontario; Toronto, ON",
       "url": "https://boards.greenhouse.io/faire/jobs/8542017002?gh_jid=8542017002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
@@ -1621,7 +1633,7 @@
     {
       "title": "Staff Machine Learning Platform Engineer",
       "department": "Algorithms & Data",
-      "location": "San Francisco, CA",
+      "location": "Remote - US; San Francisco, CA",
       "url": "https://boards.greenhouse.io/faire/jobs/8426107002?gh_jid=8426107002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
@@ -1653,7 +1665,7 @@
     {
       "title": "Staff Product Manager, Pricing",
       "department": "Product",
-      "location": "New York City, NY; San Francisco, CA",
+      "location": "New York City, NY; San Francisco, CA; Toronto, ON",
       "url": "https://boards.greenhouse.io/faire/jobs/8462945002?gh_jid=8462945002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
@@ -2155,14 +2167,6 @@
       "company_website": "https://joinhandshake.com"
     },
     {
-      "title": "Associate iOS EngineerAssociate iOS EngineerEngineeringSan Francisco, CAApply",
-      "department": "General",
-      "location": "San Francisco",
-      "url": "https://app.ashbyhq.com/jobs/823c6e64-714e-4098-8b16-cf1819fc090d",
-      "company": "Handshake",
-      "company_website": "https://joinhandshake.com"
-    },
-    {
       "title": "Associate Software Engineer, Operator ExperienceAssociate Software Engineer, Operator ExperienceEngineeringSan Francisco, CAApply",
       "department": "General",
       "location": "San Francisco",
@@ -2219,6 +2223,14 @@
       "company_website": "https://joinhandshake.com"
     },
     {
+      "title": "Director of CommunicationsDirector of CommunicationsMarketingSan Francisco, CAApply",
+      "department": "General",
+      "location": "San Francisco",
+      "url": "https://app.ashbyhq.com/jobs/fcd727f8-6390-4aef-9052-818ff710b013",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
       "title": "Software DeveloperDesign and implement backend and frontend components of our industry-leading applications.Remote or Huntsville, ALFull timeLearn more \u2192",
       "department": "General",
       "location": "Remote",
@@ -2243,18 +2255,18 @@
       "company_website": "https://tangotango.net"
     },
     {
-      "title": "Finance Manager",
-      "department": "Finance",
+      "title": "Director, Growth Strategy",
+      "department": "Growth",
       "location": "Distributed, \ud83c\uddfa\ud83c\uddf8 + \ud83c\udde8\ud83c\udde6 (US + Canada)",
-      "url": "https://job-boards.greenhouse.io/hatchcareers/jobs/4693569006",
+      "url": "https://job-boards.greenhouse.io/hatchcareers/jobs/4705355006",
       "company": "Hatch Baby",
       "company_website": "https://www.hatch.co"
     },
     {
-      "title": "Growth Strategy Lead",
-      "department": "Growth",
+      "title": "Finance Manager",
+      "department": "Finance",
       "location": "Distributed, \ud83c\uddfa\ud83c\uddf8 + \ud83c\udde8\ud83c\udde6 (US + Canada)",
-      "url": "https://job-boards.greenhouse.io/hatchcareers/jobs/4672352006",
+      "url": "https://job-boards.greenhouse.io/hatchcareers/jobs/4693569006",
       "company": "Hatch Baby",
       "company_website": "https://www.hatch.co"
     },
@@ -2677,16 +2689,16 @@
     {
       "title": "Senior Account Executive",
       "department": "Sales",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4702015006",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4686689006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
     {
       "title": "Senior Account Executive",
       "department": "Sales",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4686689006",
+      "location": "San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4702015006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2787,10 +2799,10 @@
       "company_website": "https://www.instawork.com"
     },
     {
-      "title": "Trainer - India",
+      "title": "Trainer Intern",
       "department": "Robotics",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4023534006",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4651150006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2873,6 +2885,14 @@
       "url": "https://lattice.com/job?gh_jid=8487540002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
+    },
+    {
+      "title": "Account Manager, Monetize",
+      "department": "Revenue",
+      "location": "London, United Kingdom",
+      "url": "https://liftoff.io/job/8129896?gh_jid=8129896",
+      "company": "Liftoff",
+      "company_website": "https://www.liftoff.xyz"
     },
     {
       "title": "International Tax Manager",
@@ -2963,6 +2983,14 @@
       "company_website": "https://www.liftoff.xyz"
     },
     {
+      "title": "Senior Gen AI Software Engineer",
+      "department": "Core Ops",
+      "location": "United States (Remote)",
+      "url": "https://liftoff.io/job/8106195?gh_jid=8106195",
+      "company": "Liftoff",
+      "company_website": "https://www.liftoff.xyz"
+    },
+    {
       "title": "Senior Manager, Investor Relations",
       "department": "Finance",
       "location": "Pacific Time Zone (Remote)",
@@ -3011,14 +3039,6 @@
       "company_website": "https://www.liftoff.xyz"
     },
     {
-      "title": "Senior Data Scientist",
-      "department": "Engineering Department",
-      "location": "Remote",
-      "url": "https://jobs.ashbyhq.com/medely/d3d788d4-2cf2-4fbb-8e30-f662a45df1a8",
-      "company": "Medely",
-      "company_website": "https://medely.com"
-    },
-    {
       "title": "Account Executive (West Coast)",
       "department": "Sales Department",
       "location": "Remote",
@@ -3062,7 +3082,7 @@
       "title": "Technical Customer Success Manager",
       "department": "GTM",
       "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/mintmcp/be7bfcde-64a1-4ef4-a951-46ee399018d4",
+      "url": "https://jobs.ashbyhq.com/mintmcp/e2ec4485-5015-43de-abb8-d4ff2cce1a03",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3070,7 +3090,7 @@
       "title": "Software Engineer",
       "department": "Engineering",
       "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/mintmcp/8787cd3f-1643-480c-8727-20445ee8dc15",
+      "url": "https://jobs.ashbyhq.com/mintmcp/30782b8b-ff94-4245-848d-bb4700c70477",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3078,7 +3098,7 @@
       "title": "Account Executive",
       "department": "GTM",
       "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/mintmcp/5e56c82c-18ad-47e8-80ac-3cb2bd9c1367",
+      "url": "https://jobs.ashbyhq.com/mintmcp/735b1e41-4518-430c-a1fc-0363fac66bf9",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3086,7 +3106,7 @@
       "title": "Founding Marketer",
       "department": "GTM",
       "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/mintmcp/44b1efae-eaec-4817-bdce-67166b080293",
+      "url": "https://jobs.ashbyhq.com/mintmcp/100fa826-6e0f-4842-a1c4-3a295814defc",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -4213,7 +4233,7 @@
     {
       "title": "Senior Manager, Client Strategy - Non-RTW/Accessories",
       "department": "Client Strategy",
-      "location": "New York, NY",
+      "location": "New York, New York, United States",
       "url": "https://job-boards.greenhouse.io/shopmy/jobs/5362546008",
       "company": "Shop My",
       "company_website": "https://shopmy.us"
@@ -5523,10 +5543,18 @@
       "company_website": "https://superhuman.com"
     },
     {
-      "title": "Community Manager",
+      "title": "Community Manager, Ambassador",
       "department": "Engineering, Product, Design, and Marketing",
       "location": "Hub - San Francisco",
       "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/944e9a53-e0d8-4125-b5d5-53e4f9b32bb8",
+      "company": "Superhuman",
+      "company_website": "https://superhuman.com"
+    },
+    {
+      "title": "Senior Product Manager - Agents",
+      "department": "Engineering, Product, Design, and Marketing",
+      "location": "Hub - Berlin",
+      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/a3d52c7b-44b3-4e3f-9027-1d7cebb1b0dd",
       "company": "Superhuman",
       "company_website": "https://superhuman.com"
     },
@@ -5677,16 +5705,16 @@
     {
       "title": "Director, Payroll & Tax Implementation",
       "department": "Operations, Payments & Tax",
-      "location": "Tampa, Florida",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8112896?gh_jid=8112896",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8089577?gh_jid=8089577",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Director, Payroll & Tax Implementation",
       "department": "Operations, Payments & Tax",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8089577?gh_jid=8089577",
+      "location": "Tampa, Florida",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8112896?gh_jid=8112896",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5855,14 +5883,6 @@
       "department": "Revenue Effectiveness",
       "location": "New York, New York; Phoenix, Arizona",
       "url": "https://boards.greenhouse.io/justworks/jobs/7497276?gh_jid=7497276",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Sales Development Representative",
-      "department": "Sales",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/4923006?gh_jid=4923006",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -6502,7 +6522,7 @@
       "title": "Employer Engagement Manager, Tri Share, West Virginia",
       "department": "Strategic Business Development",
       "location": "West Virginia, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7833510003",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7852219003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -6510,7 +6530,7 @@
       "title": "Employer Engagement Manager, Tri Share, West Virginia",
       "department": "Strategic Business Development",
       "location": "West Virginia, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7852219003",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7833510003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -6597,8 +6617,8 @@
     {
       "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $14-$17/hr",
       "department": "Wonderschool Substitutes (SubPool)",
-      "location": "West Bend, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7788758003",
+      "location": "Port Washington, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7788802003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -6607,6 +6627,14 @@
       "department": "Wonderschool Substitutes (SubPool)",
       "location": "Fond du Lac, Wisconsin, United States",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7788748003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $14-$17/hr",
+      "department": "Wonderschool Substitutes (SubPool)",
+      "location": "West Bend, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7788758003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -6651,14 +6679,6 @@
       "company_website": "https://www.wonderschool.com"
     },
     {
-      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $14-$17/hr",
-      "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Port Washington, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7788802003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
       "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $14-$20/hr",
       "department": "Wonderschool Substitutes (SubPool)",
       "location": "Green Bay, Wisconsin, United States",
@@ -6693,6 +6713,14 @@
     {
       "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
       "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Shallotte, North Carolina, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7788725003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
+      "department": "Wonderschool Substitutes (SubPool)",
       "location": "Wilmington, North Carolina, United States",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7788735003",
       "company": "Wonderschool",
@@ -6703,14 +6731,6 @@
       "department": "Wonderschool Substitutes (SubPool)",
       "location": "Leland, North Carolina, United States",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7788730003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
-      "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Shallotte, North Carolina, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7788725003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -6735,6 +6755,14 @@
       "department": "Product",
       "location": "San Francisco",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6572453003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Program Manager, State & Enterprise Programs",
+      "department": "Government",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7872556003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -6807,14 +6835,6 @@
       "department": "Sales",
       "location": "San Francisco",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/6143667004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "B2B Brand & Graphic Designer",
-      "department": "Marketing",
-      "location": "Lehi, Utah",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5880169004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6949,16 +6969,16 @@
     {
       "title": "Revenue Operations Manager",
       "department": "Operations - Revenue Operations",
-      "location": "San Francisco, California",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6141656004",
+      "location": "Menlo Park, California",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6141655004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
     {
       "title": "Revenue Operations Manager",
       "department": "Operations - Revenue Operations",
-      "location": "Menlo Park, California",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6141655004",
+      "location": "San Francisco, California",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6141656004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6974,7 +6994,7 @@
       "title": "Sales Development Representative",
       "department": "Sales",
       "location": "Lehi, Utah",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6138384004",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6144765004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
