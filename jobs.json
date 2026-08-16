@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T08:41:26.191580+00:00",
+  "generated_at": "2026-08-16T08:42:25.829909+00:00",
   "total_jobs": 880,
   "total_companies": 95,
   "companies_with_jobs": 56,
@@ -1761,14 +1761,6 @@
     {
       "title": "Intake Specialist",
       "department": "Intake",
-      "location": "Spokane, WA",
-      "url": "https://float-health.breezy.hr/p/eb7df1bcb311-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
       "location": "Detroit, MI",
       "url": "https://float-health.breezy.hr/p/77a935e06412-intake-specialist",
       "company": "Float Health",
@@ -1777,80 +1769,8 @@
     {
       "title": "Intake Specialist",
       "department": "Intake",
-      "location": "Dearborn, MI",
-      "url": "https://float-health.breezy.hr/p/e8ee7237d1e5-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Canton, OH",
-      "url": "https://float-health.breezy.hr/p/277f1cc506c7-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Colombus, OH",
-      "url": "https://float-health.breezy.hr/p/6e30eef44ada-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Lansing, MI",
-      "url": "https://float-health.breezy.hr/p/73815f411b06-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Cleveland, OH",
-      "url": "https://float-health.breezy.hr/p/0ee914edb8ad-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Atlanta, GA",
-      "url": "https://float-health.breezy.hr/p/4dc81d3c3a04-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Fresno, CA",
-      "url": "https://float-health.breezy.hr/p/249e5182c1cf-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Chico, CA",
-      "url": "https://float-health.breezy.hr/p/78ca7a8d3af8-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Modesto, CA",
-      "url": "https://float-health.breezy.hr/p/de402328ec07-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Bakersfield, CA",
-      "url": "https://float-health.breezy.hr/p/b3888575443a-intake-specialist",
+      "location": "Henderson, NV",
+      "url": "https://float-health.breezy.hr/p/ebc42746d362-intake-specialist",
       "company": "Float Health",
       "company_website": "https://www.floathealth.com"
     },
@@ -1865,8 +1785,88 @@
     {
       "title": "Intake Specialist",
       "department": "Intake",
-      "location": "Henderson, NV",
-      "url": "https://float-health.breezy.hr/p/ebc42746d362-intake-specialist",
+      "location": "Bakersfield, CA",
+      "url": "https://float-health.breezy.hr/p/b3888575443a-intake-specialist",
+      "company": "Float Health",
+      "company_website": "https://www.floathealth.com"
+    },
+    {
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Modesto, CA",
+      "url": "https://float-health.breezy.hr/p/de402328ec07-intake-specialist",
+      "company": "Float Health",
+      "company_website": "https://www.floathealth.com"
+    },
+    {
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Chico, CA",
+      "url": "https://float-health.breezy.hr/p/78ca7a8d3af8-intake-specialist",
+      "company": "Float Health",
+      "company_website": "https://www.floathealth.com"
+    },
+    {
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Fresno, CA",
+      "url": "https://float-health.breezy.hr/p/249e5182c1cf-intake-specialist",
+      "company": "Float Health",
+      "company_website": "https://www.floathealth.com"
+    },
+    {
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Atlanta, GA",
+      "url": "https://float-health.breezy.hr/p/4dc81d3c3a04-intake-specialist",
+      "company": "Float Health",
+      "company_website": "https://www.floathealth.com"
+    },
+    {
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Cleveland, OH",
+      "url": "https://float-health.breezy.hr/p/0ee914edb8ad-intake-specialist",
+      "company": "Float Health",
+      "company_website": "https://www.floathealth.com"
+    },
+    {
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Lansing, MI",
+      "url": "https://float-health.breezy.hr/p/73815f411b06-intake-specialist",
+      "company": "Float Health",
+      "company_website": "https://www.floathealth.com"
+    },
+    {
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Colombus, OH",
+      "url": "https://float-health.breezy.hr/p/6e30eef44ada-intake-specialist",
+      "company": "Float Health",
+      "company_website": "https://www.floathealth.com"
+    },
+    {
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Canton, OH",
+      "url": "https://float-health.breezy.hr/p/277f1cc506c7-intake-specialist",
+      "company": "Float Health",
+      "company_website": "https://www.floathealth.com"
+    },
+    {
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Dearborn, MI",
+      "url": "https://float-health.breezy.hr/p/e8ee7237d1e5-intake-specialist",
+      "company": "Float Health",
+      "company_website": "https://www.floathealth.com"
+    },
+    {
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Spokane, WA",
+      "url": "https://float-health.breezy.hr/p/eb7df1bcb311-intake-specialist",
       "company": "Float Health",
       "company_website": "https://www.floathealth.com"
     },
@@ -5465,7 +5465,7 @@
     {
       "title": "Senior Manager, Enterprise Sales",
       "department": "Managed",
-      "location": "Hub - New York",
+      "location": "Remote - United States",
       "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/347b4731-38ca-46bd-bc39-bb115cb4c9c1",
       "company": "Superhuman",
       "company_website": "https://superhuman.com"
