@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17T08:56:20.726276+00:00",
-  "total_jobs": 880,
+  "generated_at": "2026-08-18T08:49:02.196147+00:00",
+  "total_jobs": 879,
   "total_companies": 95,
-  "companies_with_jobs": 56,
+  "companies_with_jobs": 55,
   "failed_companies": [
     {
       "name": "Acely.ai",
@@ -211,14 +211,6 @@
       "department": "General",
       "location": "Portugal",
       "url": "https://jobs.ashbyhq.com/Bounce/0ef5aac0-cd80-463e-9ea1-679c29d96552",
-      "company": "Bounce",
-      "company_website": "https://www.bounce.com"
-    },
-    {
-      "title": "UX/Product Researcher (6-month Contract)Design \u2022 US and Europe (Remote) \u2022 Contract \u2022 Remote",
-      "department": "General",
-      "location": "Portugal",
-      "url": "https://jobs.ashbyhq.com/Bounce/cbb786af-2899-4cc2-aba1-c84f5fa1c424",
       "company": "Bounce",
       "company_website": "https://www.bounce.com"
     },
@@ -783,22 +775,6 @@
       "company_website": "https://www.curri.com"
     },
     {
-      "title": "Assistant General Counsel",
-      "department": "Legal",
-      "location": "Remote - United States",
-      "url": "https://jobs.ashbyhq.com/curri/9993bd1f-50f2-455c-93f7-2add0f4ef508",
-      "company": "Curri",
-      "company_website": "https://www.curri.com"
-    },
-    {
-      "title": "Enterprise Sales Director, Aerospace",
-      "department": "Revenue",
-      "location": "Ventura, CA",
-      "url": "https://jobs.ashbyhq.com/curri/c5663811-f7f7-4abd-b98c-c33809db06ae",
-      "company": "Curri",
-      "company_website": "https://www.curri.com"
-    },
-    {
       "title": "FP&A Director",
       "department": "Finance",
       "location": "Ventura, CA",
@@ -1063,14 +1039,6 @@
       "company_website": "https://daisyco.com"
     },
     {
-      "title": "Lead Technician",
-      "department": "General",
-      "location": "Houston, TX",
-      "url": "https://daisy-co-careers.careerplug.com/jobs/3164613",
-      "company": "Daisy",
-      "company_website": "https://daisyco.com"
-    },
-    {
       "title": "AV Service Technician",
       "department": "General",
       "location": "Indianapolis , IN",
@@ -1131,6 +1099,14 @@
       "department": "General",
       "location": "Ho-Ho-Kus, NJ",
       "url": "https://daisy-co-careers.careerplug.com/jobs/3438925",
+      "company": "Daisy",
+      "company_website": "https://daisyco.com"
+    },
+    {
+      "title": "Client support technician outbound",
+      "department": "General",
+      "location": "Kalamazoo, MI",
+      "url": "https://daisy-co-careers.careerplug.com/jobs/3424550",
       "company": "Daisy",
       "company_website": "https://daisyco.com"
     },
@@ -1409,16 +1385,16 @@
     {
       "title": "Senior Applied AI/ML Scientist - Compass",
       "department": "Algorithms & Data",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8610263002?gh_jid=8610263002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8610312002?gh_jid=8610312002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Senior Applied AI/ML Scientist - Compass",
       "department": "Algorithms & Data",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8610312002?gh_jid=8610312002",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8610263002?gh_jid=8610263002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1449,16 +1425,16 @@
     {
       "title": "Senior Applied ML/AI Scientist - Search",
       "department": "Algorithms & Data",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8618151002?gh_jid=8618151002",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8618124002?gh_jid=8618124002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Senior Applied ML/AI Scientist - Search",
       "department": "Algorithms & Data",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8618124002?gh_jid=8618124002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8618151002?gh_jid=8618151002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1497,7 +1473,7 @@
     {
       "title": "Senior Manager, Global Equity",
       "department": "Accounting",
-      "location": "San Francisco, CA",
+      "location": "Remote - US",
       "url": "https://boards.greenhouse.io/faire/jobs/8648992002?gh_jid=8648992002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
@@ -1561,16 +1537,16 @@
     {
       "title": "Senior Staff Machine Learning Platform Engineer",
       "department": "Algorithms & Data",
-      "location": "Remote - US; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8618460002?gh_jid=8618460002",
+      "location": "Kitchener-Waterloo, ON; Remote - Ontario; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8618464002?gh_jid=8618464002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Senior Staff Machine Learning Platform Engineer",
       "department": "Algorithms & Data",
-      "location": "Kitchener-Waterloo, ON; Remote - Ontario; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8618464002?gh_jid=8618464002",
+      "location": "Remote - US; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8618460002?gh_jid=8618460002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1585,7 +1561,7 @@
     {
       "title": "Staff Backend Engineer - Search FX (Discovery Experience)",
       "department": "Engineering",
-      "location": "San Francisco, CA",
+      "location": "New York City, NY; San Francisco, CA",
       "url": "https://boards.greenhouse.io/faire/jobs/8523826002?gh_jid=8523826002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
@@ -1601,16 +1577,16 @@
     {
       "title": "Staff Engineer - Experimentation Platform",
       "department": "Engineering",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Staff Engineer - Experimentation Platform",
       "department": "Engineering",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1761,14 +1737,6 @@
     {
       "title": "Intake Specialist",
       "department": "Intake",
-      "location": "Spokane, WA",
-      "url": "https://float-health.breezy.hr/p/eb7df1bcb311-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
       "location": "Detroit, MI",
       "url": "https://float-health.breezy.hr/p/77a935e06412-intake-specialist",
       "company": "Float Health",
@@ -1777,80 +1745,8 @@
     {
       "title": "Intake Specialist",
       "department": "Intake",
-      "location": "Dearborn, MI",
-      "url": "https://float-health.breezy.hr/p/e8ee7237d1e5-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Canton, OH",
-      "url": "https://float-health.breezy.hr/p/277f1cc506c7-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Colombus, OH",
-      "url": "https://float-health.breezy.hr/p/6e30eef44ada-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Lansing, MI",
-      "url": "https://float-health.breezy.hr/p/73815f411b06-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Cleveland, OH",
-      "url": "https://float-health.breezy.hr/p/0ee914edb8ad-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Atlanta, GA",
-      "url": "https://float-health.breezy.hr/p/4dc81d3c3a04-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Fresno, CA",
-      "url": "https://float-health.breezy.hr/p/249e5182c1cf-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Chico, CA",
-      "url": "https://float-health.breezy.hr/p/78ca7a8d3af8-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Modesto, CA",
-      "url": "https://float-health.breezy.hr/p/de402328ec07-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Bakersfield, CA",
-      "url": "https://float-health.breezy.hr/p/b3888575443a-intake-specialist",
+      "location": "Henderson, NV",
+      "url": "https://float-health.breezy.hr/p/ebc42746d362-intake-specialist",
       "company": "Float Health",
       "company_website": "https://www.floathealth.com"
     },
@@ -1865,8 +1761,88 @@
     {
       "title": "Intake Specialist",
       "department": "Intake",
-      "location": "Henderson, NV",
-      "url": "https://float-health.breezy.hr/p/ebc42746d362-intake-specialist",
+      "location": "Bakersfield, CA",
+      "url": "https://float-health.breezy.hr/p/b3888575443a-intake-specialist",
+      "company": "Float Health",
+      "company_website": "https://www.floathealth.com"
+    },
+    {
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Modesto, CA",
+      "url": "https://float-health.breezy.hr/p/de402328ec07-intake-specialist",
+      "company": "Float Health",
+      "company_website": "https://www.floathealth.com"
+    },
+    {
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Chico, CA",
+      "url": "https://float-health.breezy.hr/p/78ca7a8d3af8-intake-specialist",
+      "company": "Float Health",
+      "company_website": "https://www.floathealth.com"
+    },
+    {
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Fresno, CA",
+      "url": "https://float-health.breezy.hr/p/249e5182c1cf-intake-specialist",
+      "company": "Float Health",
+      "company_website": "https://www.floathealth.com"
+    },
+    {
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Atlanta, GA",
+      "url": "https://float-health.breezy.hr/p/4dc81d3c3a04-intake-specialist",
+      "company": "Float Health",
+      "company_website": "https://www.floathealth.com"
+    },
+    {
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Cleveland, OH",
+      "url": "https://float-health.breezy.hr/p/0ee914edb8ad-intake-specialist",
+      "company": "Float Health",
+      "company_website": "https://www.floathealth.com"
+    },
+    {
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Lansing, MI",
+      "url": "https://float-health.breezy.hr/p/73815f411b06-intake-specialist",
+      "company": "Float Health",
+      "company_website": "https://www.floathealth.com"
+    },
+    {
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Colombus, OH",
+      "url": "https://float-health.breezy.hr/p/6e30eef44ada-intake-specialist",
+      "company": "Float Health",
+      "company_website": "https://www.floathealth.com"
+    },
+    {
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Canton, OH",
+      "url": "https://float-health.breezy.hr/p/277f1cc506c7-intake-specialist",
+      "company": "Float Health",
+      "company_website": "https://www.floathealth.com"
+    },
+    {
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Dearborn, MI",
+      "url": "https://float-health.breezy.hr/p/e8ee7237d1e5-intake-specialist",
+      "company": "Float Health",
+      "company_website": "https://www.floathealth.com"
+    },
+    {
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Spokane, WA",
+      "url": "https://float-health.breezy.hr/p/eb7df1bcb311-intake-specialist",
       "company": "Float Health",
       "company_website": "https://www.floathealth.com"
     },
@@ -2039,7 +2015,15 @@
       "company_website": "https://www.glossgenius.com"
     },
     {
-      "title": "Senior Engineering Manager",
+      "title": "Senior Engineering Manager, Infrastructure",
+      "department": "Engineering",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7886295003",
+      "company": "GlossGenius",
+      "company_website": "https://www.glossgenius.com"
+    },
+    {
+      "title": "Senior Engineering Manager, Product",
       "department": "Engineering",
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7733457003",
@@ -2081,14 +2065,6 @@
     {
       "title": "Software Engineer - All Levels",
       "department": "Engineering",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/glossgenius/jobs/6684042003",
-      "company": "GlossGenius",
-      "company_website": "https://www.glossgenius.com"
-    },
-    {
-      "title": "Software Engineer - All Levels",
-      "department": "Engineering",
       "location": "New York, NY",
       "url": "https://job-boards.greenhouse.io/glossgenius/jobs/6681936003",
       "company": "GlossGenius",
@@ -2099,6 +2075,14 @@
       "department": "Engineering",
       "location": "Greater Toronto Area - Remote",
       "url": "https://job-boards.greenhouse.io/glossgenius/jobs/6684050003",
+      "company": "GlossGenius",
+      "company_website": "https://www.glossgenius.com"
+    },
+    {
+      "title": "Software Engineer - All Levels",
+      "department": "Engineering",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/glossgenius/jobs/6684042003",
       "company": "GlossGenius",
       "company_website": "https://www.glossgenius.com"
     },
@@ -2183,14 +2167,6 @@
       "company_website": "https://joinhandshake.com"
     },
     {
-      "title": "Business Development Representative, GovernmentBusiness Development Representative, GovernmentEmployer RevenueRemote (USA)Apply",
-      "department": "General",
-      "location": "San Francisco",
-      "url": "https://app.ashbyhq.com/jobs/71a4204a-d23e-476c-86e5-edb9e32a4e50",
-      "company": "Handshake",
-      "company_website": "https://joinhandshake.com"
-    },
-    {
       "title": "Chief of Staff, CEOChief of Staff, CEOGeneral & AdministrativeSan Francisco, CAApply",
       "department": "General",
       "location": "San Francisco",
@@ -2227,6 +2203,14 @@
       "department": "General",
       "location": "San Francisco",
       "url": "https://app.ashbyhq.com/jobs/fcd727f8-6390-4aef-9052-818ff710b013",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Director, Applied Machine LearningDirector, Applied Machine LearningHAI ResearchSan Francisco, CAApply",
+      "department": "General",
+      "location": "San Francisco",
+      "url": "https://app.ashbyhq.com/jobs/4acb4e8d-7c1b-4949-9d1f-631730a3bafc",
       "company": "Handshake",
       "company_website": "https://joinhandshake.com"
     },
@@ -2315,6 +2299,14 @@
       "department": "General",
       "location": "Not specified",
       "url": "https://ats.rippling.com/hostie/jobs/03878c68-1cac-4982-9fe5-44a11073dccc",
+      "company": "Hostie",
+      "company_website": "https://www.hostie.ai"
+    },
+    {
+      "title": "Customer Support Specialist",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://ats.rippling.com/hostie/jobs/9f5b2efd-a760-490e-abcb-e6f064f81737",
       "company": "Hostie",
       "company_website": "https://www.hostie.ai"
     },
@@ -2498,7 +2490,7 @@
       "title": "Field Operations Executive",
       "department": "Robotics",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4701137006",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4625772006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2506,7 +2498,7 @@
       "title": "Field Operations Executive",
       "department": "Robotics",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4625772006",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4701137006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2715,14 +2707,6 @@
       "department": "Finance",
       "location": "Bengaluru, Karnataka, India",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4665986006",
-      "company": "Instawork",
-      "company_website": "https://www.instawork.com"
-    },
-    {
-      "title": "Senior Manager, FP&A",
-      "department": "Finance",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4664273006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -3082,23 +3066,7 @@
       "title": "Technical Customer Success Manager",
       "department": "GTM",
       "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/mintmcp/e2ec4485-5015-43de-abb8-d4ff2cce1a03",
-      "company": "MintMCP",
-      "company_website": "https://www.mintmcp.com"
-    },
-    {
-      "title": "Software Engineer",
-      "department": "Engineering",
-      "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/mintmcp/30782b8b-ff94-4245-848d-bb4700c70477",
-      "company": "MintMCP",
-      "company_website": "https://www.mintmcp.com"
-    },
-    {
-      "title": "Account Executive",
-      "department": "GTM",
-      "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/mintmcp/735b1e41-4518-430c-a1fc-0363fac66bf9",
+      "url": "https://jobs.ashbyhq.com/mintmcp/a4dc0034-9d1d-4584-8fa4-5a95863d7408",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3106,7 +3074,7 @@
       "title": "Founding Marketer",
       "department": "GTM",
       "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/mintmcp/100fa826-6e0f-4842-a1c4-3a295814defc",
+      "url": "https://jobs.ashbyhq.com/mintmcp/10727f6d-c058-4bcf-8aaa-5ac15aba0a75",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3379,6 +3347,14 @@
       "department": "Marketing & Media",
       "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/owner/f90e954d-ae4f-4c1a-bff7-dc2293c4d081",
+      "company": "Owner",
+      "company_website": "https://www.owner.com"
+    },
+    {
+      "title": "Senior Video Editor",
+      "department": "Marketing & Media",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/owner/f176e6b3-1d04-4875-8981-c10db07983d5",
       "company": "Owner",
       "company_website": "https://www.owner.com"
     },
@@ -3911,6 +3887,22 @@
       "company_website": "https://www.peek.com"
     },
     {
+      "title": "Implementation Specialist",
+      "department": "Onboarding",
+      "location": "Mexico City",
+      "url": "https://jobs.ashbyhq.com/peek/5962ccff-8f53-4d4b-b55a-eefa9e60474f",
+      "company": "Peek",
+      "company_website": "https://www.peek.com"
+    },
+    {
+      "title": "Account Director - Advertising",
+      "department": "Advertiser",
+      "location": "Los Angeles, CA or Boston, MA",
+      "url": "https://job-boards.greenhouse.io/redcircle/jobs/5374146008",
+      "company": "RedCircle",
+      "company_website": "https://www.redcircle.com"
+    },
+    {
       "title": "Ad Operations Coordinator",
       "department": "Operations",
       "location": "Boston or Los Angeles",
@@ -3961,7 +3953,7 @@
     {
       "title": "Account Executive",
       "department": "Revenue",
-      "location": "New York, New York",
+      "location": "Texas",
       "url": "https://jobs.ashbyhq.com/ResQ/9f34d6bc-ea44-4a39-a616-c87dc5f1e086",
       "company": "ResQ",
       "company_website": "https://www.getresq.com"
@@ -4135,6 +4127,14 @@
       "company_website": "https://shopmy.us"
     },
     {
+      "title": "Manager, Strategic Business Development & Partnerships - Sports Vertical",
+      "department": "Strategic Business Development & Partnerships",
+      "location": "New York, New York, United States",
+      "url": "https://job-boards.greenhouse.io/shopmy/jobs/5392567008",
+      "company": "Shop My",
+      "company_website": "https://shopmy.us"
+    },
+    {
       "title": "Personal Shopper",
       "department": "Strategic Business Development & Partnerships",
       "location": "New York, New York",
@@ -4201,16 +4201,16 @@
     {
       "title": "Senior Full Stack Engineer",
       "department": "Engineering",
-      "location": "Remote, USA",
-      "url": "https://job-boards.greenhouse.io/shopmy/jobs/4008641008",
+      "location": "REMOTE-EUROPE",
+      "url": "https://job-boards.greenhouse.io/shopmy/jobs/4938969008",
       "company": "Shop My",
       "company_website": "https://shopmy.us"
     },
     {
       "title": "Senior Full Stack Engineer",
       "department": "Engineering",
-      "location": "REMOTE-EUROPE",
-      "url": "https://job-boards.greenhouse.io/shopmy/jobs/4938969008",
+      "location": "Remote, USA",
+      "url": "https://job-boards.greenhouse.io/shopmy/jobs/4008641008",
       "company": "Shop My",
       "company_website": "https://shopmy.us"
     },
@@ -4225,7 +4225,7 @@
     {
       "title": "Senior Manager, Client Strategy Enablement",
       "department": "Client Strategy",
-      "location": "New York, NY",
+      "location": "New York, New York, United States",
       "url": "https://job-boards.greenhouse.io/shopmy/jobs/5355459008",
       "company": "Shop My",
       "company_website": "https://shopmy.us"
@@ -4235,6 +4235,14 @@
       "department": "Client Strategy",
       "location": "New York, New York, United States",
       "url": "https://job-boards.greenhouse.io/shopmy/jobs/5362546008",
+      "company": "Shop My",
+      "company_website": "https://shopmy.us"
+    },
+    {
+      "title": "Senior Manager People Operations",
+      "department": "People Experience & Operations",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/shopmy/jobs/5386677008",
       "company": "Shop My",
       "company_website": "https://shopmy.us"
     },
@@ -4489,14 +4497,6 @@
     {
       "title": "Assistant General Manager",
       "department": "Store Management",
-      "location": "Sunnyvale, California, United States",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5154100008",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "Assistant General Manager",
-      "department": "Store Management",
       "location": "Mission Viejo, California, United States",
       "url": "https://job-boards.greenhouse.io/stressfree/jobs/5379935008",
       "company": "Stress-Free Auto Care",
@@ -4505,8 +4505,8 @@
     {
       "title": "Assistant General Manager",
       "department": "Store Management",
-      "location": "Milpitas, California, United States",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5355748008",
+      "location": "Sunnyvale, California, United States",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5154100008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
@@ -4521,16 +4521,24 @@
     {
       "title": "Automotive General Manager",
       "department": "Store Management",
-      "location": "Castro Valley, California, United States",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5382311008",
+      "location": "San Diego, California, United States",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/4982783008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
     {
       "title": "Automotive General Manager",
       "department": "Store Management",
-      "location": "San Diego, California, United States",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/4982783008",
+      "location": "Castro Valley, California, United States",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5382311008",
+      "company": "Stress-Free Auto Care",
+      "company_website": "https://www.stressfree.com"
+    },
+    {
+      "title": "Automotive Technician",
+      "department": "Repair & Maintenance",
+      "location": "La Mesa, California, United States",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5182323008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
@@ -4561,8 +4569,8 @@
     {
       "title": "Automotive Technician",
       "department": "Repair & Maintenance",
-      "location": "Orange, CA",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5182332008",
+      "location": "Montclair, California, United States",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/4915691008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
@@ -4609,8 +4617,8 @@
     {
       "title": "Automotive Technician",
       "department": "Repair & Maintenance",
-      "location": "Campbell, California, United States",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5378156008",
+      "location": "Orange, CA",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5182332008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
@@ -4667,14 +4675,6 @@
       "department": "Repair & Maintenance",
       "location": "San Diego, California, United States",
       "url": "https://job-boards.greenhouse.io/stressfree/jobs/5182319008",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "Automotive Technician",
-      "department": "Repair & Maintenance",
-      "location": "La Mesa, California, United States",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5182323008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
@@ -4761,8 +4761,8 @@
     {
       "title": "Automotive Technician",
       "department": "Repair & Maintenance",
-      "location": "Montclair, California, United States",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/4915691008",
+      "location": "Campbell, California, United States",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5378156008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
@@ -4833,22 +4833,6 @@
     {
       "title": "General Manager",
       "department": "Store Management",
-      "location": "Metroplex",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5364656008",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "General Manager",
-      "department": "Store Management",
-      "location": "Terrell, Texas, United States",
-      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5387820008",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "General Manager",
-      "department": "Store Management",
       "location": "Mission Viejo, California, United States",
       "url": "https://job-boards.greenhouse.io/stressfree/jobs/5203373008",
       "company": "Stress-Free Auto Care",
@@ -4897,8 +4881,24 @@
     {
       "title": "Operations Program Manager",
       "department": "People Operations",
-      "location": "Austin, Texas, United States; Metroplex",
+      "location": "Austin, Texas, United States",
       "url": "https://job-boards.greenhouse.io/stressfree/jobs/5379468008",
+      "company": "Stress-Free Auto Care",
+      "company_website": "https://www.stressfree.com"
+    },
+    {
+      "title": "Operations Program Manager",
+      "department": "People Operations",
+      "location": "CA1-A; CA1-B; CA1-C",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5392527008",
+      "company": "Stress-Free Auto Care",
+      "company_website": "https://www.stressfree.com"
+    },
+    {
+      "title": "Operations Program Manager",
+      "department": "People Operations",
+      "location": "Metroplex",
+      "url": "https://job-boards.greenhouse.io/stressfree/jobs/5392522008",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
@@ -5131,6 +5131,14 @@
       "department": "Engineering, Product, Design, and Marketing",
       "location": "Hub - Berlin",
       "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/f90ce646-f405-4378-b20c-8eba6b7ffdb4",
+      "company": "Superhuman",
+      "company_website": "https://superhuman.com"
+    },
+    {
+      "title": "Data Engineer",
+      "department": "Engineering, Product, Design, and Marketing",
+      "location": "Hub - Berlin",
+      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/41e5e9f9-d3ba-42ea-a446-55ad8bb3430c",
       "company": "Superhuman",
       "company_website": "https://superhuman.com"
     },
@@ -5559,6 +5567,14 @@
       "company_website": "https://superhuman.com"
     },
     {
+      "title": "Group Manager, Acquisition Marketing",
+      "department": "Growth",
+      "location": "Remote - United States",
+      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/fc8b025f-b105-46ae-9ec6-059dceef82ad",
+      "company": "Superhuman",
+      "company_website": "https://superhuman.com"
+    },
+    {
       "title": "Account Development Executive",
       "department": "Sales",
       "location": "New York, New York",
@@ -5705,16 +5721,24 @@
     {
       "title": "Director, Payroll & Tax Implementation",
       "department": "Operations, Payments & Tax",
-      "location": "Tampa, Florida",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8112896?gh_jid=8112896",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8089577?gh_jid=8089577",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Director, Payroll & Tax Implementation",
       "department": "Operations, Payments & Tax",
+      "location": "Tampa, Florida",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8112896?gh_jid=8112896",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Engineering Manager, Growth Expansion",
+      "department": "Engineering",
       "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8089577?gh_jid=8089577",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7975007?gh_jid=7975007",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5863,6 +5887,14 @@
       "company_website": "https://www.justworks.com"
     },
     {
+      "title": "Product Manager, Time Global",
+      "department": "Product, International Products",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8112394?gh_jid=8112394",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
       "title": "Product Operations Manager, AI & Systems",
       "department": "Product",
       "location": "New York, New York",
@@ -5967,14 +5999,6 @@
       "company_website": "https://www.justworks.com"
     },
     {
-      "title": "Senior Events Marketing Strategist",
-      "department": "Marketing",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7985074?gh_jid=7985074",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
       "title": "Senior Executive Assistant",
       "department": "People",
       "location": "New York, New York",
@@ -6025,6 +6049,14 @@
     {
       "title": "Senior Lifecycle Counsel, International",
       "department": "Corporate & Finance",
+      "location": "London, England",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7997714?gh_jid=7997714",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Senior Lifecycle Counsel, International",
+      "department": "Corporate & Finance",
       "location": "Mexico City, Mexico",
       "url": "https://boards.greenhouse.io/justworks/jobs/7997713?gh_jid=7997713",
       "company": "Via (acquired by JustWorks)",
@@ -6035,14 +6067,6 @@
       "department": "Corporate & Finance",
       "location": "Toronto, Canada",
       "url": "https://boards.greenhouse.io/justworks/jobs/7997716?gh_jid=7997716",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Senior Lifecycle Counsel, International",
-      "department": "Corporate & Finance",
-      "location": "London, England",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7997714?gh_jid=7997714",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -6231,6 +6255,14 @@
       "company_website": "https://www.justworks.com"
     },
     {
+      "title": "Senior Software Engineer, International Payroll",
+      "department": "Engineering",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7914440?gh_jid=7914440",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
       "title": "Senior Software Engineer, Onboarding",
       "department": "Engineering",
       "location": "New York, New York",
@@ -6243,14 +6275,6 @@
       "department": "Engineering",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/7914186?gh_jid=7914186",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Senior Software Engineer, Product Foundations",
-      "department": "Engineering",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7914317?gh_jid=7914317",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -6321,16 +6345,16 @@
     {
       "title": "Underwriting Assistant, Health",
       "department": "Risk & Insurance",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8104297?gh_jid=8104297",
+      "location": "Tampa, Florida",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8104009?gh_jid=8104009",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Underwriting Assistant, Health",
       "department": "Risk & Insurance",
-      "location": "Tampa, Florida",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8104009?gh_jid=8104009",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8104297?gh_jid=8104297",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -6413,22 +6437,6 @@
       "url": "https://jobs.ashbyhq.com/workweave/3b08840b-6056-4d11-9330-7ae6c490cd35",
       "company": "Weave",
       "company_website": "https://workweave.dev"
-    },
-    {
-      "title": "Backend Product Engineer",
-      "department": "Engineering",
-      "location": "San Francisco, California",
-      "url": "https://job-boards.greenhouse.io/wholesail/jobs/7589353003",
-      "company": "Wholesail",
-      "company_website": "https://www.paywholesail.com"
-    },
-    {
-      "title": "Founding Machine Learning Engineer",
-      "department": "Engineering",
-      "location": "San Francisco, California",
-      "url": "https://job-boards.greenhouse.io/wholesail/jobs/7728695003",
-      "company": "Wholesail",
-      "company_website": "https://www.paywholesail.com"
     },
     {
       "title": "ML Engineer",
@@ -6839,14 +6847,6 @@
       "company_website": "https://www.workstream.us"
     },
     {
-      "title": "Brand & Graphic Designer",
-      "department": "Marketing",
-      "location": "San Francisco, California - Remote",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6013682004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
       "title": "Chief Operating Officer",
       "department": "Operations",
       "location": "San Francisco, California",
@@ -6887,14 +6887,6 @@
       "company_website": "https://www.workstream.us"
     },
     {
-      "title": "Forward Deployed Engineer",
-      "department": "Special Projects",
-      "location": "Menlo Park, California",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5984207004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
       "title": "General Application",
       "department": "GTM Engineering",
       "location": "Workstream Hubs",
@@ -6907,6 +6899,22 @@
       "department": "Special Projects",
       "location": "Manila, Philippines",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/6133928004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
+      "title": "Global Operations Team Lead",
+      "department": "Special Projects",
+      "location": "Philippines",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6124199004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
+      "title": "Head of Delivery, AI-Native Services",
+      "department": "Engineering",
+      "location": "Lehi",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6145930004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6959,10 +6967,10 @@
       "company_website": "https://www.workstream.us"
     },
     {
-      "title": "Recruiter (3-month Contract)",
-      "department": "People Operations and Talent Acquisition",
-      "location": "Menlo Park, California",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6123051004",
+      "title": "Revenue Operations Manager",
+      "department": "Operations - Revenue Operations",
+      "location": "San Francisco, California",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6141656004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6971,14 +6979,6 @@
       "department": "Operations - Revenue Operations",
       "location": "Lehi, Utah",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/6141654004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "Revenue Operations Manager",
-      "department": "Operations - Revenue Operations",
-      "location": "San Francisco, California",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6141656004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -7027,14 +7027,6 @@
       "department": "Engineering",
       "location": "Lehi, Utah",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/6143519004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "Strategic Project Lead",
-      "department": "Special Projects",
-      "location": "Menlo Park, California",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/5833050004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
