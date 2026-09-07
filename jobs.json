@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-06T12:10:29.740556+00:00",
-  "total_jobs": 797,
+  "generated_at": "2026-09-07T14:14:44.014831+00:00",
+  "total_jobs": 776,
   "total_companies": 95,
-  "companies_with_jobs": 55,
+  "companies_with_jobs": 54,
   "failed_companies": [
     {
       "name": "Acely.ai",
@@ -30,6 +30,10 @@
     },
     {
       "name": "Gencove",
+      "reason": "no jobs page found"
+    },
+    {
+      "name": "GlossGenius",
       "reason": "no jobs page found"
     },
     {
@@ -1933,166 +1937,6 @@
       "url": "https://job-boards.greenhouse.io/future/jobs/4683271005",
       "company": "Future",
       "company_website": "https://future.co"
-    },
-    {
-      "title": "Staff Software Engineer, Frontend",
-      "department": "Engineering",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/geniusai/084a3c7b-5d0c-4f31-81ee-505ba34dd672",
-      "company": "GlossGenius",
-      "company_website": "https://www.glossgenius.com"
-    },
-    {
-      "title": "Staff Software Engineer, Frontend",
-      "department": "Engineering",
-      "location": "Toronto",
-      "url": "https://jobs.ashbyhq.com/geniusai/c0092527-101b-4572-bbe4-dffb2fd28ec9",
-      "company": "GlossGenius",
-      "company_website": "https://www.glossgenius.com"
-    },
-    {
-      "title": "Senior Engineering Manager, Product",
-      "department": "Engineering",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/geniusai/d49a0fb6-6587-4ffb-9204-9eeb95176734",
-      "company": "GlossGenius",
-      "company_website": "https://www.glossgenius.com"
-    },
-    {
-      "title": "Staff Software Engineer, Backend",
-      "department": "Engineering",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/geniusai/e0eb78bf-a610-479c-bd21-2a7aba590b18",
-      "company": "GlossGenius",
-      "company_website": "https://www.glossgenius.com"
-    },
-    {
-      "title": "Staff Software Engineer, Backend",
-      "department": "Engineering",
-      "location": "Toronto",
-      "url": "https://jobs.ashbyhq.com/geniusai/0fd7c3ce-cf32-4321-9c95-417839374be7",
-      "company": "GlossGenius",
-      "company_website": "https://www.glossgenius.com"
-    },
-    {
-      "title": "Associate Creative Director, Design",
-      "department": "Creative",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/geniusai/41326c24-ff60-4873-83c1-e5cf15ee7e44",
-      "company": "GlossGenius",
-      "company_website": "https://www.glossgenius.com"
-    },
-    {
-      "title": "Software Engineer - All Levels",
-      "department": "Engineering",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/geniusai/3f73dec7-92f1-4bd4-820a-9ec674b336b4",
-      "company": "GlossGenius",
-      "company_website": "https://www.glossgenius.com"
-    },
-    {
-      "title": "People and Talent Operations Lead",
-      "department": "People",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/geniusai/080ffb45-fed0-498d-a5cc-da002424d471",
-      "company": "GlossGenius",
-      "company_website": "https://www.glossgenius.com"
-    },
-    {
-      "title": "Senior Manager, Brand Marketing",
-      "department": "Marketing",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/geniusai/435de8d3-133e-494c-9168-a92e58518027",
-      "company": "GlossGenius",
-      "company_website": "https://www.glossgenius.com"
-    },
-    {
-      "title": "People Business Partner",
-      "department": "People",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/geniusai/53124941-9805-40a2-89ea-38222afddedd",
-      "company": "GlossGenius",
-      "company_website": "https://www.glossgenius.com"
-    },
-    {
-      "title": "Senior Business Recruiter",
-      "department": "People",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/geniusai/70714381-46d2-4d7b-bd5d-6f09217bedcf",
-      "company": "GlossGenius",
-      "company_website": "https://www.glossgenius.com"
-    },
-    {
-      "title": "Strategy & Operations Manager, Customer Success",
-      "department": "Strategy Operations",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/geniusai/afd8394b-d75f-46ea-bc7e-0a3142f110e4",
-      "company": "GlossGenius",
-      "company_website": "https://www.glossgenius.com"
-    },
-    {
-      "title": "Senior Engineering Manager, Infrastructure",
-      "department": "Engineering",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/geniusai/3819f902-34a2-49fe-ab01-604228d0cc33",
-      "company": "GlossGenius",
-      "company_website": "https://www.glossgenius.com"
-    },
-    {
-      "title": "Recruiting Associate",
-      "department": "People",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/geniusai/29da67f1-a4c0-4a29-aade-2e9f48b067d8",
-      "company": "GlossGenius",
-      "company_website": "https://www.glossgenius.com"
-    },
-    {
-      "title": "Designer, Growth Marketing",
-      "department": "Creative",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/geniusai/06052494-fd01-4d4a-b44a-1b1bac5f6db3",
-      "company": "GlossGenius",
-      "company_website": "https://www.glossgenius.com"
-    },
-    {
-      "title": "Engineering Intern (Summer 2027)",
-      "department": "Engineering",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/geniusai/06198681-5c9d-40fa-aa68-ac92b65227c4",
-      "company": "GlossGenius",
-      "company_website": "https://www.glossgenius.com"
-    },
-    {
-      "title": "Growth Lead",
-      "department": "Marketing",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/geniusai/cf3e7009-6de3-4061-8401-d8cb4882fedd",
-      "company": "GlossGenius",
-      "company_website": "https://www.glossgenius.com"
-    },
-    {
-      "title": "Software Engineer - All Levels",
-      "department": "Engineering",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/geniusai/aff2de75-aff2-46fc-8184-dbaa09e18e55",
-      "company": "GlossGenius",
-      "company_website": "https://www.glossgenius.com"
-    },
-    {
-      "title": "Senior Strategy & Operations Associate",
-      "department": "Strategy Operations",
-      "location": "NYC",
-      "url": "https://jobs.ashbyhq.com/geniusai/67d8fc28-3265-480b-bba1-472949088c1f",
-      "company": "GlossGenius",
-      "company_website": "https://www.glossgenius.com"
-    },
-    {
-      "title": "Software Engineer - All Levels",
-      "department": "Engineering",
-      "location": "Toronto",
-      "url": "https://jobs.ashbyhq.com/geniusai/3cc73848-f51a-4a29-91ba-1195a55a0bc3",
-      "company": "GlossGenius",
-      "company_website": "https://www.glossgenius.com"
     },
     {
       "title": "Senior Full Stack Engineer - Canada",
@@ -4663,22 +4507,6 @@
       "company_website": "https://superhuman.com"
     },
     {
-      "title": "System Engineer",
-      "department": "Engineering, Product, Design, and Marketing",
-      "location": "Hub - Berlin",
-      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/4ba57436-df4f-41b4-95a3-67f5718dd1e7",
-      "company": "Superhuman",
-      "company_website": "https://superhuman.com"
-    },
-    {
-      "title": "System Engineer",
-      "department": "Engineering, Product, Design, and Marketing",
-      "location": "Hub - Warsaw",
-      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/21d40098-b367-4fca-a0e5-b43572455101",
-      "company": "Superhuman",
-      "company_website": "https://superhuman.com"
-    },
-    {
       "title": "Engineering Manager, Checkout & Payments",
       "department": "Engineering, Product, Design, and Marketing",
       "location": "Hub - Berlin",
@@ -4819,6 +4647,14 @@
       "department": "Engineering, Product, Design, and Marketing",
       "location": "Remote - United States",
       "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/eed79c80-0007-4642-8510-57bcdddab178",
+      "company": "Superhuman",
+      "company_website": "https://superhuman.com"
+    },
+    {
+      "title": "Software Engineer, Developer Experience (Full-Stack)",
+      "department": "Engineering, Product, Design, and Marketing",
+      "location": "Hub - Porto",
+      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/3f99da1d-dd8b-4e62-bd2c-d2cb3d6fa5b9",
       "company": "Superhuman",
       "company_website": "https://superhuman.com"
     },
@@ -6233,8 +6069,8 @@
     {
       "title": "Head of Brand & Product Marketing",
       "department": "Marketing",
-      "location": "Singapore",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6174433004",
+      "location": "San Francisco (We support relocation & visas!)",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6161034004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6249,8 +6085,8 @@
     {
       "title": "Head of Brand & Product Marketing",
       "department": "Marketing",
-      "location": "San Francisco (We support relocation & visas!)",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6161034004",
+      "location": "Singapore",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6174433004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6314,7 +6150,7 @@
       "title": "Revenue Operations Manager",
       "department": "Operations - Revenue Operations",
       "location": "Menlo Park",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6141655004",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6184094004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6322,7 +6158,7 @@
       "title": "Revenue Operations Manager",
       "department": "Operations - Revenue Operations",
       "location": "Lehi",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6141654004",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6184095004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6330,7 +6166,7 @@
       "title": "Revenue Operations Manager",
       "department": "Operations - Revenue Operations",
       "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6141656004",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6184096004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6353,16 +6189,16 @@
     {
       "title": "Senior Product Marketing Manager",
       "department": "Marketing",
-      "location": "Lehi  (We support relocation & visas!)",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6166319004",
+      "location": "San Francisco  (We support relocation & visas!)",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6161039004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
     {
       "title": "Senior Product Marketing Manager",
       "department": "Marketing",
-      "location": "San Francisco  (We support relocation & visas!)",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6161039004",
+      "location": "Lehi  (We support relocation & visas!)",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6166319004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6378,7 +6214,7 @@
       "title": "Senior Solutions Engineer, GTM Engineering",
       "department": "Professional Services",
       "location": "Lehi",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6138363004",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6184098004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6386,7 +6222,7 @@
       "title": "Software Engineer (Full Stack)",
       "department": "Engineering",
       "location": "Lehi",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6143519004",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6184097004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
