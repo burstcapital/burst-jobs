@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T13:04:19.856884+00:00",
-  "total_jobs": 822,
+  "generated_at": "2026-09-21T15:06:48.871183+00:00",
+  "total_jobs": 820,
   "total_companies": 95,
   "companies_with_jobs": 55,
   "failed_companies": [
@@ -78,6 +78,10 @@
     },
     {
       "name": "Stitch",
+      "reason": "no jobs page found"
+    },
+    {
+      "name": "Swantide",
       "reason": "no jobs page found"
     },
     {
@@ -2359,34 +2363,26 @@
       "company_website": "https://tangotango.net"
     },
     {
-      "title": "Director, Growth Strategy",
+      "title": "Integrated Marketing Contractor",
       "department": "Growth",
       "location": "Distributed, \ud83c\uddfa\ud83c\uddf8 + \ud83c\udde8\ud83c\udde6 (US + Canada)",
-      "url": "https://job-boards.greenhouse.io/hatchcareers/jobs/4705355006",
+      "url": "https://job-boards.greenhouse.io/hatchhirescontractors/jobs/4714012006",
       "company": "Hatch Baby",
       "company_website": "https://www.hatch.co"
     },
     {
-      "title": "Senior Embedded Systems Engineer",
-      "department": "Engineering",
-      "location": "Distributed, \ud83c\uddfa\ud83c\uddf8 + \ud83c\udde8\ud83c\udde6 (US + Canada)",
-      "url": "https://job-boards.greenhouse.io/hatchcareers/jobs/4693668006",
+      "title": "Logistics Coordinator (Contractor)",
+      "department": "Operations",
+      "location": "Distributed, \ud83c\uddfa\ud83c\uddf8 + \ud83c\udde8\ud83c\udde6 (US + Canada) - (CONTRACT)",
+      "url": "https://job-boards.greenhouse.io/hatchhirescontractors/jobs/4711018006",
       "company": "Hatch Baby",
       "company_website": "https://www.hatch.co"
     },
     {
-      "title": "Senior Producer",
-      "department": "Content",
+      "title": "Senior Growth Marketer (Contract)",
+      "department": "Growth",
       "location": "Distributed, \ud83c\uddfa\ud83c\uddf8 + \ud83c\udde8\ud83c\udde6 (US + Canada)",
-      "url": "https://job-boards.greenhouse.io/hatchcareers/jobs/4711749006",
-      "company": "Hatch Baby",
-      "company_website": "https://www.hatch.co"
-    },
-    {
-      "title": "Staff Backend Engineer",
-      "department": "Backend Engineering",
-      "location": "Distributed, \ud83c\uddfa\ud83c\uddf8 + \ud83c\udde8\ud83c\udde6 (US + Canada)",
-      "url": "https://job-boards.greenhouse.io/hatchcareers/jobs/4683890006",
+      "url": "https://job-boards.greenhouse.io/hatchhirescontractors/jobs/4712502006",
       "company": "Hatch Baby",
       "company_website": "https://www.hatch.co"
     },
@@ -2983,6 +2979,22 @@
       "company_website": "https://lattice.com"
     },
     {
+      "title": "Engineering Manager, AI",
+      "department": "Engineering",
+      "location": "Remote - Canada",
+      "url": "https://lattice.com/job?gh_jid=8623297002",
+      "company": "Lattice",
+      "company_website": "https://lattice.com"
+    },
+    {
+      "title": "Engineering Manager, AI",
+      "department": "Engineering",
+      "location": "Remote - US",
+      "url": "https://lattice.com/job?gh_jid=8614333002",
+      "company": "Lattice",
+      "company_website": "https://lattice.com"
+    },
+    {
       "title": "Lead Product Manager",
       "department": "Product",
       "location": "Remote - Canada",
@@ -3057,16 +3069,16 @@
     {
       "title": "Manager, Commercial Finance (Strategic Finance)",
       "department": "Finance",
-      "location": "Canada (Remote)",
-      "url": "https://liftoff.io/job/8175296?gh_jid=8175296",
+      "location": "United States (Remote)",
+      "url": "https://liftoff.io/job/8071453?gh_jid=8071453",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
     },
     {
       "title": "Manager, Commercial Finance (Strategic Finance)",
       "department": "Finance",
-      "location": "United States (Remote)",
-      "url": "https://liftoff.io/job/8071453?gh_jid=8071453",
+      "location": "Canada (Remote)",
+      "url": "https://liftoff.io/job/8175296?gh_jid=8175296",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
     },
@@ -3075,6 +3087,14 @@
       "department": "People",
       "location": "United States (Remote)",
       "url": "https://liftoff.io/job/8121153?gh_jid=8121153",
+      "company": "Liftoff",
+      "company_website": "https://www.liftoff.xyz"
+    },
+    {
+      "title": "Performance Strategist II, Finance & Account Operations",
+      "department": "Core Ops",
+      "location": "Singapore",
+      "url": "https://liftoff.io/job/8214748?gh_jid=8214748",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
     },
@@ -3258,7 +3278,7 @@
       "title": "Founding Operations (EA / Office Manager)",
       "department": "Operations",
       "location": "San Mateo, CA",
-      "url": "https://jobs.ashbyhq.com/mintmcp/bcbc4150-f35c-49e0-afa5-bd0de0d31dac",
+      "url": "https://jobs.ashbyhq.com/mintmcp/b39234bf-0163-4fd6-a43e-c8f52af12dc3",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3267,6 +3287,14 @@
       "department": "Operations",
       "location": "San Mateo, CA",
       "url": "https://jobs.ashbyhq.com/mintmcp/7e717e0d-8e55-400d-8ce0-4caae4204075",
+      "company": "MintMCP",
+      "company_website": "https://www.mintmcp.com"
+    },
+    {
+      "title": "Founding Operations (Recruiting Coordinator / People Coordinator)",
+      "department": "Operations",
+      "location": "San Mateo, CA",
+      "url": "https://jobs.ashbyhq.com/mintmcp/838be962-ca3b-4b70-8253-4c799a5c964c",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3643,14 +3671,6 @@
       "department": "Engineering, Product, and Design",
       "location": "Remote - United States",
       "url": "https://jobs.ashbyhq.com/owner/835c2f86-eeb7-4b23-a285-b26b339ad80a",
-      "company": "Owner",
-      "company_website": "https://www.owner.com"
-    },
-    {
-      "title": "Senior Manager of Customer Success (Enterprise)",
-      "department": "Customer Experience",
-      "location": "Remote - United States",
-      "url": "https://jobs.ashbyhq.com/owner/29efc81c-acaa-437b-8d7f-f2038272085d",
       "company": "Owner",
       "company_website": "https://www.owner.com"
     },
@@ -5385,16 +5405,16 @@
     {
       "title": "International Consultant, Americas",
       "department": "Customer Success, International Products",
-      "location": "Toronto, Canada",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8156489?gh_jid=8156489",
+      "location": "Mexico City, Mexico",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8156486?gh_jid=8156486",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "International Consultant, Americas",
       "department": "Customer Success, International Products",
-      "location": "Mexico City, Mexico",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8156486?gh_jid=8156486",
+      "location": "Toronto, Canada",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8156489?gh_jid=8156489",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5487,14 +5507,6 @@
       "company_website": "https://www.justworks.com"
     },
     {
-      "title": "Revenue Readiness Partner",
-      "department": "Revenue Effectiveness",
-      "location": "New York, New York; Phoenix, Arizona",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7497276?gh_jid=7497276",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
       "title": "Sales Development Representative (SDR)",
       "department": "Sales",
       "location": "New York, New York",
@@ -5570,7 +5582,7 @@
       "title": "Senior International Benefits Manager, EMEA",
       "department": "Operations, International Products",
       "location": "Remote - International",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8139351?gh_jid=8139351",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8139346?gh_jid=8139346",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5594,7 +5606,7 @@
       "title": "Senior International Benefits Manager, EMEA",
       "department": "Operations, International Products",
       "location": "Remote - International",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8139346?gh_jid=8139346",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8139351?gh_jid=8139351",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5611,38 +5623,6 @@
       "department": "IT",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/8080320?gh_jid=8080320",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Senior Lifecycle Counsel, International",
-      "department": "Corporate & Finance",
-      "location": "Mexico City, Mexico",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7997713?gh_jid=7997713",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Senior Lifecycle Counsel, International",
-      "department": "Corporate & Finance",
-      "location": "London, England",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7997714?gh_jid=7997714",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Senior Lifecycle Counsel, International",
-      "department": "Corporate & Finance",
-      "location": "Toronto, Canada",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7997716?gh_jid=7997716",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Senior Lifecycle Counsel, International",
-      "department": "Corporate & Finance",
-      "location": "Remote - International",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7997717?gh_jid=7997717",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5673,16 +5653,16 @@
     {
       "title": "Senior Manager, Workers' Compensation Claims",
       "department": "Risk & Insurance",
-      "location": "Tampa, Florida",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8071747?gh_jid=8071747",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8012944?gh_jid=8012944",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Senior Manager, Workers' Compensation Claims",
       "department": "Risk & Insurance",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8012944?gh_jid=8012944",
+      "location": "Tampa, Florida",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8071747?gh_jid=8071747",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -6417,16 +6397,16 @@
     {
       "title": "Full Stack Engineer",
       "department": "Engineering",
-      "location": "Lehi",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6184097004",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6116389004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
     {
       "title": "Full Stack Engineer",
       "department": "Engineering",
-      "location": "Vancouver, British Columbia, Canada",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6116389004",
+      "location": "Lehi",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6184097004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6449,16 +6429,16 @@
     {
       "title": "Head of Brand & Product Marketing",
       "department": "Marketing",
-      "location": "Singapore",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6188861004",
+      "location": "San Francisco (We support relocation & visas!)",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6188858004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
     {
       "title": "Head of Brand & Product Marketing",
       "department": "Marketing",
-      "location": "San Francisco (We support relocation & visas!)",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6188858004",
+      "location": "Singapore",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6188861004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6551,10 +6531,26 @@
       "company_website": "https://www.workstream.us"
     },
     {
-      "title": "Senior Product Marketing Manager",
-      "department": "Marketing",
-      "location": "Singapore (We support relocation & visas!)",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6188866004",
+      "title": "Senior Customer Success Manager",
+      "department": "Customer Success Management",
+      "location": "Lehi, Utah",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6199630004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "department": "Engineering",
+      "location": "Lehi",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6190739004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "department": "Engineering",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6190749004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6569,24 +6565,16 @@
     {
       "title": "Senior Product Marketing Manager",
       "department": "Marketing",
+      "location": "Singapore (We support relocation & visas!)",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6188866004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
+      "title": "Senior Product Marketing Manager",
+      "department": "Marketing",
       "location": "Lehi  (We support relocation & visas!)",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/6188863004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "Senior/Staff Full Stack Engineer",
-      "department": "Engineering",
-      "location": "Lehi",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6190739004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "Senior/Staff Full Stack Engineer",
-      "department": "Engineering",
-      "location": "Vancouver, British Columbia, Canada",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6190749004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
