@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-26T12:57:34.645777+00:00",
-  "total_jobs": 780,
+  "generated_at": "2026-09-27T13:50:19.096025+00:00",
+  "total_jobs": 786,
   "total_companies": 95,
-  "companies_with_jobs": 55,
+  "companies_with_jobs": 54,
   "failed_companies": [
     {
       "name": "Acely.ai",
@@ -41,6 +41,10 @@
       "reason": "no jobs page found"
     },
     {
+      "name": "King Energy",
+      "reason": "no jobs page found"
+    },
+    {
       "name": "Marvin",
       "reason": "no jobs page found"
     },
@@ -67,6 +71,10 @@
     {
       "name": "Prenda",
       "reason": "not enough values to unpack (expected 2, got 0)"
+    },
+    {
+      "name": "Prox",
+      "reason": "no jobs page found"
     },
     {
       "name": "Sibli",
@@ -113,16 +121,16 @@
     {
       "title": "Customer Solutions Consultant, Ada Accelerate",
       "department": "Customer Experience",
-      "location": "Remote - United Kingdom",
-      "url": "https://job-boards.greenhouse.io/ada18/jobs/5232336007",
+      "location": "Remote - Canada",
+      "url": "https://job-boards.greenhouse.io/ada18/jobs/5232334007",
       "company": "Ada",
       "company_website": "https://www.ada.cx"
     },
     {
       "title": "Customer Solutions Consultant, Ada Accelerate",
       "department": "Customer Experience",
-      "location": "Remote - Canada",
-      "url": "https://job-boards.greenhouse.io/ada18/jobs/5232334007",
+      "location": "Remote - United Kingdom",
+      "url": "https://job-boards.greenhouse.io/ada18/jobs/5232336007",
       "company": "Ada",
       "company_website": "https://www.ada.cx"
     },
@@ -1345,16 +1353,16 @@
     {
       "title": "Senior Applied AI/ML Scientist - Compass",
       "department": "Algorithms & Data",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8610312002?gh_jid=8610312002",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8610263002?gh_jid=8610263002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Senior Applied AI/ML Scientist - Compass",
       "department": "Algorithms & Data",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8610263002?gh_jid=8610263002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8610312002?gh_jid=8610312002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1394,14 +1402,6 @@
       "title": "Senior Applied ML/AI Scientist - Search",
       "department": "Algorithms & Data",
       "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8660923002?gh_jid=8660923002",
-      "company": "Faire",
-      "company_website": "https://www.faire.com"
-    },
-    {
-      "title": "Senior Applied ML/AI Scientist - Search",
-      "department": "Algorithms & Data",
-      "location": "New York City, NY; San Francisco, CA",
       "url": "https://boards.greenhouse.io/faire/jobs/8618124002?gh_jid=8618124002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
@@ -1411,6 +1411,14 @@
       "department": "Algorithms & Data",
       "location": "Kitchener-Waterloo, ON; Toronto, ON",
       "url": "https://boards.greenhouse.io/faire/jobs/8618151002?gh_jid=8618151002",
+      "company": "Faire",
+      "company_website": "https://www.faire.com"
+    },
+    {
+      "title": "Senior Applied ML/AI Scientist - Search",
+      "department": "Algorithms & Data",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8660923002?gh_jid=8660923002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1489,16 +1497,16 @@
     {
       "title": "Senior Product Marketing Manager",
       "department": "Marketing",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8821004002?gh_jid=8821004002",
+      "location": "New York City, NY",
+      "url": "https://boards.greenhouse.io/faire/jobs/8820806002?gh_jid=8820806002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Senior Product Marketing Manager",
       "department": "Marketing",
-      "location": "New York City, NY",
-      "url": "https://boards.greenhouse.io/faire/jobs/8820806002?gh_jid=8820806002",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8821004002?gh_jid=8821004002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1553,16 +1561,16 @@
     {
       "title": "Senior Staff Machine Learning Platform Engineer",
       "department": "Algorithms & Data",
-      "location": "Kitchener-Waterloo, ON; Remote - Ontario; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8618464002?gh_jid=8618464002",
+      "location": "Remote - US; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8731172002?gh_jid=8731172002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Senior Staff Machine Learning Platform Engineer",
       "department": "Algorithms & Data",
-      "location": "Remote - US; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8731172002?gh_jid=8731172002",
+      "location": "Kitchener-Waterloo, ON; Remote - Ontario; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8618464002?gh_jid=8618464002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1625,16 +1633,16 @@
     {
       "title": "Staff Machine Learning Platform Engineer",
       "department": "Algorithms & Data",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8542017002?gh_jid=8542017002",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8426107002?gh_jid=8426107002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Staff Machine Learning Platform Engineer",
       "department": "Algorithms & Data",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8426107002?gh_jid=8426107002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8542017002?gh_jid=8542017002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1665,16 +1673,16 @@
     {
       "title": "Staff Product Engineer - Search FX (Discovery Experience)",
       "department": "Engineering",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8523826002?gh_jid=8523826002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8523771002?gh_jid=8523771002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Staff Product Engineer - Search FX (Discovery Experience)",
       "department": "Engineering",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8523771002?gh_jid=8523771002",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8523826002?gh_jid=8523826002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1810,7 +1818,7 @@
       "title": "Health Coach",
       "department": "Performance Team",
       "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/future/jobs/4738240005",
+      "url": "https://job-boards.greenhouse.io/future/jobs/4727680005",
       "company": "Future",
       "company_website": "https://future.co"
     },
@@ -1818,7 +1826,7 @@
       "title": "Health Coach",
       "department": "Performance Team",
       "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/future/jobs/4727680005",
+      "url": "https://job-boards.greenhouse.io/future/jobs/4738240005",
       "company": "Future",
       "company_website": "https://future.co"
     },
@@ -2233,8 +2241,64 @@
     {
       "title": "View Openings",
       "department": "General",
-      "location": "Not specified",
+      "location": "Remote",
       "url": "https://huckleberrycare.com/careers#jobPostings",
+      "company": "Huckleberry",
+      "company_website": "https://huckleberrycare.com"
+    },
+    {
+      "title": "Engineering Manager (Remote)",
+      "department": "General",
+      "location": "Remote",
+      "url": "https://jobs.lever.co/Huckleberrylabs/469f7c73-1ad7-4eb5-8924-183b4b569369",
+      "company": "Huckleberry",
+      "company_website": "https://huckleberrycare.com"
+    },
+    {
+      "title": "QA Manager (Remote)",
+      "department": "General",
+      "location": "Remote",
+      "url": "https://jobs.lever.co/Huckleberrylabs/bd093eee-162f-470b-8409-3f224d1bb942",
+      "company": "Huckleberry",
+      "company_website": "https://huckleberrycare.com"
+    },
+    {
+      "title": "Join our Talent Community!",
+      "department": "General",
+      "location": "Los Angeles",
+      "url": "https://jobs.lever.co/Huckleberrylabs/c93c37eb-cfbb-4905-b09d-c8494030196a",
+      "company": "Huckleberry",
+      "company_website": "https://huckleberrycare.com"
+    },
+    {
+      "title": "Senior Director of User Acquisition and Growth (Remote)",
+      "department": "General",
+      "location": "Remote",
+      "url": "https://jobs.lever.co/Huckleberrylabs/dd069b97-9427-4685-93c9-c809f42d99cd",
+      "company": "Huckleberry",
+      "company_website": "https://huckleberrycare.com"
+    },
+    {
+      "title": "Social Media Manager (Remote, Contract, Part-Time)",
+      "department": "General",
+      "location": "Remote",
+      "url": "https://jobs.lever.co/Huckleberrylabs/859e708d-ba44-4c40-b3a3-64b7dc5777e2",
+      "company": "Huckleberry",
+      "company_website": "https://huckleberrycare.com"
+    },
+    {
+      "title": "Social Media Manager (Remote)",
+      "department": "General",
+      "location": "Remote",
+      "url": "https://jobs.lever.co/Huckleberrylabs/e4164067-9550-4fe1-975e-60a1ba5d078d",
+      "company": "Huckleberry",
+      "company_website": "https://huckleberrycare.com"
+    },
+    {
+      "title": "Dietician Consultant (Remote, Contract, Part-Time)",
+      "department": "General",
+      "location": "Remote",
+      "url": "https://jobs.lever.co/Huckleberrylabs/699a997f-8bb7-4f9b-ba3f-8b8a93a7e0d7",
       "company": "Huckleberry",
       "company_website": "https://huckleberrycare.com"
     },
@@ -2497,16 +2561,16 @@
     {
       "title": "Product Operations Analyst",
       "department": "Product Operations",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583589006",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583588006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
     {
       "title": "Product Operations Analyst",
       "department": "Product Operations",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583588006",
+      "location": "San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583589006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2536,17 +2600,17 @@
     },
     {
       "title": "Regional Sales Manager",
-      "department": "Sales",
-      "location": "Chicago, Illinois, United States; San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4702343006",
+      "department": "Robotics",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4667922006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
     {
       "title": "Regional Sales Manager",
-      "department": "Robotics",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4667922006",
+      "department": "Sales",
+      "location": "Chicago, Illinois, United States; San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4702343006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2679,14 +2743,6 @@
       "company_website": "https://www.instawork.com"
     },
     {
-      "title": "Apply",
-      "department": "General",
-      "location": "Remote",
-      "url": "https://kingenergy.com/careers/",
-      "company": "King Energy",
-      "company_website": "https://www.kingenergy.com"
-    },
-    {
       "title": "Account Executive",
       "department": "Account Executive",
       "location": "London, UK",
@@ -2713,16 +2769,16 @@
     {
       "title": "Engineering Manager, AI",
       "department": "Engineering",
-      "location": "Remote - US",
-      "url": "https://lattice.com/job?gh_jid=8614333002",
+      "location": "Remote - Canada",
+      "url": "https://lattice.com/job?gh_jid=8623297002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
     {
       "title": "Engineering Manager, AI",
       "department": "Engineering",
-      "location": "Remote - Canada",
-      "url": "https://lattice.com/job?gh_jid=8623297002",
+      "location": "Remote - US",
+      "url": "https://lattice.com/job?gh_jid=8614333002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
@@ -2785,16 +2841,16 @@
     {
       "title": "Machine Learning Engineer",
       "department": "Engineering",
-      "location": "United States (Remote)",
-      "url": "https://liftoff.io/job/7909043?gh_jid=7909043",
+      "location": "California (Remote)",
+      "url": "https://liftoff.io/job/7671577?gh_jid=7671577",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
     },
     {
       "title": "Machine Learning Engineer",
       "department": "Engineering",
-      "location": "California (Remote)",
-      "url": "https://liftoff.io/job/7671577?gh_jid=7671577",
+      "location": "United States (Remote)",
+      "url": "https://liftoff.io/job/7909043?gh_jid=7909043",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
     },
@@ -5065,16 +5121,16 @@
     {
       "title": "Director, Payroll & Tax Implementation",
       "department": "Operations, Payments & Tax",
-      "location": "Tampa, Florida",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8112896?gh_jid=8112896",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8089577?gh_jid=8089577",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Director, Payroll & Tax Implementation",
       "department": "Operations, Payments & Tax",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8089577?gh_jid=8089577",
+      "location": "Tampa, Florida",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8112896?gh_jid=8112896",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5313,14 +5369,6 @@
     {
       "title": "Senior International Benefits Manager, EMEA",
       "department": "Operations, International Products",
-      "location": "Remote - International",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8089608?gh_jid=8089608",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Senior International Benefits Manager, EMEA",
-      "department": "Operations, International Products",
       "location": "London, England",
       "url": "https://boards.greenhouse.io/justworks/jobs/8089605?gh_jid=8089605",
       "company": "Via (acquired by JustWorks)",
@@ -5339,6 +5387,14 @@
       "department": "Operations, International Products",
       "location": "Remote - International",
       "url": "https://boards.greenhouse.io/justworks/jobs/8139346?gh_jid=8139346",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Senior International Benefits Manager, EMEA",
+      "department": "Operations, International Products",
+      "location": "Remote - International",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8089608?gh_jid=8089608",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
