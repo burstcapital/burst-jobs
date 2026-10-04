@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T13:20:43.129323+00:00",
-  "total_jobs": 791,
+  "generated_at": "2026-10-04T14:00:43.337883+00:00",
+  "total_jobs": 803,
   "total_companies": 95,
   "companies_with_jobs": 56,
   "failed_companies": [
@@ -117,16 +117,16 @@
     {
       "title": "Customer Solutions Consultant, Ada Accelerate",
       "department": "Customer Experience",
-      "location": "Remote - United Kingdom",
-      "url": "https://job-boards.greenhouse.io/ada18/jobs/5232336007",
+      "location": "Remote - Canada",
+      "url": "https://job-boards.greenhouse.io/ada18/jobs/5232334007",
       "company": "Ada",
       "company_website": "https://www.ada.cx"
     },
     {
       "title": "Customer Solutions Consultant, Ada Accelerate",
       "department": "Customer Experience",
-      "location": "Remote - Canada",
-      "url": "https://job-boards.greenhouse.io/ada18/jobs/5232334007",
+      "location": "Remote - United Kingdom",
+      "url": "https://job-boards.greenhouse.io/ada18/jobs/5232336007",
       "company": "Ada",
       "company_website": "https://www.ada.cx"
     },
@@ -295,6 +295,30 @@
       "department": "Research & Development",
       "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/Cambly/2e7dd09c-3678-4324-ade9-486e791322fa",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "CRM Program Manager - Brazil (contract - remote)",
+      "department": "Sales & Marketing",
+      "location": "Rio de Janeiro",
+      "url": "https://jobs.ashbyhq.com/Cambly/1477bfef-b030-4d34-b4b8-3ab3c603534b",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "CRM Program Manager - Turkey (contract - remote)",
+      "department": "Sales & Marketing",
+      "location": "Istanbul",
+      "url": "https://jobs.ashbyhq.com/Cambly/25cf22c7-04b4-42d8-99b6-0866542bd3f1",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "CRM Program Manager - UAE (contract - remote)",
+      "department": "Sales & Marketing",
+      "location": "Riyadh",
+      "url": "https://jobs.ashbyhq.com/Cambly/7c5667aa-57e4-4312-bc9e-d969a7566259",
       "company": "Cambly",
       "company_website": "https://www.cambly.com"
     },
@@ -1357,16 +1381,16 @@
     {
       "title": "Senior Applied ML/AI Scientist - Search",
       "department": "Algorithms & Data",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8618151002?gh_jid=8618151002",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8618124002?gh_jid=8618124002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Senior Applied ML/AI Scientist - Search",
       "department": "Algorithms & Data",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8618124002?gh_jid=8618124002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8618151002?gh_jid=8618151002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1453,16 +1477,16 @@
     {
       "title": "Senior Product Marketing Manager",
       "department": "Marketing",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8821004002?gh_jid=8821004002",
+      "location": "New York City, NY",
+      "url": "https://boards.greenhouse.io/faire/jobs/8820806002?gh_jid=8820806002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Senior Product Marketing Manager",
       "department": "Marketing",
-      "location": "New York City, NY",
-      "url": "https://boards.greenhouse.io/faire/jobs/8820806002?gh_jid=8820806002",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8821004002?gh_jid=8821004002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1613,16 +1637,16 @@
     {
       "title": "Staff Machine Learning Platform Engineer",
       "department": "Algorithms & Data",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8542017002?gh_jid=8542017002",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8426107002?gh_jid=8426107002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Staff Machine Learning Platform Engineer",
       "department": "Algorithms & Data",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8426107002?gh_jid=8426107002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8542017002?gh_jid=8542017002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1653,16 +1677,16 @@
     {
       "title": "Staff Product Engineer - Search FX (Discovery Experience)",
       "department": "Engineering",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8523771002?gh_jid=8523771002",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8523826002?gh_jid=8523826002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Staff Product Engineer - Search FX (Discovery Experience)",
       "department": "Engineering",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8523826002?gh_jid=8523826002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8523771002?gh_jid=8523771002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1798,7 +1822,7 @@
       "title": "Health Coach",
       "department": "Performance Team",
       "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/future/jobs/4738240005",
+      "url": "https://job-boards.greenhouse.io/future/jobs/4727680005",
       "company": "Future",
       "company_website": "https://future.co"
     },
@@ -1806,7 +1830,7 @@
       "title": "Health Coach",
       "department": "Performance Team",
       "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/future/jobs/4727680005",
+      "url": "https://job-boards.greenhouse.io/future/jobs/4738240005",
       "company": "Future",
       "company_website": "https://future.co"
     },
@@ -2205,8 +2229,72 @@
     {
       "title": "View Openings",
       "department": "General",
-      "location": "Not specified",
+      "location": "Remote",
       "url": "https://huckleberrycare.com/careers#jobPostings",
+      "company": "Huckleberry",
+      "company_website": "https://huckleberrycare.com"
+    },
+    {
+      "title": "Engineering Manager (Remote)",
+      "department": "General",
+      "location": "Remote",
+      "url": "https://jobs.lever.co/Huckleberrylabs/469f7c73-1ad7-4eb5-8924-183b4b569369",
+      "company": "Huckleberry",
+      "company_website": "https://huckleberrycare.com"
+    },
+    {
+      "title": "QA Manager (Remote)",
+      "department": "General",
+      "location": "Remote",
+      "url": "https://jobs.lever.co/Huckleberrylabs/bd093eee-162f-470b-8409-3f224d1bb942",
+      "company": "Huckleberry",
+      "company_website": "https://huckleberrycare.com"
+    },
+    {
+      "title": "Join our Talent Community!",
+      "department": "General",
+      "location": "Los Angeles",
+      "url": "https://jobs.lever.co/Huckleberrylabs/c93c37eb-cfbb-4905-b09d-c8494030196a",
+      "company": "Huckleberry",
+      "company_website": "https://huckleberrycare.com"
+    },
+    {
+      "title": "Creative Operations Manager (Remote, Contract)",
+      "department": "General",
+      "location": "Remote",
+      "url": "https://jobs.lever.co/Huckleberrylabs/871ce846-02d4-43c5-b54c-426060fc08c4",
+      "company": "Huckleberry",
+      "company_website": "https://huckleberrycare.com"
+    },
+    {
+      "title": "CRO Marketing Manager - Web (Remote, Contract)",
+      "department": "General",
+      "location": "Remote",
+      "url": "https://jobs.lever.co/Huckleberrylabs/787c2d16-df8e-4134-9136-cdcd759f6965",
+      "company": "Huckleberry",
+      "company_website": "https://huckleberrycare.com"
+    },
+    {
+      "title": "Senior Brand Designer (Remote)",
+      "department": "General",
+      "location": "Remote",
+      "url": "https://jobs.lever.co/Huckleberrylabs/3a0377fc-33c1-4bd1-a2a8-930a1c2acf99",
+      "company": "Huckleberry",
+      "company_website": "https://huckleberrycare.com"
+    },
+    {
+      "title": "Social Media Manager (Remote, Contract, Part-Time)",
+      "department": "General",
+      "location": "Remote",
+      "url": "https://jobs.lever.co/Huckleberrylabs/859e708d-ba44-4c40-b3a3-64b7dc5777e2",
+      "company": "Huckleberry",
+      "company_website": "https://huckleberrycare.com"
+    },
+    {
+      "title": "Social Media Manager (Remote)",
+      "department": "General",
+      "location": "Remote",
+      "url": "https://jobs.lever.co/Huckleberrylabs/e4164067-9550-4fe1-975e-60a1ba5d078d",
       "company": "Huckleberry",
       "company_website": "https://huckleberrycare.com"
     },
@@ -2310,7 +2398,7 @@
       "title": "Field Operations Executive",
       "department": "Robotics",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4701137006",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4625772006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2318,7 +2406,7 @@
       "title": "Field Operations Executive",
       "department": "Robotics",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4625772006",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4701137006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2485,16 +2573,16 @@
     {
       "title": "Product Operations Analyst",
       "department": "Product Operations",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583588006",
+      "location": "San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583589006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
     {
       "title": "Product Operations Analyst",
       "department": "Product Operations",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583589006",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583588006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2524,17 +2612,17 @@
     },
     {
       "title": "Regional Sales Manager",
-      "department": "Sales",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4702343006",
+      "department": "Robotics",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4667922006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
     {
       "title": "Regional Sales Manager",
-      "department": "Robotics",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4667922006",
+      "department": "Sales",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4702343006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2717,16 +2805,16 @@
     {
       "title": "Lead Product Manager",
       "department": "Product",
-      "location": "Remote - Canada",
-      "url": "https://lattice.com/job?gh_jid=8570063002",
+      "location": "Remote - US",
+      "url": "https://lattice.com/job?gh_jid=8855945002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
     {
       "title": "Lead Product Manager",
       "department": "Product",
-      "location": "Remote - US",
-      "url": "https://lattice.com/job?gh_jid=8855945002",
+      "location": "Remote - Canada",
+      "url": "https://lattice.com/job?gh_jid=8570063002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
@@ -3407,6 +3495,14 @@
       "department": "Revenue",
       "location": "Remote - United States",
       "url": "https://jobs.ashbyhq.com/owner/2fb33570-f8ec-4b10-9637-e52a64ae4557",
+      "company": "Owner",
+      "company_website": "https://www.owner.com"
+    },
+    {
+      "title": "Sales Commissions Analyst (Contract)",
+      "department": "Revenue",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/owner/5a7ac9b1-ef06-4ace-8448-eb4146198dfc",
       "company": "Owner",
       "company_website": "https://www.owner.com"
     },
@@ -5366,7 +5462,7 @@
       "title": "Senior International Benefits Manager, EMEA",
       "department": "Operations, International Products",
       "location": "Remote - International",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8089608?gh_jid=8089608",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8139351?gh_jid=8139351",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5374,7 +5470,7 @@
       "title": "Senior International Benefits Manager, EMEA",
       "department": "Operations, International Products",
       "location": "Remote - International",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8139351?gh_jid=8139351",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8139346?gh_jid=8139346",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5390,7 +5486,7 @@
       "title": "Senior International Benefits Manager, EMEA",
       "department": "Operations, International Products",
       "location": "Remote - International",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8139346?gh_jid=8139346",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8089608?gh_jid=8089608",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5629,16 +5725,16 @@
     {
       "title": "Underwriting Assistant, Health",
       "department": "Risk & Insurance",
-      "location": "Tampa, Florida",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8244793?gh_jid=8244793",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8197694?gh_jid=8197694",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Underwriting Assistant, Health",
       "department": "Risk & Insurance",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8197694?gh_jid=8197694",
+      "location": "Tampa, Florida",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8244793?gh_jid=8244793",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5981,16 +6077,16 @@
     {
       "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $14-$20/hr",
       "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Wisconsin, USA",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7778208003",
+      "location": "Green Bay, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009409003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
     {
       "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $14-$20/hr",
       "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Green Bay, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009409003",
+      "location": "Wisconsin, USA",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7778208003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -5999,14 +6095,6 @@
       "department": "Wonderschool Substitutes (SubPool)",
       "location": "North Carolina, USA",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7778218003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
-      "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Southport, North Carolina, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7988137003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -6023,6 +6111,14 @@
       "department": "Wonderschool Substitutes (SubPool)",
       "location": "Shallotte, North Carolina, United States",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7988136003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
+      "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Southport, North Carolina, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7988137003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
