@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T13:37:18.121503+00:00",
-  "total_jobs": 804,
+  "generated_at": "2026-10-15T13:22:10.772241+00:00",
+  "total_jobs": 805,
   "total_companies": 95,
   "companies_with_jobs": 55,
   "failed_companies": [
@@ -187,34 +187,26 @@
       "company_website": "https://www.bounce.com"
     },
     {
-      "title": "Full Stack EngineerEngineering \u2022 Portugal \u2022 Full time \u2022 Hybrid",
+      "title": "Product Engineer - GrowthEngineering \u2022 Lisbon \u2022 Full time \u2022 Hybrid",
       "department": "General",
-      "location": "Portugal",
-      "url": "https://jobs.ashbyhq.com/Bounce/34286e2c-d01e-4704-9b81-9ab87cad2c29",
-      "company": "Bounce",
-      "company_website": "https://www.bounce.com"
-    },
-    {
-      "title": "Growth EngineerEngineering \u2022 Lisbon \u2022 Full time \u2022 Hybrid",
-      "department": "General",
-      "location": "Portugal",
+      "location": "Not specified",
       "url": "https://jobs.ashbyhq.com/Bounce/5d39e2de-c96a-48d3-ab36-e161d3ab2033",
-      "company": "Bounce",
-      "company_website": "https://www.bounce.com"
-    },
-    {
-      "title": "Product Engineer, CoreEngineering \u2022 Lisbon \u2022 Full time \u2022 Hybrid",
-      "department": "General",
-      "location": "Portugal",
-      "url": "https://jobs.ashbyhq.com/Bounce/3dc46c96-d047-48f8-8352-97a9d2a365a6",
       "company": "Bounce",
       "company_website": "https://www.bounce.com"
     },
     {
       "title": "Product Engineer, New VerticalsEngineering \u2022 Lisbon \u2022 Full time \u2022 Hybrid",
       "department": "General",
-      "location": "Portugal",
+      "location": "Not specified",
       "url": "https://jobs.ashbyhq.com/Bounce/b669c4c4-ff7c-4496-9c9e-0f07f7e0ef67",
+      "company": "Bounce",
+      "company_website": "https://www.bounce.com"
+    },
+    {
+      "title": "Product Engineer, SupplyEngineering \u2022 Lisbon \u2022 Full time \u2022 Hybrid",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://jobs.ashbyhq.com/Bounce/3dc46c96-d047-48f8-8352-97a9d2a365a6",
       "company": "Bounce",
       "company_website": "https://www.bounce.com"
     },
@@ -491,14 +483,6 @@
       "company_website": "https://www.collectly.co"
     },
     {
-      "title": "Enterprise Account Executive",
-      "department": "Sales",
-      "location": "United States",
-      "url": "https://jobs.lever.co/CollectlyInc/cd143f5f-1fb2-4e4e-bd4b-4922ed5ccc40",
-      "company": "Collectly",
-      "company_website": "https://www.collectly.co"
-    },
-    {
       "title": "Enterprise Customer Success Manager",
       "department": "Customer Success",
       "location": "San Francisco, California",
@@ -571,6 +555,14 @@
       "company_website": "https://www.commenda.io"
     },
     {
+      "title": "Product Manager",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://www.commenda.io/careers/product-manager",
+      "company": "Commenda",
+      "company_website": "https://www.commenda.io"
+    },
+    {
       "title": "Director of Operations Strategy",
       "department": "Operations",
       "location": "United States",
@@ -599,14 +591,6 @@
       "department": "Marketing",
       "location": "United States",
       "url": "https://job-boards.greenhouse.io/courtyardinc/jobs/4415386009",
-      "company": "Courtyard",
-      "company_website": "https://courtyard.io"
-    },
-    {
-      "title": "Process Improvement Engineer",
-      "department": "Operations",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/courtyardinc/jobs/4278053009",
       "company": "Courtyard",
       "company_website": "https://courtyard.io"
     },
@@ -687,14 +671,6 @@
       "department": "Technology",
       "location": "United States",
       "url": "https://jobs.ashbyhq.com/curri/25fff41f-da1c-4b34-9120-0d91c251a111",
-      "company": "Curri",
-      "company_website": "https://www.curri.com"
-    },
-    {
-      "title": "Outside Sales Representative (Boise, ID)",
-      "department": "Growth",
-      "location": "Boise, ID",
-      "url": "https://jobs.ashbyhq.com/curri/a2ddcdf7-b736-40d7-a2b2-0784909d23e4",
       "company": "Curri",
       "company_website": "https://www.curri.com"
     },
@@ -851,12 +827,28 @@
       "company_website": "https://www.curri.com"
     },
     {
+      "title": "Outside Sales Representative (Boise, ID)",
+      "department": "Growth",
+      "location": "Boise, ID",
+      "url": "https://jobs.ashbyhq.com/curri/7325bb26-f3ae-42cd-b250-cc6ac8d2ee1b",
+      "company": "Curri",
+      "company_website": "https://www.curri.com"
+    },
+    {
       "title": "Account Executive",
       "department": "General",
       "location": "Not specified",
       "url": "https://cutanddry.applytojob.com/apply/XAqiLCIxin/Account-Executive",
       "company": "Cut+Dry",
       "company_website": "https://cutanddry.com"
+    },
+    {
+      "title": "AV Service Technician",
+      "department": "General",
+      "location": "Indianapolis , IN",
+      "url": "https://daisy-co-careers.careerplug.com/jobs/3174326",
+      "company": "Daisy",
+      "company_website": "https://daisyco.com"
     },
     {
       "title": "AV/Smart Home Technician or Lead Technician",
@@ -887,14 +879,6 @@
       "department": "General",
       "location": "New York, NY",
       "url": "https://daisy-co-careers.careerplug.com/jobs/3472312",
-      "company": "Daisy",
-      "company_website": "https://daisyco.com"
-    },
-    {
-      "title": "Lead Smart Home & Low Voltage Technician",
-      "department": "General",
-      "location": "Wayzata, MN",
-      "url": "https://daisy-co-careers.careerplug.com/jobs/3538619",
       "company": "Daisy",
       "company_website": "https://daisyco.com"
     },
@@ -1031,14 +1015,6 @@
       "department": "General",
       "location": "Burke, VA",
       "url": "https://daisy-co-careers.careerplug.com/jobs/2814188",
-      "company": "Daisy",
-      "company_website": "https://daisyco.com"
-    },
-    {
-      "title": "AV Service Technician",
-      "department": "General",
-      "location": "Indianapolis , IN",
-      "url": "https://daisy-co-careers.careerplug.com/jobs/3174326",
       "company": "Daisy",
       "company_website": "https://daisyco.com"
     },
@@ -1269,16 +1245,16 @@
     {
       "title": "Head of Paid Marketing",
       "department": "Marketing",
-      "location": "New York City, NY",
-      "url": "https://boards.greenhouse.io/faire/jobs/8881701002?gh_jid=8881701002",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8872721002?gh_jid=8872721002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Head of Paid Marketing",
       "department": "Marketing",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8872721002?gh_jid=8872721002",
+      "location": "New York City, NY",
+      "url": "https://boards.greenhouse.io/faire/jobs/8881701002?gh_jid=8881701002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1381,16 +1357,16 @@
     {
       "title": "Senior Applied AI/ML Scientist - Compass",
       "department": "Algorithms & Data",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8610263002?gh_jid=8610263002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8610312002?gh_jid=8610312002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Senior Applied AI/ML Scientist - Compass",
       "department": "Algorithms & Data",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8610312002?gh_jid=8610312002",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8610263002?gh_jid=8610263002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1438,6 +1414,14 @@
       "title": "Senior Applied ML/AI Scientist - Search",
       "department": "Algorithms & Data",
       "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8660923002?gh_jid=8660923002",
+      "company": "Faire",
+      "company_website": "https://www.faire.com"
+    },
+    {
+      "title": "Senior Applied ML/AI Scientist - Search",
+      "department": "Algorithms & Data",
+      "location": "New York City, NY; San Francisco, CA",
       "url": "https://boards.greenhouse.io/faire/jobs/8618124002?gh_jid=8618124002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
@@ -1447,14 +1431,6 @@
       "department": "Algorithms & Data",
       "location": "Kitchener-Waterloo, ON; Toronto, ON",
       "url": "https://boards.greenhouse.io/faire/jobs/8618151002?gh_jid=8618151002",
-      "company": "Faire",
-      "company_website": "https://www.faire.com"
-    },
-    {
-      "title": "Senior Applied ML/AI Scientist - Search",
-      "department": "Algorithms & Data",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8660923002?gh_jid=8660923002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1534,7 +1510,7 @@
       "title": "Senior HRBP & Strategic Projects Lead",
       "department": "People",
       "location": "London, UK",
-      "url": "https://boards.greenhouse.io/faire/jobs/8751711002?gh_jid=8751711002",
+      "url": "https://boards.greenhouse.io/faire/jobs/8889414002?gh_jid=8889414002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1661,16 +1637,16 @@
     {
       "title": "Staff Engineer - Experimentation Platform",
       "department": "Engineering",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Staff Engineer - Experimentation Platform",
       "department": "Engineering",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1788,17 +1764,17 @@
     },
     {
       "title": "Strategy & Operations Senior Associate",
-      "department": "Customer Support",
+      "department": "Strategy & Analytics",
       "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8842311002?gh_jid=8842311002",
+      "url": "https://boards.greenhouse.io/faire/jobs/8880835002?gh_jid=8880835002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Strategy & Operations Senior Associate",
-      "department": "Strategy & Analytics",
+      "department": "Customer Support",
       "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8880835002?gh_jid=8880835002",
+      "url": "https://boards.greenhouse.io/faire/jobs/8842311002?gh_jid=8842311002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -2299,6 +2275,14 @@
       "company_website": "https://joinhandshake.com"
     },
     {
+      "title": "AI Product CounselAI Product CounselGeneral & AdministrativeSan Francisco, CAApply",
+      "department": "General",
+      "location": "Seattle",
+      "url": "https://app.ashbyhq.com/jobs/0940746f-8856-449e-b629-0890daadbdd7",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
       "title": "AI Red Teamer (Remote)AI Red Teamer (Remote)HAI Delivery OpsRemote (USA)Apply",
       "department": "General",
       "location": "Seattle",
@@ -2359,14 +2343,6 @@
       "department": "General",
       "location": "Seattle",
       "url": "https://app.ashbyhq.com/jobs/a94b9f88-8916-4dc4-967f-33b08e33bf3a",
-      "company": "Handshake",
-      "company_website": "https://joinhandshake.com"
-    },
-    {
-      "title": "Enterprise Customer Success ManagerEnterprise Customer Success ManagerEmployer RevenueSan Francisco, CA; New York, NYApply",
-      "department": "General",
-      "location": "Seattle",
-      "url": "https://app.ashbyhq.com/jobs/a4d765fd-567b-4d27-b614-a2735af19f0a",
       "company": "Handshake",
       "company_website": "https://joinhandshake.com"
     },
@@ -3101,24 +3077,16 @@
     {
       "title": "Machine Learning Engineer",
       "department": "Engineering",
-      "location": "California (Remote)",
-      "url": "https://liftoff.io/job/7671577?gh_jid=7671577",
-      "company": "Liftoff",
-      "company_website": "https://www.liftoff.xyz"
-    },
-    {
-      "title": "Machine Learning Engineer",
-      "department": "Engineering",
       "location": "United States (Remote)",
       "url": "https://liftoff.io/job/7909043?gh_jid=7909043",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
     },
     {
-      "title": "Manager, Commercial Finance (Strategic Finance)",
-      "department": "Finance",
-      "location": "Canada (Remote)",
-      "url": "https://liftoff.io/job/8175296?gh_jid=8175296",
+      "title": "Machine Learning Engineer",
+      "department": "Engineering",
+      "location": "California (Remote)",
+      "url": "https://liftoff.io/job/7671577?gh_jid=7671577",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
     },
@@ -3131,10 +3099,10 @@
       "company_website": "https://www.liftoff.xyz"
     },
     {
-      "title": "Manager, Technical Accounting",
-      "department": "Accounting",
+      "title": "Manager, Commercial Finance (Strategic Finance)",
+      "department": "Finance",
       "location": "Canada (Remote)",
-      "url": "https://liftoff.io/job/8279694?gh_jid=8279694",
+      "url": "https://liftoff.io/job/8175296?gh_jid=8175296",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
     },
@@ -3143,6 +3111,14 @@
       "department": "Accounting",
       "location": "United States (Remote)",
       "url": "https://liftoff.io/job/8260216?gh_jid=8260216",
+      "company": "Liftoff",
+      "company_website": "https://www.liftoff.xyz"
+    },
+    {
+      "title": "Manager, Technical Accounting",
+      "department": "Accounting",
+      "location": "Canada (Remote)",
+      "url": "https://liftoff.io/job/8279694?gh_jid=8279694",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
     },
@@ -3239,6 +3215,14 @@
       "department": "Core Ops",
       "location": "Beijing, China",
       "url": "https://liftoff.io/job/8049795?gh_jid=8049795",
+      "company": "Liftoff",
+      "company_website": "https://www.liftoff.xyz"
+    },
+    {
+      "title": "Senior Software Engineer, Infrastructure",
+      "department": "Engineering",
+      "location": "Redwood City, CA",
+      "url": "https://liftoff.io/job/8279099?gh_jid=8279099",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
     },
@@ -3667,7 +3651,7 @@
       "company_website": "https://www.owner.com"
     },
     {
-      "title": "Manager, Business Development Representatives (Toronto)",
+      "title": "Manager, Business Development Representatives",
       "department": "Revenue",
       "location": "Toronto",
       "url": "https://jobs.ashbyhq.com/owner/58629883-c075-4169-bfc4-5188d5c3b8e3",
@@ -3683,7 +3667,7 @@
       "company_website": "https://www.owner.com"
     },
     {
-      "title": "Senior Staff Software Engineer, Guest Acquisition",
+      "title": "Senior Software Engineer, Guest Acquisition",
       "department": "Engineering, Product, and Design",
       "location": "Remote - United States",
       "url": "https://jobs.ashbyhq.com/owner/24d84705-5c07-4ceb-8cbd-cc1cb24db851",
@@ -4091,6 +4075,14 @@
       "company_website": "https://www.peek.com"
     },
     {
+      "title": "Mid Market Business Development Representative",
+      "department": "Sales",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/peek/bbe71fd6-b9a7-4210-871a-95cdd33a2885",
+      "company": "Peek",
+      "company_website": "https://www.peek.com"
+    },
+    {
       "title": "Organic Growth Manager",
       "department": "Marketing",
       "location": "Mexico City",
@@ -4119,14 +4111,6 @@
       "department": "Engineering",
       "location": "Canada",
       "url": "https://jobs.ashbyhq.com/peek/cc80104d-5aef-45cc-829e-e619f9a5704e",
-      "company": "Peek",
-      "company_website": "https://www.peek.com"
-    },
-    {
-      "title": "Senior Full Stack Engineer",
-      "department": "Engineering",
-      "location": "Mexico",
-      "url": "https://jobs.ashbyhq.com/peek/1af118f6-05c4-4a9e-93b3-b5c8f7f0345b",
       "company": "Peek",
       "company_website": "https://www.peek.com"
     },
@@ -4187,6 +4171,14 @@
       "company_website": "https://www.peek.com"
     },
     {
+      "title": "Sr. Backend Engineer",
+      "department": "Engineering",
+      "location": "Mexico",
+      "url": "https://jobs.ashbyhq.com/peek/01952a81-573f-447f-b7ec-85bd8e1a768c",
+      "company": "Peek",
+      "company_website": "https://www.peek.com"
+    },
+    {
       "title": "Business Operations Analyst",
       "department": "Operations",
       "location": "Los Angeles, California or Boston, Massachusetts, United States",
@@ -4227,7 +4219,7 @@
       "company_website": "https://www.resortpass.com"
     },
     {
-      "title": "Controller",
+      "title": "Senior Finance Manager",
       "department": "Finance",
       "location": "Toronto, Ontario",
       "url": "https://jobs.ashbyhq.com/ResQ/5a9ed4f1-fa1b-40d3-bf5f-ff6612fe64cb",
@@ -4287,14 +4279,6 @@
       "department": "General",
       "location": "New York",
       "url": "https://job-boards.greenhouse.io/shopmy/jobs/4085872008",
-      "company": "Shop My",
-      "company_website": "https://shopmy.us"
-    },
-    {
-      "title": "Contracts Manager & Vendor Procurement LeadNew York, NY",
-      "department": "General",
-      "location": "New York",
-      "url": "https://job-boards.greenhouse.io/shopmy/jobs/5374354008",
       "company": "Shop My",
       "company_website": "https://shopmy.us"
     },
@@ -4747,14 +4731,6 @@
       "company_website": "https://superhuman.com"
     },
     {
-      "title": "People Business Partner",
-      "department": "G&A",
-      "location": "Hub - Berlin",
-      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/b543ed3e-2976-40cc-87e7-c693e04015bd",
-      "company": "Superhuman",
-      "company_website": "https://superhuman.com"
-    },
-    {
       "title": "Software Engineer, Back-End - Mail (Latin America)",
       "department": "Engineering, Product, Design, and Marketing",
       "location": "Remote - Argentina",
@@ -4831,14 +4807,6 @@
       "department": "Engineering, Product, Design, and Marketing",
       "location": "Remote - Canada",
       "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/7cebc242-afcf-4b8d-b948-cbcd60de10ea",
-      "company": "Superhuman",
-      "company_website": "https://superhuman.com"
-    },
-    {
-      "title": "Business Operations Lead, Agents",
-      "department": "G&A",
-      "location": "Hub - Berlin",
-      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/3b7738c5-9044-43e4-aa9c-490af1c178f8",
       "company": "Superhuman",
       "company_website": "https://superhuman.com"
     },
@@ -5333,16 +5301,16 @@
     {
       "title": "International Consultant, Americas",
       "department": "Customer Success, International Products",
-      "location": "Toronto, Canada",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8156489?gh_jid=8156489",
+      "location": "Mexico City, Mexico",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8156486?gh_jid=8156486",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "International Consultant, Americas",
       "department": "Customer Success, International Products",
-      "location": "Mexico City, Mexico",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8156486?gh_jid=8156486",
+      "location": "Toronto, Canada",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8156489?gh_jid=8156489",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5539,10 +5507,26 @@
       "company_website": "https://www.justworks.com"
     },
     {
+      "title": "Senior Director, GTM Planning & Analysis",
+      "department": "Revenue Effectiveness",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8279256?gh_jid=8279256",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
       "title": "Senior HR Consultant",
       "department": "Customer Success",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/8240391?gh_jid=8240391",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Senior International Benefits Manager, EMEA",
+      "department": "Operations, International Products",
+      "location": "Remote - International",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8089608?gh_jid=8089608",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5571,14 +5555,6 @@
       "company_website": "https://www.justworks.com"
     },
     {
-      "title": "Senior International Benefits Manager, EMEA",
-      "department": "Operations, International Products",
-      "location": "Remote - International",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8089608?gh_jid=8089608",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
       "title": "Senior Manager, Data Analytics",
       "department": "Data",
       "location": "New York, New York",
@@ -5603,10 +5579,26 @@
       "company_website": "https://www.justworks.com"
     },
     {
+      "title": "Senior Manager, Regulatory Compliance and Licensing",
+      "department": "Legal & Compliance",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8257440?gh_jid=8257440",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
       "title": "Senior Partner Marketing Manager",
       "department": "Marketing",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/8268787?gh_jid=8268787",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Senior People Business Partner",
+      "department": "People",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8282252?gh_jid=8282252",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5655,6 +5647,14 @@
       "department": "Marketing",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/7688012?gh_jid=7688012",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Senior Program Manager, Compliance",
+      "department": "Legal & Compliance",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8257447?gh_jid=8257447",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5799,6 +5799,14 @@
       "department": "Operations, Payments & Tax",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/8197702?gh_jid=8197702",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Vice President, Growth Marketing",
+      "department": "Marketing",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8281729?gh_jid=8281729",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -6275,7 +6283,7 @@
       "company_website": "https://www.wonderschool.com"
     },
     {
-      "title": "Social Media Marketing \u2013 Future Opportunities",
+      "title": "Social Media Marketing (Part-Time)",
       "department": "Marketing",
       "location": "San Francisco",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6475743003",
