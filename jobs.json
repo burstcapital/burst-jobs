@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T12:12:59.071478+00:00",
-  "total_jobs": 790,
+  "generated_at": "2026-10-18T12:41:28.704871+00:00",
+  "total_jobs": 786,
   "total_companies": 95,
-  "companies_with_jobs": 55,
+  "companies_with_jobs": 56,
   "failed_companies": [
     {
       "name": "Acely.ai",
@@ -441,6 +441,22 @@
       "url": "https://job-boards.greenhouse.io/canopyworks/jobs/4243653009",
       "company": "Canopy",
       "company_website": "https://www.canopyworks.com"
+    },
+    {
+      "title": "Practice managersEvery provider, facility and claim on one screen.",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://www.carebrain.com/solutions/practice-management",
+      "company": "Carebrain",
+      "company_website": "https://www.carebrain.com"
+    },
+    {
+      "title": "Executives and leadership",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://www.carebrain.com/solutions/healthcare-executive",
+      "company": "Carebrain",
+      "company_website": "https://www.carebrain.com"
     },
     {
       "title": "Cleaning servicesBook recurring or one-off professional cleaning services instantly",
@@ -4027,26 +4043,10 @@
       "company_website": "https://www.peek.com"
     },
     {
-      "title": "Senior Quality Engineer- Automated Testing",
-      "department": "Engineering",
-      "location": "Mexico",
-      "url": "https://jobs.ashbyhq.com/peek/5e669d03-39bd-43d1-b540-37d2b3ee82a1",
-      "company": "Peek",
-      "company_website": "https://www.peek.com"
-    },
-    {
       "title": "Dev Sec Ops Engineer",
       "department": "Engineering",
       "location": "Mexico",
       "url": "https://jobs.ashbyhq.com/peek/128c57bf-bc8a-4e22-9a86-84b1422c7039",
-      "company": "Peek",
-      "company_website": "https://www.peek.com"
-    },
-    {
-      "title": "Senior iOS Engineer",
-      "department": "Engineering",
-      "location": "Mexico",
-      "url": "https://jobs.ashbyhq.com/peek/0ab1d887-5749-4873-8798-190a7d542e04",
       "company": "Peek",
       "company_website": "https://www.peek.com"
     },
@@ -4887,6 +4887,14 @@
       "department": "Growth",
       "location": "Hub - San Francisco",
       "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/a395dda4-288b-4864-ab94-8e4f031f1c14",
+      "company": "Superhuman",
+      "company_website": "https://superhuman.com"
+    },
+    {
+      "title": "Data Engineer, Growth",
+      "department": "Engineering, Product, Design, and Marketing",
+      "location": "Hub - San Francisco",
+      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/f36ea4c0-51bb-4356-820b-e9ed66e35f73",
       "company": "Superhuman",
       "company_website": "https://superhuman.com"
     },
@@ -5819,7 +5827,7 @@
       "company_website": "https://willowvoice.com"
     },
     {
-      "title": "AI Product Manager",
+      "title": "AI Agent Product Manager",
       "department": "Product",
       "location": "San Francisco",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6573786003",
@@ -5851,14 +5859,6 @@
       "company_website": "https://www.wonderschool.com"
     },
     {
-      "title": "Contract Launcher",
-      "department": "Marketplace",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6349217003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
       "title": "Customer & Marketplace Operations Leader",
       "department": "Customer Success",
       "location": "San Francisco",
@@ -5883,18 +5883,10 @@
       "company_website": "https://www.wonderschool.com"
     },
     {
-      "title": "Forward Deployed Engineer - Applied AI",
+      "title": "Forward Deployed Engineer \u2013 Applied AI",
       "department": "Engineering",
       "location": "Gallup, New Mexico, United States; Michigan, United States; Missouri, United States; San Francisco; West Virginia, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6622628003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Full Stack Engineer",
-      "department": "Engineering",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6644296003",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8036581003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -5919,14 +5911,6 @@
       "department": "Marketing",
       "location": "San Francisco",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7849944003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Head of AI Agent Systems",
-      "department": "Engineering",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7710092003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -5957,8 +5941,56 @@
     {
       "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
       "department": "Wonderschool Substitutes (SubPool)",
+      "location": "West Bend, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009427003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
+      "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Waupaca, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009426003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
+      "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Sheboygan, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009424003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
+      "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Port Washington, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009423003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
+      "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Oshkosh, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009420003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
+      "department": "Wonderschool Substitutes (SubPool)",
       "location": "Mequon, Wisconsin, United States",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009418003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
+      "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Manitowoc, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009410003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -5975,54 +6007,6 @@
       "department": "Wonderschool Substitutes (SubPool)",
       "location": "Fond du Lac, Wisconsin, United States",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009407003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
-      "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Manitowoc, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009410003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
-      "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Oshkosh, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009420003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
-      "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Port Washington, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009423003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
-      "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Sheboygan, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009424003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
-      "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Waupaca, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009426003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
-      "department": "Wonderschool Substitutes (SubPool)",
-      "location": "West Bend, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009427003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -6045,16 +6029,16 @@
     {
       "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
       "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Wilmington, North Carolina, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034545003",
+      "location": "Southport, North Carolina, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034550003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
     {
       "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
       "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Southport, North Carolina, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034550003",
+      "location": "Leland, North Carolina, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034552003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -6069,8 +6053,8 @@
     {
       "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
       "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Leland, North Carolina, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034552003",
+      "location": "Wilmington, North Carolina, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034545003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -6079,14 +6063,6 @@
       "department": "Product",
       "location": "San Francisco",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6572456003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Product Manager, Growth",
-      "department": "Product",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6489133003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -6101,7 +6077,7 @@
     {
       "title": "Program Manager, State & Enterprise Programs",
       "department": "Government",
-      "location": "Remote",
+      "location": "San Francisco",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7872556003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
@@ -6159,14 +6135,6 @@
       "department": "Sales & Operations",
       "location": "Remote",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/7725029003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Social Media Marketing (Part-Time)",
-      "department": "Marketing",
-      "location": "San Francisco",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6475743003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
