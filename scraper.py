@@ -48,6 +48,7 @@ SKIP_COMPANIES = {
     "next insurance",
     "ergo next",
     "next insurance (acquired by munichre)",
+    "navigate ai",  # careers page has no individual listings yet
 }
 
 # Hardcoded overrides — ONLY used when auto-detection returns nothing.
@@ -106,6 +107,7 @@ KNOWN_ATS = {
     "emanate":                               ("ashby",      "emanate",       "https://jobs.ashbyhq.com/emanate"),
     "mintmcp":                               ("ashby",      "mintmcp",       "https://jobs.ashbyhq.com/mintmcp"),
     "hostie":                                ("rippling",   "hostie",        "https://ats.rippling.com/hostie/jobs"),
+    "garage":                                ("ashby",      "garage",        "https://jobs.ashbyhq.com/garage"),
 }
 
 
@@ -692,7 +694,7 @@ def scrape_company(company):
     # Skip companies with no current openings
     if name.lower() in SKIP_COMPANIES:
         log.info(f"  → Skipped (no openings)")
-        return []
+        return [], None
 
     # Step 1: use hardcoded override if we have one — it's always more reliable
     override = KNOWN_ATS.get(name.lower())
