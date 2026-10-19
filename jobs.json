@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T15:02:54.429518+00:00",
-  "total_jobs": 804,
+  "generated_at": "2026-10-19T15:34:05.316559+00:00",
+  "total_jobs": 798,
   "total_companies": 97,
   "companies_with_jobs": 57,
   "failed_companies": [
@@ -58,10 +58,6 @@
     },
     {
       "name": "Prox",
-      "reason": "no jobs page found"
-    },
-    {
-      "name": "Sibli",
       "reason": "no jobs page found"
     },
     {
@@ -123,22 +119,6 @@
       "department": "Revenue",
       "location": "Remote - Germany",
       "url": "https://job-boards.greenhouse.io/ada18/jobs/5249659007",
-      "company": "Ada",
-      "company_website": "https://www.ada.cx"
-    },
-    {
-      "title": "Partner Sales Director",
-      "department": "Revenue",
-      "location": "Remote - Canada",
-      "url": "https://job-boards.greenhouse.io/ada18/jobs/5249780007",
-      "company": "Ada",
-      "company_website": "https://www.ada.cx"
-    },
-    {
-      "title": "Partner Sales Director",
-      "department": "Revenue",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/ada18/jobs/5249804007",
       "company": "Ada",
       "company_website": "https://www.ada.cx"
     },
@@ -495,14 +475,6 @@
       "company_website": "https://www.collectly.co"
     },
     {
-      "title": "Enterprise Customer Success Manager",
-      "department": "Customer Success",
-      "location": "San Francisco, California",
-      "url": "https://jobs.lever.co/CollectlyInc/5bd68929-b8d9-43f6-9820-ed5a558637c2",
-      "company": "Collectly",
-      "company_website": "https://www.collectly.co"
-    },
-    {
       "title": "Sales Development Representative",
       "department": "Sales",
       "location": "San Francisco, California",
@@ -815,14 +787,6 @@
       "company_website": "https://www.curri.com"
     },
     {
-      "title": "Outside Sales Representative (Milwaukee, WI)",
-      "department": "Growth",
-      "location": "Milwaukee, WI",
-      "url": "https://jobs.ashbyhq.com/curri/1f26414e-4e3f-4059-b943-54f4683429e4",
-      "company": "Curri",
-      "company_website": "https://www.curri.com"
-    },
-    {
       "title": "Area Sales Manager, Outside Sales \u2013 Central US",
       "department": "Growth",
       "location": "Austin, TX",
@@ -851,6 +815,14 @@
       "department": "Growth",
       "location": "Raleigh, NC",
       "url": "https://jobs.ashbyhq.com/curri/64b8a256-e2bf-4a0f-b834-2d8f35ebdff5",
+      "company": "Curri",
+      "company_website": "https://www.curri.com"
+    },
+    {
+      "title": "Outside Sales Representative (Milwaukee, WI)",
+      "department": "Growth",
+      "location": "Milwaukee, WI",
+      "url": "https://jobs.ashbyhq.com/curri/53bf30c0-7247-49df-a7d4-be85925e8969",
       "company": "Curri",
       "company_website": "https://www.curri.com"
     },
@@ -2577,40 +2549,8 @@
     {
       "title": "View Openings",
       "department": "General",
-      "location": "Remote",
+      "location": "Not specified",
       "url": "https://huckleberrycare.com/careers#jobPostings",
-      "company": "Huckleberry",
-      "company_website": "https://huckleberrycare.com"
-    },
-    {
-      "title": "QA Manager (Remote)",
-      "department": "General",
-      "location": "Remote",
-      "url": "https://jobs.lever.co/Huckleberrylabs/bd093eee-162f-470b-8409-3f224d1bb942",
-      "company": "Huckleberry",
-      "company_website": "https://huckleberrycare.com"
-    },
-    {
-      "title": "Join our Talent Community!",
-      "department": "General",
-      "location": "Los Angeles",
-      "url": "https://jobs.lever.co/Huckleberrylabs/c93c37eb-cfbb-4905-b09d-c8494030196a",
-      "company": "Huckleberry",
-      "company_website": "https://huckleberrycare.com"
-    },
-    {
-      "title": "CRO Marketing Manager - Web (Remote, Contract)",
-      "department": "General",
-      "location": "Remote",
-      "url": "https://jobs.lever.co/Huckleberrylabs/787c2d16-df8e-4134-9136-cdcd759f6965",
-      "company": "Huckleberry",
-      "company_website": "https://huckleberrycare.com"
-    },
-    {
-      "title": "Senior Brand Designer (Remote)",
-      "department": "General",
-      "location": "Remote",
-      "url": "https://jobs.lever.co/Huckleberrylabs/3a0377fc-33c1-4bd1-a2a8-930a1c2acf99",
       "company": "Huckleberry",
       "company_website": "https://huckleberrycare.com"
     },
@@ -5177,16 +5117,16 @@
     {
       "title": "Director, Implementation & Transformation",
       "department": "Operations, Payments & Tax",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8089577?gh_jid=8089577",
+      "location": "Tampa, Florida",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8112896?gh_jid=8112896",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Director, Implementation & Transformation",
       "department": "Operations, Payments & Tax",
-      "location": "Tampa, Florida",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8112896?gh_jid=8112896",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8089577?gh_jid=8089577",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5209,8 +5149,8 @@
     {
       "title": "Engineering Manager, Backend - International",
       "department": "Engineering",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8179998?gh_jid=8179998",
+      "location": "Toronto, Canada",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8180003?gh_jid=8180003",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5225,8 +5165,8 @@
     {
       "title": "Engineering Manager, Backend - International",
       "department": "Engineering",
-      "location": "Toronto, Canada",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8180003?gh_jid=8180003",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8179998?gh_jid=8179998",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5321,16 +5261,16 @@
     {
       "title": "International Consultant, Americas",
       "department": "Customer Success, International Products",
-      "location": "Toronto, Canada",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8156489?gh_jid=8156489",
+      "location": "Mexico City, Mexico",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8156486?gh_jid=8156486",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "International Consultant, Americas",
       "department": "Customer Success, International Products",
-      "location": "Mexico City, Mexico",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8156486?gh_jid=8156486",
+      "location": "Toronto, Canada",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8156489?gh_jid=8156489",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5495,6 +5435,14 @@
       "company_website": "https://www.justworks.com"
     },
     {
+      "title": "Senior Analyst, People Systems (Workday PATT)",
+      "department": "People",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8292657?gh_jid=8292657",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
       "title": "Senior Customer Success Manager, International",
       "department": "Customer Success, International Products",
       "location": "New York, New York",
@@ -5570,14 +5518,6 @@
       "title": "Senior International Benefits Manager, EMEA",
       "department": "Operations, International Products",
       "location": "Remote - International",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8139351?gh_jid=8139351",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Senior International Benefits Manager, EMEA",
-      "department": "Operations, International Products",
-      "location": "Remote - International",
       "url": "https://boards.greenhouse.io/justworks/jobs/8089608?gh_jid=8089608",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
@@ -5587,6 +5527,14 @@
       "department": "Operations, International Products",
       "location": "Remote - International",
       "url": "https://boards.greenhouse.io/justworks/jobs/8139346?gh_jid=8139346",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Senior International Benefits Manager, EMEA",
+      "department": "Operations, International Products",
+      "location": "Remote - International",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8139351?gh_jid=8139351",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
