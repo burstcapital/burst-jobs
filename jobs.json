@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T13:14:23.174744+00:00",
-  "total_jobs": 784,
+  "generated_at": "2026-10-26T15:09:09.888428+00:00",
+  "total_jobs": 777,
   "total_companies": 97,
-  "companies_with_jobs": 57,
+  "companies_with_jobs": 56,
   "failed_companies": [
     {
       "name": "Acely.ai",
@@ -30,6 +30,10 @@
     },
     {
       "name": "Gencove",
+      "reason": "no jobs page found"
+    },
+    {
+      "name": "Hipcamp",
       "reason": "no jobs page found"
     },
     {
@@ -179,14 +183,6 @@
       "department": "General",
       "location": "Not specified",
       "url": "https://jobs.ashbyhq.com/Bounce/34286e2c-d01e-4704-9b81-9ab87cad2c29",
-      "company": "Bounce",
-      "company_website": "https://www.bounce.com"
-    },
-    {
-      "title": "Brand Ambassador, London Stations (Commission Based)Operations \u2022 London \u2022 Part time \u2022 Remote",
-      "department": "General",
-      "location": "London",
-      "url": "https://jobs.ashbyhq.com/Bounce/7535b9e8-cc22-4896-9d1a-b94aef1df67f",
       "company": "Bounce",
       "company_website": "https://www.bounce.com"
     },
@@ -2447,22 +2443,6 @@
       "company_website": "https://www.hatch.co"
     },
     {
-      "title": "get in touch with us",
-      "department": "General",
-      "location": "Not specified",
-      "url": "mailto:hello@hipcamp.com",
-      "company": "Hipcamp",
-      "company_website": "https://www.hipcamp.com"
-    },
-    {
-      "title": "Hipcamp Photographer",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://www.hipcamp.com/en-US/apply-to-be-a-field-scout",
-      "company": "Hipcamp",
-      "company_website": "https://www.hipcamp.com"
-    },
-    {
       "title": "Strategy & Operations Associate",
       "department": "General",
       "location": "Not specified",
@@ -3239,14 +3219,6 @@
       "company_website": "https://medely.com"
     },
     {
-      "title": "Founding Account Executive",
-      "department": "GTM",
-      "location": "New York",
-      "url": "https://jobs.ashbyhq.com/mintmcp/c763f22a-54b5-4d19-8d4d-e8de1d86ce56",
-      "company": "MintMCP",
-      "company_website": "https://www.mintmcp.com"
-    },
-    {
       "title": "Technical Customer Success Manager",
       "department": "GTM",
       "location": "San Francisco, CA",
@@ -3255,42 +3227,10 @@
       "company_website": "https://www.mintmcp.com"
     },
     {
-      "title": "Software Engineer",
-      "department": "Engineering",
-      "location": "San Mateo, CA",
-      "url": "https://jobs.ashbyhq.com/mintmcp/3819e4c1-b327-451c-b5a5-3e010f2e25d9",
-      "company": "MintMCP",
-      "company_website": "https://www.mintmcp.com"
-    },
-    {
-      "title": "Founding Sales Engineer",
+      "title": "Founding Account Executive",
       "department": "GTM",
-      "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/mintmcp/28daf4ce-2d33-4704-b6ec-2978d562cf4c",
-      "company": "MintMCP",
-      "company_website": "https://www.mintmcp.com"
-    },
-    {
-      "title": "Founding Product Marketing Manager",
-      "department": "GTM",
-      "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/mintmcp/2dd0e904-5d7a-47df-a25a-5cad43c09780",
-      "company": "MintMCP",
-      "company_website": "https://www.mintmcp.com"
-    },
-    {
-      "title": "Founding Operations (Recruiting Coordinator / People Coordinator)",
-      "department": "Operations",
-      "location": "San Mateo, CA",
-      "url": "https://jobs.ashbyhq.com/mintmcp/11ae3bf9-86e1-42dd-b6f4-180f7635bf02",
-      "company": "MintMCP",
-      "company_website": "https://www.mintmcp.com"
-    },
-    {
-      "title": "Founding Operations (EA / Special Projects)",
-      "department": "Operations",
-      "location": "San Mateo, CA",
-      "url": "https://jobs.ashbyhq.com/mintmcp/826db1dc-f878-4916-8666-1645d128e956",
+      "location": "New York",
+      "url": "https://jobs.ashbyhq.com/mintmcp/12097fce-2713-4a72-97ac-cf3b1a773dd4",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3298,7 +3238,39 @@
       "title": "Founding Growth Marketer",
       "department": "GTM",
       "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/mintmcp/9179fc26-41f8-4ce9-a078-80fdf6230d55",
+      "url": "https://jobs.ashbyhq.com/mintmcp/aea8d0cb-8fca-4754-9e53-68c743a3c6a1",
+      "company": "MintMCP",
+      "company_website": "https://www.mintmcp.com"
+    },
+    {
+      "title": "Founding Operations (EA / Special Projects)",
+      "department": "Operations",
+      "location": "San Mateo, CA",
+      "url": "https://jobs.ashbyhq.com/mintmcp/81644137-647b-499c-9910-706899e9ec68",
+      "company": "MintMCP",
+      "company_website": "https://www.mintmcp.com"
+    },
+    {
+      "title": "Founding Operations (Recruiting Coordinator / People Coordinator)",
+      "department": "Operations",
+      "location": "San Mateo, CA",
+      "url": "https://jobs.ashbyhq.com/mintmcp/92d3c9d2-0caa-4545-8441-1ec3c7b99645",
+      "company": "MintMCP",
+      "company_website": "https://www.mintmcp.com"
+    },
+    {
+      "title": "Founding Product Marketing Manager",
+      "department": "GTM",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/mintmcp/0fb79013-0a0d-46e9-aa98-12b22f7e504d",
+      "company": "MintMCP",
+      "company_website": "https://www.mintmcp.com"
+    },
+    {
+      "title": "Founding Sales Engineer",
+      "department": "GTM",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/mintmcp/867b07e9-bdfd-4486-b459-d14b796f4407",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3306,7 +3278,15 @@
       "title": "Founding RevOps Lead",
       "department": "GTM",
       "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/mintmcp/87bc6701-ea8c-48f1-9801-56d220930c26",
+      "url": "https://jobs.ashbyhq.com/mintmcp/61a8126b-ed2d-4a64-a9e5-0e564ec7ef97",
+      "company": "MintMCP",
+      "company_website": "https://www.mintmcp.com"
+    },
+    {
+      "title": "Software Engineer",
+      "department": "Engineering",
+      "location": "San Mateo, CA",
+      "url": "https://jobs.ashbyhq.com/mintmcp/099c3375-0175-4aee-b221-adbd4841292e",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3379,14 +3359,6 @@
       "department": "Other",
       "location": "New York",
       "url": "https://jobs.ashbyhq.com/namespace/fb47a83d-c482-4cbe-bd5d-3bab8df7c29f",
-      "company": "Namespace",
-      "company_website": "https://namespace.so"
-    },
-    {
-      "title": "Technical Project Manager",
-      "department": "Engineering",
-      "location": "Switzerland",
-      "url": "https://jobs.ashbyhq.com/namespace/d8d32e4f-1fd4-4ae7-8c2a-c1a703caa259",
       "company": "Namespace",
       "company_website": "https://namespace.so"
     },
@@ -5215,6 +5187,14 @@
       "company_website": "https://www.justworks.com"
     },
     {
+      "title": "Manager, Customer Onboarding",
+      "department": "Customer Success",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8265612?gh_jid=8265612",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
       "title": "Manager, Digital Sales",
       "department": "Sales",
       "location": "New York, New York; Phoenix, Arizona; Tampa, Florida",
@@ -5783,6 +5763,14 @@
       "company_website": "https://workweave.dev"
     },
     {
+      "title": "Customer Success Manager",
+      "department": "Sales",
+      "location": "Weave HQ",
+      "url": "https://jobs.ashbyhq.com/weave-os/eaccf911-3d44-49e4-bd84-57310a25358c",
+      "company": "Weave",
+      "company_website": "https://workweave.dev"
+    },
+    {
       "title": "ML Engineer",
       "department": "General",
       "location": "San Francisco, CA",
@@ -6199,46 +6187,6 @@
       "company_website": "https://www.workstream.us"
     },
     {
-      "title": "Senior AI Engineer",
-      "department": "AI- Native Services",
-      "location": "Virginia",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6212609004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "Senior AI Engineer",
-      "department": "AI- Native Services",
-      "location": "Washington",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6212610004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "Senior AI Engineer",
-      "department": "AI- Native Services",
-      "location": "Georgia",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6212601004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "Senior AI Engineer",
-      "department": "AI- Native Services",
-      "location": "Texas",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6212608004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "Senior AI Engineer",
-      "department": "AI- Native Services",
-      "location": "Lehi",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6197611004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
       "title": "Senior Customer Success Manager",
       "department": "Customer Success Management",
       "location": "Lehi, Utah",
@@ -6265,8 +6213,8 @@
     {
       "title": "Senior Product Marketing Manager",
       "department": "Marketing",
-      "location": "Lehi  (We support relocation & visas!)",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6188863004",
+      "location": "Singapore (We support relocation & visas!)",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6188866004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6281,8 +6229,8 @@
     {
       "title": "Senior Product Marketing Manager",
       "department": "Marketing",
-      "location": "Singapore (We support relocation & visas!)",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6188866004",
+      "location": "Lehi  (We support relocation & visas!)",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6188863004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
