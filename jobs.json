@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T15:07:19.454879+00:00",
-  "total_jobs": 806,
+  "generated_at": "2026-10-31T14:34:23.947247+00:00",
+  "total_jobs": 810,
   "total_companies": 97,
   "companies_with_jobs": 57,
   "failed_companies": [
@@ -105,16 +105,16 @@
     {
       "title": "Customer Solutions Consultant, Ada Accelerate",
       "department": "Customer Experience",
-      "location": "Remote - Canada",
-      "url": "https://job-boards.greenhouse.io/ada18/jobs/5232334007",
+      "location": "Remote - United Kingdom",
+      "url": "https://job-boards.greenhouse.io/ada18/jobs/5232336007",
       "company": "Ada",
       "company_website": "https://www.ada.cx"
     },
     {
       "title": "Customer Solutions Consultant, Ada Accelerate",
       "department": "Customer Experience",
-      "location": "Remote - United Kingdom",
-      "url": "https://job-boards.greenhouse.io/ada18/jobs/5232336007",
+      "location": "Remote - Canada",
+      "url": "https://job-boards.greenhouse.io/ada18/jobs/5232334007",
       "company": "Ada",
       "company_website": "https://www.ada.cx"
     },
@@ -361,7 +361,7 @@
     {
       "title": "Senior Product Manager - Platform",
       "department": "Product",
-      "location": "SF Bay Area or Greater NYC Area",
+      "location": "SF Bay Area or Greater NYC Area or Remote",
       "url": "https://job-boards.greenhouse.io/canopyworks/jobs/4304385009",
       "company": "Canopy",
       "company_website": "https://www.canopyworks.com"
@@ -683,14 +683,6 @@
       "department": "Growth",
       "location": "Houston, TX",
       "url": "https://jobs.ashbyhq.com/curri/86e1dfe0-6fd0-4737-9897-9833cb50aaef",
-      "company": "Curri",
-      "company_website": "https://www.curri.com"
-    },
-    {
-      "title": "Outside Sales Representative (New England)",
-      "department": "Growth",
-      "location": "Burlington, VT",
-      "url": "https://jobs.ashbyhq.com/curri/1f55d3a2-e595-41da-a20e-6a8e54199799",
       "company": "Curri",
       "company_website": "https://www.curri.com"
     },
@@ -1369,16 +1361,16 @@
     {
       "title": "Senior Applied AI/ML Scientist - Compass",
       "department": "Algorithms & Data",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8610312002?gh_jid=8610312002",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8610263002?gh_jid=8610263002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Senior Applied AI/ML Scientist - Compass",
       "department": "Algorithms & Data",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8610263002?gh_jid=8610263002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8610312002?gh_jid=8610312002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1425,6 +1417,14 @@
     {
       "title": "Senior Applied ML/AI Scientist - Search",
       "department": "Algorithms & Data",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8660923002?gh_jid=8660923002",
+      "company": "Faire",
+      "company_website": "https://www.faire.com"
+    },
+    {
+      "title": "Senior Applied ML/AI Scientist - Search",
+      "department": "Algorithms & Data",
       "location": "Kitchener-Waterloo, ON; Toronto, ON",
       "url": "https://boards.greenhouse.io/faire/jobs/8618151002?gh_jid=8618151002",
       "company": "Faire",
@@ -1435,14 +1435,6 @@
       "department": "Algorithms & Data",
       "location": "New York City, NY; San Francisco, CA",
       "url": "https://boards.greenhouse.io/faire/jobs/8618124002?gh_jid=8618124002",
-      "company": "Faire",
-      "company_website": "https://www.faire.com"
-    },
-    {
-      "title": "Senior Applied ML/AI Scientist - Search",
-      "department": "Algorithms & Data",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8660923002?gh_jid=8660923002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1505,16 +1497,16 @@
     {
       "title": "Senior Product Marketing Manager",
       "department": "Marketing",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8821004002?gh_jid=8821004002",
+      "location": "New York City, NY",
+      "url": "https://boards.greenhouse.io/faire/jobs/8820806002?gh_jid=8820806002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Senior Product Marketing Manager",
       "department": "Marketing",
-      "location": "New York City, NY",
-      "url": "https://boards.greenhouse.io/faire/jobs/8820806002?gh_jid=8820806002",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8821004002?gh_jid=8821004002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1545,24 +1537,16 @@
     {
       "title": "Staff Data Infrastructure Engineer",
       "department": "Engineering",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8806617002?gh_jid=8806617002",
-      "company": "Faire",
-      "company_website": "https://www.faire.com"
-    },
-    {
-      "title": "Staff Data Infrastructure Engineer",
-      "department": "Engineering",
       "location": "Kitchener-Waterloo, ON; Toronto, ON",
       "url": "https://boards.greenhouse.io/faire/jobs/8860409002?gh_jid=8860409002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
-      "title": "Staff Engineer - Experimentation Platform",
+      "title": "Staff Data Infrastructure Engineer",
       "department": "Engineering",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8806617002?gh_jid=8806617002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1571,6 +1555,14 @@
       "department": "Engineering",
       "location": "Kitchener-Waterloo, ON; Toronto, ON",
       "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
+      "company": "Faire",
+      "company_website": "https://www.faire.com"
+    },
+    {
+      "title": "Staff Engineer - Experimentation Platform",
+      "department": "Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1601,16 +1593,16 @@
     {
       "title": "Staff Product Engineer - Search FX (Discovery Experience)",
       "department": "Engineering",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8523771002?gh_jid=8523771002",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8523826002?gh_jid=8523826002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Staff Product Engineer - Search FX (Discovery Experience)",
       "department": "Engineering",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8523826002?gh_jid=8523826002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8523771002?gh_jid=8523771002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -2287,14 +2279,6 @@
       "company_website": "https://joinhandshake.com"
     },
     {
-      "title": "Data Scientist, Handshake AIData Scientist, Handshake AIEngineeringSan Francisco, CAApply",
-      "department": "General",
-      "location": "Remote",
-      "url": "https://app.ashbyhq.com/jobs/f911a2db-f80c-478c-b0d8-e62e9a6f1627",
-      "company": "Handshake",
-      "company_website": "https://joinhandshake.com"
-    },
-    {
       "title": "Director / Senior Director, AI Product CounselDirector / Senior Director, AI Product CounselGeneral & AdministrativeSan Francisco, CAApply",
       "department": "General",
       "location": "Remote",
@@ -2351,6 +2335,14 @@
       "company_website": "https://joinhandshake.com"
     },
     {
+      "title": "Enterprise Implementation ManagerEnterprise Implementation ManagerEmployer RevenueSan Francisco, CA; New York, NYApply",
+      "department": "General",
+      "location": "Remote",
+      "url": "https://app.ashbyhq.com/jobs/b046387a-0f77-4c50-a19e-711b4cb29bc1",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
       "title": "Design EngineerThis position focuses on building and improving an embedded Linux product.Huntsville, ALFull timeLearn more \u2192",
       "department": "General",
       "location": "Huntsville, AL",
@@ -2387,14 +2379,6 @@
       "department": "Finance",
       "location": "Distributed, \ud83c\uddfa\ud83c\uddf8 + \ud83c\udde8\ud83c\udde6 (US + Canada)",
       "url": "https://job-boards.greenhouse.io/hatchcareers/jobs/4715275006",
-      "company": "Hatch Baby",
-      "company_website": "https://www.hatch.co"
-    },
-    {
-      "title": "Backend Engineer II",
-      "department": "Backend Engineering",
-      "location": "Distributed, \ud83c\uddfa\ud83c\uddf8 + \ud83c\udde8\ud83c\udde6 (US + Canada)",
-      "url": "https://job-boards.greenhouse.io/hatchcareers/jobs/4717732006",
       "company": "Hatch Baby",
       "company_website": "https://www.hatch.co"
     },
@@ -2617,16 +2601,16 @@
     {
       "title": "Enterprise Account Executive - Light Industrial",
       "department": "Sales",
-      "location": "New York, New York, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4573114006",
+      "location": "San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4573123006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
     {
       "title": "Enterprise Account Executive - Light Industrial",
       "department": "Sales",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4573123006",
+      "location": "New York, New York, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4573114006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2809,6 +2793,14 @@
     {
       "title": "Product Operations Analyst",
       "department": "Product Operations",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4350762006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
+      "title": "Product Operations Analyst",
+      "department": "Product Operations",
       "location": "Chicago, Illinois, United States",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4583588006",
       "company": "Instawork",
@@ -2819,14 +2811,6 @@
       "department": "Product Operations",
       "location": "San Francisco, California, United States",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4583589006",
-      "company": "Instawork",
-      "company_website": "https://www.instawork.com"
-    },
-    {
-      "title": "Product Operations Analyst",
-      "department": "Product Operations",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4350762006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2991,10 +2975,10 @@
       "company_website": "https://www.kingenergy.com"
     },
     {
-      "title": "Account Executive",
-      "department": "Account Executive",
-      "location": "London, UK",
-      "url": "https://lattice.com/job?gh_jid=8576037002",
+      "title": "Engineering Manager, Integrations",
+      "department": "Engineering",
+      "location": "Remote - US",
+      "url": "https://lattice.com/job?gh_jid=8906493002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
@@ -3007,10 +2991,10 @@
       "company_website": "https://lattice.com"
     },
     {
-      "title": "Engineering Manager, Integrations",
-      "department": "Engineering",
-      "location": "Remote - US",
-      "url": "https://lattice.com/job?gh_jid=8906493002",
+      "title": "Lead Product Manager",
+      "department": "Product",
+      "location": "Remote - Canada",
+      "url": "https://lattice.com/job?gh_jid=8570063002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
@@ -3019,14 +3003,6 @@
       "department": "Product",
       "location": "Remote - US",
       "url": "https://lattice.com/job?gh_jid=8855945002",
-      "company": "Lattice",
-      "company_website": "https://lattice.com"
-    },
-    {
-      "title": "Lead Product Manager",
-      "department": "Product",
-      "location": "Remote - Canada",
-      "url": "https://lattice.com/job?gh_jid=8570063002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
@@ -3089,16 +3065,16 @@
     {
       "title": "Director, Strategic Deal Finance",
       "department": "Finance",
-      "location": "United States (Remote)",
-      "url": "https://liftoff.io/job/8302392?gh_jid=8302392",
+      "location": "Canada (Remote)",
+      "url": "https://liftoff.io/job/8302394?gh_jid=8302394",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
     },
     {
       "title": "Director, Strategic Deal Finance",
       "department": "Finance",
-      "location": "Canada (Remote)",
-      "url": "https://liftoff.io/job/8302394?gh_jid=8302394",
+      "location": "United States (Remote)",
+      "url": "https://liftoff.io/job/8302392?gh_jid=8302392",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
     },
@@ -3121,16 +3097,16 @@
     {
       "title": "Manager, Technical Accounting",
       "department": "Accounting",
-      "location": "Canada (Remote)",
-      "url": "https://liftoff.io/job/8279694?gh_jid=8279694",
+      "location": "United States (Remote)",
+      "url": "https://liftoff.io/job/8260216?gh_jid=8260216",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
     },
     {
       "title": "Manager, Technical Accounting",
       "department": "Accounting",
-      "location": "United States (Remote)",
-      "url": "https://liftoff.io/job/8260216?gh_jid=8260216",
+      "location": "Canada (Remote)",
+      "url": "https://liftoff.io/job/8279694?gh_jid=8279694",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
     },
@@ -3287,58 +3263,10 @@
       "company_website": "https://medely.com"
     },
     {
-      "title": "Founding Account Executive",
-      "department": "GTM",
-      "location": "New York",
-      "url": "https://jobs.ashbyhq.com/mintive/dc23253a-2870-4fba-88d1-feb761c68a3c",
-      "company": "MintMCP",
-      "company_website": "https://www.mintmcp.com"
-    },
-    {
-      "title": "Founding Growth Marketer",
+      "title": "Technical Customer Success Manager",
       "department": "GTM",
       "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/mintive/2347754d-2861-48c7-8fae-4e8b5617b45c",
-      "company": "MintMCP",
-      "company_website": "https://www.mintmcp.com"
-    },
-    {
-      "title": "Founding Operations (EA / Special Projects)",
-      "department": "Operations",
-      "location": "San Mateo, CA",
-      "url": "https://jobs.ashbyhq.com/mintive/25b4a155-ff62-44b2-8070-bdec386df29f",
-      "company": "MintMCP",
-      "company_website": "https://www.mintmcp.com"
-    },
-    {
-      "title": "Founding Operations (Recruiting Coordinator / People Coordinator)",
-      "department": "Operations",
-      "location": "San Mateo, CA",
-      "url": "https://jobs.ashbyhq.com/mintive/c13a4079-4e45-4b9b-bfc9-563bd2999d1f",
-      "company": "MintMCP",
-      "company_website": "https://www.mintmcp.com"
-    },
-    {
-      "title": "Founding Product Marketing Manager",
-      "department": "GTM",
-      "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/mintive/3181ee77-8a2d-4aca-bef8-02ea024f8530",
-      "company": "MintMCP",
-      "company_website": "https://www.mintmcp.com"
-    },
-    {
-      "title": "Founding RevOps Lead",
-      "department": "GTM",
-      "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/mintive/40b904ef-6de0-4ff9-a696-c060345b9a4b",
-      "company": "MintMCP",
-      "company_website": "https://www.mintmcp.com"
-    },
-    {
-      "title": "Founding Sales Engineer",
-      "department": "GTM",
-      "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/mintive/caf47818-54a2-4aec-b60a-f0d592eabb80",
+      "url": "https://jobs.ashbyhq.com/mintive/f5d0945b-4883-4b76-9559-5c7c82a98ba5",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3346,15 +3274,63 @@
       "title": "Software Engineer",
       "department": "Engineering",
       "location": "San Mateo, CA",
-      "url": "https://jobs.ashbyhq.com/mintive/b0a3b984-2cac-4097-a146-8c3b71a41402",
+      "url": "https://jobs.ashbyhq.com/mintive/59b6cfa8-62ac-457f-a0d4-41b9483ceca7",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
     {
-      "title": "Technical Customer Success Manager",
+      "title": "Founding Sales Engineer",
       "department": "GTM",
       "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/mintive/f5d0945b-4883-4b76-9559-5c7c82a98ba5",
+      "url": "https://jobs.ashbyhq.com/mintive/dbd458d0-831e-4fbb-883a-7a1cbfb65074",
+      "company": "MintMCP",
+      "company_website": "https://www.mintmcp.com"
+    },
+    {
+      "title": "Founding RevOps Lead",
+      "department": "GTM",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/mintive/87ec7e54-94e3-4df8-a09e-07de322ad0d1",
+      "company": "MintMCP",
+      "company_website": "https://www.mintmcp.com"
+    },
+    {
+      "title": "Founding Product Marketing Manager",
+      "department": "GTM",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/mintive/3d3e0372-5fb4-404b-977d-99bb0d520040",
+      "company": "MintMCP",
+      "company_website": "https://www.mintmcp.com"
+    },
+    {
+      "title": "Founding Operations (Recruiting Coordinator / People Coordinator)",
+      "department": "Operations",
+      "location": "San Mateo, CA",
+      "url": "https://jobs.ashbyhq.com/mintive/d0b535b0-47a2-460a-a76d-418ae83ecacc",
+      "company": "MintMCP",
+      "company_website": "https://www.mintmcp.com"
+    },
+    {
+      "title": "Founding Operations (EA / Special Projects)",
+      "department": "Operations",
+      "location": "San Mateo, CA",
+      "url": "https://jobs.ashbyhq.com/mintive/cbc7cbdd-3639-4290-877b-39d70b6c0705",
+      "company": "MintMCP",
+      "company_website": "https://www.mintmcp.com"
+    },
+    {
+      "title": "Founding Growth Marketer",
+      "department": "GTM",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/mintive/320b8793-b88b-4243-ab0a-6df141db1e07",
+      "company": "MintMCP",
+      "company_website": "https://www.mintmcp.com"
+    },
+    {
+      "title": "Founding Account Executive",
+      "department": "GTM",
+      "location": "New York",
+      "url": "https://jobs.ashbyhq.com/mintive/324c685f-62c3-4290-888c-4b607129063d",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3935,14 +3911,6 @@
       "company_website": "https://www.owner.com"
     },
     {
-      "title": "Talent Aquisition Partner, LATAM",
-      "department": "G&A",
-      "location": "Remote",
-      "url": "https://jobs.ashbyhq.com/owner/e322054f-f89c-4dc4-8e16-4ee1a71247f1",
-      "company": "Owner",
-      "company_website": "https://www.owner.com"
-    },
-    {
       "title": "Growth Marketing Manager",
       "department": "Marketing & Media",
       "location": "Remote",
@@ -3955,6 +3923,22 @@
       "department": "Customer Experience",
       "location": "Remote - Colombia",
       "url": "https://jobs.ashbyhq.com/owner/d3b1d57e-7e96-4ba3-b174-74429c67a7c9",
+      "company": "Owner",
+      "company_website": "https://www.owner.com"
+    },
+    {
+      "title": "Staff Product Manager, In Store Offerings",
+      "department": "Engineering, Product, and Design",
+      "location": "Remote - United States or Canada",
+      "url": "https://jobs.ashbyhq.com/owner/d60e4146-81e8-43ba-8893-254e4c8804e4",
+      "company": "Owner",
+      "company_website": "https://www.owner.com"
+    },
+    {
+      "title": "Customer Support Representative (Philippines) - January Start Date",
+      "department": "Customer Experience",
+      "location": "Remote - Philippines",
+      "url": "https://jobs.ashbyhq.com/owner/4d8cf3b9-d3f7-47f2-b2cc-81e5f829d462",
       "company": "Owner",
       "company_website": "https://www.owner.com"
     },
@@ -4215,6 +4199,14 @@
       "company_website": "https://www.peek.com"
     },
     {
+      "title": "Ad Operations Coordinator",
+      "department": "Operations",
+      "location": "Boston or Los Angeles",
+      "url": "https://job-boards.greenhouse.io/redcircle/jobs/5468841008",
+      "company": "RedCircle",
+      "company_website": "https://www.redcircle.com"
+    },
+    {
       "title": "Business Operations Analyst",
       "department": "Operations",
       "location": "Los Angeles, California or Boston, Massachusetts, United States",
@@ -4323,6 +4315,14 @@
       "department": "General",
       "location": "New York",
       "url": "https://job-boards.greenhouse.io/shopmy/jobs/4085872008",
+      "company": "Shop My",
+      "company_website": "https://shopmy.us"
+    },
+    {
+      "title": "Director, Growth & Retention - ShopperRemote - US",
+      "department": "General",
+      "location": "Remote",
+      "url": "https://job-boards.greenhouse.io/shopmy/jobs/5439229008",
       "company": "Shop My",
       "company_website": "https://shopmy.us"
     },
@@ -5063,10 +5063,26 @@
       "company_website": "https://superhuman.com"
     },
     {
+      "title": "Account Executive - In-Territory  (Austin, TX)",
+      "department": "Sales",
+      "location": "Remote - U.S.A.",
+      "url": "https://boards.greenhouse.io/justworks/jobs/6522701?gh_jid=6522701",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
       "title": "Account Executive - In-Territory (Chicago)",
       "department": "Sales",
       "location": "Remote - U.S.A.",
       "url": "https://boards.greenhouse.io/justworks/jobs/6522713?gh_jid=6522713",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Account Executive - In-Territory (Dallas, TX)",
+      "department": "Sales",
+      "location": "Remote - U.S.A.",
+      "url": "https://boards.greenhouse.io/justworks/jobs/7169006?gh_jid=7169006",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5161,24 +5177,16 @@
     {
       "title": "Director, Implementation & Transformation",
       "department": "Operations, Payments & Tax",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8089577?gh_jid=8089577",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Director, Implementation & Transformation",
-      "department": "Operations, Payments & Tax",
       "location": "Tampa, Florida",
       "url": "https://boards.greenhouse.io/justworks/jobs/8112896?gh_jid=8112896",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
-      "title": "Director, Marketing Operations",
-      "department": "Marketing",
+      "title": "Director, Implementation & Transformation",
+      "department": "Operations, Payments & Tax",
       "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8126917?gh_jid=8126917",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8089577?gh_jid=8089577",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5193,8 +5201,8 @@
     {
       "title": "Engineering Manager, Backend - International",
       "department": "Engineering",
-      "location": "Mexico City, Mexico",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8180000?gh_jid=8180000",
+      "location": "Toronto, Canada",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8180003?gh_jid=8180003",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5209,8 +5217,8 @@
     {
       "title": "Engineering Manager, Backend - International",
       "department": "Engineering",
-      "location": "Toronto, Canada",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8180003?gh_jid=8180003",
+      "location": "Mexico City, Mexico",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8180000?gh_jid=8180000",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5407,14 +5415,6 @@
       "company_website": "https://www.justworks.com"
     },
     {
-      "title": "Product Manager, Fulfillment",
-      "department": "Product",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8256840?gh_jid=8256840",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
       "title": "Product Manager, Time Global",
       "department": "Product, International Products",
       "location": "New York, New York",
@@ -5583,10 +5583,10 @@
       "company_website": "https://www.justworks.com"
     },
     {
-      "title": "Senior Manager, Data Engineering",
-      "department": "Data",
+      "title": "Senior Manager, AI Enablement",
+      "department": "IT",
       "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/7996847?gh_jid=7996847",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8334413?gh_jid=8334413",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5595,6 +5595,14 @@
       "department": "Data",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/8046597?gh_jid=8046597",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Senior Manager, Growth Marketing Automation & AI",
+      "department": "Marketing",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8126917?gh_jid=8126917",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5707,6 +5715,22 @@
       "department": "Product",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/8080327?gh_jid=8080327",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Senior Security Engineer, AI",
+      "department": "Security",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/6945015?gh_jid=6945015",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "department": "Engineering",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8236874?gh_jid=8236874",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -6137,40 +6161,16 @@
     {
       "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
       "department": "Wonderschool Substitutes (SubPool)",
-      "location": "West Bend, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009427003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
-      "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Sheboygan, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009424003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
-      "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Port Washington, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009423003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
-      "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Oshkosh, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009420003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
-      "department": "Wonderschool Substitutes (SubPool)",
       "location": "Mequon, Wisconsin, United States",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009418003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
+      "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Appleton, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009403003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -6185,8 +6185,32 @@
     {
       "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
       "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Appleton, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009403003",
+      "location": "Oshkosh, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009420003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
+      "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Port Washington, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009423003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
+      "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Sheboygan, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009424003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
+      "department": "Wonderschool Substitutes (SubPool)",
+      "location": "West Bend, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009427003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -6209,14 +6233,6 @@
     {
       "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
       "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Shallotte, North Carolina, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034547003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
-      "department": "Wonderschool Substitutes (SubPool)",
       "location": "Leland, North Carolina, United States",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034552003",
       "company": "Wonderschool",
@@ -6225,16 +6241,24 @@
     {
       "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
       "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Southport, North Carolina, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034550003",
+      "location": "Wilmington, North Carolina, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034545003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
     {
       "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
       "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Wilmington, North Carolina, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034545003",
+      "location": "Shallotte, North Carolina, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034547003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
+      "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Southport, North Carolina, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034550003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -6391,6 +6415,14 @@
       "company_website": "https://www.workstream.us"
     },
     {
+      "title": "Senior Customer Implementation Specialist",
+      "department": "Customer Implementation",
+      "location": "Lehi, Utah",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6240062004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
       "title": "Senior Full Stack Engineer",
       "department": "Engineering",
       "location": "Vancouver, British Columbia, Canada",
@@ -6403,14 +6435,6 @@
       "department": "Engineering",
       "location": "Lehi",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/6239284004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "Senior Product Marketing Manager",
-      "department": "Marketing",
-      "location": "San Francisco (We support relocation & visas!)",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6161039004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6431,6 +6455,14 @@
       "company_website": "https://www.workstream.us"
     },
     {
+      "title": "Senior Product Marketing Manager",
+      "department": "Marketing",
+      "location": "San Francisco (We support relocation & visas!)",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6161039004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
       "title": "Senior Software Solutions Engineer",
       "department": "GTM Engineering",
       "location": "Manila, Philippines",
@@ -6441,16 +6473,16 @@
     {
       "title": "Senior Staff Software Engineer",
       "department": "Engineering",
-      "location": "Shanghai and Chengdu",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6235678004",
+      "location": "Singapore",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6235732004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
     {
       "title": "Senior Staff Software Engineer",
       "department": "Engineering",
-      "location": "Singapore",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6235732004",
+      "location": "Shanghai and Chengdu",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6235678004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6473,16 +6505,16 @@
     {
       "title": "Staff Software Engineer",
       "department": "Engineering",
-      "location": "Shanghai and Chengdu",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6239218004",
+      "location": "Singapore",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6239221004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
     {
       "title": "Staff Software Engineer",
       "department": "Engineering",
-      "location": "Singapore",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6239221004",
+      "location": "Shanghai and Chengdu",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6239218004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
