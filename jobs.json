@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T14:34:23.947247+00:00",
-  "total_jobs": 810,
+  "generated_at": "2026-11-01T15:01:57.792328+00:00",
+  "total_jobs": 809,
   "total_companies": 97,
   "companies_with_jobs": 57,
   "failed_companies": [
@@ -105,16 +105,16 @@
     {
       "title": "Customer Solutions Consultant, Ada Accelerate",
       "department": "Customer Experience",
-      "location": "Remote - United Kingdom",
-      "url": "https://job-boards.greenhouse.io/ada18/jobs/5232336007",
+      "location": "Remote - Canada",
+      "url": "https://job-boards.greenhouse.io/ada18/jobs/5232334007",
       "company": "Ada",
       "company_website": "https://www.ada.cx"
     },
     {
       "title": "Customer Solutions Consultant, Ada Accelerate",
       "department": "Customer Experience",
-      "location": "Remote - Canada",
-      "url": "https://job-boards.greenhouse.io/ada18/jobs/5232334007",
+      "location": "Remote - United Kingdom",
+      "url": "https://job-boards.greenhouse.io/ada18/jobs/5232336007",
       "company": "Ada",
       "company_website": "https://www.ada.cx"
     },
@@ -879,14 +879,6 @@
       "company_website": "https://daisyco.com"
     },
     {
-      "title": "Sales Manager",
-      "department": "General",
-      "location": "Ho-Ho-Kus, NJ",
-      "url": "https://daisy-co-careers.careerplug.com/jobs/3438925",
-      "company": "Daisy",
-      "company_website": "https://daisyco.com"
-    },
-    {
       "title": "Sales Representative",
       "department": "General",
       "location": "Ho Ho Kus, NJ",
@@ -1361,16 +1353,16 @@
     {
       "title": "Senior Applied AI/ML Scientist - Compass",
       "department": "Algorithms & Data",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8610263002?gh_jid=8610263002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8610312002?gh_jid=8610312002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Senior Applied AI/ML Scientist - Compass",
       "department": "Algorithms & Data",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8610312002?gh_jid=8610312002",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8610263002?gh_jid=8610263002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1417,14 +1409,6 @@
     {
       "title": "Senior Applied ML/AI Scientist - Search",
       "department": "Algorithms & Data",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8660923002?gh_jid=8660923002",
-      "company": "Faire",
-      "company_website": "https://www.faire.com"
-    },
-    {
-      "title": "Senior Applied ML/AI Scientist - Search",
-      "department": "Algorithms & Data",
       "location": "Kitchener-Waterloo, ON; Toronto, ON",
       "url": "https://boards.greenhouse.io/faire/jobs/8618151002?gh_jid=8618151002",
       "company": "Faire",
@@ -1435,6 +1419,14 @@
       "department": "Algorithms & Data",
       "location": "New York City, NY; San Francisco, CA",
       "url": "https://boards.greenhouse.io/faire/jobs/8618124002?gh_jid=8618124002",
+      "company": "Faire",
+      "company_website": "https://www.faire.com"
+    },
+    {
+      "title": "Senior Applied ML/AI Scientist - Search",
+      "department": "Algorithms & Data",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8660923002?gh_jid=8660923002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1497,16 +1489,16 @@
     {
       "title": "Senior Product Marketing Manager",
       "department": "Marketing",
-      "location": "New York City, NY",
-      "url": "https://boards.greenhouse.io/faire/jobs/8820806002?gh_jid=8820806002",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8821004002?gh_jid=8821004002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Senior Product Marketing Manager",
       "department": "Marketing",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8821004002?gh_jid=8821004002",
+      "location": "New York City, NY",
+      "url": "https://boards.greenhouse.io/faire/jobs/8820806002?gh_jid=8820806002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1537,24 +1529,16 @@
     {
       "title": "Staff Data Infrastructure Engineer",
       "department": "Engineering",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8860409002?gh_jid=8860409002",
-      "company": "Faire",
-      "company_website": "https://www.faire.com"
-    },
-    {
-      "title": "Staff Data Infrastructure Engineer",
-      "department": "Engineering",
       "location": "New York City, NY; San Francisco, CA",
       "url": "https://boards.greenhouse.io/faire/jobs/8806617002?gh_jid=8806617002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
-      "title": "Staff Engineer - Experimentation Platform",
+      "title": "Staff Data Infrastructure Engineer",
       "department": "Engineering",
       "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
+      "url": "https://boards.greenhouse.io/faire/jobs/8860409002?gh_jid=8860409002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1563,6 +1547,14 @@
       "department": "Engineering",
       "location": "San Francisco, CA",
       "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
+      "company": "Faire",
+      "company_website": "https://www.faire.com"
+    },
+    {
+      "title": "Staff Engineer - Experimentation Platform",
+      "department": "Engineering",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1593,16 +1585,16 @@
     {
       "title": "Staff Product Engineer - Search FX (Discovery Experience)",
       "department": "Engineering",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8523826002?gh_jid=8523826002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8523771002?gh_jid=8523771002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Staff Product Engineer - Search FX (Discovery Experience)",
       "department": "Engineering",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8523771002?gh_jid=8523771002",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8523826002?gh_jid=8523826002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -2601,16 +2593,16 @@
     {
       "title": "Enterprise Account Executive - Light Industrial",
       "department": "Sales",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4573123006",
+      "location": "New York, New York, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4573114006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
     {
       "title": "Enterprise Account Executive - Light Industrial",
       "department": "Sales",
-      "location": "New York, New York, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4573114006",
+      "location": "San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4573123006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2793,14 +2785,6 @@
     {
       "title": "Product Operations Analyst",
       "department": "Product Operations",
-      "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4350762006",
-      "company": "Instawork",
-      "company_website": "https://www.instawork.com"
-    },
-    {
-      "title": "Product Operations Analyst",
-      "department": "Product Operations",
       "location": "Chicago, Illinois, United States",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4583588006",
       "company": "Instawork",
@@ -2811,6 +2795,14 @@
       "department": "Product Operations",
       "location": "San Francisco, California, United States",
       "url": "https://job-boards.greenhouse.io/instawork/jobs/4583589006",
+      "company": "Instawork",
+      "company_website": "https://www.instawork.com"
+    },
+    {
+      "title": "Product Operations Analyst",
+      "department": "Product Operations",
+      "location": "Bengaluru, Karnataka, India",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4350762006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2977,24 +2969,16 @@
     {
       "title": "Engineering Manager, Integrations",
       "department": "Engineering",
-      "location": "Remote - US",
-      "url": "https://lattice.com/job?gh_jid=8906493002",
-      "company": "Lattice",
-      "company_website": "https://lattice.com"
-    },
-    {
-      "title": "Engineering Manager, Integrations",
-      "department": "Engineering",
       "location": "Remote - Canada",
       "url": "https://lattice.com/job?gh_jid=8906494002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
     {
-      "title": "Lead Product Manager",
-      "department": "Product",
-      "location": "Remote - Canada",
-      "url": "https://lattice.com/job?gh_jid=8570063002",
+      "title": "Engineering Manager, Integrations",
+      "department": "Engineering",
+      "location": "Remote - US",
+      "url": "https://lattice.com/job?gh_jid=8906493002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
@@ -3007,10 +2991,10 @@
       "company_website": "https://lattice.com"
     },
     {
-      "title": "Lead Product Manager, Engagement",
+      "title": "Lead Product Manager",
       "department": "Product",
       "location": "Remote - Canada",
-      "url": "https://lattice.com/job?gh_jid=8841944002",
+      "url": "https://lattice.com/job?gh_jid=8570063002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
@@ -3019,6 +3003,14 @@
       "department": "Product",
       "location": "Remote - US",
       "url": "https://lattice.com/job?gh_jid=8875656002",
+      "company": "Lattice",
+      "company_website": "https://lattice.com"
+    },
+    {
+      "title": "Lead Product Manager, Engagement",
+      "department": "Product",
+      "location": "Remote - Canada",
+      "url": "https://lattice.com/job?gh_jid=8841944002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
@@ -3065,16 +3057,16 @@
     {
       "title": "Director, Strategic Deal Finance",
       "department": "Finance",
-      "location": "Canada (Remote)",
-      "url": "https://liftoff.io/job/8302394?gh_jid=8302394",
+      "location": "United States (Remote)",
+      "url": "https://liftoff.io/job/8302392?gh_jid=8302392",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
     },
     {
       "title": "Director, Strategic Deal Finance",
       "department": "Finance",
-      "location": "United States (Remote)",
-      "url": "https://liftoff.io/job/8302392?gh_jid=8302392",
+      "location": "Canada (Remote)",
+      "url": "https://liftoff.io/job/8302394?gh_jid=8302394",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
     },
@@ -3097,16 +3089,16 @@
     {
       "title": "Manager, Technical Accounting",
       "department": "Accounting",
-      "location": "United States (Remote)",
-      "url": "https://liftoff.io/job/8260216?gh_jid=8260216",
+      "location": "Canada (Remote)",
+      "url": "https://liftoff.io/job/8279694?gh_jid=8279694",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
     },
     {
       "title": "Manager, Technical Accounting",
       "department": "Accounting",
-      "location": "Canada (Remote)",
-      "url": "https://liftoff.io/job/8279694?gh_jid=8279694",
+      "location": "United States (Remote)",
+      "url": "https://liftoff.io/job/8260216?gh_jid=8260216",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
     },
@@ -5201,14 +5193,6 @@
     {
       "title": "Engineering Manager, Backend - International",
       "department": "Engineering",
-      "location": "Toronto, Canada",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8180003?gh_jid=8180003",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Engineering Manager, Backend - International",
-      "department": "Engineering",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/8179998?gh_jid=8179998",
       "company": "Via (acquired by JustWorks)",
@@ -5219,6 +5203,14 @@
       "department": "Engineering",
       "location": "Mexico City, Mexico",
       "url": "https://boards.greenhouse.io/justworks/jobs/8180000?gh_jid=8180000",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Engineering Manager, Backend - International",
+      "department": "Engineering",
+      "location": "Toronto, Canada",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8180003?gh_jid=8180003",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5609,16 +5601,16 @@
     {
       "title": "Senior Manager, Regulatory Compliance and Licensing",
       "department": "Legal & Compliance",
-      "location": "Tampa, Florida",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8325517?gh_jid=8325517",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8257440?gh_jid=8257440",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Senior Manager, Regulatory Compliance and Licensing",
       "department": "Legal & Compliance",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8257440?gh_jid=8257440",
+      "location": "Tampa, Florida",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8325517?gh_jid=8325517",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -6161,40 +6153,8 @@
     {
       "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
       "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Mequon, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009418003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
-      "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Appleton, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009403003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
-      "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Fond du Lac, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009407003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
-      "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Oshkosh, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009420003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
-      "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Port Washington, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009423003",
+      "location": "West Bend, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009427003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -6209,8 +6169,40 @@
     {
       "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
       "department": "Wonderschool Substitutes (SubPool)",
-      "location": "West Bend, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009427003",
+      "location": "Port Washington, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009423003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
+      "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Oshkosh, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009420003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
+      "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Mequon, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009418003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
+      "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Fond du Lac, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009407003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
+      "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Appleton, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8009403003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -6233,22 +6225,6 @@
     {
       "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
       "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Leland, North Carolina, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034552003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
-      "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Wilmington, North Carolina, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034545003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
-      "department": "Wonderschool Substitutes (SubPool)",
       "location": "Shallotte, North Carolina, United States",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034547003",
       "company": "Wonderschool",
@@ -6257,8 +6233,24 @@
     {
       "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
       "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Leland, North Carolina, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034552003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
+      "department": "Wonderschool Substitutes (SubPool)",
       "location": "Southport, North Carolina, United States",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034550003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
+      "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Wilmington, North Carolina, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034545003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
