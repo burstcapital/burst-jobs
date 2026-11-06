@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T16:42:53.064047+00:00",
-  "total_jobs": 791,
+  "generated_at": "2026-11-06T15:58:55.423522+00:00",
+  "total_jobs": 794,
   "total_companies": 97,
   "companies_with_jobs": 56,
   "failed_companies": [
@@ -407,14 +407,6 @@
       "company_website": "https://www.canopyworks.com"
     },
     {
-      "title": "Staff Software Engineer - SF Bay Area",
-      "department": "R&D",
-      "location": "San Francisco Bay Area",
-      "url": "https://job-boards.greenhouse.io/canopyworks/jobs/4243653009",
-      "company": "Canopy",
-      "company_website": "https://www.canopyworks.com"
-    },
-    {
       "title": "Strategic Account Executive",
       "department": "Sales",
       "location": "United States",
@@ -463,10 +455,58 @@
       "company_website": "https://www.codi.com"
     },
     {
-      "title": "Leadfeeder1",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://www.collectly.co",
+      "title": "Analytics Engineer (remote from GMT-7 to GMT+4 timezones)",
+      "department": "Engineering",
+      "location": "Belgrade",
+      "url": "https://jobs.lever.co/CollectlyInc/d28eb014-ec97-454c-ae0d-9d8c1bbc1bd8",
+      "company": "Collectly",
+      "company_website": "https://www.collectly.co"
+    },
+    {
+      "title": "Director of Enterprise Sales",
+      "department": "Sales",
+      "location": "San Francisco, California",
+      "url": "https://jobs.lever.co/CollectlyInc/749d89fd-bd6c-4c2b-8895-d597b7cd511c",
+      "company": "Collectly",
+      "company_website": "https://www.collectly.co"
+    },
+    {
+      "title": "Sales Development Representative",
+      "department": "Sales",
+      "location": "San Francisco, California",
+      "url": "https://jobs.lever.co/CollectlyInc/ac9c8a4b-461c-435c-bd4a-c29870b51b19",
+      "company": "Collectly",
+      "company_website": "https://www.collectly.co"
+    },
+    {
+      "title": "Senior Software Engineer (remote from GMT-7 to GMT+4 timezones)",
+      "department": "Engineering",
+      "location": "Belgrade",
+      "url": "https://jobs.lever.co/CollectlyInc/1f7a2739-bb72-4c46-9da0-8abe400e87e3",
+      "company": "Collectly",
+      "company_website": "https://www.collectly.co"
+    },
+    {
+      "title": "Senior SW Engineer (USA based)",
+      "department": "Engineering",
+      "location": "Austin, Texas",
+      "url": "https://jobs.lever.co/CollectlyInc/48efc475-b076-4042-abd6-79eff753f704",
+      "company": "Collectly",
+      "company_website": "https://www.collectly.co"
+    },
+    {
+      "title": "Staff Software Engineer, Agentic Automations",
+      "department": "Engineering",
+      "location": "Barcelona",
+      "url": "https://jobs.lever.co/CollectlyInc/b7bcadfc-d3be-48cb-a3fb-5f1e091e126b",
+      "company": "Collectly",
+      "company_website": "https://www.collectly.co"
+    },
+    {
+      "title": "Strategic Account Executive",
+      "department": "Sales",
+      "location": "United States",
+      "url": "https://jobs.lever.co/CollectlyInc/f4123e36-1de8-45f4-a9a2-f4aee4e21aeb",
       "company": "Collectly",
       "company_website": "https://www.collectly.co"
     },
@@ -1169,16 +1209,16 @@
     {
       "title": "Growth Platform, Marketing Engineer",
       "department": "Marketing",
-      "location": "Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8821336002?gh_jid=8821336002",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8818108002?gh_jid=8818108002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Growth Platform, Marketing Engineer",
       "department": "Marketing",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8818108002?gh_jid=8818108002",
+      "location": "Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8821336002?gh_jid=8821336002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1345,6 +1385,14 @@
     {
       "title": "Senior Applied ML/AI Scientist - Search",
       "department": "Algorithms & Data",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8618151002?gh_jid=8618151002",
+      "company": "Faire",
+      "company_website": "https://www.faire.com"
+    },
+    {
+      "title": "Senior Applied ML/AI Scientist - Search",
+      "department": "Algorithms & Data",
       "location": "New York City, NY; San Francisco, CA",
       "url": "https://boards.greenhouse.io/faire/jobs/8660923002?gh_jid=8660923002",
       "company": "Faire",
@@ -1355,14 +1403,6 @@
       "department": "Algorithms & Data",
       "location": "New York City, NY; San Francisco, CA",
       "url": "https://boards.greenhouse.io/faire/jobs/8618124002?gh_jid=8618124002",
-      "company": "Faire",
-      "company_website": "https://www.faire.com"
-    },
-    {
-      "title": "Senior Applied ML/AI Scientist - Search",
-      "department": "Algorithms & Data",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8618151002?gh_jid=8618151002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1497,16 +1537,16 @@
     {
       "title": "Staff Engineer - Experimentation Platform",
       "department": "Engineering",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Staff Engineer - Experimentation Platform",
       "department": "Engineering",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1523,14 +1563,6 @@
       "department": "Engineering",
       "location": "Toronto, ON",
       "url": "https://boards.greenhouse.io/faire/jobs/8609131002?gh_jid=8609131002",
-      "company": "Faire",
-      "company_website": "https://www.faire.com"
-    },
-    {
-      "title": "Staff Product Engineer - Brand",
-      "department": "Engineering",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8806428002?gh_jid=8806428002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1553,16 +1585,16 @@
     {
       "title": "Staff Security Engineer - Bot & Traffic Defence",
       "department": "Security",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8857042002?gh_jid=8857042002",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8868316002?gh_jid=8868316002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Staff Security Engineer - Bot & Traffic Defence",
       "department": "Security",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8868316002?gh_jid=8868316002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8857042002?gh_jid=8857042002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -2039,6 +2071,30 @@
       "company_website": "https://www.shopgarage.com"
     },
     {
+      "title": "Growth Marketing Lead",
+      "department": "Marketing",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/garage/d83d02fd-ca1a-438d-b618-ba38de6f608a",
+      "company": "Garage",
+      "company_website": "https://www.shopgarage.com"
+    },
+    {
+      "title": "Founding Legal Counsel & Strategic Operations",
+      "department": "Legal",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/garage/0ab39cf0-3249-4095-a763-46cd78d09dba",
+      "company": "Garage",
+      "company_website": "https://www.shopgarage.com"
+    },
+    {
+      "title": "Strategic Partnerships",
+      "department": "Growth",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/garage/5e8d425e-e2b3-4bdd-b8e1-68c54274c878",
+      "company": "Garage",
+      "company_website": "https://www.shopgarage.com"
+    },
+    {
       "title": "Senior Engineering Manager, Product",
       "department": "Engineering",
       "location": "NYC",
@@ -2051,6 +2107,14 @@
       "department": "Engineering",
       "location": "NYC",
       "url": "https://jobs.ashbyhq.com/geniusai/3f73dec7-92f1-4bd4-820a-9ec674b336b4",
+      "company": "GlossGenius",
+      "company_website": "https://www.glossgenius.com"
+    },
+    {
+      "title": "Senior Engineering Manager, Infrastructure",
+      "department": "Engineering",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/geniusai/3819f902-34a2-49fe-ab01-604228d0cc33",
       "company": "GlossGenius",
       "company_website": "https://www.glossgenius.com"
     },
@@ -2873,24 +2937,16 @@
     {
       "title": "Engineering Manager, Integrations",
       "department": "Engineering",
-      "location": "Remote - Canada",
-      "url": "https://lattice.com/job?gh_jid=8906494002",
-      "company": "Lattice",
-      "company_website": "https://lattice.com"
-    },
-    {
-      "title": "Engineering Manager, Integrations",
-      "department": "Engineering",
       "location": "Remote - US",
       "url": "https://lattice.com/job?gh_jid=8906493002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
     {
-      "title": "Lead Product Manager",
-      "department": "Product",
-      "location": "Remote - US",
-      "url": "https://lattice.com/job?gh_jid=8855945002",
+      "title": "Engineering Manager, Integrations",
+      "department": "Engineering",
+      "location": "Remote - Canada",
+      "url": "https://lattice.com/job?gh_jid=8906494002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
@@ -2903,10 +2959,10 @@
       "company_website": "https://lattice.com"
     },
     {
-      "title": "Lead Product Manager, Engagement",
+      "title": "Lead Product Manager",
       "department": "Product",
       "location": "Remote - US",
-      "url": "https://lattice.com/job?gh_jid=8875656002",
+      "url": "https://lattice.com/job?gh_jid=8855945002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
@@ -2919,10 +2975,10 @@
       "company_website": "https://lattice.com"
     },
     {
-      "title": "Senior Software Engineer, Infrastructure Platform",
-      "department": "Engineering",
-      "location": "Remote - Canada",
-      "url": "https://lattice.com/job?gh_jid=8487540002",
+      "title": "Lead Product Manager, Engagement",
+      "department": "Product",
+      "location": "Remote - US",
+      "url": "https://lattice.com/job?gh_jid=8875656002",
       "company": "Lattice",
       "company_website": "https://lattice.com"
     },
@@ -3143,10 +3199,18 @@
       "company_website": "https://medely.com"
     },
     {
+      "title": "Technical Customer Success Manager",
+      "department": "GTM",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/mintive/f5d0945b-4883-4b76-9559-5c7c82a98ba5",
+      "company": "MintMCP",
+      "company_website": "https://www.mintmcp.com"
+    },
+    {
       "title": "Software Engineer",
       "department": "Engineering",
       "location": "San Mateo, CA",
-      "url": "https://jobs.ashbyhq.com/mintive/2a25e702-835f-435e-b44a-c5eab796c861",
+      "url": "https://jobs.ashbyhq.com/mintive/cdc94bca-8872-4a65-83c0-dae30bdddaa6",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3154,7 +3218,7 @@
       "title": "Founding Sales Engineer",
       "department": "GTM",
       "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/mintive/845a0888-0985-43cb-a4e3-96bf6c430c88",
+      "url": "https://jobs.ashbyhq.com/mintive/450cbbf0-002f-4a1c-a3a6-99fe08124677",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3162,7 +3226,7 @@
       "title": "Founding RevOps Lead",
       "department": "GTM",
       "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/mintive/75762392-26f9-4717-bb0f-0f9f9a5ad44f",
+      "url": "https://jobs.ashbyhq.com/mintive/67baac65-f786-4ac1-8aa6-bd6546ba7370",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3170,7 +3234,7 @@
       "title": "Founding Product Marketing Manager",
       "department": "GTM",
       "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/mintive/088dc1d8-b8c3-4b5d-a4ad-f5adfcf0d148",
+      "url": "https://jobs.ashbyhq.com/mintive/7690613d-7226-4239-851c-eaf4e5952614",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3178,7 +3242,7 @@
       "title": "Founding Operations (Recruiting Coordinator / People Coordinator)",
       "department": "Operations",
       "location": "San Mateo, CA",
-      "url": "https://jobs.ashbyhq.com/mintive/74fb68fa-fbc8-41cd-a39a-52030643dfbd",
+      "url": "https://jobs.ashbyhq.com/mintive/2904910d-a979-4d44-a65e-91a1350cb803",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3186,7 +3250,7 @@
       "title": "Founding Operations (EA / Special Projects)",
       "department": "Operations",
       "location": "San Mateo, CA",
-      "url": "https://jobs.ashbyhq.com/mintive/90c511f7-426f-4ce3-b52c-c62b80f81ce5",
+      "url": "https://jobs.ashbyhq.com/mintive/2c5b2e94-62fb-45b5-b2f6-6206a25e7b16",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3194,7 +3258,7 @@
       "title": "Founding Growth Marketer",
       "department": "GTM",
       "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/mintive/a12d81cc-38ff-4214-b785-c96800b98f81",
+      "url": "https://jobs.ashbyhq.com/mintive/5620f183-9cab-4839-9d03-e471e4e5d448",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3202,15 +3266,7 @@
       "title": "Founding Account Executive",
       "department": "GTM",
       "location": "New York",
-      "url": "https://jobs.ashbyhq.com/mintive/effd0f79-a8ca-433b-b344-1c219edab2e3",
-      "company": "MintMCP",
-      "company_website": "https://www.mintmcp.com"
-    },
-    {
-      "title": "Technical Customer Success Manager",
-      "department": "GTM",
-      "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/mintive/f5d0945b-4883-4b76-9559-5c7c82a98ba5",
+      "url": "https://jobs.ashbyhq.com/mintive/6f0bca59-16ef-4003-b0aa-ecacfc2be267",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3719,6 +3775,14 @@
       "company_website": "https://www.owner.com"
     },
     {
+      "title": "Workforce Manager, Support",
+      "department": "Customer Experience",
+      "location": "Remote - United States",
+      "url": "https://jobs.ashbyhq.com/owner/922653c5-f590-44ed-99c8-7a7b9eb98c44",
+      "company": "Owner",
+      "company_website": "https://www.owner.com"
+    },
+    {
       "title": "Sales Enablement Specialist, Sales Development Program",
       "department": "Revenue",
       "location": "Toronto",
@@ -3739,6 +3803,14 @@
       "department": "Customer Experience",
       "location": "Remote - Colombia",
       "url": "https://jobs.ashbyhq.com/owner/d3b1d57e-7e96-4ba3-b174-74429c67a7c9",
+      "company": "Owner",
+      "company_website": "https://www.owner.com"
+    },
+    {
+      "title": "Head of Design, Consumer",
+      "department": "Engineering, Product, and Design",
+      "location": "Hybrid- San Francisco",
+      "url": "https://jobs.ashbyhq.com/owner/9310d865-9789-4513-ad9f-f3bf3fa44e64",
       "company": "Owner",
       "company_website": "https://www.owner.com"
     },
@@ -4039,6 +4111,14 @@
       "company_website": "https://www.resortpass.com"
     },
     {
+      "title": "Director of Performance Marketing",
+      "department": "Marketing",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/resortpass/jobs/5230942007",
+      "company": "ResortPass",
+      "company_website": "https://www.resortpass.com"
+    },
+    {
       "title": "Senior Product Designer",
       "department": "Product",
       "location": "New York, NY",
@@ -4095,42 +4175,10 @@
       "company_website": "https://shopmy.us"
     },
     {
-      "title": "Account Director - EnterpriseNew York, NY",
+      "title": "Introduce Yourself",
       "department": "General",
-      "location": "New York",
-      "url": "https://job-boards.greenhouse.io/shopmy/jobs/4943876008",
-      "company": "Shop My",
-      "company_website": "https://shopmy.us"
-    },
-    {
-      "title": "Account Executive, SMBNew York, NY",
-      "department": "General",
-      "location": "New York",
-      "url": "https://job-boards.greenhouse.io/shopmy/jobs/5432740008",
-      "company": "Shop My",
-      "company_website": "https://shopmy.us"
-    },
-    {
-      "title": "Agent ManagerUSA-Remote",
-      "department": "General",
-      "location": "Remote",
-      "url": "https://job-boards.greenhouse.io/shopmy/jobs/5309553008",
-      "company": "Shop My",
-      "company_website": "https://shopmy.us"
-    },
-    {
-      "title": "Associate, Client StrategyNew York, NY",
-      "department": "General",
-      "location": "New York",
-      "url": "https://job-boards.greenhouse.io/shopmy/jobs/4085872008",
-      "company": "Shop My",
-      "company_website": "https://shopmy.us"
-    },
-    {
-      "title": "Director of Revenue OperationsNew York, NY",
-      "department": "General",
-      "location": "New York",
-      "url": "https://job-boards.greenhouse.io/shopmy/jobs/5456794008",
+      "location": "Not specified",
+      "url": "mailto:careers@shopmy.us",
       "company": "Shop My",
       "company_website": "https://shopmy.us"
     },
@@ -4251,14 +4299,6 @@
       "department": "Mail Operations",
       "location": "Dallas",
       "url": "https://jobs.ashbyhq.com/stable/517e7da1-326a-4cc0-9c1f-f76978b50788",
-      "company": "Stable",
-      "company_website": "https://www.usestable.com"
-    },
-    {
-      "title": "Product Designer",
-      "department": "Product",
-      "location": "Remote",
-      "url": "https://jobs.ashbyhq.com/stable/09f5f469-d02a-46d3-87c7-cefd7c6bba6a",
       "company": "Stable",
       "company_website": "https://www.usestable.com"
     },
@@ -4487,6 +4527,14 @@
       "company_website": "https://superhuman.com"
     },
     {
+      "title": "GRC Automation Analyst",
+      "department": "G&A",
+      "location": "Hub - Berlin",
+      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/02961363-8236-49a7-a377-e3d7c9d19470",
+      "company": "Superhuman",
+      "company_website": "https://superhuman.com"
+    },
+    {
       "title": "Commercial Account Executive",
       "department": "Managed",
       "location": "Remote - United States",
@@ -4619,14 +4667,6 @@
       "department": "Engineering, Product, Design, and Marketing",
       "location": "Hub - Berlin",
       "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/bc3c8fd3-470d-4a97-8602-dcafd1e72219",
-      "company": "Superhuman",
-      "company_website": "https://superhuman.com"
-    },
-    {
-      "title": "Communications Manager",
-      "department": "Engineering, Product, Design, and Marketing",
-      "location": "Hub - San Francisco",
-      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/1770350d-f676-4b82-9f77-245a6298ccfe",
       "company": "Superhuman",
       "company_website": "https://superhuman.com"
     },
@@ -4871,7 +4911,7 @@
       "company_website": "https://superhuman.com"
     },
     {
-      "title": "Compliance Program Manager",
+      "title": "GRC Program Manager",
       "department": "G&A",
       "location": "Hub - San Francisco",
       "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/7894bde5-0f46-47ad-b53a-8e3a092b64a2",
@@ -4887,7 +4927,7 @@
       "company_website": "https://superhuman.com"
     },
     {
-      "title": "Engineering Manager - Release Engineering (Berlin)",
+      "title": "Engineering Manager, Release Engineering",
       "department": "Engineering, Product, Design, and Marketing",
       "location": "Hub - Berlin",
       "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/19eb6017-53bd-40a6-808e-65ffbcb68745",
@@ -4979,6 +5019,14 @@
       "department": "Sales",
       "location": "New York, New York; Phoenix, Arizona",
       "url": "https://boards.greenhouse.io/justworks/jobs/7305519?gh_jid=7305519",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Customer Success Manager",
+      "department": "Customer Success",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/5136582?gh_jid=5136582",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5456,7 +5504,7 @@
     },
     {
       "title": "Senior Manager, Growth Marketing Automation & AI",
-      "department": "Marketing",
+      "department": "Revenue Effectiveness",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/8126917?gh_jid=8126917",
       "company": "Via (acquired by JustWorks)",
@@ -5567,14 +5615,6 @@
       "company_website": "https://www.justworks.com"
     },
     {
-      "title": "Senior Software Engineer",
-      "department": "Engineering",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8236874?gh_jid=8236874",
-      "company": "Via (acquired by JustWorks)",
-      "company_website": "https://www.justworks.com"
-    },
-    {
       "title": "Senior Software Engineer, Applied AI (Mexico City)",
       "department": "Engineering",
       "location": "Mexico City, Mexico",
@@ -5643,6 +5683,14 @@
       "department": "Engineering",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/8179753?gh_jid=8179753",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Senior Software Engineer, Shared Services",
+      "department": "Engineering",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8236874?gh_jid=8236874",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -6365,30 +6413,6 @@
       "url": "https://job-boards.greenhouse.io/workstream/jobs/6239218004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "Content Wizard",
-      "department": "General",
-      "location": "San Francisco, CA",
-      "url": "https://www.ycombinator.com/companies/woz/jobs/HgalPvV-content-wizard",
-      "company": "Woz",
-      "company_website": "https://withwoz.com"
-    },
-    {
-      "title": "Founding Woz Experts (freelance)",
-      "department": "General",
-      "location": "San Francisco, CA",
-      "url": "https://www.ycombinator.com/companies/woz/jobs/jn2oBHa-founding-woz-experts-freelance",
-      "company": "Woz",
-      "company_website": "https://withwoz.com"
-    },
-    {
-      "title": "Founder in Residence at Woz (San Francisco)",
-      "department": "General",
-      "location": "San Francisco",
-      "url": "https://www.ycombinator.com/companies/woz/jobs/Nsh4F78-founder-in-residence-at-woz-san-francisco",
-      "company": "Woz",
-      "company_website": "https://withwoz.com"
     },
     {
       "title": "Senior Software Engineer",
