@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T15:02:00.126234+00:00",
-  "total_jobs": 800,
+  "generated_at": "2026-11-09T18:40:40.725996+00:00",
+  "total_jobs": 798,
   "total_companies": 97,
   "companies_with_jobs": 57,
   "failed_companies": [
@@ -58,10 +58,6 @@
     },
     {
       "name": "Prox",
-      "reason": "no jobs page found"
-    },
-    {
-      "name": "Sibli",
       "reason": "no jobs page found"
     },
     {
@@ -647,14 +643,6 @@
       "company_website": "https://www.curri.com"
     },
     {
-      "title": "Outside Sales Representative (Houston, TX)",
-      "department": "Growth",
-      "location": "Houston, TX",
-      "url": "https://jobs.ashbyhq.com/curri/86e1dfe0-6fd0-4737-9897-9833cb50aaef",
-      "company": "Curri",
-      "company_website": "https://www.curri.com"
-    },
-    {
       "title": "Enterprise Sales Director, Medical and Healthcare",
       "department": "Growth",
       "location": "Remote - United States",
@@ -783,26 +771,10 @@
       "company_website": "https://www.curri.com"
     },
     {
-      "title": "Outside Sales Representative (New Jersey)",
-      "department": "Growth",
-      "location": "Newark, NJ",
-      "url": "https://jobs.ashbyhq.com/curri/fe562666-8ea0-47fa-b014-8ff00a0ab440",
-      "company": "Curri",
-      "company_website": "https://www.curri.com"
-    },
-    {
       "title": "Customer Service Operations Representative (Ventura, CA)",
       "department": "Operations",
       "location": "Ventura, CA",
       "url": "https://jobs.ashbyhq.com/curri/c5ac9049-4b45-4f93-beb0-6f6c36f7cc8e",
-      "company": "Curri",
-      "company_website": "https://www.curri.com"
-    },
-    {
-      "title": "Outside Sales Representative (Milwaukee, WI)",
-      "department": "Growth",
-      "location": "Milwaukee, WI",
-      "url": "https://jobs.ashbyhq.com/curri/a137e2ca-4960-49c6-ac4e-2d6fa8a12df4",
       "company": "Curri",
       "company_website": "https://www.curri.com"
     },
@@ -819,6 +791,22 @@
       "department": "Growth",
       "location": "Providence, RI",
       "url": "https://jobs.ashbyhq.com/curri/325fd461-4157-4038-b2cc-2e55e6331443",
+      "company": "Curri",
+      "company_website": "https://www.curri.com"
+    },
+    {
+      "title": "Outside Sales Representative (Milwaukee, WI)",
+      "department": "Growth",
+      "location": "Milwaukee, WI",
+      "url": "https://jobs.ashbyhq.com/curri/9ca548b5-9f66-4760-9ce0-bf80d13f655c",
+      "company": "Curri",
+      "company_website": "https://www.curri.com"
+    },
+    {
+      "title": "Outside Sales Representative (Houston, TX)",
+      "department": "Growth",
+      "location": "Houston, TX",
+      "url": "https://jobs.ashbyhq.com/curri/0d0b591b-b8c1-4fc1-9b9e-3b9e9916242a",
       "company": "Curri",
       "company_website": "https://www.curri.com"
     },
@@ -1209,16 +1197,16 @@
     {
       "title": "Growth Platform, Marketing Engineer",
       "department": "Marketing",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8818108002?gh_jid=8818108002",
+      "location": "Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8821336002?gh_jid=8821336002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Growth Platform, Marketing Engineer",
       "department": "Marketing",
-      "location": "Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8821336002?gh_jid=8821336002",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8818108002?gh_jid=8818108002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1233,16 +1221,16 @@
     {
       "title": "Head of Paid Marketing",
       "department": "Marketing",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8872721002?gh_jid=8872721002",
+      "location": "New York City, NY",
+      "url": "https://boards.greenhouse.io/faire/jobs/8881701002?gh_jid=8881701002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Head of Paid Marketing",
       "department": "Marketing",
-      "location": "New York City, NY",
-      "url": "https://boards.greenhouse.io/faire/jobs/8881701002?gh_jid=8881701002",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8872721002?gh_jid=8872721002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1329,16 +1317,16 @@
     {
       "title": "Senior Applied AI/ML Scientist - Compass",
       "department": "Algorithms & Data",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8610263002?gh_jid=8610263002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8610312002?gh_jid=8610312002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Senior Applied AI/ML Scientist - Compass",
       "department": "Algorithms & Data",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8610312002?gh_jid=8610312002",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8610263002?gh_jid=8610263002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1355,14 +1343,6 @@
       "department": "Algorithms & Data",
       "location": "San Francisco, CA",
       "url": "https://boards.greenhouse.io/faire/jobs/8845103002?gh_jid=8845103002",
-      "company": "Faire",
-      "company_website": "https://www.faire.com"
-    },
-    {
-      "title": "Senior Applied AI/ML Scientist - Retailer",
-      "department": "Algorithms & Data",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/7953217002?gh_jid=7953217002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1385,14 +1365,6 @@
     {
       "title": "Senior Applied ML/AI Scientist - Search",
       "department": "Algorithms & Data",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8618151002?gh_jid=8618151002",
-      "company": "Faire",
-      "company_website": "https://www.faire.com"
-    },
-    {
-      "title": "Senior Applied ML/AI Scientist - Search",
-      "department": "Algorithms & Data",
       "location": "New York City, NY; San Francisco, CA",
       "url": "https://boards.greenhouse.io/faire/jobs/8660923002?gh_jid=8660923002",
       "company": "Faire",
@@ -1403,6 +1375,14 @@
       "department": "Algorithms & Data",
       "location": "New York City, NY; San Francisco, CA",
       "url": "https://boards.greenhouse.io/faire/jobs/8618124002?gh_jid=8618124002",
+      "company": "Faire",
+      "company_website": "https://www.faire.com"
+    },
+    {
+      "title": "Senior Applied ML/AI Scientist - Search",
+      "department": "Algorithms & Data",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8618151002?gh_jid=8618151002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1529,24 +1509,16 @@
     {
       "title": "Staff Data Infrastructure Engineer",
       "department": "Engineering",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8806617002?gh_jid=8806617002",
-      "company": "Faire",
-      "company_website": "https://www.faire.com"
-    },
-    {
-      "title": "Staff Data Infrastructure Engineer",
-      "department": "Engineering",
       "location": "Kitchener-Waterloo, ON; Toronto, ON",
       "url": "https://boards.greenhouse.io/faire/jobs/8860409002?gh_jid=8860409002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
-      "title": "Staff Engineer - Experimentation Platform",
+      "title": "Staff Data Infrastructure Engineer",
       "department": "Engineering",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8806617002?gh_jid=8806617002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1555,6 +1527,14 @@
       "department": "Engineering",
       "location": "San Francisco, CA",
       "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
+      "company": "Faire",
+      "company_website": "https://www.faire.com"
+    },
+    {
+      "title": "Staff Engineer - Experimentation Platform",
+      "department": "Engineering",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1999,14 +1979,6 @@
       "company_website": "https://www.shopgarage.com"
     },
     {
-      "title": "Software Engineer, Growth",
-      "department": "Engineering",
-      "location": "New York City",
-      "url": "https://jobs.ashbyhq.com/garage/dba79415-f4eb-48fd-acf8-9c2086d58a54",
-      "company": "Garage",
-      "company_website": "https://www.shopgarage.com"
-    },
-    {
       "title": "Growth Operations Associate",
       "department": "Growth",
       "location": "New York City",
@@ -2019,14 +1991,6 @@
       "department": "People",
       "location": "New York City",
       "url": "https://jobs.ashbyhq.com/garage/57ff110d-1c9c-412f-b176-fd1fb0bb8449",
-      "company": "Garage",
-      "company_website": "https://www.shopgarage.com"
-    },
-    {
-      "title": "Design Engineer",
-      "department": "Engineering",
-      "location": "New York City",
-      "url": "https://jobs.ashbyhq.com/garage/c8aced60-6abf-46a2-8a00-59c2996305d0",
       "company": "Garage",
       "company_website": "https://www.shopgarage.com"
     },
@@ -2059,6 +2023,22 @@
       "department": "People",
       "location": "New York City",
       "url": "https://jobs.ashbyhq.com/garage/92428ffb-060c-470a-94a6-c2b93aa49cf1",
+      "company": "Garage",
+      "company_website": "https://www.shopgarage.com"
+    },
+    {
+      "title": "Software Engineer, Growth",
+      "department": "Engineering",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/garage/5119e260-d0e4-4ad1-b264-1951f7dcc3f8",
+      "company": "Garage",
+      "company_website": "https://www.shopgarage.com"
+    },
+    {
+      "title": "Software Engineer, Design",
+      "department": "Engineering",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/garage/17815e07-5b55-4efd-9aa8-1d33d6ec010f",
       "company": "Garage",
       "company_website": "https://www.shopgarage.com"
     },
@@ -2465,16 +2445,8 @@
     {
       "title": "View Openings",
       "department": "General",
-      "location": "Remote",
+      "location": "Los Angeles",
       "url": "https://huckleberrycare.com/careers#jobPostings",
-      "company": "Huckleberry",
-      "company_website": "https://huckleberrycare.com"
-    },
-    {
-      "title": "QA Manager (Remote)",
-      "department": "General",
-      "location": "Remote",
-      "url": "https://jobs.lever.co/Huckleberrylabs/bd093eee-162f-470b-8409-3f224d1bb942",
       "company": "Huckleberry",
       "company_website": "https://huckleberrycare.com"
     },
@@ -2483,14 +2455,6 @@
       "department": "General",
       "location": "Los Angeles",
       "url": "https://jobs.lever.co/Huckleberrylabs/c93c37eb-cfbb-4905-b09d-c8494030196a",
-      "company": "Huckleberry",
-      "company_website": "https://huckleberrycare.com"
-    },
-    {
-      "title": "CRO Marketing Manager - Web (Remote, Contract)",
-      "department": "General",
-      "location": "Remote",
-      "url": "https://jobs.lever.co/Huckleberrylabs/787c2d16-df8e-4134-9136-cdcd759f6965",
       "company": "Huckleberry",
       "company_website": "https://huckleberrycare.com"
     },
@@ -3242,7 +3206,7 @@
       "title": "Software Engineer",
       "department": "Engineering",
       "location": "San Mateo, CA",
-      "url": "https://jobs.ashbyhq.com/Mintive/cdc94bca-8872-4a65-83c0-dae30bdddaa6",
+      "url": "https://jobs.ashbyhq.com/Mintive/b0fa1f6f-c2e1-4bfe-a875-f3c85e716024",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3250,7 +3214,7 @@
       "title": "Founding Sales Engineer",
       "department": "GTM",
       "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/Mintive/450cbbf0-002f-4a1c-a3a6-99fe08124677",
+      "url": "https://jobs.ashbyhq.com/Mintive/f90ff838-7105-469b-be9e-fcb3b643474e",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3258,7 +3222,7 @@
       "title": "Founding RevOps Lead",
       "department": "GTM",
       "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/Mintive/67baac65-f786-4ac1-8aa6-bd6546ba7370",
+      "url": "https://jobs.ashbyhq.com/Mintive/c6ff2267-86e8-4ca5-89a9-877b21f8c56e",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3266,7 +3230,7 @@
       "title": "Founding Product Marketing Manager",
       "department": "GTM",
       "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/Mintive/7690613d-7226-4239-851c-eaf4e5952614",
+      "url": "https://jobs.ashbyhq.com/Mintive/b98e3731-c349-4146-94cf-09ae24290836",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3274,7 +3238,7 @@
       "title": "Founding Operations (Recruiting Coordinator / People Coordinator)",
       "department": "Operations",
       "location": "San Mateo, CA",
-      "url": "https://jobs.ashbyhq.com/Mintive/2904910d-a979-4d44-a65e-91a1350cb803",
+      "url": "https://jobs.ashbyhq.com/Mintive/498a136a-3221-42dd-9f82-a43ca0ff37fa",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3282,7 +3246,7 @@
       "title": "Founding Operations (EA / Special Projects)",
       "department": "Operations",
       "location": "San Mateo, CA",
-      "url": "https://jobs.ashbyhq.com/Mintive/2c5b2e94-62fb-45b5-b2f6-6206a25e7b16",
+      "url": "https://jobs.ashbyhq.com/Mintive/511284fa-b7f0-49bc-bb10-59a69717fa8e",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3290,7 +3254,7 @@
       "title": "Founding Growth Marketer",
       "department": "GTM",
       "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/Mintive/5620f183-9cab-4839-9d03-e471e4e5d448",
+      "url": "https://jobs.ashbyhq.com/Mintive/55070124-5446-4b3d-8ece-93aa54d7859e",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3298,7 +3262,7 @@
       "title": "Founding Account Executive",
       "department": "GTM",
       "location": "New York",
-      "url": "https://jobs.ashbyhq.com/Mintive/6f0bca59-16ef-4003-b0aa-ecacfc2be267",
+      "url": "https://jobs.ashbyhq.com/Mintive/73721e8b-d560-402b-b951-22a74195dcd3",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -3483,6 +3447,14 @@
       "department": "Customer Success",
       "location": "Remote",
       "url": "https://jobs.ashbyhq.com/overflow/9d1cd598-c4c0-44a4-bad3-2c5b2b92314a",
+      "company": "Overflow",
+      "company_website": "https://www.overflow.co"
+    },
+    {
+      "title": "Renewals Specialist",
+      "department": "Customer Success",
+      "location": "Remote",
+      "url": "https://jobs.ashbyhq.com/overflow/bab7dfd7-667f-4474-8c88-982f732de591",
       "company": "Overflow",
       "company_website": "https://www.overflow.co"
     },
@@ -4175,6 +4147,22 @@
       "company_website": "https://www.getresq.com"
     },
     {
+      "title": "Account Manager",
+      "department": "Customer Operations",
+      "location": "Toronto, Ontario",
+      "url": "https://jobs.ashbyhq.com/resq/fe93b25a-8f87-4828-b371-f9b22241b1c5",
+      "company": "ResQ",
+      "company_website": "https://www.getresq.com"
+    },
+    {
+      "title": "Sr. Business Development Representative",
+      "department": "Revenue",
+      "location": "New York, New York",
+      "url": "https://jobs.ashbyhq.com/resq/2bd3afb3-e921-403a-a3c3-8e465299dd3b",
+      "company": "ResQ",
+      "company_website": "https://www.getresq.com"
+    },
+    {
       "title": "View Open Positions",
       "department": "General",
       "location": "Not specified",
@@ -4415,7 +4403,7 @@
       "company_website": "https://superhuman.com"
     },
     {
-      "title": "Sr. Growth Designer, Web Acquisition",
+      "title": "Sr. Growth Designer, Acquisition & Web Tools",
       "department": "Engineering, Product, Design, and Marketing",
       "location": "Hub - San Francisco",
       "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/ed85bb5e-1821-42c9-a569-10e2169c8188",
@@ -4851,14 +4839,6 @@
       "department": "Engineering, Product, Design, and Marketing",
       "location": "Hub - San Francisco",
       "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/fadab17c-adc4-4451-9c44-b5a1db695706",
-      "company": "Superhuman",
-      "company_website": "https://superhuman.com"
-    },
-    {
-      "title": "Senior Product Designer, Cross Activation",
-      "department": "Engineering, Product, Design, and Marketing",
-      "location": "Hub - San Francisco",
-      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/1bb1273c-2738-4004-81d3-e3232230fed7",
       "company": "Superhuman",
       "company_website": "https://superhuman.com"
     },
@@ -5807,7 +5787,7 @@
       "company_website": "https://www.justworks.com"
     },
     {
-      "title": "Staff Product Marketing Manager, Pricing & Packaging Lead",
+      "title": "Staff, Pricing Strategy Lead",
       "department": "Marketing",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/7688012?gh_jid=7688012",
