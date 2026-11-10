@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-09T18:40:40.725996+00:00",
-  "total_jobs": 798,
+  "generated_at": "2026-11-10T16:24:22.894536+00:00",
+  "total_jobs": 790,
   "total_companies": 97,
-  "companies_with_jobs": 57,
+  "companies_with_jobs": 58,
   "failed_companies": [
     {
       "name": "Acely.ai",
@@ -61,6 +61,10 @@
       "reason": "no jobs page found"
     },
     {
+      "name": "Sibli",
+      "reason": "no jobs page found"
+    },
+    {
       "name": "SPRX Technologies",
       "reason": "no jobs page found"
     },
@@ -101,16 +105,16 @@
     {
       "title": "Customer Solutions Consultant, Ada Accelerate",
       "department": "Customer Experience",
-      "location": "Remote - United Kingdom",
-      "url": "https://job-boards.greenhouse.io/ada18/jobs/5232336007",
+      "location": "Remote - Canada",
+      "url": "https://job-boards.greenhouse.io/ada18/jobs/5232334007",
       "company": "Ada",
       "company_website": "https://www.ada.cx"
     },
     {
       "title": "Customer Solutions Consultant, Ada Accelerate",
       "department": "Customer Experience",
-      "location": "Remote - Canada",
-      "url": "https://job-boards.greenhouse.io/ada18/jobs/5232334007",
+      "location": "Remote - United Kingdom",
+      "url": "https://job-boards.greenhouse.io/ada18/jobs/5232336007",
       "company": "Ada",
       "company_website": "https://www.ada.cx"
     },
@@ -635,6 +639,14 @@
       "company_website": "https://www.curri.com"
     },
     {
+      "title": "Copy of Outside Sales Representative (Boise, ID)",
+      "department": "Growth",
+      "location": "Boise, ID",
+      "url": "https://jobs.ashbyhq.com/curri/256dd212-8e56-46a3-a6d3-e64618c4587b",
+      "company": "Curri",
+      "company_website": "https://www.curri.com"
+    },
+    {
       "title": "Staff Software Engineer",
       "department": "Technology",
       "location": "United States",
@@ -715,26 +727,10 @@
       "company_website": "https://www.curri.com"
     },
     {
-      "title": "Outside Sales Representative (San Diego, CA)",
-      "department": "Growth",
-      "location": "San Diego, CA",
-      "url": "https://jobs.ashbyhq.com/curri/602060e5-7b1b-4f30-bb3d-5344d1f6701f",
-      "company": "Curri",
-      "company_website": "https://www.curri.com"
-    },
-    {
       "title": "Area Sales Manager, Outside Sales \u2013 Central US",
       "department": "Growth",
       "location": "Austin, TX",
       "url": "https://jobs.ashbyhq.com/curri/a8d4460e-97a9-4db1-aebd-2632f7e0e098",
-      "company": "Curri",
-      "company_website": "https://www.curri.com"
-    },
-    {
-      "title": "Outside Sales Representative (Boise, ID)",
-      "department": "Growth",
-      "location": "Boise, ID",
-      "url": "https://jobs.ashbyhq.com/curri/7325bb26-f3ae-42cd-b250-cc6ac8d2ee1b",
       "company": "Curri",
       "company_website": "https://www.curri.com"
     },
@@ -1148,7 +1144,7 @@
     },
     {
       "title": "Brand Operations, Process Area Supervisor",
-      "department": "Customer Support",
+      "department": "Fulfillment",
       "location": "Chicago, IL",
       "url": "https://boards.greenhouse.io/faire/jobs/8820890002?gh_jid=8820890002",
       "company": "Faire",
@@ -1164,7 +1160,7 @@
     },
     {
       "title": "Customer Experience Associate (3 Month Fixed-Term Contract)",
-      "department": "Customer Success",
+      "department": "Customer Support",
       "location": "Kitchener-Waterloo, ON",
       "url": "https://boards.greenhouse.io/faire/jobs/8877587002?gh_jid=8877587002",
       "company": "Faire",
@@ -1180,7 +1176,7 @@
     },
     {
       "title": "Europe Strategy & Operations Director",
-      "department": "Sales",
+      "department": "Strategy & Analytics",
       "location": "London, UK",
       "url": "https://boards.greenhouse.io/faire/jobs/8912097002?gh_jid=8912097002",
       "company": "Faire",
@@ -1221,16 +1217,16 @@
     {
       "title": "Head of Paid Marketing",
       "department": "Marketing",
-      "location": "New York City, NY",
-      "url": "https://boards.greenhouse.io/faire/jobs/8881701002?gh_jid=8881701002",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8872721002?gh_jid=8872721002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Head of Paid Marketing",
       "department": "Marketing",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8872721002?gh_jid=8872721002",
+      "location": "New York City, NY",
+      "url": "https://boards.greenhouse.io/faire/jobs/8881701002?gh_jid=8881701002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1317,16 +1313,16 @@
     {
       "title": "Senior Applied AI/ML Scientist - Compass",
       "department": "Algorithms & Data",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8610312002?gh_jid=8610312002",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8610263002?gh_jid=8610263002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Senior Applied AI/ML Scientist - Compass",
       "department": "Algorithms & Data",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8610263002?gh_jid=8610263002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8610312002?gh_jid=8610312002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1366,14 +1362,6 @@
       "title": "Senior Applied ML/AI Scientist - Search",
       "department": "Algorithms & Data",
       "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8660923002?gh_jid=8660923002",
-      "company": "Faire",
-      "company_website": "https://www.faire.com"
-    },
-    {
-      "title": "Senior Applied ML/AI Scientist - Search",
-      "department": "Algorithms & Data",
-      "location": "New York City, NY; San Francisco, CA",
       "url": "https://boards.greenhouse.io/faire/jobs/8618124002?gh_jid=8618124002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
@@ -1383,6 +1371,14 @@
       "department": "Algorithms & Data",
       "location": "Kitchener-Waterloo, ON; Toronto, ON",
       "url": "https://boards.greenhouse.io/faire/jobs/8618151002?gh_jid=8618151002",
+      "company": "Faire",
+      "company_website": "https://www.faire.com"
+    },
+    {
+      "title": "Senior Applied ML/AI Scientist - Search",
+      "department": "Algorithms & Data",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8660923002?gh_jid=8660923002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1453,16 +1449,16 @@
     {
       "title": "Senior Product Marketing Manager",
       "department": "Marketing",
-      "location": "New York City, NY",
-      "url": "https://boards.greenhouse.io/faire/jobs/8820806002?gh_jid=8820806002",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8821004002?gh_jid=8821004002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Senior Product Marketing Manager",
       "department": "Marketing",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8821004002?gh_jid=8821004002",
+      "location": "New York City, NY",
+      "url": "https://boards.greenhouse.io/faire/jobs/8820806002?gh_jid=8820806002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1477,7 +1473,7 @@
     {
       "title": "SEO/AEO Content Strategist",
       "department": "Marketing",
-      "location": "San Francisco, CA",
+      "location": "New York City, NY",
       "url": "https://boards.greenhouse.io/faire/jobs/8933930002?gh_jid=8933930002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
@@ -1589,16 +1585,16 @@
     {
       "title": "Staff Security Engineer - Bot & Traffic Defence",
       "department": "Security",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8868316002?gh_jid=8868316002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8857042002?gh_jid=8857042002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Staff Security Engineer - Bot & Traffic Defence",
       "department": "Security",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8857042002?gh_jid=8857042002",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8868316002?gh_jid=8868316002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1659,106 +1655,26 @@
       "company_website": "https://www.faire.com"
     },
     {
+      "title": "Warehouse GM",
+      "department": "Fulfillment",
+      "location": "Chicago, IL",
+      "url": "https://boards.greenhouse.io/faire/jobs/8935839002?gh_jid=8935839002",
+      "company": "Faire",
+      "company_website": "https://www.faire.com"
+    },
+    {
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "United States",
+      "url": "https://float-health.breezy.hr/p/eb7df1bcb311-intake-specialist",
+      "company": "Float Health",
+      "company_website": "https://www.floathealth.com"
+    },
+    {
       "title": "Intake Specialist",
       "department": "Intake",
       "location": "Detroit, MI",
       "url": "https://float-health.breezy.hr/p/77a935e06412-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Spokane, WA",
-      "url": "https://float-health.breezy.hr/p/e6d5adf087f3-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Henderson, NV",
-      "url": "https://float-health.breezy.hr/p/ebc42746d362-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Reno, NV",
-      "url": "https://float-health.breezy.hr/p/c1f465085429-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Bakersfield, CA",
-      "url": "https://float-health.breezy.hr/p/b3888575443a-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Modesto, CA",
-      "url": "https://float-health.breezy.hr/p/de402328ec07-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Chico, CA",
-      "url": "https://float-health.breezy.hr/p/78ca7a8d3af8-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Fresno, CA",
-      "url": "https://float-health.breezy.hr/p/249e5182c1cf-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Atlanta, GA",
-      "url": "https://float-health.breezy.hr/p/4dc81d3c3a04-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Cleveland, OH",
-      "url": "https://float-health.breezy.hr/p/0ee914edb8ad-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Lansing, MI",
-      "url": "https://float-health.breezy.hr/p/73815f411b06-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Colombus, OH",
-      "url": "https://float-health.breezy.hr/p/6e30eef44ada-intake-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Intake Specialist",
-      "department": "Intake",
-      "location": "Canton, OH",
-      "url": "https://float-health.breezy.hr/p/277f1cc506c7-intake-specialist",
       "company": "Float Health",
       "company_website": "https://www.floathealth.com"
     },
@@ -1773,120 +1689,96 @@
     {
       "title": "Intake Specialist",
       "department": "Intake",
-      "location": "United States",
-      "url": "https://float-health.breezy.hr/p/eb7df1bcb311-intake-specialist",
+      "location": "Canton, OH",
+      "url": "https://float-health.breezy.hr/p/277f1cc506c7-intake-specialist",
       "company": "Float Health",
       "company_website": "https://www.floathealth.com"
     },
     {
-      "title": "Recurring Care Specialist",
-      "department": "Recurring Care",
-      "location": "Tacoma, WA",
-      "url": "https://float-health.breezy.hr/p/c5ddb36c250b-recurring-care-specialist",
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Colombus, OH",
+      "url": "https://float-health.breezy.hr/p/6e30eef44ada-intake-specialist",
       "company": "Float Health",
       "company_website": "https://www.floathealth.com"
     },
     {
-      "title": "Recurring Care Specialist",
-      "department": "Recurring Care",
-      "location": "Grand Junction, CO",
-      "url": "https://float-health.breezy.hr/p/2f62e3519e02-recurring-care-specialist",
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Lansing, MI",
+      "url": "https://float-health.breezy.hr/p/73815f411b06-intake-specialist",
       "company": "Float Health",
       "company_website": "https://www.floathealth.com"
     },
     {
-      "title": "Recurring Care Specialist",
-      "department": "Recurring Care",
-      "location": "Pueblo, CO",
-      "url": "https://float-health.breezy.hr/p/95ca97b2a842-recurring-care-specialist",
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Cleveland, OH",
+      "url": "https://float-health.breezy.hr/p/0ee914edb8ad-intake-specialist",
       "company": "Float Health",
       "company_website": "https://www.floathealth.com"
     },
     {
-      "title": "Recurring Care Specialist",
-      "department": "Recurring Care",
-      "location": "Eugene, OR",
-      "url": "https://float-health.breezy.hr/p/5ee4c3aa37e9-recurring-care-specialist",
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Atlanta, GA",
+      "url": "https://float-health.breezy.hr/p/4dc81d3c3a04-intake-specialist",
       "company": "Float Health",
       "company_website": "https://www.floathealth.com"
     },
     {
-      "title": "Recurring Care Specialist",
-      "department": "Recurring Care",
-      "location": "Portland, OR",
-      "url": "https://float-health.breezy.hr/p/4fa276a8f66c-recurring-care-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Recurring Care Specialist",
-      "department": "Recurring Care",
-      "location": "Henderson, NV",
-      "url": "https://float-health.breezy.hr/p/89daa35e71a6-recurring-care-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Recurring Care Specialist",
-      "department": "Recurring Care",
-      "location": "Las Vegas, NV",
-      "url": "https://float-health.breezy.hr/p/afdcec1da9ac-recurring-care-specialist",
-      "company": "Float Health",
-      "company_website": "https://www.floathealth.com"
-    },
-    {
-      "title": "Recurring Care Specialist",
-      "department": "Recurring Care",
+      "title": "Intake Specialist",
+      "department": "Intake",
       "location": "Fresno, CA",
-      "url": "https://float-health.breezy.hr/p/e92734465851-recurring-care-specialist",
+      "url": "https://float-health.breezy.hr/p/249e5182c1cf-intake-specialist",
       "company": "Float Health",
       "company_website": "https://www.floathealth.com"
     },
     {
-      "title": "Recurring Care Specialist",
-      "department": "Recurring Care",
+      "title": "Intake Specialist",
+      "department": "Intake",
       "location": "Chico, CA",
-      "url": "https://float-health.breezy.hr/p/efe95de7099e-recurring-care-specialist",
+      "url": "https://float-health.breezy.hr/p/78ca7a8d3af8-intake-specialist",
       "company": "Float Health",
       "company_website": "https://www.floathealth.com"
     },
     {
-      "title": "Recurring Care Specialist",
-      "department": "Recurring Care",
-      "location": "Irvine, CA",
-      "url": "https://float-health.breezy.hr/p/9286a873cd75-recurring-care-specialist",
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Modesto, CA",
+      "url": "https://float-health.breezy.hr/p/de402328ec07-intake-specialist",
       "company": "Float Health",
       "company_website": "https://www.floathealth.com"
     },
     {
-      "title": "Recurring Care Specialist",
-      "department": "Recurring Care",
-      "location": "Eureka, CA",
-      "url": "https://float-health.breezy.hr/p/87db2f3d4202-recurring-care-specialist",
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Bakersfield, CA",
+      "url": "https://float-health.breezy.hr/p/b3888575443a-intake-specialist",
       "company": "Float Health",
       "company_website": "https://www.floathealth.com"
     },
     {
-      "title": "Recurring Care Specialist",
-      "department": "Recurring Care",
-      "location": "Sacramento, CA",
-      "url": "https://float-health.breezy.hr/p/6c4c8e07dfca-recurring-care-specialist",
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Reno, NV",
+      "url": "https://float-health.breezy.hr/p/c1f465085429-intake-specialist",
       "company": "Float Health",
       "company_website": "https://www.floathealth.com"
     },
     {
-      "title": "Recurring Care Specialist",
-      "department": "Recurring Care",
-      "location": "Vancouver, WA",
-      "url": "https://float-health.breezy.hr/p/402ad7592002-recurring-care-specialist",
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Henderson, NV",
+      "url": "https://float-health.breezy.hr/p/ebc42746d362-intake-specialist",
       "company": "Float Health",
       "company_website": "https://www.floathealth.com"
     },
     {
-      "title": "Recurring Care Specialist",
-      "department": "Recurring Care",
-      "location": "United States",
-      "url": "https://float-health.breezy.hr/p/6c10925f6080-recurring-care-specialist",
+      "title": "Intake Specialist",
+      "department": "Intake",
+      "location": "Spokane, WA",
+      "url": "https://float-health.breezy.hr/p/e6d5adf087f3-intake-specialist",
       "company": "Float Health",
       "company_website": "https://www.floathealth.com"
     },
@@ -1995,26 +1887,10 @@
       "company_website": "https://www.shopgarage.com"
     },
     {
-      "title": "Performance Marketer",
-      "department": "Marketing",
-      "location": "New York City",
-      "url": "https://jobs.ashbyhq.com/garage/219ac0ad-74e7-490b-af8e-30e43495a6fb",
-      "company": "Garage",
-      "company_website": "https://www.shopgarage.com"
-    },
-    {
       "title": "Field Marketing",
       "department": "Marketing",
       "location": "New York City",
       "url": "https://jobs.ashbyhq.com/garage/59094cab-ea92-4b2e-bf75-118c023d2693",
-      "company": "Garage",
-      "company_website": "https://www.shopgarage.com"
-    },
-    {
-      "title": "Growth Marketer",
-      "department": "Marketing",
-      "location": "New York City",
-      "url": "https://jobs.ashbyhq.com/garage/4892df0b-3b36-4792-a849-812fbac305f7",
       "company": "Garage",
       "company_website": "https://www.shopgarage.com"
     },
@@ -2095,6 +1971,22 @@
       "department": "Growth",
       "location": "New York City",
       "url": "https://jobs.ashbyhq.com/garage/5e8d425e-e2b3-4bdd-b8e1-68c54274c878",
+      "company": "Garage",
+      "company_website": "https://www.shopgarage.com"
+    },
+    {
+      "title": "Performance Marketer",
+      "department": "Marketing",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/garage/b96d3524-b7a7-46ee-89b8-367f3ed9683d",
+      "company": "Garage",
+      "company_website": "https://www.shopgarage.com"
+    },
+    {
+      "title": "Growth Marketer",
+      "department": "Marketing",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/garage/8802af7e-b601-4bf3-91a0-8a038f4cfd6b",
       "company": "Garage",
       "company_website": "https://www.shopgarage.com"
     },
@@ -2486,7 +2378,7 @@
       "title": "Business Development Executive",
       "department": "Robotics",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4718950006",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4619515006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2494,7 +2386,7 @@
       "title": "Business Development Executive",
       "department": "Robotics",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4619515006",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4718950006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2757,16 +2649,16 @@
     {
       "title": "Product Operations Analyst",
       "department": "Product Operations",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583588006",
+      "location": "San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583589006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
     {
       "title": "Product Operations Analyst",
       "department": "Product Operations",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583589006",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583588006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2907,6 +2799,22 @@
       "company_website": "https://www.instawork.com"
     },
     {
+      "title": "EngineeringStaff Product EngineerRemote US/EU Timezone$150K - $200KLearn more",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://jamdotdev.notion.site/Staff-Product-Engineer-8293c5f463924f74849611d3c00ca942?pvs=74",
+      "company": "Jam",
+      "company_website": "https://jam.dev"
+    },
+    {
+      "title": "ProductStaff Product DesignerRemote US/EU Timezone$150K - $200KLearn more",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://jamdotdev.notion.site/Staff-Product-Designer-3d4f727817b98111a957fbf625132dd4",
+      "company": "Jam",
+      "company_website": "https://jam.dev"
+    },
+    {
       "title": "ApplyAccount ManagerSan Luis Obispo, USFull-Time$70,000 \u2013 $85,000 / year",
       "department": "General",
       "location": "Obispo, US",
@@ -3005,16 +2913,24 @@
     {
       "title": "Director, Strategic Deal Finance",
       "department": "Finance",
-      "location": "Canada (Remote)",
-      "url": "https://liftoff.io/job/8302394?gh_jid=8302394",
+      "location": "United States (Remote)",
+      "url": "https://liftoff.io/job/8302392?gh_jid=8302392",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
     },
     {
       "title": "Director, Strategic Deal Finance",
       "department": "Finance",
-      "location": "United States (Remote)",
-      "url": "https://liftoff.io/job/8302392?gh_jid=8302392",
+      "location": "Canada (Remote)",
+      "url": "https://liftoff.io/job/8302394?gh_jid=8302394",
+      "company": "Liftoff",
+      "company_website": "https://www.liftoff.xyz"
+    },
+    {
+      "title": "Global Recruiter, APAC",
+      "department": "People",
+      "location": "Singapore",
+      "url": "https://liftoff.io/job/8369483?gh_jid=8369483",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
     },
@@ -3087,14 +3003,6 @@
       "department": "Revenue",
       "location": "London, United Kingdom",
       "url": "https://liftoff.io/job/8232721?gh_jid=8232721",
-      "company": "Liftoff",
-      "company_website": "https://www.liftoff.xyz"
-    },
-    {
-      "title": "Senior Account Manager, Demand - SEA",
-      "department": "Revenue",
-      "location": "Singapore",
-      "url": "https://liftoff.io/job/8196245?gh_jid=8196245",
       "company": "Liftoff",
       "company_website": "https://www.liftoff.xyz"
     },
@@ -4163,6 +4071,14 @@
       "company_website": "https://www.getresq.com"
     },
     {
+      "title": "Strategic Partnership Manager",
+      "department": "Revenue",
+      "location": "New York, New York",
+      "url": "https://jobs.ashbyhq.com/resq/f210f2ab-931d-4201-b589-0316f3487720",
+      "company": "ResQ",
+      "company_website": "https://www.getresq.com"
+    },
+    {
       "title": "View Open Positions",
       "department": "General",
       "location": "Not specified",
@@ -4467,14 +4383,6 @@
       "company_website": "https://superhuman.com"
     },
     {
-      "title": "Senior Product Manager, Admin & Buyer Experience",
-      "department": "Engineering, Product, Design, and Marketing",
-      "location": "Hub - Seattle",
-      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/bef18e11-1205-4b7d-b5bd-41d5d84c292a",
-      "company": "Superhuman",
-      "company_website": "https://superhuman.com"
-    },
-    {
       "title": "Software Engineer, Developer Experience (Full-Stack)",
       "department": "Engineering, Product, Design, and Marketing",
       "location": "Hub - San Francisco",
@@ -4643,14 +4551,6 @@
       "company_website": "https://superhuman.com"
     },
     {
-      "title": "Senior Product Designer, Growth",
-      "department": "Engineering, Product, Design, and Marketing",
-      "location": "Hub - Berlin",
-      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/b4889c28-ea63-4be7-b4a7-c1f66499f7cc",
-      "company": "Superhuman",
-      "company_website": "https://superhuman.com"
-    },
-    {
       "title": "Commercial Sales Manager, Superhuman for Education",
       "department": "Managed",
       "location": "Remote - United States",
@@ -4671,6 +4571,14 @@
       "department": "Engineering, Product, Design, and Marketing",
       "location": "Hub - Berlin",
       "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/bc3c8fd3-470d-4a97-8602-dcafd1e72219",
+      "company": "Superhuman",
+      "company_website": "https://superhuman.com"
+    },
+    {
+      "title": "Communications Manager",
+      "department": "Engineering, Product, Design, and Marketing",
+      "location": "Hub - San Francisco",
+      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/1770350d-f676-4b82-9f77-245a6298ccfe",
       "company": "Superhuman",
       "company_website": "https://superhuman.com"
     },
@@ -4907,7 +4815,7 @@
       "company_website": "https://superhuman.com"
     },
     {
-      "title": "GRC Program Manager",
+      "title": "GRC Analyst",
       "department": "G&A",
       "location": "Hub - San Francisco",
       "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/7894bde5-0f46-47ad-b53a-8e3a092b64a2",
@@ -4943,6 +4851,22 @@
       "department": "Engineering, Product, Design, and Marketing",
       "location": "Hub - New York",
       "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/9f17378e-635a-4d92-9941-e38363afab4f",
+      "company": "Superhuman",
+      "company_website": "https://superhuman.com"
+    },
+    {
+      "title": "Engineering Manager - Docs",
+      "department": "Engineering, Product, Design, and Marketing",
+      "location": "Hub - Porto",
+      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/7c23a083-e7f6-445a-87f2-256a171fdf35",
+      "company": "Superhuman",
+      "company_website": "https://superhuman.com"
+    },
+    {
+      "title": "People Business Partner",
+      "department": "G&A",
+      "location": "Hub - Berlin",
+      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/b543ed3e-2976-40cc-87e7-c693e04015bd",
       "company": "Superhuman",
       "company_website": "https://superhuman.com"
     },
@@ -5085,16 +5009,16 @@
     {
       "title": "Director, Implementation & Transformation",
       "department": "Operations, Payments & Tax",
-      "location": "Tampa, Florida",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8112896?gh_jid=8112896",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8089577?gh_jid=8089577",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Director, Implementation & Transformation",
       "department": "Operations, Payments & Tax",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8089577?gh_jid=8089577",
+      "location": "Tampa, Florida",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8112896?gh_jid=8112896",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5237,16 +5161,16 @@
     {
       "title": "Manager, International Onboarding (EOR)",
       "department": "Customer Success, International Products",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8359307?gh_jid=8359307",
+      "location": "Mexico City, Mexico",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8359309?gh_jid=8359309",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Manager, International Onboarding (EOR)",
       "department": "Customer Success, International Products",
-      "location": "Mexico City, Mexico",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8359309?gh_jid=8359309",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8359307?gh_jid=8359307",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -5276,7 +5200,7 @@
     },
     {
       "title": "Marketing Campaign Operations & Automation Manager",
-      "department": "Revenue Effectiveness",
+      "department": "GTM Effectiveness",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/8267502?gh_jid=8267502",
       "company": "Via (acquired by JustWorks)",
@@ -5284,7 +5208,7 @@
     },
     {
       "title": "Marketing Operations Manager \u2014 Funnel & Lifecycle",
-      "department": "Revenue Effectiveness",
+      "department": "GTM Effectiveness",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/8267509?gh_jid=8267509",
       "company": "Via (acquired by JustWorks)",
@@ -5364,7 +5288,7 @@
     },
     {
       "title": "Revenue Enablement Programs Manager",
-      "department": "Revenue Effectiveness",
+      "department": "GTM Effectiveness",
       "location": "New York, New York; Phoenix, Arizona",
       "url": "https://boards.greenhouse.io/justworks/jobs/8157872?gh_jid=8157872",
       "company": "Via (acquired by JustWorks)",
@@ -5467,8 +5391,16 @@
       "company_website": "https://www.justworks.com"
     },
     {
+      "title": "Senior Director, Chief of Staff to the CEO",
+      "department": "Corporate & Finance",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8368766?gh_jid=8368766",
+      "company": "Via (acquired by JustWorks)",
+      "company_website": "https://www.justworks.com"
+    },
+    {
       "title": "Senior Director, GTM Planning & Analysis",
-      "department": "Revenue Effectiveness",
+      "department": "GTM Effectiveness",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/8279256?gh_jid=8279256",
       "company": "Via (acquired by JustWorks)",
@@ -5492,7 +5424,7 @@
     },
     {
       "title": "Senior GTM Technology Administrator",
-      "department": "Revenue Effectiveness",
+      "department": "GTM Effectiveness",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/8278368?gh_jid=8278368",
       "company": "Via (acquired by JustWorks)",
@@ -5532,7 +5464,7 @@
     },
     {
       "title": "Senior Manager, Growth Marketing Automation & AI",
-      "department": "Revenue Effectiveness",
+      "department": "GTM Effectiveness",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/8126917?gh_jid=8126917",
       "company": "Via (acquired by JustWorks)",
@@ -5541,16 +5473,16 @@
     {
       "title": "Senior Manager, Regulatory Compliance and Licensing",
       "department": "Legal & Compliance",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8257440?gh_jid=8257440",
+      "location": "Tampa, Florida",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8325517?gh_jid=8325517",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Senior Manager, Regulatory Compliance and Licensing",
       "department": "Legal & Compliance",
-      "location": "Tampa, Florida",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8325517?gh_jid=8325517",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8257440?gh_jid=8257440",
       "company": "Via (acquired by JustWorks)",
       "company_website": "https://www.justworks.com"
     },
@@ -6027,6 +5959,14 @@
       "company_website": "https://www.wonderschool.com"
     },
     {
+      "title": "Customer Success Specialist",
+      "department": "Sales & Operations",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8199661003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
       "title": "Data Lead",
       "department": "Data",
       "location": "San Francisco",
@@ -6109,8 +6049,8 @@
     {
       "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
       "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Clintonville, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8179114003",
+      "location": "Port Washington, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8161595003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -6157,14 +6097,6 @@
     {
       "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
       "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Port Washington, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8161595003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
-      "department": "Wonderschool Substitutes (SubPool)",
       "location": "Oshkosh, Wisconsin, United States",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8161601003",
       "company": "Wonderschool",
@@ -6187,6 +6119,14 @@
       "company_website": "https://www.wonderschool.com"
     },
     {
+      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
+      "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Clintonville, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8179114003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
       "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $17-$20/hr",
       "department": "Wonderschool Substitutes (SubPool)",
       "location": "Green Bay, Wisconsin, United States",
@@ -6205,22 +6145,6 @@
     {
       "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
       "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Leland, North Carolina, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034552003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
-      "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Shallotte, North Carolina, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034547003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
-      "department": "Wonderschool Substitutes (SubPool)",
       "location": "Southport, North Carolina, United States",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034550003",
       "company": "Wonderschool",
@@ -6229,8 +6153,24 @@
     {
       "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
       "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Leland, North Carolina, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034552003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
+      "department": "Wonderschool Substitutes (SubPool)",
       "location": "Wilmington, North Carolina, United States",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034545003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
+      "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Shallotte, North Carolina, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034547003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -6356,7 +6296,7 @@
     },
     {
       "title": "Payroll Managed Services Representative",
-      "department": "Customer Support",
+      "department": "AI- Native Services",
       "location": "Philippines",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/6233039004",
       "company": "Workstream",
@@ -6373,16 +6313,16 @@
     {
       "title": "Senior Full Stack Engineer",
       "department": "Engineering",
-      "location": "Vancouver, British Columbia, Canada",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6239301004",
+      "location": "Lehi",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6239284004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
     {
       "title": "Senior Full Stack Engineer",
       "department": "Engineering",
-      "location": "Lehi",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6239284004",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6239301004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6397,24 +6337,16 @@
     {
       "title": "Senior Staff Software Engineer",
       "department": "Engineering",
-      "location": "Shanghai and Chengdu",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6235678004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "Senior Staff Software Engineer",
-      "department": "Engineering",
       "location": "Singapore",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/6235732004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
     {
-      "title": "Staff Full Stack Engineer",
+      "title": "Senior Staff Software Engineer",
       "department": "Engineering",
-      "location": "Vancouver, British Columbia, Canada",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6204364004",
+      "location": "Shanghai and Chengdu",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6235678004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6427,10 +6359,10 @@
       "company_website": "https://www.workstream.us"
     },
     {
-      "title": "Staff Software Engineer",
+      "title": "Staff Full Stack Engineer",
       "department": "Engineering",
-      "location": "Shanghai and Chengdu",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6239218004",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6204364004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6439,6 +6371,14 @@
       "department": "Engineering",
       "location": "Singapore",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/6239221004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "department": "Engineering",
+      "location": "Shanghai and Chengdu",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6239218004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
