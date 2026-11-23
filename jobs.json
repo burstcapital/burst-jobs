@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23T23:22:15.366483+00:00",
-  "total_jobs": 815,
+  "generated_at": "2026-11-23T23:41:16.705529+00:00",
+  "total_jobs": 820,
   "total_companies": 90,
   "companies_with_jobs": 52,
   "failed_companies": [
@@ -62,10 +62,6 @@
     },
     {
       "name": "Prox",
-      "reason": "no jobs page found"
-    },
-    {
-      "name": "Sibli",
       "reason": "no jobs page found"
     },
     {
@@ -4239,10 +4235,50 @@
       "company_website": "https://namespace.so"
     },
     {
-      "title": "Apply Now",
+      "title": "Senior Software Engineer",
       "department": "General",
-      "location": "New York",
+      "location": "Not specified",
       "url": "https://careers.kula.ai/onshore/53589-senior-software-engineer",
+      "company": "Onshore",
+      "company_website": "https://onshore.com"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://careers.kula.ai/onshore/53988-staff-software-engineer",
+      "company": "Onshore",
+      "company_website": "https://onshore.com"
+    },
+    {
+      "title": "Finance Associate",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://careers.kula.ai/onshore/66985-finance-associate",
+      "company": "Onshore",
+      "company_website": "https://onshore.com"
+    },
+    {
+      "title": "Sales Operations Associate",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://careers.kula.ai/onshore/37841-sales-operations-associate",
+      "company": "Onshore",
+      "company_website": "https://onshore.com"
+    },
+    {
+      "title": "Business Development Director",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://careers.kula.ai/onshore/37844-business-development-director",
+      "company": "Onshore",
+      "company_website": "https://onshore.com"
+    },
+    {
+      "title": "Business Development Associate",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://careers.kula.ai/onshore/62036-business-development-associate",
       "company": "Onshore",
       "company_website": "https://onshore.com"
     },
