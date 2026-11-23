@@ -63,7 +63,7 @@ KNOWN_ATS = {
     "adquick":                       ("greenhouse", "adquick",      "https://boards.greenhouse.io/adquick"),
     "cambly":                        ("greenhouse", "cambly",       "https://boards.greenhouse.io/cambly"),
     "curri":                         ("ashby",      "curri",        "https://jobs.ashbyhq.com/curri"),
-    "glossgenius":                   ("greenhouse", "glossgenius",  "https://boards.greenhouse.io/glossgenius"),
+    "genius ai":                     ("greenhouse", "glossgenius",  "https://boards.greenhouse.io/glossgenius"),
     "hipcamp":                       ("greenhouse", "hipcamp",      "https://boards.greenhouse.io/hipcamp"),
     "owner":                         ("ashby",      "owner",        "https://jobs.ashbyhq.com/owner"),
     "bounce":                        ("ashby_embedded", None,       "https://jobs.ashbyhq.com/Bounce"),
@@ -80,6 +80,9 @@ KNOWN_ATS = {
     "sourcegraph":                   ("greenhouse", "sourcegraph91","https://boards.greenhouse.io/sourcegraph91"),
     "trendsi":                       ("lever",      "trendsi",      "https://jobs.lever.co/trendsi"),
     "lilo":                          ("lever",      "lilo",         "https://jobs.lever.co/lilo"),
+    "cardinal":                      ("yc",         "trycardinal-ai", "https://www.ycombinator.com/companies/trycardinal-ai/jobs"),
+    "onshore":                          ("generic",    None,           "https://careers.kula.ai/onshore"),
+    "liftoff":                       ("generic",    None,           "https://www.onliftoff.com/about-us"),
     "willow":                        ("yc",         "willow",       "https://www.ycombinator.com/companies/willow/jobs"),
     "namespace":                     ("yc",         "namespace",    "https://www.ycombinator.com/companies/namespace/jobs"),
     "sibli":                         ("yc",         "sibli",        "https://www.ycombinator.com/companies/sibli/jobs"),
@@ -93,14 +96,13 @@ KNOWN_ATS = {
     "commenda":                              ("commenda",   None,            "https://www.commenda.io/careers"),
     "daisy":                                 ("careerplug", "daisy-co-careers", "https://daisy-co-careers.careerplug.com/jobs"),
     "carebrain":                             ("greenhouse", "carebrain",     "https://boards.greenhouse.io/carebrain"),
-    "sprx technologies":                     ("greenhouse", "sprx",          "https://boards.greenhouse.io/sprx"),
     "resq":                                  ("ashby",      "ResQ",          "https://jobs.ashbyhq.com/ResQ"),
     "standard fleet":                        ("ashby",      "StandardFleet", "https://jobs.ashbyhq.com/StandardFleet"),
     "float health":                          ("breezy",     "float-health",  "https://float-health.breezy.hr"),
     "canopy":                                ("ashby_embedded", None,        "https://www.canopyworks.com/about"),
-    "cabana":                                ("ashby_embedded", None,        "https://cabanapools.com/jobs-careers"),
-    "honey health":                          ("ashby_embedded", None,        "https://www.honeyhealth.ai/careers"),
-    "pickle":                                ("ashby_embedded", None,        "https://www.shoponpickle.com/careers"),
+    "cabana":                                ("generic",    None,           "https://cabanapools.com/jobs-careers/"),
+    "honey health":                          ("notion",     None,           "https://cedar-brain-7ce.notion.site/25d95cfecb688015b117d3c625021a36?v=25d95cfecb68803ea201000cfecd578d"),
+    "pickle":                                ("generic",    None,           "https://www.shoponpickle.com/careers"),
     "emanate":                               ("ashby",      "emanate",       "https://jobs.ashbyhq.com/emanate"),
     "mintmcp":                               ("ashby",      "mintmcp",       "https://jobs.ashbyhq.com/mintmcp"),
     "hostie":                                ("rippling",   "hostie",        "https://ats.rippling.com/hostie/jobs"),
@@ -341,60 +343,80 @@ def scrape_ashby(slug, company, fallback_url):
 
 
 def scrape_ashby_embedded(jobs_url, company):
-    html = fetch_html(jobs_url, use_playwright=True)
-    if not html:
-        return []
-    soup = BeautifulSoup(html, "html.parser")
-    jobs, seen = [], set()
+    """Embedded Ashby board. Reads BOTH the raw HTML and the browser-rendered page
+    and uses whichever contains more unique jobs (raw HTML often has the full list)."""
+    UUID = r'[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}'
+    LOC = re.compile(r'\b(Remote|New York|San Francisco|Los Angeles|Austin|London|Chicago|'
+                     r'Seattle|Boston|Denver|NYC|SF|Portland|Atlanta|Miami|Washington|'
+                     r'Philadelphia|Toronto|Vancouver|Berlin|Paris|Amsterdam|Portugal|Tokyo|'
+                     r'Mountain View|Palo Alto|Dublin|Sydney|Bangalore)\b', re.I)
 
-    # Pattern 1: embedded on company site via ?ashby_jid= links
-    for a in soup.find_all("a", href=True):
-        href = a["href"]
-        if "ashby_jid=" not in href:
-            continue
-        title = re.sub(r'\s*View\s*$', '', a.get_text(strip=True)).strip()
-        uuid_m = re.search(r'ashby_jid=([0-9a-f-]{36})', href)
-        key = uuid_m.group(1) if uuid_m else (title, href)
-        if not title or key in seen or len(title) < 3:
-            continue
-        seen.add(key)
-        # Extract UUID and build direct Ashby app URL (stable, works without JS)
-        uuid_m = re.search(r'ashby_jid=([0-9a-f-]{36})', href)
-        job_url = f"https://app.ashbyhq.com/jobs/{uuid_m.group(1)}" if uuid_m else urljoin(jobs_url, href)
-        parent = a.find_parent()
-        text = parent.get_text(" ", strip=True) if parent else ""
-        loc_m = re.search(r'\b(Remote|New York|San Francisco|Los Angeles|Austin|'
-                           r'London|Chicago|Seattle|Boston|Denver|NYC|SF|'
-                           r'Portland|Atlanta|Miami|Washington|Philadelphia|'
-                           r'Toronto|Vancouver|Berlin|Paris|Amsterdam)\b', text, re.I)
-        jobs.append(make_job(title, "General", loc_m.group(1) if loc_m else "",
-                             job_url, company))
+    def parse(html):
+        soup = BeautifulSoup(html, "html.parser")
+        found = {}
+        for a in soup.find_all("a", href=True):
+            m = re.search(r'(?:ashby_jid=|ashbyhq\.com/[^/]+/)(' + UUID + ')', a["href"])
+            if not m or m.group(1) in found:
+                continue
+            if a["href"].rstrip("/").endswith("/application"):
+                continue
+            parts = [p for p in a.stripped_strings if p.lower() not in ("view", "apply", "apply now")]
+            title = parts[0] if parts else ""
+            if len(title) < 3:
+                continue
+            row = a.find_parent(["li", "tr", "div"]) or a
+            text = row.get_text(" ", strip=True)
+            loc = ", ".join(parts[1:]) if len(parts) > 1 else ""
+            if not loc:
+                lm = LOC.search(text.replace(title, "", 1))
+                loc = lm.group(1) if lm else ""
+            found[m.group(1)] = (title, loc)
+        return found
 
-    # Pattern 2: jobs.ashbyhq.com/Slug/uuid links (Ashby-hosted board)
-    if not jobs:
+    raw = None
+    try:
+        r = requests.get(jobs_url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+        if r.status_code == 200:
+            raw = r.text
+    except Exception as e:
+        log.warning(f"    raw fetch failed: {e}")
+    rendered = fetch_html(jobs_url, use_playwright=True)
+
+    best, best_html = {}, raw or rendered or ""
+    for h in (raw, rendered):
+        if h:
+            f = parse(h)
+            if len(f) > len(best):
+                best, best_html = f, h
+    if not best:
+        # Pattern 2: Ashby-hosted board links on the page itself
+        soup = BeautifulSoup(best_html, "html.parser") if best_html else None
         slug_m = re.search(r'ashbyhq\.com/([^/]+)', jobs_url)
         slug = slug_m.group(1) if slug_m else None
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            full = urljoin(jobs_url, href)
-            # Match /Slug/uuid-pattern links
-            if slug and f"/{slug}/" not in full and f"ashbyhq.com/{slug}/" not in full:
-                continue
-            if not re.search(r'/[0-9a-f-]{36}', full):
-                continue
-            title = a.get_text(strip=True)
-            if not title or title in seen or len(title) < 3:
-                continue
-            seen.add(title)
-            parent = a.find_parent()
-            text = parent.get_text(" ", strip=True) if parent else ""
-            loc_m = re.search(r'\b(Remote|New York|San Francisco|Los Angeles|Austin|'
-                               r'London|Chicago|Seattle|Boston|Denver|NYC|SF|Portugal|Tokyo)\b',
-                               text, re.I)
-            jobs.append(make_job(title, "General", loc_m.group(1) if loc_m else "",
-                                 full, company))
+        jobs, seen = [], set()
+        if soup:
+            for a in soup.find_all("a", href=True):
+                full = urljoin(jobs_url, a["href"])
+                if slug and f"ashbyhq.com/{slug}/" not in full:
+                    continue
+                if not re.search(r'/' + UUID, full):
+                    continue
+                title = a.get_text(strip=True)
+                if len(title) < 3 or full in seen:
+                    continue
+                seen.add(full)
+                lm = LOC.search(a.find_parent().get_text(" ", strip=True) if a.find_parent() else "")
+                jobs.append(make_job(title, "General", lm.group(1) if lm else "", full, company))
+        log.info(f"    Ashby embedded: {len(jobs)} jobs")
+        return jobs
 
-    log.info(f"    Ashby embedded: {len(jobs)} jobs")
+    slug_m = re.search(r'ashbyhq\.com/([A-Za-z0-9_%.-]+)/' + UUID, best_html)
+    slug = slug_m.group(1) if slug_m else None
+    jobs = []
+    for uid, (title, loc) in best.items():
+        url = f"https://jobs.ashbyhq.com/{slug}/{uid}" if slug else f"https://app.ashbyhq.com/jobs/{uid}"
+        jobs.append(make_job(title, "General", loc, url, company))
+    log.info(f"    Ashby embedded: {len(jobs)} jobs (slug={slug})")
     return jobs
 
 
@@ -590,28 +612,104 @@ def scrape_generic(jobs_url, company):
 
 
 def scrape_commenda(jobs_url, company):
-    """Scrape Commenda's custom WordPress/Elementor jobs board."""
+    """Scrape Commenda's custom careers page (open-roles section only)."""
+    BAD_HOST = re.compile(r'linkedin|businessinsider|techcrunch|forbes|bloomberg|reuters|'
+                          r'medium\.com|twitter|x\.com|youtube|press|news|blog|crunchbase', re.I)
+    BAD_TITLE = re.compile(r'^(see|view|browse)\b.*\broles?\b|open roles|raises|\$\d|'
+                           r'I left|Business Insider|LinkedIn', re.I)
     try:
         html = fetch_html(jobs_url, use_playwright=True)
         if not html:
             return []
         soup = BeautifulSoup(html, "html.parser")
+        roots = [soup.find(id=re.compile(r'open-?roles', re.I))] + soup.find_all(class_="jobs-list")
+        roots = [r for r in roots if r] or [soup]
         jobs, seen = [], set()
-        # Jobs are in <a class="job-row"> inside <div class="jobs-list">
-        for div in soup.find_all(class_="jobs-list"):
-            for a in div.find_all("a", href=True):
-                title = a.get_text(strip=True)
-                # Strip the arrow icon text if present
-                title = re.sub(r'[\u2192\u2197→↗].*$', '', title).strip()
-                if not title or title in seen or len(title) < 3:
+        for root in roots:
+            for a in root.find_all("a", href=True):
+                href = a["href"].strip()
+                if not href or href.startswith(("#", "mailto:", "javascript:")):
                     continue
-                seen.add(title)
-                jobs.append(make_job(title, "General", "San Francisco, CA",
-                                     urljoin(jobs_url, a["href"]), company))
+                full = urljoin(jobs_url, href)
+                if BAD_HOST.search(full.split("?")[0]):
+                    continue
+                parts = [p for p in a.stripped_strings
+                         if not re.fullmatch(r'[\u2192\u2197\u2198→↗➜>]+', p)]
+                if not parts:
+                    continue
+                title = parts[0].strip()
+                loc = ", ".join(parts[1:]).strip()
+                if len(parts) == 1:
+                    m = re.match(r'^(.+?[a-z\)])((?:[A-Z][a-z]+(?: [A-Z][a-z]+)*)'
+                                 r'(?:,\s*[A-Z][a-z]+(?: [A-Z][a-z]+)*)*)$', title)
+                    if m:
+                        title, loc = m.group(1).strip(), m.group(2).strip()
+                if loc.lower() in ("not specified", ""):
+                    loc = ""
+                if len(title) < 3 or BAD_TITLE.search(title):
+                    continue
+                key = (title, full)
+                if key in seen:
+                    continue
+                seen.add(key)
+                jobs.append(make_job(title, "General", loc, full, company))
         log.info(f"    Commenda custom: {len(jobs)} jobs")
         return jobs
     except Exception as e:
         log.warning(f"    Commenda scraper failed: {e}")
+        return []
+
+
+def scrape_notion(jobs_url, company):
+    """Scrape a public Notion database (table/list/gallery) used as a careers board."""
+    if not HAS_PLAYWRIGHT:
+        return []
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            page = browser.new_page(extra_http_headers=HEADERS, viewport={"width": 1400, "height": 1000})
+            page.goto(jobs_url, wait_until="domcontentloaded", timeout=30000)
+            try:
+                page.wait_for_selector("a[href*='-'], .notion-collection-item, .notion-table-view", timeout=15000)
+            except Exception:
+                pass
+            page.wait_for_timeout(4000)
+            for _ in range(8):
+                page.mouse.wheel(0, 3000)
+                page.wait_for_timeout(500)
+            rows = page.evaluate("""() => {
+                const out = [];
+                const root = new URL(location.href);
+                const dbid = (root.pathname.match(/[0-9a-f]{32}/) || [''])[0];
+                document.querySelectorAll('a[href]').forEach(a => {
+                    const m = a.getAttribute('href').match(/[0-9a-f]{32}/);
+                    if (!m || m[0] === dbid) return;
+                    const row = a.closest('.notion-collection-item, [role=row], tr') || a.parentElement;
+                    const cells = Array.from(row.querySelectorAll('[class*=cell], td, [role=gridcell]'))
+                        .map(c => c.innerText.trim()).filter(Boolean);
+                    out.push({href: a.href, title: a.innerText.trim(), cells: cells,
+                              text: (row.innerText || '').trim()});
+                });
+                return out;
+            }""")
+            browser.close()
+        jobs, seen = [], set()
+        for r in rows:
+            title = (r["title"] or "").split("\n")[0].strip()
+            if len(title) < 3 or r["href"] in seen:
+                continue
+            seen.add(r["href"])
+            others = [c for c in r["cells"] if c != title and c.split("\n")[0] != title]
+            loc = ""
+            for c in others:
+                if re.search(r'remote|,\s*[A-Z]{2}\b|new york|san francisco|seattle|austin|boston|london|chicago|nyc|sf', c, re.I):
+                    loc = c.replace("\n", ", ")
+                    break
+            jobs.append(make_job(title, "General", loc, r["href"], company))
+        log.info(f"    Notion: {len(jobs)} jobs")
+        return jobs
+    except Exception as e:
+        log.warning(f"    Notion scraper failed: {e}")
         return []
 
 
@@ -691,6 +789,8 @@ def route_to_scraper(ats, slug, name, jobs_url):
         return scrape_rippling(slug, name, jobs_url)
     elif ats == "jazzhr":
         return scrape_jazzhr(slug, name, jobs_url)
+    elif ats == "notion":
+        return scrape_notion(jobs_url, name)
     elif ats == "commenda":
         return scrape_commenda(jobs_url, name)
     elif ats == "careerplug":
