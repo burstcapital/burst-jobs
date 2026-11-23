@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-23T21:43:50.148921+00:00",
-  "total_jobs": 744,
+  "generated_at": "2026-11-23T23:22:15.366483+00:00",
+  "total_jobs": 815,
   "total_companies": 90,
-  "companies_with_jobs": 49,
+  "companies_with_jobs": 52,
   "failed_companies": [
     {
       "name": "Acely.ai",
@@ -25,10 +25,6 @@
       "reason": "no jobs page found"
     },
     {
-      "name": "Cardinal",
-      "reason": "no jobs page found"
-    },
-    {
       "name": "Dime",
       "reason": "no jobs page found"
     },
@@ -38,10 +34,6 @@
     },
     {
       "name": "Gencove",
-      "reason": "no jobs page found"
-    },
-    {
-      "name": "Honey Health",
       "reason": "no jobs page found"
     },
     {
@@ -74,10 +66,6 @@
     },
     {
       "name": "Sibli",
-      "reason": "no jobs page found"
-    },
-    {
-      "name": "SPRX Technologies",
       "reason": "no jobs page found"
     },
     {
@@ -115,82 +103,82 @@
       "company_website": "https://www.batonmarket.com"
     },
     {
-      "title": "Product DesignerDesign \u2022 Lisbon \u2022 Full time \u2022 Hybrid",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://jobs.ashbyhq.com/Bounce/c6b97346-9072-4311-94a3-e68ef740394e",
-      "company": "Bounce",
-      "company_website": "https://www.bounce.com"
-    },
-    {
-      "title": "Senior Product DesignerDesign \u2022 Lisbon \u2022 Full time \u2022 Hybrid",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://jobs.ashbyhq.com/Bounce/a787155b-7784-41df-9e5f-a845615a6aa7",
-      "company": "Bounce",
-      "company_website": "https://www.bounce.com"
-    },
-    {
-      "title": "Product EngineerEngineering \u2022 Lisbon \u2022 Full time \u2022 Hybrid",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://jobs.ashbyhq.com/Bounce/34286e2c-d01e-4704-9b81-9ab87cad2c29",
-      "company": "Bounce",
-      "company_website": "https://www.bounce.com"
-    },
-    {
-      "title": "Head of GrowthGrowth \u2022 San Francisco, California \u2022 Full time",
-      "department": "General",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/Bounce/d5eb6777-bc04-48ce-91fc-df79bc7f204f",
-      "company": "Bounce",
-      "company_website": "https://www.bounce.com"
-    },
-    {
-      "title": "Partnerships, Sales InternshipPartnerships \u2022 Lisbon \u2022 Full time \u2022 Hybrid",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://jobs.ashbyhq.com/Bounce/e964c39c-6006-4941-a139-22370ca945ab",
-      "company": "Bounce",
-      "company_website": "https://www.bounce.com"
-    },
-    {
-      "title": "Product Manager, New VerticalsProduct \u2022 Lisbon \u2022 Full time \u2022 Hybrid",
-      "department": "General",
-      "location": "San Francisco",
-      "url": "https://jobs.ashbyhq.com/Bounce/4b03fb05-a77f-48ed-8711-58a39ec54d99",
-      "company": "Bounce",
-      "company_website": "https://www.bounce.com"
-    },
-    {
-      "title": "Senior Product Manager, Demand GrowthProduct \u2022 San Francisco, California \u2022 Full time \u2022 Hybrid",
-      "department": "General",
-      "location": "San Francisco",
+      "title": "Senior Product Manager, Demand Growth",
+      "department": "Product",
+      "location": "San Francisco, California",
       "url": "https://jobs.ashbyhq.com/Bounce/3b027ec9-42dc-4631-90ab-1aa7a8cda3f2",
       "company": "Bounce",
       "company_website": "https://www.bounce.com"
     },
     {
-      "title": "Senior Product Manager, Demand GrowthProduct \u2022 Lisbon \u2022 Full time \u2022 Hybrid",
-      "department": "General",
-      "location": "San Francisco",
+      "title": "Product Engineer",
+      "department": "Engineering",
+      "location": "Lisbon",
+      "url": "https://jobs.ashbyhq.com/Bounce/34286e2c-d01e-4704-9b81-9ab87cad2c29",
+      "company": "Bounce",
+      "company_website": "https://www.bounce.com"
+    },
+    {
+      "title": "Product Designer",
+      "department": "Design",
+      "location": "Lisbon",
+      "url": "https://jobs.ashbyhq.com/Bounce/c6b97346-9072-4311-94a3-e68ef740394e",
+      "company": "Bounce",
+      "company_website": "https://www.bounce.com"
+    },
+    {
+      "title": "Senior Product Manager, Demand Growth",
+      "department": "Product",
+      "location": "Lisbon",
       "url": "https://jobs.ashbyhq.com/Bounce/5b35d9a7-4da5-4f41-88ac-916a7c6021bc",
       "company": "Bounce",
       "company_website": "https://www.bounce.com"
     },
     {
-      "title": "Business Development SpecialistSales \u2022 United States \u2022 Full time \u2022 Remote",
-      "department": "General",
-      "location": "Remote",
+      "title": "Partnerships, Sales Internship",
+      "department": "Partnerships",
+      "location": "Lisbon",
+      "url": "https://jobs.ashbyhq.com/Bounce/e964c39c-6006-4941-a139-22370ca945ab",
+      "company": "Bounce",
+      "company_website": "https://www.bounce.com"
+    },
+    {
+      "title": "Market Launcher, Sales Internship",
+      "department": "Sales",
+      "location": "Lisbon",
+      "url": "https://jobs.ashbyhq.com/Bounce/3c4b35de-98aa-4012-8bb9-d3e6c4106af2",
+      "company": "Bounce",
+      "company_website": "https://www.bounce.com"
+    },
+    {
+      "title": "Business Development Specialist",
+      "department": "Sales",
+      "location": "United States",
       "url": "https://jobs.ashbyhq.com/Bounce/8d1ef6aa-328f-449b-9f8a-cbc94545a5dd",
       "company": "Bounce",
       "company_website": "https://www.bounce.com"
     },
     {
-      "title": "Market Launcher, Sales InternshipSales \u2022 Lisbon \u2022 Intern \u2022 Hybrid",
-      "department": "General",
-      "location": "Remote",
-      "url": "https://jobs.ashbyhq.com/Bounce/3c4b35de-98aa-4012-8bb9-d3e6c4106af2",
+      "title": "Product Manager, New Verticals",
+      "department": "Product",
+      "location": "Lisbon",
+      "url": "https://jobs.ashbyhq.com/Bounce/4b03fb05-a77f-48ed-8711-58a39ec54d99",
+      "company": "Bounce",
+      "company_website": "https://www.bounce.com"
+    },
+    {
+      "title": "Senior Product Designer",
+      "department": "Design",
+      "location": "Lisbon",
+      "url": "https://jobs.ashbyhq.com/Bounce/a787155b-7784-41df-9e5f-a845615a6aa7",
+      "company": "Bounce",
+      "company_website": "https://www.bounce.com"
+    },
+    {
+      "title": "Head of Growth",
+      "department": "Growth",
+      "location": "San Francisco, California",
+      "url": "https://jobs.ashbyhq.com/Bounce/d5eb6777-bc04-48ce-91fc-df79bc7f204f",
       "company": "Bounce",
       "company_website": "https://www.bounce.com"
     },
@@ -355,6 +343,46 @@
       "company_website": "https://www.canopyworks.com"
     },
     {
+      "title": "Founding Customer Engineer",
+      "department": "General",
+      "location": "San Francisco, CA",
+      "url": "https://www.ycombinator.com/companies/trycardinal-ai/jobs/Po0pWFA-founding-customer-engineer",
+      "company": "Cardinal",
+      "company_website": "https://trycardinal.ai"
+    },
+    {
+      "title": "Founding Product Engineer",
+      "department": "General",
+      "location": "San Francisco, CA",
+      "url": "https://www.ycombinator.com/companies/trycardinal-ai/jobs/HwZIbQl-founding-product-engineer",
+      "company": "Cardinal",
+      "company_website": "https://trycardinal.ai"
+    },
+    {
+      "title": "Founding Design Engineer, Cardinal",
+      "department": "General",
+      "location": "San Francisco, CA",
+      "url": "https://www.ycombinator.com/companies/trycardinal-ai/jobs/Rkr4eov-founding-design-engineer-cardinal",
+      "company": "Cardinal",
+      "company_website": "https://trycardinal.ai"
+    },
+    {
+      "title": "Founding AE",
+      "department": "General",
+      "location": "San Francisco, CA",
+      "url": "https://www.ycombinator.com/companies/trycardinal-ai/jobs/OsZ1pMy-founding-ae",
+      "company": "Cardinal",
+      "company_website": "https://trycardinal.ai"
+    },
+    {
+      "title": "Founding Engineer",
+      "department": "General",
+      "location": "San Francisco, CA",
+      "url": "https://www.ycombinator.com/companies/trycardinal-ai/jobs/vLd6N4I-founding-engineer",
+      "company": "Cardinal",
+      "company_website": "https://trycardinal.ai"
+    },
+    {
       "title": "Practice managersEvery provider, facility and claim on one screen.",
       "department": "General",
       "location": "Not specified",
@@ -475,34 +503,74 @@
       "company_website": "https://www.collectly.co"
     },
     {
-      "title": "See open roles",
+      "title": "Applied AI Engineer",
       "department": "General",
-      "location": "Not specified",
-      "url": "https://www.commenda.io/careers#open-roles",
-      "company": "Commenda",
-      "company_website": "https://www.commenda.io"
-    },
-    {
-      "title": "Business InsiderI left the US and moved to the \u2018Silicon Valley\u2019 of India to launch my startup.",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://www.businessinsider.com/american-moved-india-startup-founder-bengaluru-2024-12",
-      "company": "Commenda",
-      "company_website": "https://www.commenda.io"
-    },
-    {
-      "title": "LinkedInCommenda raises $9m for the first AI managed entity platform",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://www.linkedin.com/company/commenda/",
-      "company": "Commenda",
-      "company_website": "https://www.commenda.io"
-    },
-    {
-      "title": "Applied AI EngineerSeattle, San Francisco",
-      "department": "General",
-      "location": "Seattle",
+      "location": "Seattle, San Francisco",
       "url": "https://www.commenda.io/careers/applied-ai-engineer",
+      "company": "Commenda",
+      "company_website": "https://www.commenda.io"
+    },
+    {
+      "title": "Software Engineer \u2013 Product",
+      "department": "General",
+      "location": "Bengaluru",
+      "url": "https://www.commenda.io/careers/software-engineer-product",
+      "company": "Commenda",
+      "company_website": "https://www.commenda.io"
+    },
+    {
+      "title": "Applied AI \u2013 Tax Research",
+      "department": "General",
+      "location": "Bengaluru",
+      "url": "https://www.commenda.io/careers/applied-ai-tax-research",
+      "company": "Commenda",
+      "company_website": "https://www.commenda.io"
+    },
+    {
+      "title": "Product Manager",
+      "department": "General",
+      "location": "San Francisco, Bengaluru, Seattle",
+      "url": "https://www.commenda.io/careers/product-manager",
+      "company": "Commenda",
+      "company_website": "https://www.commenda.io"
+    },
+    {
+      "title": "SEO & Organic Growth Lead",
+      "department": "General",
+      "location": "Seattle, Bengaluru",
+      "url": "https://www.commenda.io/careers/seo-organic-growth-lead",
+      "company": "Commenda",
+      "company_website": "https://www.commenda.io"
+    },
+    {
+      "title": "Partnerships Manager",
+      "department": "General",
+      "location": "Seattle, San Francisco, London",
+      "url": "https://www.commenda.io/careers/partnerships-manager",
+      "company": "Commenda",
+      "company_website": "https://www.commenda.io"
+    },
+    {
+      "title": "Account Manager",
+      "department": "General",
+      "location": "Seattle, Bengaluru",
+      "url": "https://www.commenda.io/careers/account-manager",
+      "company": "Commenda",
+      "company_website": "https://www.commenda.io"
+    },
+    {
+      "title": "Video Creator",
+      "department": "General",
+      "location": "San Francisco, Seattle, London",
+      "url": "https://www.commenda.io/careers/video-creator",
+      "company": "Commenda",
+      "company_website": "https://www.commenda.io"
+    },
+    {
+      "title": "Generalist Nimbu",
+      "department": "General",
+      "location": "Bengaluru",
+      "url": "https://www.commenda.io/careers/generalist-nimbu",
       "company": "Commenda",
       "company_website": "https://www.commenda.io"
     },
@@ -1533,16 +1601,16 @@
     {
       "title": "Senior Software Engineer - Product Security",
       "department": "Engineering",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8959089002?gh_jid=8959089002",
+      "location": "Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8899843002?gh_jid=8899843002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Senior Software Engineer - Product Security",
       "department": "Engineering",
-      "location": "Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8899843002?gh_jid=8899843002",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8959089002?gh_jid=8959089002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1631,14 +1699,6 @@
       "department": "Design",
       "location": "New York City, NY; San Francisco, CA",
       "url": "https://boards.greenhouse.io/faire/jobs/8940599002?gh_jid=8940599002",
-      "company": "Faire",
-      "company_website": "https://www.faire.com"
-    },
-    {
-      "title": "Staff Product Engineer - Ads Formats",
-      "department": "Engineering",
-      "location": "Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8609131002?gh_jid=8609131002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1823,7 +1883,7 @@
       "department": "Engineering",
       "location": "NYC",
       "url": "https://jobs.ashbyhq.com/geniusai/d49a0fb6-6587-4ffb-9204-9eeb95176734",
-      "company": "GlossGenius",
+      "company": "Genius AI",
       "company_website": "https://www.glossgenius.com"
     },
     {
@@ -1831,7 +1891,7 @@
       "department": "Engineering",
       "location": "NYC",
       "url": "https://jobs.ashbyhq.com/geniusai/3f73dec7-92f1-4bd4-820a-9ec674b336b4",
-      "company": "GlossGenius",
+      "company": "Genius AI",
       "company_website": "https://www.glossgenius.com"
     },
     {
@@ -1839,7 +1899,7 @@
       "department": "Engineering",
       "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/geniusai/3819f902-34a2-49fe-ab01-604228d0cc33",
-      "company": "GlossGenius",
+      "company": "Genius AI",
       "company_website": "https://www.glossgenius.com"
     },
     {
@@ -1847,7 +1907,7 @@
       "department": "Product Design",
       "location": "Toronto",
       "url": "https://jobs.ashbyhq.com/geniusai/c567ef39-6ed9-43c9-a3ec-626599164f9a",
-      "company": "GlossGenius",
+      "company": "Genius AI",
       "company_website": "https://www.glossgenius.com"
     },
     {
@@ -1855,7 +1915,7 @@
       "department": "Engineering",
       "location": "NYC",
       "url": "https://jobs.ashbyhq.com/geniusai/06198681-5c9d-40fa-aa68-ac92b65227c4",
-      "company": "GlossGenius",
+      "company": "Genius AI",
       "company_website": "https://www.glossgenius.com"
     },
     {
@@ -1863,7 +1923,7 @@
       "department": "Engineering",
       "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/geniusai/aff2de75-aff2-46fc-8184-dbaa09e18e55",
-      "company": "GlossGenius",
+      "company": "Genius AI",
       "company_website": "https://www.glossgenius.com"
     },
     {
@@ -1871,7 +1931,7 @@
       "department": "Engineering",
       "location": "Toronto",
       "url": "https://jobs.ashbyhq.com/geniusai/3cc73848-f51a-4a29-91ba-1195a55a0bc3",
-      "company": "GlossGenius",
+      "company": "Genius AI",
       "company_website": "https://www.glossgenius.com"
     },
     {
@@ -1879,7 +1939,7 @@
       "department": "Product Design",
       "location": "NYC",
       "url": "https://jobs.ashbyhq.com/geniusai/e6bb10bc-6c62-4688-a1b0-b8643cf26052",
-      "company": "GlossGenius",
+      "company": "Genius AI",
       "company_website": "https://www.glossgenius.com"
     },
     {
@@ -1887,7 +1947,7 @@
       "department": "Customer Experience",
       "location": "USA",
       "url": "https://jobs.ashbyhq.com/geniusai/2e753e6b-7250-4a5a-ba5f-2c2a5f95c5ee",
-      "company": "GlossGenius",
+      "company": "Genius AI",
       "company_website": "https://www.glossgenius.com"
     },
     {
@@ -1895,7 +1955,7 @@
       "department": "Engineering",
       "location": "NYC",
       "url": "https://jobs.ashbyhq.com/geniusai/d0b58cac-c9dd-4c29-b309-dc39689ca744",
-      "company": "GlossGenius",
+      "company": "Genius AI",
       "company_website": "https://www.glossgenius.com"
     },
     {
@@ -1903,7 +1963,7 @@
       "department": "Data",
       "location": "NYC",
       "url": "https://jobs.ashbyhq.com/geniusai/c0577816-bd21-454e-8f85-ca7850bbb53e",
-      "company": "GlossGenius",
+      "company": "Genius AI",
       "company_website": "https://www.glossgenius.com"
     },
     {
@@ -1911,7 +1971,7 @@
       "department": "Engineering",
       "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/geniusai/f6990dc1-ca56-4df9-943a-ea4b06751dc0",
-      "company": "GlossGenius",
+      "company": "Genius AI",
       "company_website": "https://www.glossgenius.com"
     },
     {
@@ -1919,7 +1979,7 @@
       "department": "Engineering",
       "location": "NYC",
       "url": "https://jobs.ashbyhq.com/geniusai/2aeb448e-fa4d-4b09-9818-ae77ce926424",
-      "company": "GlossGenius",
+      "company": "Genius AI",
       "company_website": "https://www.glossgenius.com"
     },
     {
@@ -1927,7 +1987,7 @@
       "department": "Creative",
       "location": "NYC",
       "url": "https://jobs.ashbyhq.com/geniusai/263517c1-cda0-4bba-a868-c99e32dfa0ff",
-      "company": "GlossGenius",
+      "company": "Genius AI",
       "company_website": "https://www.glossgenius.com"
     },
     {
@@ -1935,7 +1995,7 @@
       "department": "Engineering",
       "location": "NYC",
       "url": "https://jobs.ashbyhq.com/geniusai/96ebddc5-6ed4-4e68-813b-55d44c315b27",
-      "company": "GlossGenius",
+      "company": "Genius AI",
       "company_website": "https://www.glossgenius.com"
     },
     {
@@ -1943,7 +2003,7 @@
       "department": "Marketing",
       "location": "NYC",
       "url": "https://jobs.ashbyhq.com/geniusai/c730cbe4-b8d1-4f51-b5fc-cee684075ca5",
-      "company": "GlossGenius",
+      "company": "Genius AI",
       "company_website": "https://www.glossgenius.com"
     },
     {
@@ -1951,7 +2011,7 @@
       "department": "Strategy Operations",
       "location": "NYC",
       "url": "https://jobs.ashbyhq.com/geniusai/dae6b575-4b03-4e1d-834c-068fe5556e54",
-      "company": "GlossGenius",
+      "company": "Genius AI",
       "company_website": "https://www.glossgenius.com"
     },
     {
@@ -1963,82 +2023,546 @@
       "company_website": "https://goodtime.io"
     },
     {
-      "title": "AI Red Teamer (Remote)AI Red Teamer (Remote)HAI Delivery OpsRemote (USA)Apply",
+      "title": "AI Red Teamer (Remote)",
       "department": "General",
-      "location": "Remote",
-      "url": "https://app.ashbyhq.com/jobs/7788a34b-f112-467a-ba9a-b8245f8fccfb",
+      "location": "AI Red Teamer (Remote), HAI Delivery Ops, Remote (USA)",
+      "url": "https://jobs.ashbyhq.com/handshake/7788a34b-f112-467a-ba9a-b8245f8fccfb",
       "company": "Handshake",
       "company_website": "https://joinhandshake.com"
     },
     {
-      "title": "Data Partnerships RepresentativeData Partnerships RepresentativeEmployer RevenueNashville, TNApply",
+      "title": "Area Manager",
       "department": "General",
-      "location": "Remote",
-      "url": "https://app.ashbyhq.com/jobs/d55015aa-6b91-447e-8fc5-707d86bc19aa",
+      "location": "Area Manager, HAI Delivery Ops, Seattle, WA",
+      "url": "https://jobs.ashbyhq.com/handshake/00be9848-956e-4ebf-9564-b0954ff7b2c2",
       "company": "Handshake",
       "company_website": "https://joinhandshake.com"
     },
     {
-      "title": "Director of Communications, CareersDirector of Communications, CareersCorporate CommunicationsSan Francisco, CAApply",
+      "title": "Data Partnerships Representative",
       "department": "General",
-      "location": "Remote",
-      "url": "https://app.ashbyhq.com/jobs/05a34725-3340-4cbe-a83b-2537de8eef38",
+      "location": "Data Partnerships Representative, Employer Revenue, Nashville, TN",
+      "url": "https://jobs.ashbyhq.com/handshake/d55015aa-6b91-447e-8fc5-707d86bc19aa",
       "company": "Handshake",
       "company_website": "https://joinhandshake.com"
     },
     {
-      "title": "Director, AI Product CounselDirector, AI Product CounselGeneral & AdministrativeSan Francisco, CAApply",
+      "title": "Director of Communications, Careers",
       "department": "General",
-      "location": "Remote",
-      "url": "https://app.ashbyhq.com/jobs/0940746f-8856-449e-b629-0890daadbdd7",
+      "location": "Director of Communications, Careers, Corporate Communications, San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/05a34725-3340-4cbe-a83b-2537de8eef38",
       "company": "Handshake",
       "company_website": "https://joinhandshake.com"
     },
     {
-      "title": "Director, Product MarketingDirector, Product MarketingMarketingSan Francisco, CAApply",
+      "title": "Director, AI Product Counsel",
       "department": "General",
-      "location": "Remote",
-      "url": "https://app.ashbyhq.com/jobs/82e17f6f-a13c-41c4-89ce-73b802908f0f",
+      "location": "Director, AI Product Counsel, General & Administrative, San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/0940746f-8856-449e-b629-0890daadbdd7",
       "company": "Handshake",
       "company_website": "https://joinhandshake.com"
     },
     {
-      "title": "Engagement ManagerEngagement ManagerHAI Delivery OpsSan Francisco, CA; New York, NYApply",
+      "title": "Director, Product Marketing",
       "department": "General",
-      "location": "Remote",
-      "url": "https://app.ashbyhq.com/jobs/f2ed7bba-e887-474d-9bf2-894a47f0082f",
+      "location": "Director, Product Marketing, Marketing, San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/82e17f6f-a13c-41c4-89ce-73b802908f0f",
       "company": "Handshake",
       "company_website": "https://joinhandshake.com"
     },
     {
-      "title": "Enterprise Account ManagerEnterprise Account ManagerEmployer RevenueSan Francisco, CA; New York, NYApply",
+      "title": "Engagement Manager",
       "department": "General",
-      "location": "Remote",
-      "url": "https://app.ashbyhq.com/jobs/a94b9f88-8916-4dc4-967f-33b08e33bf3a",
+      "location": "Engagement Manager, HAI Delivery Ops, San Francisco, CA; New York, NY",
+      "url": "https://jobs.ashbyhq.com/handshake/f2ed7bba-e887-474d-9bf2-894a47f0082f",
       "company": "Handshake",
       "company_website": "https://joinhandshake.com"
     },
     {
-      "title": "Enterprise Account ManagerEnterprise Account ManagerEmployer RevenueRemote (USA)Apply",
+      "title": "Enterprise Account Manager",
       "department": "General",
-      "location": "Remote",
-      "url": "https://app.ashbyhq.com/jobs/d429eac7-e37e-480e-9aae-10e473f3526c",
+      "location": "Enterprise Account Manager, Employer Revenue, San Francisco, CA; New York, NY",
+      "url": "https://jobs.ashbyhq.com/handshake/a94b9f88-8916-4dc4-967f-33b08e33bf3a",
       "company": "Handshake",
       "company_website": "https://joinhandshake.com"
     },
     {
-      "title": "Enterprise Customer Success ManagerEnterprise Customer Success ManagerEmployer RevenueSan Francisco, CA; New York, NYApply",
+      "title": "Enterprise Account Manager",
       "department": "General",
-      "location": "Remote",
-      "url": "https://app.ashbyhq.com/jobs/a4d765fd-567b-4d27-b614-a2735af19f0a",
+      "location": "Enterprise Account Manager, Employer Revenue, Remote (USA)",
+      "url": "https://jobs.ashbyhq.com/handshake/d429eac7-e37e-480e-9aae-10e473f3526c",
       "company": "Handshake",
       "company_website": "https://joinhandshake.com"
     },
     {
-      "title": "Enterprise Customer Success ManagerEnterprise Customer Success ManagerEmployer RevenueRemote (USA)Apply",
+      "title": "Enterprise Customer Success Manager",
       "department": "General",
-      "location": "Remote",
-      "url": "https://app.ashbyhq.com/jobs/a9f89a81-db49-491a-a4ce-35b85b7f4b7f",
+      "location": "Enterprise Customer Success Manager, Employer Revenue, San Francisco, CA; New York, NY",
+      "url": "https://jobs.ashbyhq.com/handshake/a4d765fd-567b-4d27-b614-a2735af19f0a",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Enterprise Customer Success Manager",
+      "department": "General",
+      "location": "Enterprise Customer Success Manager, Employer Revenue, Remote (USA)",
+      "url": "https://jobs.ashbyhq.com/handshake/a9f89a81-db49-491a-a4ce-35b85b7f4b7f",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Enterprise Implementation Manager",
+      "department": "General",
+      "location": "Enterprise Implementation Manager, Employer Revenue, San Francisco, CA; New York, NY",
+      "url": "https://jobs.ashbyhq.com/handshake/b046387a-0f77-4c50-a19e-711b4cb29bc1",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "department": "General",
+      "location": "Forward Deployed Engineer, Engineering, San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/52be2db3-794d-466e-b3be-cae5d1ab5232",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Forward Deployed Engineer I",
+      "department": "General",
+      "location": "Forward Deployed Engineer I, Engineering, India",
+      "url": "https://jobs.ashbyhq.com/handshake/f632f0c3-0b9c-49a7-984b-de92e18e6d0b",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Forward Deployed Engineer I",
+      "department": "General",
+      "location": "Forward Deployed Engineer I, Engineering, India",
+      "url": "https://jobs.ashbyhq.com/handshake/607e1d72-e7e8-4476-938f-b74dbe7ac9ef",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Forward Deployed Engineer II (Bulgaria)",
+      "department": "General",
+      "location": "Forward Deployed Engineer II (Bulgaria), Engineering, Sofia, Bulgaria",
+      "url": "https://jobs.ashbyhq.com/handshake/03769630-780c-4b80-a148-6925f75f9dd9",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Forward Deployed Engineer, Enterprise AI",
+      "department": "General",
+      "location": "Forward Deployed Engineer, Enterprise AI, Engineering, San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/c91b7ebf-2c69-4d91-809d-a30ea0b9dc18",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "GRC Manager",
+      "department": "General",
+      "location": "GRC Manager, Engineering, San Francisco, CA; New York, NY",
+      "url": "https://jobs.ashbyhq.com/handshake/56bb7e39-5346-4e79-b922-c7db18c7f72b",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Growth Operations Lead",
+      "department": "General",
+      "location": "Growth Operations Lead, Product, India",
+      "url": "https://jobs.ashbyhq.com/handshake/ba86755b-c182-41a5-91de-497988a395b3",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "HR Manager",
+      "department": "General",
+      "location": "HR Manager, General & Administrative, India",
+      "url": "https://jobs.ashbyhq.com/handshake/2b95294a-2c55-4216-96df-2db25f2b939d",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Lead Recruiter",
+      "department": "General",
+      "location": "Lead Recruiter, General & Administrative, India",
+      "url": "https://jobs.ashbyhq.com/handshake/d01f67e7-5658-4b75-a296-9765c708fbab",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "department": "General",
+      "location": "Machine Learning Engineer, Engineering, San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/42aca7f5-2f58-40ef-a6ce-19027d32a12f",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Manager, GTM Systems",
+      "department": "General",
+      "location": "Manager, GTM Systems, Employer Revenue, San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/24b8fa12-7c5d-44f8-98f9-8b85d0585f28",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Manager, Scaled Customer Success",
+      "department": "General",
+      "location": "Manager, Scaled Customer Success, Employer Revenue, New York, NY; San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/66024b3f-179a-4c5d-8bac-a723859eddff",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Manager, Strategic Projects",
+      "department": "General",
+      "location": "Manager, Strategic Projects, HAI Delivery Ops, India",
+      "url": "https://jobs.ashbyhq.com/handshake/23c2f266-cce4-44f0-ad2f-9a62cc9801d3",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Manager, Strategic Projects (Safety)",
+      "department": "General",
+      "location": "Manager, Strategic Projects (Safety), HAI Delivery Ops, Seattle, WA",
+      "url": "https://jobs.ashbyhq.com/handshake/17a7ecaa-47c1-4a50-a09f-e84387182dd2",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Member of Technical Staff, AI Engineering",
+      "department": "General",
+      "location": "Member of Technical Staff, AI Engineering, HAI Research, San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/08651bf1-c977-49d4-9a82-e8a770bb9970",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Member of Technical Staff, AI Engineering",
+      "department": "General",
+      "location": "Member of Technical Staff, AI Engineering, HAI Research, India",
+      "url": "https://jobs.ashbyhq.com/handshake/4870c024-f6b8-4c2d-a5cb-e94f6c8f94a9",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Member of Technical Staff, Coding Agents",
+      "department": "General",
+      "location": "Member of Technical Staff, Coding Agents, HAI Research, San Francisco, CA; Remote (USA); New York, NY; Mountain View, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/fb47a304-2ea1-4971-81cd-5183619f9a81",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Member of Technical Staff, Evals",
+      "department": "General",
+      "location": "Member of Technical Staff, Evals, HAI Research, San Francisco, CA; Remote (USA); New York, NY; Mountain View, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/ca392442-69eb-46f5-b367-37e43c832094",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Member of Technical Staff, Post-Training",
+      "department": "General",
+      "location": "Member of Technical Staff, Post-Training, HAI Research, San Francisco, CA; Remote (USA); New York, NY; Mountain View, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/5fd7dcf2-d2a2-4d82-bc8a-82d701768b43",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Privacy Associate",
+      "department": "General",
+      "location": "Privacy Associate, General & Administrative, San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/e0b40e5e-cf1a-4413-aa92-356875d0d8d1",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Product Marketing Lead, Labs & Research",
+      "department": "General",
+      "location": "Product Marketing Lead, Labs & Research, Marketing, San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/8d05df68-16fa-4b94-a59e-668ea3888a3d",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Recruiting Coordinator (Contract)",
+      "department": "General",
+      "location": "Recruiting Coordinator (Contract), General & Administrative, India",
+      "url": "https://jobs.ashbyhq.com/handshake/fbb20e50-434b-4ffd-82b5-33e4c92d7aec",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Revenue Operations Manager",
+      "department": "General",
+      "location": "Revenue Operations Manager, Employer Revenue, San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/3a07888c-b383-4153-b2b2-9db418c5b20f",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Senior Applied AI Engineer",
+      "department": "General",
+      "location": "Senior Applied AI Engineer, Engineering, San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/fc042441-b093-4f16-a308-5c6e8baea669",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Senior Data Analyst, Finance and Payments",
+      "department": "General",
+      "location": "Senior Data Analyst, Finance and Payments, General & Administrative, San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/11625d7a-36cc-48b9-808a-ae020c0bf535",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Senior Engagement Manager",
+      "department": "General",
+      "location": "Senior Engagement Manager, HAI Delivery Ops, San Francisco, CA; New York, NY",
+      "url": "https://jobs.ashbyhq.com/handshake/0768448c-677f-404f-bccc-7d1583e5ee10",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Senior Enterprise Customer Success Manager",
+      "department": "General",
+      "location": "Senior Enterprise Customer Success Manager, Employer Revenue, New York, NY",
+      "url": "https://jobs.ashbyhq.com/handshake/1045844d-e392-4e27-b810-70b7e71313fc",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Senior Forward Deployed Engineer",
+      "department": "General",
+      "location": "Senior Forward Deployed Engineer, Engineering, India",
+      "url": "https://jobs.ashbyhq.com/handshake/c57961b2-fdfa-4537-84b0-6416c42de9e4",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Senior Forward Deployed Engineer, Enterprise AI",
+      "department": "General",
+      "location": "Senior Forward Deployed Engineer, Enterprise AI, Engineering, San Francisco, CA; New York, NY",
+      "url": "https://jobs.ashbyhq.com/handshake/e2625047-5b76-4d3b-bf44-82278625782e",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Senior Product Marketing Manager, Enterprise AI",
+      "department": "General",
+      "location": "Senior Product Marketing Manager, Enterprise AI, Marketing, San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/2b768024-51a1-4014-8980-603f61ce3709",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Senior Recruiter",
+      "department": "General",
+      "location": "Senior Recruiter, General & Administrative, India",
+      "url": "https://jobs.ashbyhq.com/handshake/53a37e39-57d4-40d5-8f44-4d1afb93f0c9",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Senior Sales Compensation Analyst",
+      "department": "General",
+      "location": "Senior Sales Compensation Analyst, General & Administrative, San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/95aa22a9-aab6-4bed-a424-0986950b58a8",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Senior Software Engineer, Annotations",
+      "department": "General",
+      "location": "Senior Software Engineer, Annotations, Engineering, San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/d0920e75-c872-4f73-87a2-c54ee84725bc",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Senior Software Engineer, Backend Platform",
+      "department": "General",
+      "location": "Senior Software Engineer, Backend Platform, Engineering, San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/1aa9394e-0080-42b2-8402-f2f5fe7fa15b",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Senior Software Engineer, Coding",
+      "department": "General",
+      "location": "Senior Software Engineer, Coding, Engineering, India",
+      "url": "https://jobs.ashbyhq.com/handshake/84843202-b7eb-4b25-891b-43e6a8a22203",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Senior Software Engineer, Consumer Experience",
+      "department": "General",
+      "location": "Senior Software Engineer, Consumer Experience, Engineering, San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/577b66c6-16d5-43f7-b1c6-1cb0a1d3d218",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Senior Software Engineer, Growth",
+      "department": "General",
+      "location": "Senior Software Engineer, Growth, Engineering, San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/b99dd0a6-11f9-4d42-b8f7-970c32d4cd75",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Senior Software Engineer, Operator Experience",
+      "department": "General",
+      "location": "Senior Software Engineer, Operator Experience, Engineering, San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/e3f93a22-f6dc-4a3a-b055-6bfe6db351c5",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Software Engineer",
+      "department": "General",
+      "location": "Software Engineer, Engineering, Sofia, Bulgaria",
+      "url": "https://jobs.ashbyhq.com/handshake/5033202b-e03a-42e5-a801-93fe8042bbee",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Software Engineer I, Promotions",
+      "department": "General",
+      "location": "Software Engineer I, Promotions, Engineering, San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/c2cea12b-4dba-4782-ac2d-279c6865a4b7",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Sr Manager, GTM Engineering",
+      "department": "General",
+      "location": "Sr Manager, GTM Engineering, Employer Revenue, San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/e268b973-f9b3-46b8-afe8-31254a430451",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Staff Product Designer (Visual Design & Systems), Autonomous Recruiting",
+      "department": "General",
+      "location": "Staff Product Designer (Visual Design & Systems), Autonomous Recruiting, Design, San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/185fca2b-8022-4ff9-8c21-f14ceeb5b494",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Staff Product Designer, Handshake AI",
+      "department": "General",
+      "location": "Staff Product Designer, Handshake AI, Design, San Francisco, CA; New York, NY",
+      "url": "https://jobs.ashbyhq.com/handshake/935ec25d-e7d3-4e53-8752-3fffa6b0b584",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Staff Software Engineer, Consumer Experience",
+      "department": "General",
+      "location": "Staff Software Engineer, Consumer Experience, Engineering, San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/9c1fe075-be13-468f-bc0f-c8cfb5d62581",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Strategic Account Executive",
+      "department": "General",
+      "location": "Strategic Account Executive, Employer Revenue, Remote (USA)",
+      "url": "https://jobs.ashbyhq.com/handshake/472c5e06-3fb6-4d71-b346-19a284ad67d0",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Strategic Customer Success Manager, Federal",
+      "department": "General",
+      "location": "Strategic Customer Success Manager, Federal, Employer Revenue, Remote (USA)",
+      "url": "https://jobs.ashbyhq.com/handshake/a1e2aef1-666c-4c0e-9cec-70bbd3392b6d",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Strategic Customer Success Manager, Federal",
+      "department": "General",
+      "location": "Strategic Customer Success Manager, Federal, Employer Revenue, New York, NY; Washington, D.C.",
+      "url": "https://jobs.ashbyhq.com/handshake/45b712a7-9b9b-4c4d-bc63-99cfb12d65ba",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Strategic Insights Manager",
+      "department": "General",
+      "location": "Strategic Insights Manager, Employer Revenue, San Francisco, CA; New York, NY",
+      "url": "https://jobs.ashbyhq.com/handshake/94c7e55d-41ba-46c0-b89b-3537c9e1b793",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Strategic Projects Associate, Safety",
+      "department": "General",
+      "location": "Strategic Projects Associate, Safety, HAI Delivery Ops, Seattle, WA",
+      "url": "https://jobs.ashbyhq.com/handshake/ab520a1e-0afc-42c8-854d-781917a30427",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Strategic Projects Lead",
+      "department": "General",
+      "location": "Strategic Projects Lead, HAI Delivery Ops, San Francisco, CA; New York, NY",
+      "url": "https://jobs.ashbyhq.com/handshake/c5753428-968f-4142-9dbc-49d419f0a020",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Strategic Projects Lead",
+      "department": "General",
+      "location": "Strategic Projects Lead, HAI Delivery Ops, India",
+      "url": "https://jobs.ashbyhq.com/handshake/11193c7b-e34d-4a29-a14a-f1d4be438cf8",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Strategic Projects Lead, Coding",
+      "department": "General",
+      "location": "Strategic Projects Lead, Coding, HAI Delivery Ops, San Francisco, CA; New York, NY",
+      "url": "https://jobs.ashbyhq.com/handshake/32793d99-af94-4966-bdb9-ab6866254e5b",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Strategic Projects Lead, Coding",
+      "department": "General",
+      "location": "Strategic Projects Lead, Coding, HAI Delivery Ops, India",
+      "url": "https://jobs.ashbyhq.com/handshake/1f996bb7-53b5-4150-be1e-4bdf183b83dc",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Strategic Projects Lead, Safety",
+      "department": "General",
+      "location": "Strategic Projects Lead, Safety, HAI Delivery Ops, New York, NY",
+      "url": "https://jobs.ashbyhq.com/handshake/3fd38766-ddc7-4de8-b800-d72dec77a684",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Strategic Projects Lead, STEM",
+      "department": "General",
+      "location": "Strategic Projects Lead, STEM, HAI Delivery Ops, San Francisco, CA; New York, NY",
+      "url": "https://jobs.ashbyhq.com/handshake/09d15a6d-4eea-414b-91ca-3e2628a0b43d",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Workplace Experience Coordinator, India (Contract)",
+      "department": "General",
+      "location": "Workplace Experience Coordinator, India (Contract), General & Administrative, India",
+      "url": "https://jobs.ashbyhq.com/handshake/ce0e36f5-66b1-4ffe-8a89-47cd6ccc2c95",
       "company": "Handshake",
       "company_website": "https://joinhandshake.com"
     },
@@ -2129,6 +2653,38 @@
       "url": "mailto:hello@hipcamp.com",
       "company": "Hipcamp",
       "company_website": "https://www.hipcamp.com"
+    },
+    {
+      "title": "Mid-Market & Enterprise Account Executive",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://cedar-brain-7ce.notion.site/Mid-Market-Enterprise-Account-Executive-2ee95cfecb688014ac82d01bcaf6d848?pvs=25",
+      "company": "Honey Health",
+      "company_website": "https://www.honeyhealth.ai"
+    },
+    {
+      "title": "B2B Marketing Manager",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://cedar-brain-7ce.notion.site/B2B-Marketing-Manager-28c95cfecb68800aa804e1757ac692eb?pvs=25",
+      "company": "Honey Health",
+      "company_website": "https://www.honeyhealth.ai"
+    },
+    {
+      "title": "Senior/Staff Software Engineer - AI Agent Infrastructure",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://cedar-brain-7ce.notion.site/Senior-Staff-Software-Engineer-AI-Agent-Infrastructure-25d95cfecb6880a1bd95d3482376a254?pvs=25",
+      "company": "Honey Health",
+      "company_website": "https://www.honeyhealth.ai"
+    },
+    {
+      "title": "Business Development Representative",
+      "department": "General",
+      "location": "Not specified",
+      "url": "https://cedar-brain-7ce.notion.site/Business-Development-Representative-25d95cfecb688050a7d8c20900e0673d?pvs=25",
+      "company": "Honey Health",
+      "company_website": "https://www.honeyhealth.ai"
     },
     {
       "title": "Engineer",
@@ -2771,14 +3327,6 @@
       "company_website": "https://www.justworks.com"
     },
     {
-      "title": "Director, Customer Success",
-      "department": "Customer Success",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8263097?gh_jid=8263097",
-      "company": "JustWorks",
-      "company_website": "https://www.justworks.com"
-    },
-    {
       "title": "Director, Implementation & Transformation",
       "department": "Operations, Payments & Tax",
       "location": "New York, New York",
@@ -2925,16 +3473,16 @@
     {
       "title": "Manager, International Onboarding (EOR)",
       "department": "Customer Success, International Products",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8359307?gh_jid=8359307",
+      "location": "Mexico City, Mexico",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8359309?gh_jid=8359309",
       "company": "JustWorks",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Manager, International Onboarding (EOR)",
       "department": "Customer Success, International Products",
-      "location": "Mexico City, Mexico",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8359309?gh_jid=8359309",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8359307?gh_jid=8359307",
       "company": "JustWorks",
       "company_website": "https://www.justworks.com"
     },
@@ -3689,6 +4237,14 @@
       "url": "https://jobs.ashbyhq.com/namespace/e1aafe2a-d9e4-465e-8c20-6ec62b25720d",
       "company": "Namespace",
       "company_website": "https://namespace.so"
+    },
+    {
+      "title": "Apply Now",
+      "department": "General",
+      "location": "New York",
+      "url": "https://careers.kula.ai/onshore/53589-senior-software-engineer",
+      "company": "Onshore",
+      "company_website": "https://onshore.com"
     },
     {
       "title": "Job Description",
@@ -4627,7 +5183,7 @@
       "company_website": "https://www.stressfree.com"
     },
     {
-      "title": "General ManagerStore ManagementFremont, CA$103k\u2013$126k/yrFull-timeabout 3 hours ago",
+      "title": "General ManagerStore ManagementFremont, CA$103k\u2013$126k/yrFull-timeabout 4 hours ago",
       "department": "General",
       "location": "Not specified",
       "url": "https://careers.stressfree.com/general-manager-28",
