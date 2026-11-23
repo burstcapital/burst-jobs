@@ -81,8 +81,8 @@ KNOWN_ATS = {
     "trendsi":                       ("lever",      "trendsi",      "https://jobs.lever.co/trendsi"),
     "lilo":                          ("lever",      "lilo",         "https://jobs.lever.co/lilo"),
     "cardinal":                      ("yc",         "trycardinal-ai", "https://www.ycombinator.com/companies/trycardinal-ai/jobs"),
-    "onshore":                          ("generic",    None,           "https://careers.kula.ai/onshore"),
-    "liftoff":                       ("generic",    None,           "https://www.onliftoff.com/about-us"),
+    "onshore":                          ("kula",       None,           "https://careers.kula.ai/onshore"),
+    "liftoff":                       ("liftoff_app", None,           "https://www.onliftoff.com/about-us"),
     "willow":                        ("yc",         "willow",       "https://www.ycombinator.com/companies/willow/jobs"),
     "namespace":                     ("yc",         "namespace",    "https://www.ycombinator.com/companies/namespace/jobs"),
     "sibli":                         ("yc",         "sibli",        "https://www.ycombinator.com/companies/sibli/jobs"),
@@ -713,6 +713,88 @@ def scrape_notion(jobs_url, company):
         return []
 
 
+def scrape_kula(jobs_url, company):
+    """Kula careers board (careers.kula.ai/<slug>): roles are links like /<slug>/<id>-<title-slug>."""
+    slug_m = re.search(r'kula\.ai/([^/?#]+)', jobs_url)
+    slug = slug_m.group(1) if slug_m else ""
+    html = None
+    try:
+        r = requests.get(jobs_url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+        if r.status_code == 200:
+            html = r.text
+    except Exception as e:
+        log.warning(f"    Kula raw fetch failed: {e}")
+    pat = re.compile(r'^/' + re.escape(slug) + r'/(\d+)-([a-z0-9-]+)/?$', re.I)
+
+    def parse(h):
+        soup = BeautifulSoup(h, "html.parser")
+        out, seen = [], set()
+        for a in soup.find_all("a", href=True):
+            m = pat.match(a["href"].split("?")[0])
+            if not m or m.group(1) in seen:
+                continue
+            seen.add(m.group(1))
+            parts = [p for p in a.stripped_strings
+                     if p.lower() not in ("apply", "apply now", "view", "view job")]
+            title = parts[0] if parts else m.group(2).replace("-", " ").title()
+            loc = ", ".join(parts[1:3]) if len(parts) > 1 else ""
+            out.append(make_job(title, "General", loc,
+                                f"https://careers.kula.ai{a['href'].split('?')[0]}", company))
+        return out
+
+    jobs = parse(html) if html else []
+    if not jobs:
+        rendered = fetch_html(jobs_url, use_playwright=True)
+        jobs = parse(rendered) if rendered else []
+    log.info(f"    Kula: {len(jobs)} jobs")
+    return jobs
+
+
+def scrape_linkmatch(jobs_url, company, href_regex):
+    """Render the page in a browser (all frames) and collect links whose href matches href_regex."""
+    if not HAS_PLAYWRIGHT:
+        return []
+    rx = re.compile(href_regex, re.I)
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            page = browser.new_page(extra_http_headers=HEADERS, viewport={"width": 1400, "height": 1000})
+            page.goto(jobs_url, wait_until="domcontentloaded", timeout=30000)
+            page.wait_for_timeout(5000)
+            for _ in range(8):
+                page.mouse.wheel(0, 3000)
+                page.wait_for_timeout(500)
+            rows = []
+            for fr in page.frames:
+                try:
+                    rows += fr.evaluate("""() => Array.from(document.querySelectorAll('a[href]')).map(a => {
+                        const row = a.closest('li, tr, [class*=job], [class*=role], [class*=card], div') || a;
+                        return {href: a.href, parts: Array.from(a.querySelectorAll('*'))
+                                .filter(e => e.children.length === 0).map(e => e.innerText.trim()).filter(Boolean),
+                                text: a.innerText.trim(), rowText: (row.innerText || '').trim()};
+                    })""")
+                except Exception:
+                    pass
+            browser.close()
+        jobs, seen = [], set()
+        for r in rows:
+            href = r["href"].split("#")[0]
+            if not rx.search(href) or href in seen:
+                continue
+            lines = [x.strip() for x in (r["text"] or r["rowText"]).split("\n") if x.strip()]
+            lines = [x for x in lines if x.lower() not in ("apply", "apply now", "view", "view job", "learn more")]
+            if not lines:
+                continue
+            seen.add(href)
+            loc = ", ".join(lines[1:3]) if len(lines) > 1 else ""
+            jobs.append(make_job(lines[0], "General", loc, href, company))
+        log.info(f"    Link match: {len(jobs)} jobs")
+        return jobs
+    except Exception as e:
+        log.warning(f"    Link match scraper failed: {e}")
+        return []
+
+
 def scrape_careerplug(slug, company, fallback_url):
     """Scrape CareerPlug jobs board via HTML — jobs are in static HTML with aria-labels."""
     url = fallback_url or f"https://{slug}.careerplug.com/jobs"
@@ -789,6 +871,10 @@ def route_to_scraper(ats, slug, name, jobs_url):
         return scrape_rippling(slug, name, jobs_url)
     elif ats == "jazzhr":
         return scrape_jazzhr(slug, name, jobs_url)
+    elif ats == "liftoff_app":
+        return scrape_linkmatch(jobs_url, name, r"app\.onliftoff\.com/")
+    elif ats == "kula":
+        return scrape_kula(jobs_url, name)
     elif ats == "notion":
         return scrape_notion(jobs_url, name)
     elif ats == "commenda":
