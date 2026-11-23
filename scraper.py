@@ -48,7 +48,6 @@ SKIP_COMPANIES = {
     "next insurance",
     "ergo next",
     "next insurance (acquired by munichre)",
-    "navigate ai",  # careers page has no individual listings yet
 }
 
 # Hardcoded overrides — ONLY used when auto-detection returns nothing.
@@ -57,6 +56,7 @@ KNOWN_ATS = {
     "faire":                         ("greenhouse", "Faire",        "https://boards.greenhouse.io/faire"),
     "superhuman":                    ("ashby", "Superhuman%20Platform%20Inc", "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc"),
     "instawork":                     ("greenhouse", "instawork",    "https://boards.greenhouse.io/instawork"),
+    "stress-free auto care":         ("generic",    None,           "https://careers.stressfree.com"),
     "handshake":                     ("ashby_embedded", None,       "https://joinhandshake.com/careers/"),
     "lattice":                       ("greenhouse", "lattice",      "https://boards.greenhouse.io/lattice"),
     "ada":                           ("greenhouse", "ada18",        "https://job-boards.greenhouse.io/ada18"),
@@ -70,7 +70,6 @@ KNOWN_ATS = {
     "lily":                          ("greenhouse", "lilyai",       "https://boards.greenhouse.io/lilyai"),
     "medely":                        ("ashby",      "medely",       "https://jobs.ashbyhq.com/medely"),
     "padlet":                        ("ashby_embedded", None,       "https://padlet.jobs/open-roles"),
-    "peek":                          ("greenhouse", "peek",         "https://boards.greenhouse.io/peek"),
     "workstream":                    ("greenhouse", "workstream",   "https://boards.greenhouse.io/workstream"),
     "wonderschool":                  ("ashby",      "wonderschool", "https://jobs.ashbyhq.com/wonderschool"),
     "ava":                           ("ashby",      "ava",          "https://jobs.ashbyhq.com/ava"),
@@ -79,16 +78,14 @@ KNOWN_ATS = {
     "huckleberry":                   ("lever",      "huckleberry",  "https://jobs.lever.co/huckleberry"),
     "goodtime":                      ("lever",      "goodtime",     "https://jobs.lever.co/goodtime"),
     "sourcegraph":                   ("greenhouse", "sourcegraph91","https://boards.greenhouse.io/sourcegraph91"),
-    "liftoff":                       ("greenhouse", "liftoff",      "https://boards.greenhouse.io/liftoff"),
     "trendsi":                       ("lever",      "trendsi",      "https://jobs.lever.co/trendsi"),
     "lilo":                          ("lever",      "lilo",         "https://jobs.lever.co/lilo"),
     "willow":                        ("yc",         "willow",       "https://www.ycombinator.com/companies/willow/jobs"),
-    "woz":                           ("yc",         "woz",          "https://www.ycombinator.com/companies/woz/jobs"),
     "namespace":                     ("yc",         "namespace",    "https://www.ycombinator.com/companies/namespace/jobs"),
     "sibli":                         ("yc",         "sibli",        "https://www.ycombinator.com/companies/sibli/jobs"),
     "allstripes (acquired by picnic health)": ("greenhouse", "picnichealth",  "https://boards.greenhouse.io/picnichealth"),
     "northstar (acquired by nayya health)":   ("greenhouse", "nayya",         "https://boards.greenhouse.io/nayya"),
-    "via (acquired by justworks)":            ("greenhouse", "justworks",     "https://boards.greenhouse.io/justworks"),
+    "justworks": ("greenhouse", "justworks",     "https://boards.greenhouse.io/justworks"),
     "yik yak (acquired by sidechat)":         ("greenhouse", "sidechat",      "https://boards.greenhouse.io/sidechat"),
     "setter.com (acquired by thumbtack)":     ("greenhouse", "thumbtackjobs", "https://boards.greenhouse.io/thumbtackjobs"),
     "assemble (acquired by deel)":            ("ashby",      "deel",          "https://jobs.ashbyhq.com/deel"),
@@ -107,7 +104,6 @@ KNOWN_ATS = {
     "emanate":                               ("ashby",      "emanate",       "https://jobs.ashbyhq.com/emanate"),
     "mintmcp":                               ("ashby",      "mintmcp",       "https://jobs.ashbyhq.com/mintmcp"),
     "hostie":                                ("rippling",   "hostie",        "https://ats.rippling.com/hostie/jobs"),
-    "garage":                                ("ashby",      "garage",        "https://jobs.ashbyhq.com/garage"),
 }
 
 
@@ -120,7 +116,24 @@ def fetch_html(url, use_playwright=False):
                 browser = p.chromium.launch(headless=True)
                 page = browser.new_page(extra_http_headers=HEADERS)
                 page.goto(url, wait_until="domcontentloaded", timeout=15000)
-                page.wait_for_timeout(1000)
+                page.wait_for_timeout(2500)
+                # Scroll and click "load/show more" so lazy-loaded roles all render
+                last_h = 0
+                for _ in range(15):
+                    page.mouse.wheel(0, 4000)
+                    page.wait_for_timeout(600)
+                    for lbl in ("Load more", "Show more", "See more", "View more", "Show all", "View all"):
+                        try:
+                            btn = page.get_by_role("button", name=re.compile(lbl, re.I)).first
+                            if btn.is_visible(timeout=200):
+                                btn.click(timeout=1500)
+                                page.wait_for_timeout(800)
+                        except Exception:
+                            pass
+                    h = page.evaluate("document.body.scrollHeight")
+                    if h == last_h:
+                        break
+                    last_h = h
                 html = page.content()
                 browser.close()
                 return html
@@ -340,9 +353,11 @@ def scrape_ashby_embedded(jobs_url, company):
         if "ashby_jid=" not in href:
             continue
         title = re.sub(r'\s*View\s*$', '', a.get_text(strip=True)).strip()
-        if not title or title in seen or len(title) < 3:
+        uuid_m = re.search(r'ashby_jid=([0-9a-f-]{36})', href)
+        key = uuid_m.group(1) if uuid_m else (title, href)
+        if not title or key in seen or len(title) < 3:
             continue
-        seen.add(title)
+        seen.add(key)
         # Extract UUID and build direct Ashby app URL (stable, works without JS)
         uuid_m = re.search(r'ashby_jid=([0-9a-f-]{36})', href)
         job_url = f"https://app.ashbyhq.com/jobs/{uuid_m.group(1)}" if uuid_m else urljoin(jobs_url, href)
@@ -548,9 +563,10 @@ def scrape_generic(jobs_url, company):
         if not a:
             continue
         title = a.get_text(strip=True)
-        if not title or len(title) < 3 or title in seen:
+        key = (title, a["href"])
+        if not title or len(title) < 3 or key in seen:
             continue
-        seen.add(title)
+        seen.add(key)
         text = container.get_text(" ", strip=True)
         loc_m = re.search(r'\b(Remote|New York|San Francisco|Los Angeles|Austin|'
                            r'London|Chicago|Seattle|Boston|Denver|[A-Z][a-z]+,\s*[A-Z]{2})\b', text)
