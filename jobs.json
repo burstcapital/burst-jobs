@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23T23:41:16.705529+00:00",
-  "total_jobs": 820,
+  "generated_at": "2026-11-24T19:36:02.272759+00:00",
+  "total_jobs": 795,
   "total_companies": 90,
   "companies_with_jobs": 52,
   "failed_companies": [
@@ -62,6 +62,10 @@
     },
     {
       "name": "Prox",
+      "reason": "no jobs page found"
+    },
+    {
+      "name": "Sibli",
       "reason": "no jobs page found"
     },
     {
@@ -155,7 +159,7 @@
       "company_website": "https://www.bounce.com"
     },
     {
-      "title": "Product Manager, New Verticals",
+      "title": "Senior Product Manager, New Verticals",
       "department": "Product",
       "location": "Lisbon",
       "url": "https://jobs.ashbyhq.com/Bounce/4b03fb05-a77f-48ed-8711-58a39ec54d99",
@@ -223,6 +227,14 @@
       "department": "Research & Development",
       "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/Cambly/2e7dd09c-3678-4324-ade9-486e791322fa",
+      "company": "Cambly",
+      "company_website": "https://www.cambly.com"
+    },
+    {
+      "title": "Design Systems Designer (Contract)",
+      "department": "Research & Development",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/Cambly/c1a6134c-5a63-411b-9127-6fd03cf837fb",
       "company": "Cambly",
       "company_website": "https://www.cambly.com"
     },
@@ -867,14 +879,6 @@
       "company_website": "https://www.curri.com"
     },
     {
-      "title": "Account Manager - East",
-      "department": "Growth",
-      "location": "Chicago, IL",
-      "url": "https://jobs.ashbyhq.com/curri/7011a03e-5e8f-4216-be80-83ebdb262f8c",
-      "company": "Curri",
-      "company_website": "https://www.curri.com"
-    },
-    {
       "title": "Senior Security Engineer",
       "department": "Technology",
       "location": "Remote - United States",
@@ -1325,16 +1329,16 @@
     {
       "title": "Head of Paid Marketing",
       "department": "Marketing",
-      "location": "New York City, NY",
-      "url": "https://boards.greenhouse.io/faire/jobs/8881701002?gh_jid=8881701002",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8872721002?gh_jid=8872721002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Head of Paid Marketing",
       "department": "Marketing",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8872721002?gh_jid=8872721002",
+      "location": "New York City, NY",
+      "url": "https://boards.greenhouse.io/faire/jobs/8881701002?gh_jid=8881701002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1429,16 +1433,16 @@
     {
       "title": "Senior Applied AI/ML Scientist - Compass",
       "department": "Algorithms & Data",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8610312002?gh_jid=8610312002",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8610263002?gh_jid=8610263002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Senior Applied AI/ML Scientist - Compass",
       "department": "Algorithms & Data",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8610263002?gh_jid=8610263002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8610312002?gh_jid=8610312002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1485,8 +1489,8 @@
     {
       "title": "Senior Applied ML/AI Scientist - Search",
       "department": "Algorithms & Data",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8618151002?gh_jid=8618151002",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8660923002?gh_jid=8660923002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1501,8 +1505,8 @@
     {
       "title": "Senior Applied ML/AI Scientist - Search",
       "department": "Algorithms & Data",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8660923002?gh_jid=8660923002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8618151002?gh_jid=8618151002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1597,16 +1601,16 @@
     {
       "title": "Senior Software Engineer - Product Security",
       "department": "Engineering",
-      "location": "Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8899843002?gh_jid=8899843002",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8959089002?gh_jid=8959089002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Senior Software Engineer - Product Security",
       "department": "Engineering",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8959089002?gh_jid=8959089002",
+      "location": "Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8899843002?gh_jid=8899843002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -2077,7 +2081,7 @@
     {
       "title": "Enterprise Account Manager",
       "department": "General",
-      "location": "Enterprise Account Manager, Employer Revenue, San Francisco, CA; New York, NY",
+      "location": "Enterprise Account Manager, Employer Revenue, New York, NY; New York, NY",
       "url": "https://jobs.ashbyhq.com/handshake/a94b9f88-8916-4dc4-967f-33b08e33bf3a",
       "company": "Handshake",
       "company_website": "https://joinhandshake.com"
@@ -2499,14 +2503,6 @@
       "company_website": "https://joinhandshake.com"
     },
     {
-      "title": "Strategic Projects Associate, Safety",
-      "department": "General",
-      "location": "Strategic Projects Associate, Safety, HAI Delivery Ops, Seattle, WA",
-      "url": "https://jobs.ashbyhq.com/handshake/ab520a1e-0afc-42c8-854d-781917a30427",
-      "company": "Handshake",
-      "company_website": "https://joinhandshake.com"
-    },
-    {
       "title": "Strategic Projects Lead",
       "department": "General",
       "location": "Strategic Projects Lead, HAI Delivery Ops, San Francisco, CA; New York, NY",
@@ -2535,6 +2531,14 @@
       "department": "General",
       "location": "Strategic Projects Lead, Coding, HAI Delivery Ops, India",
       "url": "https://jobs.ashbyhq.com/handshake/1f996bb7-53b5-4150-be1e-4bdf183b83dc",
+      "company": "Handshake",
+      "company_website": "https://joinhandshake.com"
+    },
+    {
+      "title": "Strategic Projects Lead, Safety",
+      "department": "General",
+      "location": "Strategic Projects Lead, Safety, HAI Delivery Ops, Seattle, WA",
+      "url": "https://jobs.ashbyhq.com/handshake/9f946d08-5483-4ed7-9c29-27406ad4492f",
       "company": "Handshake",
       "company_website": "https://joinhandshake.com"
     },
@@ -2615,14 +2619,6 @@
       "department": "Finance",
       "location": "Distributed, \ud83c\uddfa\ud83c\uddf8 + \ud83c\udde8\ud83c\udde6 (US + Canada)",
       "url": "https://job-boards.greenhouse.io/hatchcareers/jobs/4725174006",
-      "company": "Hatch Baby",
-      "company_website": "https://www.hatch.co"
-    },
-    {
-      "title": "Senior Product Designer",
-      "department": "Design",
-      "location": "Distributed, \ud83c\uddfa\ud83c\uddf8 + \ud83c\udde8\ud83c\udde6 (US + Canada)",
-      "url": "https://job-boards.greenhouse.io/hatchcareers/jobs/4725330006",
       "company": "Hatch Baby",
       "company_website": "https://www.hatch.co"
     },
@@ -2805,16 +2801,16 @@
     {
       "title": "Enterprise Account Executive - Light Industrial",
       "department": "Sales",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4573123006",
+      "location": "New York, New York, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4573114006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
     {
       "title": "Enterprise Account Executive - Light Industrial",
       "department": "Sales",
-      "location": "New York, New York, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4573114006",
+      "location": "San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4573123006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2838,7 +2834,7 @@
       "title": "Field Operations Executive",
       "department": "Robotics",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4625772006",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4701137006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2846,7 +2842,7 @@
       "title": "Field Operations Executive",
       "department": "Robotics",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4701137006",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4625772006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2997,16 +2993,16 @@
     {
       "title": "Product Operations Analyst",
       "department": "Product Operations",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583588006",
+      "location": "San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583589006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
     {
       "title": "Product Operations Analyst",
       "department": "Product Operations",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583589006",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583588006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -3325,16 +3321,16 @@
     {
       "title": "Director, Implementation & Transformation",
       "department": "Operations, Payments & Tax",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8089577?gh_jid=8089577",
+      "location": "Tampa, Florida",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8112896?gh_jid=8112896",
       "company": "JustWorks",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Director, Implementation & Transformation",
       "department": "Operations, Payments & Tax",
-      "location": "Tampa, Florida",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8112896?gh_jid=8112896",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8089577?gh_jid=8089577",
       "company": "JustWorks",
       "company_website": "https://www.justworks.com"
     },
@@ -3439,6 +3435,14 @@
       "department": "Marketing",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/8237024?gh_jid=8237024",
+      "company": "JustWorks",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "HR Consultant",
+      "department": "Customer Success",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8399747?gh_jid=8399747",
       "company": "JustWorks",
       "company_website": "https://www.justworks.com"
     },
@@ -3611,14 +3615,6 @@
       "company_website": "https://www.justworks.com"
     },
     {
-      "title": "Senior Analyst, People Systems (Workday PATT)",
-      "department": "People",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8292657?gh_jid=8292657",
-      "company": "JustWorks",
-      "company_website": "https://www.justworks.com"
-    },
-    {
       "title": "Senior Analyst, Workday Integrations",
       "department": "People",
       "location": "New York, New York",
@@ -3631,6 +3627,14 @@
       "department": "Marketing",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/8359466?gh_jid=8359466",
+      "company": "JustWorks",
+      "company_website": "https://www.justworks.com"
+    },
+    {
+      "title": "Senior Database Reliability Engineer",
+      "department": "Engineering",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8393878?gh_jid=8393878",
       "company": "JustWorks",
       "company_website": "https://www.justworks.com"
     },
@@ -4067,10 +4071,18 @@
       "company_website": "https://medely.com"
     },
     {
+      "title": "Technical Customer Success Manager",
+      "department": "GTM",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/Mintive/288146a7-e4b7-4f68-9180-baa521799f3a",
+      "company": "MintMCP",
+      "company_website": "https://www.mintmcp.com"
+    },
+    {
       "title": "Software Engineer",
       "department": "Engineering",
       "location": "San Mateo, CA",
-      "url": "https://jobs.ashbyhq.com/Mintive/d910b5bd-0580-45cb-bce8-93ee8deb2215",
+      "url": "https://jobs.ashbyhq.com/Mintive/43247577-1b4f-45ff-abaf-dbc9c6c38090",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -4078,31 +4090,7 @@
       "title": "Founding Sales Engineer",
       "department": "GTM",
       "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/Mintive/d6d89710-5640-4f3c-aff6-67781a6abbb2",
-      "company": "MintMCP",
-      "company_website": "https://www.mintmcp.com"
-    },
-    {
-      "title": "Founding RevOps Lead",
-      "department": "GTM",
-      "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/Mintive/3e3c94b3-bee5-4fb3-aab7-ba69c628de19",
-      "company": "MintMCP",
-      "company_website": "https://www.mintmcp.com"
-    },
-    {
-      "title": "Founding Account Executive",
-      "department": "GTM",
-      "location": "New York",
-      "url": "https://jobs.ashbyhq.com/Mintive/e7fead1e-38ef-4379-94ac-82e043d8edf9",
-      "company": "MintMCP",
-      "company_website": "https://www.mintmcp.com"
-    },
-    {
-      "title": "Technical Customer Success Manager",
-      "department": "GTM",
-      "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/Mintive/92ad9c24-9b8d-49f4-8873-a345bffd205f",
+      "url": "https://jobs.ashbyhq.com/Mintive/1104028b-1acd-44fe-b772-e39433c549c0",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -4110,7 +4098,7 @@
       "title": "Founding Product Marketing Manager",
       "department": "GTM",
       "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/Mintive/0e34710d-7c14-4a86-a95f-2b1779bb3841",
+      "url": "https://jobs.ashbyhq.com/Mintive/44cc1d06-b045-434e-9788-223d8c6981f4",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -4118,7 +4106,15 @@
       "title": "Founding Growth Marketer",
       "department": "GTM",
       "location": "San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/Mintive/8f25c7b3-7de3-4da3-a26a-a3179ce73ca1",
+      "url": "https://jobs.ashbyhq.com/Mintive/934a6f49-5a45-4511-80f0-f2d07f4b9986",
+      "company": "MintMCP",
+      "company_website": "https://www.mintmcp.com"
+    },
+    {
+      "title": "Founding Account Executive",
+      "department": "GTM",
+      "location": "New York",
+      "url": "https://jobs.ashbyhq.com/Mintive/920aa00a-952b-43b7-ac8e-d940d43db0c7",
       "company": "MintMCP",
       "company_website": "https://www.mintmcp.com"
     },
@@ -4355,7 +4351,7 @@
       "company_website": "https://www.owner.com"
     },
     {
-      "title": "Product Strategy and Operations, Senior Associate - New Verticals",
+      "title": "Product - Strategy & Analytics, Senior Associate [POS & AI Phone Ordering]",
       "department": "G&A",
       "location": "Remote - United States",
       "url": "https://jobs.ashbyhq.com/owner/afeed50a-1b63-4b6f-a050-24160ce5dfed",
@@ -4451,7 +4447,7 @@
       "company_website": "https://www.owner.com"
     },
     {
-      "title": "Senior Software Engineer, Guest Acquisition",
+      "title": "Staff Software Engineer, Guest Acquisition",
       "department": "Engineering, Product, and Design",
       "location": "Remote - United States",
       "url": "https://jobs.ashbyhq.com/owner/24d84705-5c07-4ceb-8cbd-cc1cb24db851",
@@ -4535,6 +4531,14 @@
       "department": "Customer Experience",
       "location": "Remote - United States",
       "url": "https://jobs.ashbyhq.com/owner/6eaa2c02-9647-41b4-a730-ae308e089fd4",
+      "company": "Owner",
+      "company_website": "https://www.owner.com"
+    },
+    {
+      "title": "Senior Financial Planning & Strategy Analyst",
+      "department": "G&A",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/owner/4c107bd8-6fee-42e3-bb96-da267a7719b8",
       "company": "Owner",
       "company_website": "https://www.owner.com"
     },
@@ -4627,7 +4631,7 @@
       "company_website": "https://www.owner.com"
     },
     {
-      "title": "GTM, Strategy and Analytics Lead",
+      "title": "GTM - Strategy, Operations and Analytics, Lead",
       "department": "G&A",
       "location": "Remote - United States or Canada",
       "url": "https://jobs.ashbyhq.com/owner/6b3a22e1-3477-420d-8515-9ed17eafdfe0",
@@ -4719,6 +4723,14 @@
       "department": "Engineering, Product, and Design",
       "location": "Remote - United States or Canada",
       "url": "https://jobs.ashbyhq.com/owner/54d8a3cf-d69f-46bb-8757-a8b24cc02b37",
+      "company": "Owner",
+      "company_website": "https://www.owner.com"
+    },
+    {
+      "title": "Strategic Partnership Manager",
+      "department": "Revenue",
+      "location": "Remote - United States",
+      "url": "https://jobs.ashbyhq.com/owner/943bee5c-77c2-4c59-a462-a65c48e0bc04",
       "company": "Owner",
       "company_website": "https://www.owner.com"
     },
@@ -4981,7 +4993,7 @@
     {
       "title": "Strategic Partnership Manager",
       "department": "Revenue",
-      "location": "New York, New York",
+      "location": "United States",
       "url": "https://jobs.ashbyhq.com/resq/f210f2ab-931d-4201-b589-0316f3487720",
       "company": "ResQ",
       "company_website": "https://www.getresq.com"
@@ -5179,154 +5191,10 @@
       "company_website": "https://www.usestable.com"
     },
     {
-      "title": "Assistant General ManagerStore ManagementBurlingame, CA$79k\u2013$96k/yrFull-timeabout 1 month ago",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://careers.stressfree.com/assistant-general-manager-burlingame-ca",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "General ManagerStore ManagementBurlingame, CA$108k\u2013$132k/yrFull-timeabout 1 month ago",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://careers.stressfree.com/general-manager-burlingame-ca",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "Assistant General ManagerStore ManagementCupertino, CA$79k\u2013$96k/yrFull-timeabout 1 month ago",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://careers.stressfree.com/assistant-general-manager-cupertino-ca",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "General ManagerStore ManagementCupertino, CA$108k\u2013$132k/yrFull-timeabout 1 month ago",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://careers.stressfree.com/general-manager-cupertino-ca",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "General ManagerStore ManagementFairfield, CA$87k\u2013$106k/yrFull-time26 days ago",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://careers.stressfree.com/general-manager-21",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "General ManagerStore ManagementFremont, CA$103k\u2013$126k/yrFull-timeabout 4 hours ago",
+      "title": "General ManagerStore ManagementFremont, CA$103k\u2013$126k/yrFull-time1 day ago",
       "department": "General",
       "location": "Not specified",
       "url": "https://careers.stressfree.com/general-manager-28",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "Assistant General ManagerStore ManagementIrvine, CA$76k\u2013$93k/yrFull-timeabout 1 month ago",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://careers.stressfree.com/assistant-general-manager-irvine-ca",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "General ManagerStore ManagementIrvine, CA$102k\u2013$125k/yrFull-timeabout 1 month ago",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://careers.stressfree.com/general-manager-irvine-ca",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "Assistant General ManagerStore ManagementKeller, TX$66k\u2013$81k/yrFull-timeabout 1 month ago",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://careers.stressfree.com/assistant-general-manager-keller-tx",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "General ManagerStore ManagementKeller, TX$79k\u2013$96k/yrFull-timeabout 1 month ago",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://careers.stressfree.com/general-manager-10",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "Assistant General ManagerStore ManagementOrangevale, CA$75k\u2013$92k/yrFull-timeabout 1 month ago",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://careers.stressfree.com/assistant-general-manager-20",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "General ManagerStore ManagementOrangevale, CA$87k\u2013$106k/yrFull-timeabout 1 month ago",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://careers.stressfree.com/general-manager-19",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "Assistant General ManagerStore ManagementPasadena, CA$76k\u2013$93k/yrFull-timeabout 1 month ago",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://careers.stressfree.com/assistant-general-manager-pasadena-ca",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "General ManagerStore ManagementPasadena, CA$102k\u2013$125k/yrFull-timeabout 1 month ago",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://careers.stressfree.com/general-manager-pasadena-ca",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "Assistant General ManagerStore ManagementRichardson, TX$66k\u2013$81k/yrFull-timeabout 1 month ago",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://careers.stressfree.com/assistant-general-manager-richardson-tx",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "General ManagerStore ManagementRichardson, TX$79k\u2013$96k/yrFull-timeabout 1 month ago",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://careers.stressfree.com/general-manager-15",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "Assistant General ManagerStore ManagementRoseville, CA$75k\u2013$92k/yrFull-timeabout 1 month ago",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://careers.stressfree.com/assistant-general-manager-roseville-ca",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "General ManagerStore ManagementRoseville, CA$87k\u2013$106k/yrFull-timeabout 1 month ago",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://careers.stressfree.com/general-manager-roseville-ca",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "Assistant General ManagerStore ManagementSan Diego, CA$76k\u2013$93k/yrFull-timeabout 1 month ago",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://careers.stressfree.com/assistant-general-manager-san-diego-ca",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
@@ -5339,66 +5207,10 @@
       "company_website": "https://www.stressfree.com"
     },
     {
-      "title": "General ManagerStore ManagementSan Diego, CA$102k\u2013$125k/yrFull-timeabout 1 month ago",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://careers.stressfree.com/general-manager-san-diego-ca",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
       "title": "Operations Program ManagerPeople OperationsSan Jose, CA$100k\u2013$120k/yrFull-timeabout 1 month ago",
       "department": "General",
       "location": "Not specified",
       "url": "https://careers.stressfree.com/operations-program-manager-6",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "Assistant General ManagerStore ManagementUnion City, CA$77k\u2013$94k/yrFull-timeabout 1 month ago",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://careers.stressfree.com/assistant-general-manager-union-city-ca",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "General ManagerStore ManagementUnion City, CA$103k\u2013$126k/yrFull-timeabout 1 month ago",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://careers.stressfree.com/general-manager-union-city-ca",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "Assistant General ManagerStore ManagementVacaville, CA$75k\u2013$92k/yrFull-time10 days ago",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://careers.stressfree.com/assistant-general-manager-vacaville-ca",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "General ManagerStore ManagementVacaville, CA$87k\u2013$106k/yrFull-time10 days ago",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://careers.stressfree.com/general-manager-vacaville-ca",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "Assistant General ManagerStore ManagementWalnut Creek, CA$77k\u2013$94k/yrFull-timeabout 1 month ago",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://careers.stressfree.com/assistant-general-manager-walnut-creek-ca",
-      "company": "Stress-Free Auto Care",
-      "company_website": "https://www.stressfree.com"
-    },
-    {
-      "title": "General ManagerStore ManagementWalnut Creek, CA$103k\u2013$126k/yrFull-timeabout 1 month ago",
-      "department": "General",
-      "location": "Not specified",
-      "url": "https://careers.stressfree.com/general-manager-walnut-creek-ca",
       "company": "Stress-Free Auto Care",
       "company_website": "https://www.stressfree.com"
     },
@@ -5819,30 +5631,6 @@
       "company_website": "https://superhuman.com"
     },
     {
-      "title": "AI Engineer (Superhuman Mail) - US",
-      "department": "Engineering, Product, Design, and Marketing",
-      "location": "Remote - United States",
-      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/edb3c03d-5a9d-47ef-a3de-63fc5f742776",
-      "company": "Superhuman",
-      "company_website": "https://superhuman.com"
-    },
-    {
-      "title": "AI Engineer (Superhuman Mail) - Canada",
-      "department": "Engineering, Product, Design, and Marketing",
-      "location": "Remote - Canada",
-      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/5a447015-a4c6-4406-b56a-fc3a01d78db3",
-      "company": "Superhuman",
-      "company_website": "https://superhuman.com"
-    },
-    {
-      "title": "AI Engineer (Superhuman Mail) - Latin America",
-      "department": "Engineering, Product, Design, and Marketing",
-      "location": "Remote - Argentina",
-      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/b10a5c44-00a5-4887-879f-05c795d5660b",
-      "company": "Superhuman",
-      "company_website": "https://superhuman.com"
-    },
-    {
       "title": "Director, Strategic Finance",
       "department": "G&A",
       "location": "Hub - San Francisco",
@@ -6147,6 +5935,14 @@
       "company_website": "https://willowvoice.com"
     },
     {
+      "title": "Account Executive (Sales & Implementation)",
+      "department": "Sales & Operations",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8215511003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
       "title": "AI Agent Product Manager",
       "department": "Product",
       "location": "San Francisco",
@@ -6277,38 +6073,6 @@
     {
       "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
       "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Mequon, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8161589003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
-      "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Clintonville, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8179114003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
-      "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Oshkosh, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8161601003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
-      "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Port Washington, Wisconsin, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8161595003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
-      "department": "Wonderschool Substitutes (SubPool)",
       "location": "West Bend, Wisconsin, United States",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8161593003",
       "company": "Wonderschool",
@@ -6333,8 +6097,40 @@
     {
       "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
       "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Mequon, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8161589003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
+      "department": "Wonderschool Substitutes (SubPool)",
       "location": "Sheboygan, Wisconsin, United States",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8161591003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
+      "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Port Washington, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8161595003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
+      "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Oshkosh, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8161601003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Preschool/Daycare) - $16-$17/hr",
+      "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Clintonville, Wisconsin, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8179114003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -6357,14 +6153,6 @@
     {
       "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
       "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Southport, North Carolina, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034550003",
-      "company": "Wonderschool",
-      "company_website": "https://www.wonderschool.com"
-    },
-    {
-      "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
-      "department": "Wonderschool Substitutes (SubPool)",
       "location": "Leland, North Carolina, United States",
       "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034552003",
       "company": "Wonderschool",
@@ -6373,16 +6161,24 @@
     {
       "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
       "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Wilmington, North Carolina, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034545003",
+      "location": "Shallotte, North Carolina, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034547003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
     {
       "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
       "department": "Wonderschool Substitutes (SubPool)",
-      "location": "Shallotte, North Carolina, United States",
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034547003",
+      "location": "Southport, North Carolina, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034550003",
+      "company": "Wonderschool",
+      "company_website": "https://www.wonderschool.com"
+    },
+    {
+      "title": "Part-Time Substitute Teacher (Up to $144 Daily)",
+      "department": "Wonderschool Substitutes (SubPool)",
+      "location": "Wilmington, North Carolina, United States",
+      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8034545003",
       "company": "Wonderschool",
       "company_website": "https://www.wonderschool.com"
     },
@@ -6491,6 +6287,14 @@
       "company_website": "https://www.workstream.us"
     },
     {
+      "title": "Full Stack Engineer Intern",
+      "department": "Engineering",
+      "location": "Vancouver",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6265872004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
       "title": "General Application",
       "department": "GTM Engineering",
       "location": "Workstream Hubs",
@@ -6563,34 +6367,26 @@
       "company_website": "https://www.workstream.us"
     },
     {
+      "title": "Senior Software Engineer",
+      "department": "Engineering",
+      "location": "Chengdu, China",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6269940004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
+      "title": "Senior Software Engineer",
+      "department": "Engineering",
+      "location": "Shanghai",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6269939004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
       "title": "Senior Software Solutions Engineer",
       "department": "GTM Engineering",
       "location": "Manila, Philippines",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/6209137004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "Senior Staff Software Engineer",
-      "department": "Engineering",
-      "location": "Shanghai and Chengdu",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6260933004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "Senior Staff Software Engineer",
-      "department": "Engineering",
-      "location": "Singapore",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6260934004",
-      "company": "Workstream",
-      "company_website": "https://www.workstream.us"
-    },
-    {
-      "title": "Staff Full Stack Engineer",
-      "department": "Engineering",
-      "location": "Vancouver, British Columbia, Canada",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6204364004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6603,10 +6399,10 @@
       "company_website": "https://www.workstream.us"
     },
     {
-      "title": "Staff Software Engineer",
+      "title": "Staff Full Stack Engineer",
       "department": "Engineering",
-      "location": "Shanghai and Chengdu",
-      "url": "https://job-boards.greenhouse.io/workstream/jobs/6260930004",
+      "location": "Vancouver, British Columbia, Canada",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6204364004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
@@ -6615,6 +6411,14 @@
       "department": "Engineering",
       "location": "Singapore",
       "url": "https://job-boards.greenhouse.io/workstream/jobs/6260931004",
+      "company": "Workstream",
+      "company_website": "https://www.workstream.us"
+    },
+    {
+      "title": "Staff Software Engineer",
+      "department": "Engineering",
+      "location": "Shanghai and Chengdu",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6260930004",
       "company": "Workstream",
       "company_website": "https://www.workstream.us"
     },
