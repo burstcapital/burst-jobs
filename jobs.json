@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T18:41:21.583008+00:00",
-  "total_jobs": 795,
+  "generated_at": "2026-11-26T18:24:26.205972+00:00",
+  "total_jobs": 788,
   "total_companies": 90,
   "companies_with_jobs": 52,
   "failed_companies": [
@@ -62,10 +62,6 @@
     },
     {
       "name": "Prox",
-      "reason": "no jobs page found"
-    },
-    {
-      "name": "Sibli",
       "reason": "no jobs page found"
     },
     {
@@ -1279,14 +1275,6 @@
       "company_website": "https://www.faire.com"
     },
     {
-      "title": "Customer Experience Associate (3 Month Fixed-Term Contract)",
-      "department": "Customer Support",
-      "location": "Kitchener-Waterloo, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8877587002?gh_jid=8877587002",
-      "company": "Faire",
-      "company_website": "https://www.faire.com"
-    },
-    {
       "title": "Director, Global Equity",
       "department": "Accounting",
       "location": "Remote - US",
@@ -1329,16 +1317,16 @@
     {
       "title": "Head of Paid Marketing",
       "department": "Marketing",
-      "location": "New York City, NY",
-      "url": "https://boards.greenhouse.io/faire/jobs/8881701002?gh_jid=8881701002",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8872721002?gh_jid=8872721002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Head of Paid Marketing",
       "department": "Marketing",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8872721002?gh_jid=8872721002",
+      "location": "New York City, NY",
+      "url": "https://boards.greenhouse.io/faire/jobs/8881701002?gh_jid=8881701002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1657,16 +1645,16 @@
     {
       "title": "Staff Data Infrastructure Engineer",
       "department": "Engineering",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8860409002?gh_jid=8860409002",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8806617002?gh_jid=8806617002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Staff Data Infrastructure Engineer",
       "department": "Engineering",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8806617002?gh_jid=8806617002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8860409002?gh_jid=8860409002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -2399,14 +2387,6 @@
       "company_website": "https://joinhandshake.com"
     },
     {
-      "title": "Senior Software Engineer, Backend Platform",
-      "department": "General",
-      "location": "Senior Software Engineer, Backend Platform, Engineering, San Francisco, CA",
-      "url": "https://jobs.ashbyhq.com/handshake/1aa9394e-0080-42b2-8402-f2f5fe7fa15b",
-      "company": "Handshake",
-      "company_website": "https://joinhandshake.com"
-    },
-    {
       "title": "Senior Software Engineer, Coding",
       "department": "General",
       "location": "Senior Software Engineer, Coding, Engineering, India",
@@ -2817,16 +2797,16 @@
     {
       "title": "Enterprise Account Executive - Light Industrial",
       "department": "Sales",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4573123006",
+      "location": "New York, New York, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4573114006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
     {
       "title": "Enterprise Account Executive - Light Industrial",
       "department": "Sales",
-      "location": "New York, New York, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4573114006",
+      "location": "San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4573123006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2850,7 +2830,7 @@
       "title": "Field Operations Executive",
       "department": "Robotics",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4625772006",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4701137006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -2858,7 +2838,7 @@
       "title": "Field Operations Executive",
       "department": "Robotics",
       "location": "Bengaluru, Karnataka, India",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4701137006",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4625772006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -3009,16 +2989,16 @@
     {
       "title": "Product Operations Analyst",
       "department": "Product Operations",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583588006",
+      "location": "San Francisco, California, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583589006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
     {
       "title": "Product Operations Analyst",
       "department": "Product Operations",
-      "location": "San Francisco, California, United States",
-      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583589006",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://job-boards.greenhouse.io/instawork/jobs/4583588006",
       "company": "Instawork",
       "company_website": "https://www.instawork.com"
     },
@@ -3367,14 +3347,6 @@
       "company_website": "https://www.justworks.com"
     },
     {
-      "title": "Director, Paid Growth",
-      "department": "Marketing",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8383916?gh_jid=8383916",
-      "company": "JustWorks",
-      "company_website": "https://www.justworks.com"
-    },
-    {
       "title": "Director, Total Rewards",
       "department": "People",
       "location": "New York, New York",
@@ -3505,16 +3477,16 @@
     {
       "title": "Manager, International Onboarding (EOR)",
       "department": "Customer Success, International Products",
-      "location": "Mexico City, Mexico",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8359309?gh_jid=8359309",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8359307?gh_jid=8359307",
       "company": "JustWorks",
       "company_website": "https://www.justworks.com"
     },
     {
       "title": "Manager, International Onboarding (EOR)",
       "department": "Customer Success, International Products",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8359307?gh_jid=8359307",
+      "location": "Mexico City, Mexico",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8359309?gh_jid=8359309",
       "company": "JustWorks",
       "company_website": "https://www.justworks.com"
     },
@@ -3635,14 +3607,6 @@
       "department": "People",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/8324732?gh_jid=8324732",
-      "company": "JustWorks",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Senior Copywriter",
-      "department": "Marketing",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8359466?gh_jid=8359466",
       "company": "JustWorks",
       "company_website": "https://www.justworks.com"
     },
@@ -3775,6 +3739,14 @@
       "company_website": "https://www.justworks.com"
     },
     {
+      "title": "Senior Partner Marketing Experience Manager",
+      "department": "Marketing",
+      "location": "New York, New York",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8417181?gh_jid=8417181",
+      "company": "JustWorks",
+      "company_website": "https://www.justworks.com"
+    },
+    {
       "title": "Senior Partner Marketing Manager",
       "department": "Marketing",
       "location": "New York, New York",
@@ -3815,26 +3787,10 @@
       "company_website": "https://www.justworks.com"
     },
     {
-      "title": "Senior Product Marketing Manager",
-      "department": "Marketing",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8334069?gh_jid=8334069",
-      "company": "JustWorks",
-      "company_website": "https://www.justworks.com"
-    },
-    {
       "title": "Senior Product Marketing Manager, Growth",
       "department": "Marketing",
       "location": "New York, New York",
       "url": "https://boards.greenhouse.io/justworks/jobs/8264370?gh_jid=8264370",
-      "company": "JustWorks",
-      "company_website": "https://www.justworks.com"
-    },
-    {
-      "title": "Senior Product Marketing Manager, Monetization Go-to-Market",
-      "department": "Marketing",
-      "location": "New York, New York",
-      "url": "https://boards.greenhouse.io/justworks/jobs/8393792?gh_jid=8393792",
       "company": "JustWorks",
       "company_website": "https://www.justworks.com"
     },
@@ -4491,14 +4447,6 @@
       "department": "Customer Experience",
       "location": "Remote - Colombia",
       "url": "https://jobs.ashbyhq.com/owner/a631a8ac-1dae-4551-acd1-4de48681a27d",
-      "company": "Owner",
-      "company_website": "https://www.owner.com"
-    },
-    {
-      "title": "Senior Manager of Customer Success (Enterprise)",
-      "department": "Customer Experience",
-      "location": "Remote - United States",
-      "url": "https://jobs.ashbyhq.com/owner/29efc81c-acaa-437b-8d7f-f2038272085d",
       "company": "Owner",
       "company_website": "https://www.owner.com"
     },
@@ -5191,7 +5139,7 @@
       "company_website": "https://www.usestable.com"
     },
     {
-      "title": "General ManagerStore ManagementFremont, CA$103k\u2013$126k/yrFull-time2 days ago",
+      "title": "General ManagerStore ManagementFremont, CA$103k\u2013$126k/yrFull-time3 days ago",
       "department": "General",
       "location": "Not specified",
       "url": "https://careers.stressfree.com/general-manager-28",
@@ -5199,7 +5147,7 @@
       "company_website": "https://www.stressfree.com"
     },
     {
-      "title": "District ManagerStore ManagementSan Diego, CA$130k\u2013$200k/yrFull-timeabout 1 month ago",
+      "title": "District ManagerStore ManagementSan Diego, CA$130k\u2013$200k/yrFull-timeabout 2 months ago",
       "department": "General",
       "location": "Not specified",
       "url": "https://careers.stressfree.com/ca2-district-manager",
@@ -5459,14 +5407,6 @@
       "department": "Managed",
       "location": "Remote - United States",
       "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/10672e3c-cd48-4ea7-902b-423930d3746d",
-      "company": "Superhuman",
-      "company_website": "https://superhuman.com"
-    },
-    {
-      "title": "Legal Analyst",
-      "department": "G&A",
-      "location": "Hub - San Francisco",
-      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/678b3728-102e-4544-8c7c-8feff38373a4",
       "company": "Superhuman",
       "company_website": "https://superhuman.com"
     },
