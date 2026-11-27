@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T18:24:26.205972+00:00",
+  "generated_at": "2026-11-27T18:07:49.573955+00:00",
   "total_jobs": 788,
   "total_companies": 90,
   "companies_with_jobs": 52,
@@ -62,6 +62,10 @@
     },
     {
       "name": "Prox",
+      "reason": "no jobs page found"
+    },
+    {
+      "name": "Sibli",
       "reason": "no jobs page found"
     },
     {
@@ -1379,6 +1383,14 @@
       "company_website": "https://www.faire.com"
     },
     {
+      "title": "Product Engineer - Ads Bidding",
+      "department": "Engineering",
+      "location": "Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8963694002?gh_jid=8963694002",
+      "company": "Faire",
+      "company_website": "https://www.faire.com"
+    },
+    {
       "title": "Product Marketing Lead (Contract)",
       "department": "Marketing",
       "location": "San Francisco, CA",
@@ -1477,8 +1489,8 @@
     {
       "title": "Senior Applied ML/AI Scientist - Search",
       "department": "Algorithms & Data",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8618151002?gh_jid=8618151002",
+      "location": "New York City, NY; San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8660923002?gh_jid=8660923002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1493,8 +1505,8 @@
     {
       "title": "Senior Applied ML/AI Scientist - Search",
       "department": "Algorithms & Data",
-      "location": "New York City, NY; San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8660923002?gh_jid=8660923002",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8618151002?gh_jid=8618151002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -1571,6 +1583,14 @@
       "company_website": "https://www.faire.com"
     },
     {
+      "title": "Senior Product Engineer - Brand",
+      "department": "Engineering",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8959279002?gh_jid=8959279002",
+      "company": "Faire",
+      "company_website": "https://www.faire.com"
+    },
+    {
       "title": "Senior Product Marketing Manager",
       "department": "Marketing",
       "location": "New York City, NY",
@@ -1589,16 +1609,16 @@
     {
       "title": "Senior Software Engineer - Product Security",
       "department": "Engineering",
-      "location": "Toronto, ON",
-      "url": "https://boards.greenhouse.io/faire/jobs/8899843002?gh_jid=8899843002",
+      "location": "San Francisco, CA",
+      "url": "https://boards.greenhouse.io/faire/jobs/8959089002?gh_jid=8959089002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
     {
       "title": "Senior Software Engineer - Product Security",
       "department": "Engineering",
-      "location": "San Francisco, CA",
-      "url": "https://boards.greenhouse.io/faire/jobs/8959089002?gh_jid=8959089002",
+      "location": "Toronto, ON",
+      "url": "https://boards.greenhouse.io/faire/jobs/8899843002?gh_jid=8899843002",
       "company": "Faire",
       "company_website": "https://www.faire.com"
     },
@@ -5091,14 +5111,6 @@
       "company_website": "https://www.usestable.com"
     },
     {
-      "title": "Content Marketing Manager",
-      "department": "Marketing",
-      "location": "New York City",
-      "url": "https://jobs.ashbyhq.com/stable/3ba913d8-4133-4b33-a2cd-015808bb4a87",
-      "company": "Stable",
-      "company_website": "https://www.usestable.com"
-    },
-    {
       "title": "Processing Center Specialist",
       "department": "Mail Operations",
       "location": "Dallas",
@@ -5139,7 +5151,7 @@
       "company_website": "https://www.usestable.com"
     },
     {
-      "title": "General ManagerStore ManagementFremont, CA$103k\u2013$126k/yrFull-time3 days ago",
+      "title": "General ManagerStore ManagementFremont, CA$103k\u2013$126k/yrFull-time4 days ago",
       "department": "General",
       "location": "Not specified",
       "url": "https://careers.stressfree.com/general-manager-28",
@@ -5167,14 +5179,6 @@
       "department": "Engineering, Product, Design, and Marketing",
       "location": "Hub - San Francisco",
       "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/dec2b506-c50f-40bd-aa36-f2d1ad8b8e4a",
-      "company": "Superhuman",
-      "company_website": "https://superhuman.com"
-    },
-    {
-      "title": "Machine Learning Engineer",
-      "department": "Engineering, Product, Design, and Marketing",
-      "location": "Hub - Porto",
-      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/1779ef05-5a7a-4067-bd64-cbc6ab3e6b82",
       "company": "Superhuman",
       "company_website": "https://superhuman.com"
     },
